@@ -1,0 +1,28 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 86-483"
+decided: "1987-04-29"
+citations: ["21 Ark. App. 50", "728 S.W.2d 203"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft and Jennings, JJ., agree."]
+parties: ["Almeta M. SAVAGE v. Teresa McCAIN"]
+source_url: "https://static.case.law/ark-app/21/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137151
+cites_cases: ["1 Ark. App. 75", "12 Ark. App. 38"]
+---
+
+# Savage v. McCain
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+This case presents a question concerning the relative rights of the two survivors to a checking account and a certificate of deposit held in the names of three persons as joint tenants with rights of survivorship. Leo Savage died on July 22,1985, survived by the appellant, his wife for eight years prior to his death, and also survived by the appellee, his daughter by a previous marriage. At the time of his death, he had a checking account and a certificate of deposit with combined balances of $19,776.73. The day after Leo Savage’s death, the appellant closed out the checking account and transferred the money to an account in her name only. Approximately one month later, the appellant cashed in the certificate of deposit and likewise deposited the funds in her separate account. The appellee brought this action against the appellant alleging a constructive trust and seeking to recover a portion of those funds. From the chancellor’s order directing the appellant to pay to the appellee a sum equal to one-half of the funds in the checking account and certificate of deposit as of the date of Leo Savage’s death, the appellant brings this appeal. For the reasons set out below, we affirm the chancellor’s decree.
+The appellee testified that her father had included her name on a joint account for several years in the past because her father wanted her to have access to the funds if she needed them. She stated that, once her father married the appellant and moved to Fort Smith, he and the appellant opened the joint accounts in question, and after they had signed the signature cards for the accounts, the deceased took the signature cards to the appellee for her signature as well. She testified that her father would have wanted her to have half of the money in both of the accounts even though she made no contributions to either the checking account or the certificate of deposit. However, the appellee also admitted that the appellant, as a surviving joint tenant, had the complete right to withdraw all of the funds after Leo Savage’s death. The appellant testified that the appellee’s name was on the joint account for “emergency purposes only” and that the funds deposited in the checking account and the certificate of deposit were contributed solely by the appellant and the deceased. We find it important to note that the appellant admitted that she withdrew the funds after the appellee made demand upon her for one-half of the amounts. The appellant testified that she knew that any one of the three on the signature card could withdraw all of the money at any time and stated she believed the decedent intended for her to have such funds. Neither the appellant nor the appellee testified as to any agreement they had with respect to the accounts in question, and the appellant stated that she and the appellee had never discussed the accounts until after Leo Savage’s death.
+The parties do not dispute that, pursuant to Ark. Stat. Ann. sections 67-552 (Supp. 1985) and 67-1838 (Repl. 1980), the accounts in question were held by the decedent, the appellant, and the appellee as joint tenants with right of survivorship, and that, upon the decedent’s death, the two survivors continued as joint tenants, and either could withdraw all of the funds in question. However, these statutes and the cases interpreting them concern the obligation of the financial institution in dealing with such funds. Although the bank or savings and loan may rightfully pay all the funds to either of the two survivors, it does not necessarily follow that either survivor may withdraw such funds without accounting to the other survivor for such action. Here, the chancellor found that a peculiar relationship of mutual trust and confidence existed between the surviving co-tenants, and that the appellee was intended to have a beneficial interest in these accounts. In holding that the appellant was liable to the appellee for half of the account balances, the chancellor further found that the appellant had over-reached the appellee and, accordingly, imposed a constructive trust upon the funds in question.
+Constructive trusts arise and are imposed in favor of persons entitled to a beneficial interest against one who secures legal title either by an intentional false oral promise to hold title for a specified purpose and, having thus obtained title, claims the property as his or her own, or one who violates a confidential or fiduciary duty, or is guilty of any other unconscionable conduct which amounts to constructive fraud. Horton v. Koner, 12 Ark. App. 38, 671 S.W.2d 235 (1984). In Andres v. Andres, 1 Ark. App. 75, 613 S.W.2d 404 (1981), this court held that there must be a confidential duty or fiduciary relationship to establish a constructive trust.
+Based upon our review of the record, we cannot say that the chancellor’s finding of a confidential relationship was clearly erroneous. Andres, supra; ARCP Rule 52(a). We therefore affirm his imposition of a constructive trust.
+Affirmed.
+Cracraft and Jennings, JJ., agree.
