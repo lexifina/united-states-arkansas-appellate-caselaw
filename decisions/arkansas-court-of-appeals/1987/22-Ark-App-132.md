@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 87-101"
+decided: "1987-09-23"
+citations: ["22 Ark. App. 132", "736 S.W.2d 21"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbin, C.J., and Cooper, J., agree."]
+parties: ["PREWAY, INC., et al. v. Paulette DAVIS"]
+source_url: "https://static.case.law/ark-app/22/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6659922
+cites_cases: ["11 Ark. App. 219"]
+---
+
+# Preway, Inc. v. Davis
+
+## Majority (Beth Gladden Coulson, Judge.)
+
+Beth Gladden Coulson, Judge.
+In this appeal from a decision of the Workers’ Compensation Commission, appellant raises two points for reversal. We find neither persuasive, and we accordingly affirm the Commission’s order granting appellee benefits.
+In July, 1984, while employed by appellant Preway, Inc., appellee, Paulette Davis, suffered a compensable back injury. She underwent surgery and, in August, 1985, was rated at fifteen percent permanent partial disability. Appellee was advised to return for medical treatment as needed. According to the record, she sought permission from appellant Travelers Insurance Company to see a physician in her home town of Paragould, Arkansas, for treatment of back pain and was advised instead to return to her treating physician in Memphis, Tennessee. Although the office of the doctor in Memphis maintained a satellite clinic in Jonesboro, Arkansas, the earliest appointment with the group that appellee could obtain was at the Memphis office.
+Appellee stated that she left her house shortly before 8:00 a.m. on October 11,1985, for her 1:00 p.m. appointment with the physician in Memphis. She intended to drop off her son at his grandmother’s house, which was on the road to Memphis. At 7:50 a.m., a tie rod on her car broke, causing the vehicle to wreck. Appellee suffered a broken ankle. At a hearing before an administrative law judge, appellant insurance company contended that appellee was not on a direct route to the doctor’s office at the time of the accident and that the injury to her ankle was not within the scope and course of employment and constituted an independent intervening cause. Appellee argued that her injury arose out of the scope and course of her employment. The law judge awarded benefits, holding that the injury to the ankle was compensable. The award was affirmed by the Workers’ Compensation Commission. From that decision, this appeal arises.
+In their first point for reversal, appellants argue that the Commission erred in finding that appellee was in the course and scope of her employment when she was injured in an automobile accident while en route to a doctor for treatment of a prior compensable injury. The terms in which appellants have framed their argument do not quite fit the circumstances at hand. There are no Arkansas cases directly on point regarding this issue. It is noted in 1 Larson, Workmen’s Compensation Law, § 13.13 (1985), that
+when an employee suffers additional injuries because of an accident in the course of a journey to a doctor’s office occasioned by a compensable injury, the additional injuries are generally held compensable, although there is some contra authority.. . . But... a fall or automobile accident during a trip to a doctor’s office has usually been considered sufficiently causally related to the employment by the mere fact that a work-connected injury was the cause of the journey, without any necessity for showing that the first injury in some way contributed to the fall or accident.
+It appears that the majority of jurisdictions award compensation in situations similar to the present case.
+Appellants rely, in part, on Guidry v. J&R Eads Construction Co., 11 Ark. App. 219, 669 S.W.2d 483 (1984), for the proposition that appellee’s second injury resulted from an independent intervening cause — the automobile accident. Guidry involved a claimant who sustained injuries in a collision that occurred about six months after the date of his compensable injury. The distinction, as pointed out by appellee, between that case and hers is clear. In Guidry, no evidence was presented to indicate that the automobile accident that occurred was in any way connected to the claimant’s employment or to his seeking medical treatment for his prior injury. In the instant case, appellee was acting at the explicit direction of appellant insurance company in obtaining medical treatment for the compensa-ble injury.
+In his treatise, Larson has developed the concept of “quasi-course of employment” as an analytical tool in dealing with cases such as the present one:
+By this expression [quasi-course of employment] is meant activities undertaken by the employee following upon his injury which although they take place outside the time and space limits of time employment, and would not be considered employment activities for the usual purposes, are nevertheless related to the employment in the sense that they are necessary or reasonable activities that would not have been undertaken but for the compensable injury. Quasi-course activities in this sense would include, for example, making a trip to the doctor’s office. . .
+When the injury following the initial compensable injury arises out of a quasi-course activity, such as a trip to the doctor’s office, the chain of causation should not be deemed broken by mere negligence in the performance of that activity, but only by intentional conduct which may be regarded as expressly or impliedly prohibited by the employer.
+1 Larson, § 13.11(d). Under these principles, appellee could be said to have been acting reasonably. She was engaged in activities rendered necessary by her compensable injury. Appellant’s attempt to suggest that appellee was acting negligently in driving a car with a faulty tie rod, an assertion that under Larson’s rule is immaterial. We cannot say that appellee was in violation of an express or implied prohibition of her employer when she made it her purpose to deliver her child at his grandmother’s house on the way to Memphis. Such an arrangement is hardly to be considered unreasonable.
+Appellants erroneously attempt to invoke the going and coming rule. That mode of analysis is irrelevant for the purposes of this case, where appellee was not traveling to and from her place of employment, but instead to a doctor’s office to be treated for a prior compensable injury. We believe that the Commission did not err in finding that appellee was injured within the scope and course of her employment.
+In their second argument, appellants contend that the Commission erred in holding them responsible for any injuries to appellee’s ankle following her fall in a bathtub after the automobile accident. The operative reports of the surgeon, however, indicate that the first surgery was required as a result of the car wreck, and the second surgery, performed after the bathtub fall, was needed to remove plates which had been inserted in the earlier operation. This question was simply one of fact for the Commission to decide. We cannot say, on the basis of the record, that the Commission decided wrongly.
+Affirmed.
+Corbin, C.J., and Cooper, J., agree.
