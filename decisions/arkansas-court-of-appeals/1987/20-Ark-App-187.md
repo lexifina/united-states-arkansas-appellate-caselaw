@@ -1,0 +1,28 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 86-179"
+decided: "1987-03-25"
+citations: ["20 Ark. App. 187", "726 S.W.2d 296"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE COLSON COMPANY v. Carolyn M. FIELDS"]
+source_url: "https://static.case.law/ark-app/20/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6649584
+cites_cases: ["11 Ark. App. 161", "233 Ark. 328", "9 Ark. App. 156"]
+---
+
+# Colson Co. v. Fields
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+This is an appeal from a decision of the Arkansas Workers’ Compensation Commission. The appellee sustained an on-the-job injury in June of 1973. Her medical bills were paid and she received weekly benefits until the end of August 1983. After a hearing in November 1983, the appellee was found to be permanently and totally disabled. That decision was not appealed and there is no controversy about the payment of that award.
+In June of 1984, the appellee requested that she be furnished daily nursing care and a hearing on that request was held on August 8,1984. On July 8,1985, almost a year after the hearing, the administrative law judge filed an opinion finding that the appellee was entitled to home nursing services for eight hours per day, seven days per week. The opinion directed that these services be furnished at the hourly rate of $3.35 and provided that they could be performed by the appellee’s husband.
+No appeal was taken from the award granted in the opinion filed on July 8, 1985, but on September 12, 1985, an amended opinion was filed by the law judge and the appellant did file a notice of appeal from that action. The amended opinion stated that “the opinion filed July 8th, 1985, is hereby modified to include said nursing services beginning on August 8th, 1984, and continuing through a date yet to be determined.” The full Commission affirmed and adopted the decision of the administrative law judge “filed September 12, 1985.”
+On appeal to this court the appellant first argues that “there is no substantial evidence to support an award of nursing benefits eight hours a day, seven days a week.” While the appellee meets that argument on the merits, she first argues that the point is not properly before us since there was no appeal from the opinion filed July 8, 1985, and it therefore became a final order. The appellant’s only response to this contention is that it was not deemed necessary to appeal the July 8 order since it made a “prospective” award of nursing benefits and the need for those services could have been re-evaluated in a couple of months, but the amended opinion encompassed more than a year of benefits for which the appellant was made liable without any opportunity for additional inquiry. Thus, the appellant says, the merits of the need for the nursing services should be open for review in this appeal.
+Ark. Stat. Ann. § 81-1325(a) (Supp. 1985) provides that an order or award of an administrative law judge becomes final unless a petition for review by the full Commission is filed within 30 days from the receipt of the order or award. There is no contention in this case that the appellant ever filed a petition for a review of the opinion filed by the law judge on July 8,1985. Thus, that opinion became a final order or award and the “amended opinion” filed on September 12,1985, could not amend the July 8, 1985, opinion for at least three reasons.
+First, the law judge did not have the authority to reopen or modify the July decision after the 30 days to appeal that decision had expired. Morrison v. Tyson Foods, Inc., 11 Ark. App. 161, 668 S.W.2d 47 (1984). Second, although the September 1985 opinion stated it was the law judge’s intention that the July 1985 opinion “should be retroactive effective August 8th, 1984,” a nunc pro tunc order may not be used to accomplish something that should have been done but was not done. Fitzjarrald v. Fitzjarrald, 233 Ark. 328, 344 S.W.2d 584 (1961); Harrison v. Bradford, 9 Ark. App. 156, 655 S.W.2d 466 (1983). Third, the award of nursing benefits made in the July 8, 1985, order was based upon the conditions that existed at the time of the hearing on August 8, 1984. Surely the appellant would not be required to furnish nursing services if conditions should change so that the services needed on August 8,1984, are no longer needed. To hold that the “amended opinion” necessarily requires the payment for nursing services for the period from the date of the hearing on August 8, 1984, to the issuance of the “amended opinion” on September 12, 1985, would obviously foreclose the appellant’s right to show that conditions had changed so that the nursing services were no longer needed during some or all of that period.
+We, therefore, hold that the “amended opinion” of September 12,1985, did not change the opinion filed on July 8, 1985, since the July opinion was a final opinion. The July opinion requires the appellant to furnish the nursing services set out for as long as those services are reasonably necessary; however, the appellant has the right to show that those services are no longer reasonably necessary or that they have not been reasonably necessary during some or all of the period since the hearing on August 8,1984. The Commission erred in affirming and adopting the opinion filed by the law judge on September 12, 1985. That decision is reversed and this matter is remanded for any necessary action not inconsistent with this opinion.
+Reversed and remanded.
