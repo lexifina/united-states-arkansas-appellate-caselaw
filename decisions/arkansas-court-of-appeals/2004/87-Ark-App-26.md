@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 03-632"
+decided: "2004-06-16"
+citations: ["87 Ark. App. 26", "184 S.W.3d 489"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stroud, C.J., and Griffen, J., agree."]
+parties: ["Patricia THOMAS and Charles Edward Thomas v. Ruston PIERCE, M.D."]
+source_url: "https://static.case.law/ark-app/87/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136286
+cites_cases: ["284 Ark. 527", "307 Ark. 84", "315 Ark. 85", "322 Ark. 701", "323 Ark. 769", "54 Ark. App. 262", "Ark. Code Ann. § 16-114-206"]
+---
+
+# Thomas v. Pierce
+
+## Majority (John Mauzy Pittman, Judge.)
+
+John Mauzy Pittman, Judge.
+The appellants in this medical-malpractice case filed a complaint alleging that they had been injured as a result of medical malpractice by the appellee, and seeking damages in the amount of $2,150,000.00. In his answer, appellee requested that the case be dismissed, asserting that appellants’ claim for a specific amount of damages was in contravention of the Arkansas Medical Malpractice Act, and that appellants’ complaint failed to state facts upon which relief can be granted. Appellants amended their complaint to remove the reference to a specific amount of damages. Appellee responded by filing an amended answer in which he again moved for dismissal on the same grounds asserted in his initial answer. The trial court granted appellee’s motion to dismiss, and this appeal followed.
+Appellants contend on appeal that the trial court erred in granting appellee’s motion to dismiss. We agree, and we reverse and remand.
+First, we note that appellants did amend their complaint to remove their claim for a specific amount of damages prior to appellee’s second motion to dismiss and the trial court’s order of dismissal; consequently, we discount this ground as a basis for the trial court’s ruling. Refusal to permit the amendment under these circumstances would be an abuse of discretion. Travis v. Houk, 307 Ark. 84, 817 S.W.2d 207 (1991).
+In determining whether to dismiss a complaint under Rule 12(b)(6), it is improper for the-trial court to look beyond the complaint to decide the motion to dismiss. In order to properly dismiss the complaint, the trial court must find that the complaining parties either (1) failed to state general facts upon which relief could have been granted or (2) failed to include specific facts pertaining to one or more of the elements of one of its claims after accepting all facts contained in the complaint as true and in the light most favorable to the nonmoving party. Bethel Baptist Church v. Church Mutual Insurance Co., 54 Ark. App. 262, 924 S.W.2d 494 (1996).
+A pleading must contain, inter alia, a statement of facts, in ordinary and concise language, showing that the pleader is entitled to relief. Ark. R. Civ. P. 8(a). A pleading is deficient if it fails to set forth facts pertaining to an essential element of the cause of action. Wiseman v. Batchelor, 315 Ark. 85, 864 S.W.2d 248 (1993). Arkansas is a state that requires fact pleading, and a pleading which sets forth mere conclusions is not sufficient under the Arkansas Rules of Civil Procedure. Mann v. Orrell, 322 Ark. 701, 706, 912 S.W.2d 1 (1995). Nevertheless, pleadings are to be liberally construed and are sufficient if they advise a party of its obligations and allege a breach of them. Bethel Baptist Church v. Church Mutual Insurance Co., supra.
+Pursuant to Ark. Code Ann. § 16-114-206 (1987), the elements to be proven in any action for medical injury are the applicable standard of care; that the medical provider failed to act in accordance with that standard; and that such failure was a proximate cause of the plaintiffs injuries. National Bank of Commerce v. Quirk, 323 Ark. 769, 918 S.W.2d 138 (1996). The standard of care applicable to a medical malpractice case is defined by statute as “the degree of skill and learning ordinarily possessed and used by members of the profession of the medical care provider in good standing, engaged in the same type of practice or specialty in the locality in which he practices or in a similar locality.” Ark. Code Ann. § 16-114-206(a)(l) (1987).
+In their complaint, appellants asserted that there was an existing standard of care, as defined by statute, in the community; that the care and treatment received failed to meet that standard by failing to timely schedule and perform a caesarean section; and that this failure was the proximate cause of neurological damage to the child.
+The appellees argue that this complaint set forth mere conclusions and was therefore properly dismissed. We do not agree. To the contrary, the appellants’ complaint contained a detailed recitation of the facts alleged to constitute negligence and proximate cause, including the facts that appellant was a very small woman; that the baby was very large and in a breech position; that appellant requested a caesarean section throughout; that, despite his knowledge of these facts, the defendant required her, after achieving maximum dilation, to go through over four hours of hard labor before performing a caesarean section; that defendant’s failure to timely schedule and perform a caesarean section was a breach of the applicable standard of care that constituted negligence; and that, as a result of defendant’s failure to timely schedule and perform a caesarean section, there ensued a long and difficult labor that caused the child to suffer neurological damage and the mother to suffer injury to her bladder and associated nerves.
+There is no question that appellants’ complaint did not recite, as mere conclusions of law, that the treatment rendered by appellee was negligent and that appellants were injured as a result. Compare Rabalaias v. Barnett, 284 Ark. 527, 683 S.W.2d 919 (1985). Instead, the complaint clearly and concisely relates certain events alleged to have happened at a particular time that would support such conclusions. Whether appellants can prove these alleged facts depends upon the evidence that they marshal at trial, but appellants have in their complaint alleged facts sufficiently specific to enable the reader to picture particular events, and the results thereof, in sufficient detail to state a cause of action for medical malpractice.
+Reversed and remanded.
+Stroud, C.J., and Griffen, J., agree.
