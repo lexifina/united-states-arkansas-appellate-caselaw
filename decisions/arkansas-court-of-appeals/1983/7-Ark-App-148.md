@@ -1,0 +1,28 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 82-367"
+decided: "1983-01-26"
+citations: ["7 Ark. App. 148", "644 S.W.2d 637"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Resa Joan CLIMER, Incompetent Dependent of Joe A. CLIMER, Deceased Employee v. DRAKE’S BACKHOE, Employer; TRANSAMERICA INSURANCE COMPANY, Insurance Carrier"]
+source_url: "https://static.case.law/ark-app/7/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138823
+cites_cases: ["243 Ark. 460", "260 Ark. 699", "271 Ark. 740"]
+---
+
+# Climer v. Drake's Backhoe
+
+## Majority (Lawson Cloninger, Judge.)
+
+Lawson Cloninger, Judge.
+On this workers’ compensation appeal, the claimant’s sole point for reversal is that the Arkansas Workers’ Compensation Commission erred in not allowing a controverted attorney’s fee. We believe the Commission was correct and we affirm.
+Claimant, appellant Resa Joan Climer, is the incompetent dependent of Joe A. Climer, deceased employee of appellee, Drake’s Backhoe. After Mr. Climer’s death on April 12,1978, appellee, Transamerica Insurance Company, commenced payments at the rate of 50% of the average weekly wage of Mr. Climer, 35% being paid for appellant’s mother and 15% for appellant as a dependent child. Appellant’s mother died on May 3, 1981, at which time payments were discontinued. A hearing was held on April 16, 1982 on appellant’s petition for a lump sum award. At that hearing appellant contended that she was entitled to benefits of 50% as an only child under the provisions of Ark. Stat, Ann. § 81-1315 (d) (Repl. 1976). Appellee carrier contended that appellant was entitled only to a continuation of the benefits she had received, i.e., 15%. The Administrative Law Judge found that it would not be in the best interest of appellant to receive a lump sum award. After the hearing appellee carrier conceded that appellant was entitled to benefits of 50%.
+The Law Judge denied appellant’s petition for a lump sum award and found that the case had not been controverted. The Law Judge specifically found that appellee carrier was j ustified in not paying any benefits, whether they be 15% or 50%, because a guardian was not appointed to receive payments upon the death of appellant’s mother. The full Commission affirmed and adopted the decision of the Law Judge.
+The record reveals that prior to July 1, 1980, appellant’s attorney was notified that appellee carrier intended to terminate appellant’s benefits because appellant was over 18 years of age. The carrier was notified that although appellant was of age, she was disabled and remained dependent upon her mother. Thereafter, over a period of months, appellee carrier requested medical reports verifying appellant’s disability, but no reports were furnished. Eventually a psychological evaluation was furnished, but appellee carrier objected to it because it was five years old. The carrier offered to bear the expense of an up-to-date evaluation, but the offer was not accepted. An evaluation dated April 25, 1978 was submitted to the Commission and appellee carrier on July 22, 1981s, and that report indicated that appellant had some work potential. No more recent evaluation was presented until after the case was set for hearing. On July 20, 1981 the Law Judge wrote appellant’s attorney suggesting that a guardian be appointed for appellant. A guardian was not appointed until the day of the hearing, April 16, 1982.
+Appellant is not entitled to a controverted attorney’s fee in this case as a matter of law, as she contends. The question of whether a claim is controverted is one of fact to be determined from the circumstances of the particular case. Aluminum Company of America v. Henning, 260 Ark. 699, 543 S.W.2d 480 (1976). Decisions of the Workers’ Compensation Commission must stand if supported by substantial evidence, and in determining sufficiency of evidence to sustain the finding of the Commission testimony must be weighed in its strongest light in favor of the Commission’s finding. Pike County Poultry Company v. Kelley, 243 Ark. 460, 420 S.W.2d 523 (1967).
+There is substantial evidence in the record to support the decision of the Commission. There was evidence from which the Commission could find that appellee carrier acted in a prudent manner and that the litigation was made necessary by claimant’s failure to provide a current medical evaluation and failure to appoint a guardian to receive any benefits paid. In Hamrick v. The Colson Company, 271 Ark. 740, 610 S.W.2d 281 (Ark. App. 1981), the court held “... it is well settled that the mere failure of an employer to pay compensation benefits does not amount to controversion, especially in instances where the carrier accepts the injury as compensable and is attempting to determine the extent of disability.” The court in Hamrick held that the carrier had acted in good faith, and stated that it was difficult to understand what more the carrier could have done.
+In the case now before this court, appellee carrier requested a current evaluation on several occasions, but none was forthcoming until the hearing was set. Also, even after the Law Judge suggested the appointment of a guardian on July 20,1981, none was appointed until the day of the hearing. We believe the Commission would be justified in finding that appellee carrier would have been imprudent if it paid any benefits until appellant’s condition was medically documented and a guardian was appointed.
+The decision of the Commission is affirmed.
