@@ -1,0 +1,35 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 90-15"
+decided: "1990-09-12"
+citations: ["32 Ark. App. 15", "794 S.W.2d 626"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Jennings, JJ., agree."]
+parties: ["SAFEWAY STORES v. Sarah McGOUGH and Death and Permanent Total Disability Trust Fund"]
+source_url: "https://static.case.law/ark-app/32/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6643756
+cites_cases: ["18 Ark. App. 54", "21 Ark. App. 223", "271 Ark. 385", "291 Ark. 624"]
+---
+
+# Safeway Stores v. McGough
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+Safeway Stores, Inc., has appealed a decision of the Workers’ Compensation Commission which held that the payments for “current total disability” made to the claimant cannot be credited against the $50,000.00 maximum it must pay in permanent total disability benefits before the liability for those benefits becomes the responsibility of the Death and Permanent Total Disability Trust Fund pursuant to Ark. Code Ann. § ll-9-502(b)(l) and (b)(2)(1987) [formerly Ark. Stat. Ann. § 81-1310(c)(2)(Repl. 1976)]. The version of that section in effect at the time of the claimant’s injury provided:
+(2) The first Fifty Thousand Dollars ($50,000) of weekly benefits for death or permanent total disability shall be paid by the employer or his insurance carrier in the manner provided in this Act [§§ 81-1301 — 81-1349]. An employee or dependent of an employee who receives a total of Fifty Thousand Dollars ($50,000) in weekly benefits shall be eligible to continue to draw benefits at the rates prescribed in this Act but all such benefits in excess of Fifty Thousand Dollars ($50,000) shall be payable from the Death and Permanent Total Disability Bank Fund.
+Ark. Stat. Ann. § 81-1310(c)(2)(Repl. 1976).
+The record shows that an order filed March 3,1983, stated that the parties had appeared before the administrative law judge and stipulated that the claimant, Sarah McGough, had sustained a compensable injury on December 2, 1978, while working for Safeway Stores; that she remained currently, totally disabled since her accidental injury; that the law judge found the stipulation to be reasonable; and that the law judge’s order of March 3, 1983, directed the employer to pay claimant current, total disability benefits from December 2,1978, until such time as she was no longer currently, totally disabled.
+On April 13,1987, the Arkansas Supreme Court, in Arkansas Secretary of State v. Guffey, 291 Ark. 624, 727 S.W.2d 826 (1987), held that the Arkansas Workers’ Compensation Act “does not authorize award of current total or limited total disability benefits after the end of the healing period.” 291 Ark. at 628, 727 S.W.2d at 828.
+On May 4, 1988, a hearing was held by an administrative law judge, and the parties stipulated that the claimant’s healing period had ended on October 5, 1981, and that she was permanently and totally disabled as a result of the injury sustained December 2, 1978. The employer contended that all payments made to the claimant after October 5, 1981, which had been previously characterized as “current total disability benefits,” should be counted as credit toward the $50,000.00 maximum liability. The Death and Permanent Total Disability Trust Fund contended that the employer (or its carrier) must first pay $50,000.00 in weekly benefits for permanent total disability before the Fund would become liable. However, the Fund conceded that the employer could take credit for weekly payments made after April 13, 1987, the date on which the Guffey decision was issued by the Arkansas Supreme Court. The law judge found disability in keeping with the stipulation of the parties and held that payments made before April 13,1987, could not be credited against the $50,000.00 maximum. The full Commission affirmed.
+On appeal to this court the appellant employer argues that because the Guffey opinion stated that “current total disability” benefits had never been authorized by the Arkansas Workers’ Compensation Act, all compensation paid after the healing period ended, although characterized as “current total disability,” was actually permanent total disability and should apply toward the statutory maximum.
+We rejected a similar argument in Basford v. Weyerhaeuser Co., 21 Ark. App. 223, 730 S.W.2d 916 (1987), where we stated:
+At least since 1980, the Arkansas Workers’ Compensation Commission and this court have recognized the Commission’s authority to make awards for current-total disability to be followed by periods of permanent-partial disability. See Sunbeam Corp. v. Bates, 271 Ark. 385, 609 S.W.2d 102 (Ark. App. 1980). The Court of Appeals reaffirmed this concept in Guffey v. Arkansas Secretary of State, 18 Ark. App. 54, 710 S.W.2d 836 (1986). However, on April 13, 1987, the supreme court reversed our decision in Guffey and all prior decisions on that issue, declaring that our law does not authorize or recognize current-total disability benefits after the end of the healing period. Arkansas Secretary of State v. Guffey, 291 Ark. 624, 727 S.W.2d 826 (1987).
+In 1983, when the Commission ordered current-total disability benefits in this case, both the Commission and this court recognized the validity of such orders. The order was not appealed from and it became final and its terms binding on all parties. In 1985, when that period of current-total disability was terminated, the Commission should have applied the rules then in effect and judicially sanctioned. We conclude that the Commission under its own order was without authority to retroactively remit payments made for current-total disability or direct that they be treated as payments toward a future award of permanent-total disability.
+21 Ark. App. at 225-26, 730 S.W.2d at 917.
+In its conclusion, the appellant in the instant case argues the concept of current, total disability “never existed” and “is a phantom” that “has now vanished.” However, on March 3, 1983, when the payments of “current” total disability were originally ordered in this case, the concept was judicially recognized and accepted. That order was based upon a stipulation that the claimant “remained currently, totally disabled,” and we believe the Commission correctly held that the payments of compensation characterized as current total disability by the law judge in March of 1983, and not appealed from by the employer, cannot now be recharacterized as permanent total disability in order to make the payments apply toward the $50,000.00 maximum at which the Death and Permanent Total Disability Trust Fund assumes liability. The Commission’s holding allowing credit for the payments since April 13,1987, conceded by the Fund, is the very earliest date from which the payments could be counted as permanent total disability under the record in this case.
+Affirmed.
+Cooper and Jennings, JJ., agree.
