@@ -1,0 +1,42 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 86-120"
+decided: "1987-03-11"
+citations: ["20 Ark. App. 149", "725 S.W.2d 581"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft and Jennings, JJ., agree."]
+parties: ["LINDSEY FAMILY TRUST, James E. LINDSEY, Trustee, and Giles A SEXTON, M.D. v. Billy J. CAUTHRON, Sebastian County Sheriff, and his surety, WESTERN SURETY COMPANY, a South Dakota Corporation"]
+source_url: "https://static.case.law/ark-app/20/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6648276
+cites_cases: ["11 U.S.C. § 362", "174 Ark. 715", "297 S.W.2d 817", "3 Ark. App. 139", "44 Ark. 174"]
+cites_law: ["united-states/federal/usc/title-11/362.md"]
+---
+
+# Lindsey Family Trust v. Cauthron
+
+## Majority (Donald L. Corbin, Chief Judge.)
+
+Donald L. Corbin, Chief Judge.
+This case comes to us from the Circuit Court of Sebastian County. Appellants, the Lindsey family trust, James E. Lindsey, Trustee, and Giles A. Sexton, M.D., appeal the trial court’s grant of a motion for summary judgment. We reverse and remand.
+This appeal raises the question of whether a motion for summary judgment was improperly granted on the basis of the Automatic Stay provision of the United States Bankruptcy Code, 11 U.S.C. § 362(a)(2) (1986). Appellees, Billy J. Cauthron, Sebastian County Sheriff, and his surety, Western Surety Company, argued below, and the trial court agreed, that the automatic stay provision relieves a sheriff from making the return of a writ of execution, issued and delivered to his office, once he has received notice that the judgment-debtor has filed his petition in bankruptcy.
+On May 10, 1984, appellants recovered judgment against Ken Morris, d/b/a Ken Print, in the Circuit Court of Sebastian County, for the total sum of $9,964, bearing 10% interest per annum. This judgment was docketed and entered on May 10, 1984. On May 29, 1984, a writ of execution was issued by the Sebastian County Circuit Clerk against Ken Morris, which was duly delivered on that day to the Sebastian County Sheriff, directing him to execute and levy upon Morris’s personal property. The date for the return of the writ of execution by the sheriff was to be on or before July 28, 1984. On July 19, 1984, Ken Morris, d/b/a Ken Print, filed for bankruptcy. As of August 6, 1984, there was no record with the Sebastian County Circuit Clerk of the sheriff filing a return of the writ of execution issued against Morris.
+Upon learning of the sheriffs failure to file the return, appellants made formal demand upon the sheriff to make full payment of their judgment, as provided by Ark. Stat. Ann. § 29-208 (Repl. 1979), for the failure to file the return. The sheriff refused appellants’ demand and appellants then filed their complaint at law with the Sebastian County Circuit Court seeking recovery from the sheriff and his surety, Western Surety Company.
+Before the scheduled trial of the case, appellees filed a motion for summary judgment, which was heard on October 4, 1985. The trial court granted appellees’ motion and dismissed appellants’ complaint.
+Appellants argue two points for reversal on appeal: (1) The trial court erred when it improperly granted appellees’ motion for summary judgment as there existed a genuine issue of material fact for trial; and, (2) the automatic stay provision of the United States Bankruptcy Code does not relieve a sheriff from his duty of filing a return on a writ of execution within the time required by Arkansas law once the sheriff receives notice that a judgment-debtor has filed a petition in bankruptcy.
+The trial court made these specific findings: That the petition filed with the Bankruptcy Court by Kenneth Lee Morris, d/b/a Ken Print, operated as an automatic stay of all process and all pending actions against the debtor and the debtor’s assets, that the issuance and service of the writ of execution is an attempt by the creditors to seize assets of the debtor, and that such activity is automatically stayed since the assets and the debtor are under the exclusive jurisdiction of the Bankruptcy Court.
+The pertinent sections of 11 U.S.C. § 362 provide as follows:
+§ 362. Automatic stay
+Except as provided in subsection (b) of this section, a petition filed under section 301, 302, or 303 of this title, or an application filed under section 5(a)(3) of the Securities Investor Protection Act of 1970 (15 U.S.C. § 78eee(a)(3)), operates as a stay, applicable to all entities, of —
+(2) the enforcement, against the debtor or against property of the estate, of a judgment obtained before the commencement of the case under this title;
+(6) any act to collect, assess, or recover a claim against the debtor that arose before the commencement of the case under this title;
+Ark. Stat. Ann. § 30-431 (Repl. 1979) provides that all executions shall be returnable in sixty days from their date. Ark. Stat. Ann. § 29-208 provides that judgments shall be rendered for the plaintiffs against the sheriff where there was a failure to return an execution, in the amount of the judgment on which it was issued, including all the costs and 10% per centum thereon.
+Basically, appellants’ argument is that the return of the writ of execution must be completed by the sheriff’s office, notwithstanding the fact that no seizable property of the judgment debtor is located within the jurisdiction of the sheriff. Appellants cite Atkinson v. Heer & Co., 44 Ark. 174 (1884), which held that, in a proceeding by a judgment creditor against a sheriff and his securities for failure to return an execution, it is no defense that the debtor in the execution was insolvent and that the plaintiff was, therefore, not damaged, nor that the deputy sheriff indorsed a return upon the execution, and went to the clerk’s office to file it, but the clerk was absent and he was afterwards prevented by his official duties from returning to the clerk’s office. In Atkinson the judgment creditor was awarded the amount of the judgment.
+In 555, Inc. v. Barlow, 3 Ark. App. 139, 623 S.W.2d 843 (1981), this court quoted the language of the Arkansas Supreme Court in Smith v. Drake, 174 Ark. 715, 297 S.W.2d 817 (1927), which cited Atkinson and defined “return” in the following manner: A return on a writ of execution is the short official statement of the officer, indorsed thereon or attached thereto, of what he has done in obedience to the mandate of the writ or of the reason why he has done nothing.
+The sheriff admitted on the stand that the procedure in cases of this type is to file the return on the writ of execution, making a note that it is not collectable because the debtor has filed in bankruptcy court. The sheriff testified that the notation was made on this particular return and it was placed in a stack to go to the clerk’s office. However, the clerk’s office did not have a record of receiving the return within the sixty-day period allowed by the statute. We hold that the automatic stay provision of the bankruptcy code does not relieve the sheriff of the statutory duty to file a return within 60 days. The filing of the return is a ministerial act and it does not change the debtor’s position. To relieve the sheriff of the duty to file the return would create chaos in the clerk’s files. The statute requires a return be filed within 60 days, even where the return merely states that the sheriff did not act against the debtor because the debtor has filed in bankruptcy court. This requirement is essential to the efficient administration of justice.
+The Arkansas Supreme Court held in Smith v. Drake, 174 Ark. 715, 297 S.W.2d 817 (1927), that the return of execution consists of the two acts of writing out the statements on the writ or on an attached paper, and the filing. The mere writing out of the statement, the court held, is not sufficient without filing it, and vice versa, the mere filing of the writ with no statement is not a return. E.g., 555, Inc. v. Barlow, 3 Ark. App. 139, 623 S.W.2d 843 (1981).
+There is a genuine issue of fact to be determined in this case and the trial court’s action in granting the motion for summary judgment constitutes error. Therefore, we reverse the trial court’s decision and remand this case for further proceedings not inconsistent with this opinion.
+Reversed and remanded.
+Cracraft and Jennings, JJ., agree.
