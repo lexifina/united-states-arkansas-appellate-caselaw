@@ -1,0 +1,29 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "E 87-22"
+decided: "1987-11-18"
+citations: ["22 Ark. App. 281", "742 S.W.2d 118"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbin, C.J., and Cooper, J., agree."]
+parties: ["Mary MORTON v. DIRECTOR OF LABOR, and PLASTIC & RECONSTRUCTIVE SURGERY ASSOCIATES LIMITED"]
+source_url: "https://static.case.law/ark-app/22/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6663608
+cites_cases: ["1 Ark. App. 6", "263 Ark. 48", "270 Ark. 766"]
+---
+
+# Morton v. Director of Labor
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+This is an appeal from a decision of the Arkansas Board of Review holding that the appellant was not eligible for unemployment benefits because she had quit her last work without good cause connected with the work.
+In December of 1979, the appellant went to work for a group of plastic surgeons as a medical transcriptionist. In March of 1981, she was promoted to office manager. According to her testimony, her duties included interviewing and hiring applicants, receptionist, preparing payrolls, ordering supplies, accounts receivable, daily deposits, tax deposits, scheduling surgery and hospital rounds, correcting office problems, and the supervising and firing of employees. In November of 1983, the doctors hired a man as administrative office manager. Over the course of the next year, he assumed a large number of appellant’s responsibilities himself or assigned them to someone else. Appellant claims she was relegated to being a bookkeeper; that she no longer had any input into the hiring and firing of employees, or the granting of vacations or pregnancy leave; and that she no longer had any medical duties.
+The appellant testified that after the administrative office manager was employed there was job-responsibility confusion and after about eight months of attempting to resolve her work problems, she asked for a conference with the doctors. However, when the meeting began one of the doctors had to leave on personal business. Another meeting was to be scheduled but appellant resigned before the date and time for the next meeting was set.
+In support of her argument that she had good cause connected with the work for resigning, the appellant points to the fact that prior to her resignation a nurse was hired to handle the medical responsibilities of the office and after appellant’s resignation an executive secretary was hired who does not supervise other employees and is not involved in personnel matters. Appellant cites Ladish Company v. Breashears, 263 Ark. 48, 563 S.W.2d 419 (1978), as standing for the proposition that a change in work calling for less competence and lower remuneration is cause for work to become unsuitable and good cause for voluntarily quitting. Ark. Stat. Ann. § 81-1106(c)(1) (Repl. 1976), provides that in determining the existence of good cause for an employee to voluntarily leave work it is necessary to consider, among other factors, “the degree of risk involved to his health, safety and morals, his physical fitness and prior training, his experience and prior earnings,. . . .” And in Teel v. Daniels, 270 Ark. 766, 606 S.W.2d 151 (Ark. App. 1980), the court said good cause for quitting work involves good faith, the desire to work, and whether the employee took appropriate steps to remedy the situation causing the problem with the work. Both Ladish and Teel recognized that the issue presented was a question of fact. It is settled that the factual determinations of the Board of Review must be affirmed if supported by substantial evidence and that this means legal evidence that a reasonable mind might accept as adequate to support a conclusion. Victor Industries Corporation v. Daniels, 1 Ark. App. 6, 611 S.W.2d 794 (1981).
+In the instant case, the appellant’s pay did not decrease after the administrative office manager was employed. In fact, her pay increased from $ 15,000 to $ 17,000 after he was hired. Moreover, the appellant admitted that the doctors’ practice had grown to the point that additional help was needed to run the office. One of the doctors testified that he and the other doctors spoke with appellant and she thought help was needed and that she could work under someone else. This doctor also testified that before the administrative office manager was employed the appellant and the doctors ran the office. He said the doctors were involved in the financial aspects of the office and the hiring and firing of the employees, although the appellant interviewed applicants and had input into the hiring decision. However, the administrative office manager testified that he also made an effort to involve appellant in the hiring process and that she made suggestions in that regard. He also said he did not want her to leave and that he tried to work with her. It is admitted that appellant quit before the doctors had a second meeting to attempt to solve appellant’s problems.
+Although the appellant was relieved of some of her duties, there is no evidence that this precluded her from receiving future pay increases or reduced her job to one that was unsuitable for her training and experience. She is not a nurse and some of the duties she lost concerned medical matters and were given to an employee who was a nurse. Many of her duties were helping the doctors oversee the daily operation of the office, and it is clear that the administrative office manager was hired to take over that portion of the doctors’ work. In summary, we think there is substantial evidence from which the Board of Review could properly find that the appellant quit her job without good cause connected with the work.
+Affirmed.
+Corbin, C.J., and Cooper, J., agree.
