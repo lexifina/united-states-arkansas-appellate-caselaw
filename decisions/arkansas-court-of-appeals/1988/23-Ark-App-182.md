@@ -1,0 +1,49 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 87-298"
+decided: "1988-02-24"
+citations: ["23 Ark. App. 182", "745 S.W.2d 144"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Coulson, JJ., agree."]
+parties: ["George PULTS, et al. v. CITY OF SPRINGDALE"]
+source_url: "https://static.case.law/ark-app/23/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139544
+cites_cases: ["103 N.E.2d 199", "127 Vt. 324", "149 Ark. 448", "168 Conn. 122", "185 Okl. 365", "188 U.S. 646", "206 Ky. 42", "230 Ind. 404", "233 S.W. 694", "244 Ark. 377", "259 Ark. 807", "266 S.W. 907", "268 Ark. 970", "316 F. Supp. 827", "357 A.2d 910", "464 S.W.2d 770", "92 P.2d 364"]
+---
+
+# Pults v. City of Springdale
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+In 1965, the City of Springdale entered into a lease agreement with Airways Flying Service, Inc., in which the city agreed to lease to Airways an airplane hangar area of the city airport. The hangars were already built and Airways agreed to keep them in good repair during the term of the lease. The lease was for a one year period but gave Airways an option to renew “for successive terms of one year.” In 1970, Airways assigned its interest under the lease to George Pults, the appellant.
+In the early 1980’s, the city began planning for the expansion of the airport. Part of the plan was to use the portion of the property leased to Pults as a parking lot. In 1984, the city notified Pults that his lease would not be renewed, and Pults sued the city for breach of contract. The circuit court granted the city’s motion for summary judgment, ruling that the lease violated the rule against perpetuities, or, in the alternative, the lease should be construed to provide for only a single renewal.
+Although the lease does not violate the rule against perpetu-ities, the trial court correctly construed the lease contract to provide for only a single renewal, and we therefore affirm.
+It was proper for the circuit judge to decide this case by summary judgment because no material facts were in genuine dispute. A.R.C.P. Rule 56. Childs v. Berry, 268 Ark. 970, 597 S.W.2d 134 (Ark. App. 1980). The construction and legal effect of a written contract are to be determined by the court as a question of law, except where the meaning of the language depends on disputed extrinsic evidence. Arkansas Rock & Gravel Co. v. Chris-T-Emulsion Co., Inc., 259 Ark. 807, 536 S.W.2d 724 (1976).
+The lease agreement between the original parties provided:
+[T]he following described tract of land lying adjacent. . . to the Springdale Municipal Airport has been set aside for the erection of hangars for the housing and storage of planes by private individuals: [Legal description omitted.]
+For and in consideration of the sum of $16.00 and other good and valuable considerations, the receipt of which is hereby acknowledged, the Lessor agrees to lease and deliver possession to the Lessee, and the Lessee agrees to accept a row of hangars on the South side of the above described lands consisting of eight (8) spaces and office space.
+Easements are established and reserved as follows: In favor of the hangars erected on the above described tract, and common to each of said hangars for the purpose of the mutual, reciprocal and interdependent use of the same by the owners of said hangars for any part of the projected area for the purpose of entrance and exit taxi ways over and across the said area and to and from the said Municipal Airport.
+The Lessee hereby agrees that he will not construct any new hangar in the space herein let, without the written consent of the Lessor.
+Lessee further agrees that the hangars now erected on the space hereinabove referred to shall never be used for any purpose other than the storage of aircraft.
+Lessee further agrees to keep the space hereinabove referred to and the hangars erected thereon in good repair and in neat and orderly appearance.
+That Lessee hereby agrees that no change or alteration will be made to the hangars erected on the space hereinabove let without the consent of the Lessor, and that possession of said tract will be returned to the Lessor upon the termination of this lease unless sublet by the Lessee herein by the consent of the Lessor.
+Both parties agree that his lease shall be effective from the 1st day of June, 1965 for a one year period ending on the 31st day of May, 1966, and should Lessee well and faithfully perform the covenants and conditions contained herein, said Lessee is hereby given an option to renew this lease for successive terms of one year each, commencing immediately upon the termination of the preceding period and upon the same terms and conditions as are herein contained by giving written notice to Lessor of his intent to exercise said option or options in writing by certified mail, addressed to Lessor. Notice of intent to exercise the option for the first successive year may be given any time during the primary term of this lease, and notice to exercise option for the second and successive year or years may be given any time during the extended term thereof.
+It is further agreed by and between the parties hereto, that should the Federal Aviation Agency at some future date during the term of this Lease Agreement or any extension thereof, require the removal of said hangars from their present location, that the Lessee herein agrees to removal of said hangars at his sole cost and expense.
+Witness our hands this the 1st day of June, 1965, binding ourselves, our heirs, successors and assigns.
+The right to perpetual renewal of a lease is not forbidden by law, either upon the ground that it creates a perpetuity or a restraint on alienation, or upon any other ground, and such provisions, when properly entered into, will be enforced. Lonergan v. Connecticut Food Store, Inc., 168 Conn. 122, 357 A.2d 910 (1975), citing Nakdimen v. Atkinson Improvement Co., 149 Ark. 448, 233 S.W. 694 (1921); see also 61 Am. Jur. 2d Perpetuities and Restraints on Alienation § 52 (1981); Rutland Amusement Company, Inc. v. Seward, 127 Vt. 324, 248 A.2d 731 (1968). However, agreements for perpetual renewal of leasehold interests are not favored in the law. See Nakdimen, Lonergan, and Rutland Amusement Company, McLean v. United States, 316 F. Supp. 827 (E.D. Va. 1970). A provision in a lease will not be construed as conferring a right to a perpetual renewal unless the language is so plain as to admit of no doubt of the purpose to provide for perpetual renewal. Lonergan; McLean; see also 50 Am. Jur. 2d Landlord and Tenant § 1171 (1970). A perpetuity will not be regarded as created from an ordinary covenant to renew. McLean. There must be some peculiar and plain language before it will be assumed that the parties intended to create it. Winslow v. B & O R. Co., 188 U.S. 646 (1903).
+The general rule is that where the lease provides in general terms for a renewal, the lessee is only entitled to a single renewal. Nakdimen, cited above. Leases which may have been intended to be renewable in perpetuity will nevertheless be construed as importing but one renewal if there is any uncertainty in that regard. McLean, supra, citing 50 Am. Jur. 2d Landlord and Tenant § 1171, at 56.
+In construing any contract the court seeks to ascertain the intent of the parties. See Schnitt v. McKellar, 244 Ark. 377, 427 S.W.2d 202 (1968). In determining whether or not the parties intended to create a perpetual lease, courts have considered, among other factors, whether the lease contains:
+1. words customarily used to create a perpetual lease, such as “forever,” “for all time,” or “in perpetuity.” Lonergan; McLean; Kilbourne v. Forester, 464 S.W.2d 770 (Mo. App. 1971).
+2. an “escalation clause,” i.e., a clause providing for increased rentals through the years. Lonergan; Vokins v. McGaughey, 206 Ky. 42, 266 S.W. 907 (1924); Tipton v. North, 185 Okl. 365, 92 P.2d 364 (1939).
+3. restrictions on use and subletting. McLean; Rutland Amusement Company, supra.
+The lease in question provided for rental at a nominal sum and there was no provision for the possibility of increased rent in the future. There is no peculiar language indicating that a perpetual lease was intended. There are significant restrictions on use. The lease also contemplates that the Federal Aviation Agency (FAA) might require removal of the hangars. These factors indicate that the parties did not intend to create a perpetual lease. The specific language of the renewal clause in this lease does not require the opposite conclusion.
+The employment in leases of such terms as “successively,” “every succeeding term,” or other language of similar import, does not necessarily imply a covenant for perpetual renewals, especially when such terms, when considered with the context of the lease and the acts of, and circumstances surrounding, the parties, indicate a contrary intention.
+50 Am. Jur. 2d § 1171, at 57.
+In Lonergan, the lease provided that it “shall automatically be extended for a period of one year and thence from year to year.” In McLean, the lease provided that it might, “at the option of the lessee, be renewed from year to year.” In Geyer v. Lietzan, 230 Ind. 404, 103 N.E.2d 199 (1952), the lease was for a two year period but gave the lessee the option “of renewing this lease with and under all the terms and conditions thereof, successively” upon giving written notice 30 days “before the expiration of any two year period of this lease.” In each case the court construed the lease to give the lessee the right to renew only once.
+We conclude that the trial court’s interpretation of the lease agreement was correct.
+Affirmed.
+Cooper and Coulson, JJ., agree.
