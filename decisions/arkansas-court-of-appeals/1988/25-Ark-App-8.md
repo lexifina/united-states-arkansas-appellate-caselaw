@@ -1,0 +1,65 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 87-341"
+decided: "1988-06-08"
+citations: ["25 Ark. App. 8", "756 S.W.2d 457", "751 S.W.2d 20"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft and Jennings, JJ., agree.", "Mayfield, J., dissents."]
+parties: ["Dallas HATLEY and Charley Hatley v. Ronald L. PAYNE and Aetna Casualty and Surety Company"]
+source_url: "https://static.case.law/ark-app/25/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136277
+cites_cases: ["11 Ark. App. 33", "18 Ark. App. 142", "193 Ark. 352", "252 Ark. 780", "259 Ark. 390", "50 So. 2d 221", "663 S.W.2d 627", "688 S.W.2d 638", "689 P.2d 1187", "99 S.W.2d 588"]
+---
+
+# Hatley v. Payne
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellants, Dallas Hatley and Charley Hatley, appeal an order of the Drew County Chancery Court granting summary judgment to the appellee Aetna Casualty and Surety Company in the appellants’ suit for proceeds of an insurance policy. On appeal, the appellants argue that the trial court erroneously applied Arkansas law. We disagree.
+The appellants are the owners of a parcel of improved land in Drew County and entered into an installment contract to convey the land to Ronald Payne in June of 1985. The contract contained the following clause:
+The Buyer shall also carry fire and hazard insurance on the building located on said land in an amount of at least as much as the unpaid principal balance owed hereunder, with a loss payable clause in the policy in favor of the Sellers, showing their interest in said real property.
+In July 1985, Payne secured an insurance contract with Aetna for a face amount of $30,000.00. Payne was the only insured listed on the policy and no one was listed under the mortgage section. The appellants’ interest in the property was not referred to at any place in the policy. The policy included a standard, or union, mortgage clause which provided as follows:
+12. Mortgage Clause.
+The word “mortgagee” includes trustee.
+If a mortgagee is named in this policy, any loss payable under Coverage A or B shall be paid to the mortgagee and you, as interests appear. If more than one mortgagee is named, the order of payment shall be the same as the order or precedence of the mortgages.
+If we deny your claim, that denial shall not apply to a valid claim of the mortgagee, if the mortgagee:
+a. notifies us of any change in ownership, occupancy or substantial change in risk of which the mortgagee is aware;
+b. pays any premium due under this policy on demand if you have neglected to pay the premium;
+c. submits a signed, sworn statement of loss within 60 days after receiving notice from us of your failure to do so. Policy conditions relating to Appraisal, Suit Against Us and Loss Payment apply to the mortgagee.
+If the policy is cancelled by us, the mortgagee shall be notified at least 10 days before the date cancellation takes effect.
+If we pay the mortgagee for any loss and deny payment to you:
+a. We are subrogated to all the rights of the mortgagee granted under the mortgage on the property; or
+b. at our option, we may pay to the mortgagee the whole principal on the mortgage plus any accrued interest. In this event, we shall receive a full assignment and transfer of the mortgage and all securities held as collateral to the mortgage debt.
+Subrogation shall not impair the right of the mortgagee to recover the full amount of the mortgagee’s claim.
+The parties to this case stipulated that Payne subsequently burned the dwelling on the land and later pled guilty to arson. The appellants then demanded that the appellee pay them an amount equal to their interest in the property; when the appellee denied their claim, the appellants filed suit and requested that they be declared mortgagees of the property or, alternatively, third-party beneficiaries or equitable lienors under the policy of insurance. They also sued Payne and requested that he be declared to have no interest in the insurance policy proceeds. Personal jurisdiction was never obtained over Payne.
+The parties entered into joint stipulations, and both submitted motions for summary judgment. The appellants offered Payne’s affidavit in support of their motion, wherein he stated that, when procuring the insurance policy, he intended to designate the appellants as the loss payees in the mortgage clause but had neglected to do so. The trial court granted the appellee’s motion for summary judgment.
+Summary judgment is granted in accordance with ARCP Rule 56. That rule provides in part that such a judgment may be rendered where the pleadings, depositions, answers to interrogatories and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. Summary judgment is an extreme remedy which should be allowed only when it is clear that there is no issue of fact to be litigated. Johnson v. Stuckey & Speer, Inc., 11 Ark. App. 33, 665 S.W.2d 904 (1984). This was clearly an appropriate case for summary judgment.
+The appellants argue that Payne’s destruction of the property could not defeat their claim under the policy because of the wording and effect of the standard mortgage clause. It is generally held that, under a standard or union mortgage clause, the rights of the mortgagee are not affected by any act done by the insured; where the policy is issued in pursuance of a requirement in the mortgage, the mortgagee is entitled to the proceeds, although he was not informed of the issuance of the policy and had no knowledge of it until after the fire. National Bedding & Furniture Industries, Inc. v. Clark, 252 Ark. 780, 481 S.W.2d 690 (1972).
+Where the policy contains this form of mortgage clause, the mortgagee has an independent contract with the insurer which can not be defeated by improper or negligent acts of the mortgagor. The policy provisions apply to the mortgagee so that acts of the mortgagee which are in contravention with conditions and limitations will bar the mortgagee’s recovery. Clearly, both the mortgagor and mortgagee have distinct and dissimilar rights where the policy contains such a standard union mortgage clause.
+5 G. Couch, Cyclopedia of Insurance Law Section 29:65 (Rev. ed. 1984).
+We disagree with the appellants’ assertion that the mortgage clause in the policy in question protected them from the consequences of Payne’s arson. Here, the appellants were not listed as insureds or as mortgagees in the policy, nor was any reference made to their interest in the property. “[T]here is a presumption that parties contract only for the benefit of themselves, and a contract will not be considered as having been made for the use and benefit of a third party unless it clearly appears that such was the intention of the parties.” Fireman’s Fund Insurance Co. v. Rogers, 18 Ark. App. 142, 145, 712 S.W.2d 311 (1986). The wording of the insurance contract in question reveals that its mortgage clause is applicable only “[i]f a mortgagee is named in this policy . . .” By its terms the policy precludes the application of the clause to the appellants.
+The appellants argue, however, that the “covenant to insure” doctrine remedies the defect in the appellants’ efforts to be recognized under the policy. They argue that, because of the requirement in the installment sale contract that Payne supply insurance on the property for the benefit of the appellants, the appellants have an equitable lien against the proceeds of the policy regardless of whether they were mentioned in it. Where an insurance policy is procured by a mortgagor under an agreement to insure for the mortgagee’s benefit, the proceeds recovered by the mortgagor are held in trust for the mortgagee. The mortgagee has an equitable lien on the proceeds of the insurance for the satisfaction of his mortgage, regardless of whether the policy is made payable to him. National Bedding, supra; see also Sharp v. Pease, 193 Ark. 352, 99 S.W.2d 588 (1936).
+It is well settled that if a sales contract contains a covenant or condition that the property shall be kept insured by the conditional purchaser for the benefit, protection, or better security of the conditional seller, and the former breaches the agreement by taking out insurance in his own name without assigning it or making it payable to the conditional seller, the agreement to insure, upon loss, creates an equitable lien on the insurance proceeds in favor of the conditional seller as against the conditional vendee to the extent of the former’s interest in the destroyed or damaged property.
+44 Am. Jur. 2d Insurance Section 1741 (1982).
+This equitable doctrine does not, however, provide a basis for recovery for the appellants because, as indicated above, their rights to the proceeds of the policy in question are no greater than Payne’s, who, because of his act of arson, could not recover. See Insurance Co. of North America v. Nicholas, 259 Ark. 390, 533 S.W.2d 204 (1976). Further, the equitable lien theory asserted by the appellants is not supported by the presence of the standard mortgage clause in the policy since, as in Insurance Co. of North America, supra, at 392, that clause was never activated, “because no mortgagee was named in the policy (as the clause required).” We also find the cases cited by the appellants are not persuasive, because none of them apply the “covenant to insure” doctrine in situations where the insured was not entitled to any proceeds of the policy.
+756 S.W.2d 457
+Affirmed.
+Cracraft and Jennings, JJ., agree.
+SUPPLEMENTAL OPINION ON DENIAL OF REHEARING SEPTEMBER 14, 1988
+Per Curiam. Petition for rehearing is denied.
+Mayfield, J., dissents.
+
+## Dissent (Melvin Mayfield, Judge,)
+
+Melvin Mayfield, Judge,
+dissenting. The appellants have filed a petition for rehearing in this case decided by a panel of this court on June 8,1988. See Hatley v. Payne, 25 Ark. App. 8, 751 S.W.2d 20 (1988). The full court has today denied the petition, but I do not agree.
+In my view, the trial court’s granting of appellee’s motion for summary judgment should be reversed. My view is adequately explained by the following quotation from the appellants’ petition for rehearing:
+Appellants’ cause of action is predicated upon the covenant to insure doctrine: “This court is committed to the doctrine that if a mortgagor covenants to protect his mortgagee the latter is thereby clothed with a lien on the policy to the extent of the mortgagee’s interest, whether the policy carried a loss payable clause or not.” (emph. supp.) National Bedding v. Clark, 252 Ark. 780, 785, 481 S.W.2d 690 (1972).
+The issue here is whether Appellants may invoke the doctrine when their covenanting mortgagor (Payne) is not himself entitled to the policy proceeds. The Court thought not in this case; holding that “this equitable doctrine does not, however, provide a basis for recovery for the appellants because. . . their rights to the proceeds of the policy in question are not greater than Payne’s who, because of his act of arson, could not recover.”
+Yet in this case of first impression, the Court’s holding seems to be directly contrary to the basic premise upon which the doctrine is founded, i.e. “Equity will treat the policy as having contained such a provision upon the principle that equity treats that as done which should have been done.” Duval County Ranch Co. v. Alamo Lumber Co., 663 S.W.2d 627, 632 (Tex. Civ. App. 1983). The application of the maxim gives Appellants a right to loss payee status under the policy independent of that of the mortgagor’s. It is true that the loss payment clause was not “activated,” in the sense that no loss payee was named. But is a loss payment clause ever “activated” in an action brought pursuant to the covenant to insure doctrine? Clearly not; as the remedy exists solely to afford relief when the policy omits loss payees.
+The doctrine should not be applied so as to condition Appellants’ recovery on the right of Payne to recover. Instead, Appellants stand in the shoes of any loss payee under the policy; which policy specifically recognizes a mortgagee’s right to recover despite defenses asserted against a mortgagor’s named insured.
+I would simply add to the above the following citations of authority taken from appellants’ brief and which support appellants’ argument in this case. Wade v. Seeburg, 688 S.W.2d 638 (Tex. Ct. App. 1985); State Farm Fire and Casualty Co. v. Liggett, 689 P.2d 1187 (Kan. 1984); and Lititz Mutual Insurance Co. v. Miller, 50 So. 2d 221 (Miss. 1951). In view of the court’s opinion of June 8,1988, recognizing that the policy issued in this case contained a provision that the denial of a claim by the mortgagor (Payne) would not affect a valid claim of the mortgagee (appellants), it is difficult to understand how the court could deny recovery to appellants under the case law cited by them.
