@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 97-510"
+decided: "1997-12-03"
+citations: ["59 Ark. App. 224", "956 S.W.2d 196"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Arey and Jennings, JJ., agree."]
+parties: ["CHAMBER DOOR INDUSTRIES, INC., and Fireman’s Fund Insurance Company v. Larry GRAHAM"]
+source_url: "https://static.case.law/ark-app/59/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139927
+cites_cases: ["29 Ark. App. 218", "46 Ark. App. 303", "50 Ark. App. 63", "54 Ark. App. 92", "58 Ark. App. 275"]
+---
+
+# Chamber Door Industries, Inc. v. Graham
+
+## Majority (John F. Stroud, Jr., Judge.)
+
+John F. Stroud, Jr., Judge.
+Larry Graham, a twenty-five-year employee of Chamber Door Industries, Inc., sustained a compensable cervical injury in November 1993. He was seen by orthopedic surgeon Robert Kleinhenz, who recommended a pain clinic or a rehabilitation specialist after epidural steroid injections were given and an MRI showed no need for surgery. Mr. Graham’s case manager sent him to Dr. Reginald Rutherford at the Pain Care Center. Dr. Rutherford released him to return to work on May 16, 1994. He sought follow-up care after finding it difficult to perform his job, but Chamber Door’s insurance carrier told him that his problems were not related to employment. On July 10, 1995, he returned at his own expense to Dr. Kleinhenz. Dr. Kleinhenz referred him to Dr. Donald Boos for pain management, and Dr. Boos later referred him to Dr. Thomas Ward for rehabilitation. Dr. Ward released him to return to light duty work on January 3, 1996.
+Claimant petitioned for additional temporary total disability benefits and payment of additional medical expenses. A hearing was held in January 1996, and the administrative law judge reinstated temporary total disability benefits from July 24, 1995, through at least January 3, 1996. The ALJ also found that all medical and related expenses from Dr. Kleinhenz and subsequent referrals were reasonable and necessary, as well as related to employment; and ordered the carrier to pay for those expenses and to remain responsible for continued reasonable and necessary medical treatment. On appeal the Commission affirmed the decision of the law judge, finding that the claimant was entitled to additional temporary total disability benefits, and that medical treatment rendered by Dr. Kleinhenz and others was both reasonable and necessary. Chamber Door and its carrier appeal, contending that there was not sufficient evidence to support the Commission’s findings. We disagree and affirm.
+In determining the sufficiency of the evidence to sustain the Commission’s factual findings, we review the evidence in the light most favorable to those findings, and we must affirm if there is any substantial evidence to support them. Pilgrims Pride Corp. v. Caldarera, 54 Ark. App. 92, 923 S.W.2d 290 (1996). The Commission has the duty of weighing the medical evidence as it does any other evidence, id., and its resolution of the medical evidence has the force and effect of a jury verdict. McClain v. Texaco, Inc., 29 Ark. App. 218, 780 S.W.2d 34 (1989). We may reverse the Commission’s findings only when we are convinced that fair-minded people with the same facts before them could not have arrived at the conclusion reached by the Commission. Id.
+Appellants contend that the claimant’s healing period ended on May 17, 1994, and that he is entitled to no additional benefits. They argue that no objective medical findings underlie his complaints of pain and that treatments from July 1995 forward have addressed only these exaggerated complaints. They point to entries in the medical records referring to chronic pain syndrome and symptom magnification and to the testimony of a private investigator concerning the claimant’s activities.
+The healing period is that period for healing of the injury which continues until the employee is as far restored as the permanent character of the injury will permit. Nix v. Wilson World Hotel, 46 Ark. App. 303, 879 S.W.2d 457 (1994). If the underlying condition causing the disability has become more stable and if nothing further in the way of treatment will improve that condition, the healing period has ended. Id. Whether an employee’s healing period has ended is a factual determination to be made by the Commission. Ketcher Roofing Co. v. Johnson, 50 Ark. App. 63, 901 S.W.2d 25 (1995).
+At the hearing, the claimant testified about going back to work after Dr. Rutherford released him. He said that he could not perform tasks such as lifting glass without help from his coworkers, that he “just couldn’t deal with the pain,” and that his situation became “more and more difficult.” The medical records show that he was kept off work most of the time after returning to his initial treating physician: Dr. Kleinhenz took him off work from July 24, 1995, until he was treated by Dr. Boos; Dr. Boos continued him off work for seven more weeks, noting improvement due to cold laser treatments and rotator cuff exercises; and Dr. Ward did not allow him to return to light duty until January 3, 1996.
+Appellants ask us to hold that a claimant must offer objective medical evidence to prove not only the existence of an injury, but also to show that his healing period continues. We decline to do so, just as we recently refused to require a claimant to offer objective medical evidence to prove the circumstances under which an injury was sustained. See Stephens Truck Lines v. Millican, 58 Ark. App. 275, 950 S.W.2d 472 (1997). The evidence summarized above was sufficient to support the Commission’s findings that the claimant was entitled to additional temporary total disability benefits after his release by Dr. Rutherford and that medical treatment rendered by Dr. Kleinhenz and others was reasonable and necessary.
+Affirmed.
+Arey and Jennings, JJ., agree.
