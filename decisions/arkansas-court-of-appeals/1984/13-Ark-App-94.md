@@ -1,0 +1,34 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 84-80"
+decided: "1984-11-28"
+citations: ["13 Ark. App. 94", "680 S.W.2d 115"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Mayfield, JJ., agree."]
+parties: ["Conrad S. PRESTON v. Joe K. BASS, et al"]
+source_url: "https://static.case.law/ark-app/13/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137614
+---
+
+# Preston v. Bass
+
+## Majority (Tom Glaze, Judge.)
+
+Tom Glaze, Judge.
+Appellant appeals from the chancellor’s order that he remove a carport he had constructed on the parking lot of Scully Pointe in Garland County, Arkansas. Appellant’s primary arguments are that the chancellor erred (1) in finding that the Board of Administration did not have authority to approve the construction of carports, and (2) in considering whether the designation of parking spaces at Scully Pointe amounted to a taking of common property. We affirm.
+Scully Pointe is a horizontal property regime within the Horizontal Property Act, Ark. Stat. Ann. §§ 50-1001 to -1025 (1971 Repl. and Supp. 1985). Appellant and appellees are owners of apartments and members of the Homeowners’ Association of Scully Pointe. Appellees brought this action on June 10,1982, alleging that appellant’s construction of a two-car carport in the common area violated provisions in both the Master Warranty Deed and the Property Owner’s By-laws. The chancellor found that the parking area where the carport was built is within the general common elements, that the Board of Administration had no authority to authorize appellant to construct the carport, and that even if the Board were authorized to approve construction, the carport was not in compliance with the Board’s requirements. The chancellor found that construction of the carport created an exclusive appropriation of the general common area by appellant without proper approval by the property owners pursuant to the Master Deed and the By-laws.
+Both the appellant and the appellees agreed that, according to the Regime’s Master Deed, parking areas and carports are general common elements. Unlike appellees, however, appellant, in his first major point, contends that because the Regime’s By-laws give the Board exclusive control and management of the Regime, the Board was authorized to approve the construction of the appellant’s carport. We cannot agree.
+The Regime’s Master Deed, as amended, and its By-laws restate most of the provisions contained in Arkansas’ Horizontal Property Act. For example, both set forth the manner in which the apartment owners can use common elements, and tracking the same language in Ark. Stat. Ann. § 50-1008 (Repl. 1971), the By-laws provide that each co-owner may use the elements held in common in accordance with the purpose for which they are intended, without hindering or encroaching upon the lawful rights of the other co-owners. The Regime’s By-laws also incorporate in pertinent part Ark. Stat. Ann. § 50-1007 (Repl. 1971) by providing the common elements shall remain undivided and shall not be the object of an action for partition or division of the [co-]ownership.
+Here, the Board’s action amounted to a division of common property by permitting the appellant to construct a private carport on the common parking area. Such Board action constituted the creation of a limited common element — which is an act that can only be accomplished by the approval of all co-owners. See Ark. Stat. Ann. § 50-1002(e) (Repl. 1971). In sum, only the co-owners — not the Board— were empowered to give appellant the permission to construct a private carport.
+As a part of his first point for reversal, appellant urges that his construction of the carport did not necessarily appropriate common property to his exclusive use. He contends that testimony reflected that other owners had parked in the carport after its construction and that because he is a Texas resident, appellant is rarely at Scully Pointe. We find no merit in this contention. Appellant testified that he assumed when he paid for the carport that he would have the right to use it when he was there. He further said:
+If I had thought anyone else owning a unit at Scully Pointe would have used the carport that I constructed so that I would not be able to use the carport when I was in Arkansas, I would not have spent $4,000 to build it.
+The carport under the facts of this case would be no less a limited common element merely because appellant’s exclusive use of the carport is only part-time rather than full-time.
+Appellant also argues that even if all co-owners were required to approve his carport’s construction, the co-owners — at their 1981 membership meeting — evidenced their intention to delegate this issue to the Board. Again, we must disagree. Although the owners discussed the construction of carports at their 1979 and 1981 membership meetings, the owners never voted on this issue. The only action taken by the membership is recited in the minutes of the 1981 meeting, which reflect that a short discussion was had concerning proposed carports and “that those property owners directly concerned should achiéve a consensus of need, then come back to the board with a plan.” The owners neither approved carports nor authorized the Board to do so.
+Finally, the appellant contends the trial court erred in considering whether the mere designation of parking spaces at Scully Pointe amounted to a taking of common property. This issue was not pled by the parties, and in reading the record, we fail to find that either party requested a conclusive ruling on this point. The trial court ruled only that the construction of the carport in conjunction with the numbering of parking spaces .coinciding with condominium unit numbers creates an exclusive appropriation of the general common area to appellant without proper approval by the property owners. This action, the court concluded, was not in accordance with the Master Deed, By-laws or Arkansas law; therefore, the court ordered the appellant to remove the carport. We in no way construe the trial court’s order to deal with the issue of whether the designated parking spaces alone amounted to a taking of common property.
+Affirmed.
+Cooper and Mayfield, JJ., agree.
+The Master Deed provides that no apartment owner shall make any use of the common elements which would interfere with the use and enjoyment of such elements by all other owners or which would interfere with the use for which they are designed and intended.
+Ark. Stat. Ann. § 50-1002(e) (Repl. 1971) defines limited common elements to include those common elements which are agreed upon by all the co-owners to be reserved for the use of a certain number of apartments to the exclusion of the other apartments.
