@@ -2,7 +2,7 @@
 court: "Arkansas Court of Appeals"
 docket: "CA 85-167"
 decided: "1985-06-20"
-citations: ["15 Ark. App. 231", "691 S.W.2d 882", "15 Ark. App. 235"]
+citations: ["15 Ark. App. 231", "691 S.W.2d 882"]
 reporter: "ark-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
