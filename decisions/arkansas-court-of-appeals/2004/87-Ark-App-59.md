@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 03-1245"
+decided: "2004-06-16"
+citations: ["87 Ark. App. 59", "185 S.W.3d 120"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bird and Vaught, JJ., agree."]
+parties: ["STATE of Arkansas OFFICE OF CHILD SUPPORT ENFORCEMENT v. James HARRIS"]
+source_url: "https://static.case.law/ark-app/87/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136946
+cites_cases: ["10 Ark. App. 357", "211 Ark. 159", "234 Ark. 603", "244 A.2d 375", "254 Ark. 881", "351 Ark. 552", "360 N.E.2d 357", "478 N.W2d 750", "491 A.2d 1374", "543 S.W2d 832", "620 P.2d 883", "79 Ark. App. 178", "82 Ark. App. 42", "929 S.W.2d 202", "Ark. Code Ann. § 9-14-105"]
+---
+
+# State Office of Child Support Enforcement v. Harris
+
+## Majority (Terry Crabtree, Judge.)
+
+Terry Crabtree, Judge.
+In this one-brief appeal, the Office of Child Support Enforcement appeals from an order that allowed appellee to credit the payment of social security disability benefits made to his adult daughter against a child-support arrearage. Appellant argues on appeal that the trial court erred in ruling that the payment of benefits to the child, as opposed to the mother, satisfied the arrearage. We affirm.
+In May 1991, an order was entered requiring appellee, James Harris, to pay $72 a week in support of his minor children based on a petition filed by appellant on behalf of the children’s mother, Diedra Harris. In March 1995, appellee’s support obligation was increased to $82 a week. In March 1996, appellant filed a motion for contempt alleging an arrearage in support. In April 1997, an agreed order was entered that granted appellant judgment in the amount of $4,076 for the accrued arrearage and that reduced appellee’s obligation to $62 a week.
+The present motion for contempt was filed by appellant in March 2003. The motion again noted that the mother had assigned her rights to child support to appellant; that appellee’s support obligation had abated as of August 8, 2002, when the youngest child, Mary, attained the age of majority; but that appellee had accumulated a substantial arrearage in support.
+At the hearing, it was disclosed that the arrearage was $4,295.28. It was further revealed that appellee had become disabled and that Mary had received a lump-sum payment of social security disability benefits in the amount of $5,051.25. Of that amount, she gave $1,300 to her mother. Appellant conceded that appellee should be given a $1,300 credit against the arrearage, but it argued that appellee was entitled to no further credit because “the mother hasn’t gotten it. She is the one over the years that paid to raise the child out of her pocket, feeding the child, clothes, rent.” The trial court ruled that the disability payments made to the child completely discharged the arrearage. This appeal followed.
+In Hinton v. Hinton, 211 Ark. 159, 199 S.W.2d 591 (1947), the supreme court held that military allotments assigned to a child could be credited toward the father’s child-support obligation. The court ruled, however, that the father could not use any overpayments to offset future support. In Cash v. Cash, 234 Ark. 603, 353 S.W.2d 348 (1962), the court held that a father was entitled to credit social security retirement benefits received by the child against his child-support payments. In so holding, the court observed that such benefits were not gratuitous but earned, and the court was persuaded that the equities tipped in favor of allowing credit to the father under the circumstances of the case. See also, e.g., Davis v. Davis, 79 Ark. App. 178, 84 S.W.3d 447 (2002); Cantrell v. Cantrell, 10 Ark. App. 357, 664 S.W.2d 493 (1984). Cf. Thompson v. Thompson, 254 Ark. 881, 496 S.W.2d 425 (1973).
+Appellant accepts that it is settled law in Arkansas that social security benefits can be substituted for child-support payments. Appellant argues, however, that this case presents a unique situation because the lump-sum payment was not made during the child’s minority and was paid directly to the adult child and not her mother to whom the child support was owed. Appellant further argues that the trial court erred by not considering factors such as the financial impact on the mother, the financial standing of the appellee, and the length of appellee’s disability.
+A trial court’s ruling on child-support issues is reviewed de novo by this court, and the trial court’s findings are not disturbed unless they are clearly erroneous. Allen v. Allen, 82 Ark. App. 42, 110 S.W.3d 772 (2003). We are not convinced that the trial court clearly erred. An order of support is for the benefit of children, even though it is directed to be paid to the mother or other custodian. Miller v. Miller, 929 S.W.2d 202 (Ky. Ct. App. 1996). Our law provides that, once a child turns eighteen, he or she may file a petition to collect unpaid support from the nonsupporting parent. Ark. Code Ann. § 9-14-105(c) (Repl. 2002). Thus, the trial court’s decision is not without justification. With respect to the factors appellant contends the trial court failed to consider, appellant did not present those arguments to the trial court. It is well-settled that we will not hear arguments raised for the first time on appeal. Judkins v. Hoover, 351 Ark. 552, 95 S.W.3d 768 (2003). We affirm the trial court’s decision.
+Affirmed.
+Bird and Vaught, JJ., agree.
+Appellant has made no argument that an assignment has any effect on the outcome of this case.
+There are differing views as to whether social security benefits can be credited toward arrearages in child support. Some courts do not allow it. See, e.g., Mask v. Mask, 620 P.2d 883 (N.M. 1980); Fowler v. Fowler, 244 A.2d 375 (Conn. 1968); McLaskey v. McLaskey, 543 S.W2d 832 (Mo. Ct.App. 1976); Fuller v. Fuller, 360 N.E.2d 357 (Ohio Ct.App. 1976). Others permit it, but allow credit only for arrearages that accrue during the period of disability. See, e.g, Frens v. Frens, 478 N.W2d 750 (Mich. Ct.App. 1991); Miller v. Miller, 929 S.W2d 202 (Ky. Ct.App. 1996); Children and Youth Services of Allegheny County v. Chorgo, 491 A.2d 1374 (Pa. Super. Ct. 1985). Appellant did not argue below that arrearages, per se, were not subject to discharge. For this reason and because the record was not developed on this issue, we leave that question for another day.
