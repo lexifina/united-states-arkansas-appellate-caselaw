@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 83-282"
+decided: "1984-04-25"
+citations: ["11 Ark. App. 161", "668 S.W.2d 47"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Glaze, J., not participating."]
+parties: ["Lorene MORRISON v. TYSON FOODS, INC."]
+source_url: "https://static.case.law/ark-app/11/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6652697
+cites_cases: ["2 Ark. App. 150", "229 Ark. 894", "244 Ark. 797", "270 Ark. 941", "273 Ark. 147", "34 Ark. L. Rev. 506", "5 Ark. App. 205", "8 Ark. App. 274"]
+---
+
+# Morrison v. Tyson Foods, Inc.
+
+## Majority (Melvin Mayfield, Chief Judge.)
+
+Melvin Mayfield, Chief Judge.
+On May 11, 1985, the Workers’ Compensation Commission filed an opinion agreeing with an administrative law judge’s decision that the appellant in this case was not entitled to additional temporary total disability benefits and was not entitled to a change of physicians.
+By a letter dated June 10, 1983, appellant’s attorney filed a motion for reconsideration which asserted that appellant had raised the issue of entitlement to “current total disability” with the Commission but the issue was not addressed either “directly or indirectly” in the Commission’s opinion. In an order dated July 15, 1983, the Commission held that because no notice of appeal had been filed, its May 11th decision had become final, and it had no authority to grant appellant’s motion for reconsideration. Thus, the motion was denied.
+On July 22, 1983, the appellant filed a notice of appeal to this court and argues here (1) that the Commission’s May 11th decision is not supported by substantial evidence, and (2) that the Commission did have the authority to grant the motion for reconsideration. We agree that the decision of May 11th became final since no notice of appeal from that decision was filed within 30 days from receipt of the decision as required by Ark. Stat. Ann. § 81-1325(b) (Supp. 1983). We do not agree, however, that the Commission did not have authority to grant appellant’s motion for reconsideration.
+There is no explicit statutory authority for the Commission to grant petitions for reconsideration, but in Walker v. J & J Pest Control, 270 Ark. 941, 606 S.W.2d 597 (Ark. App. 1980), the court said, “We are of the view that the Commission does have authority to consider a motion for rehearing which is timely filed.” In that case the motion was filed 19 days after the Commission’s decision, and the court said the fact that Ark. Stat. Ann. § 81-1325(b) provides that the decision becomes final within 30 days unless notice of appeal is filed, “supports the concept that the Commission has jurisdiction during such 30 day period to reopen the case for further evidence and modification of the decision.” In Smith v. Servomation, 8 Ark. App. 274, 651 S.W. 2d 118 (1983), we noted that Walker was clarified and limited by Cooper Industrial Products v. Meadows, 5 Ark. App. 205, 634 S.W.2d 400 (1982), which held that neither administrative law judges nor the Commission have the power to waive or extend the thirty days in which their decisions may be appealed; and in a footnote we specifically pointed out that Walker involved a motion for rehearing filed within the thirty-day period for appeal. Therefore, we hold that the Commission did have the authority to grant appellant’s motion for reconsideration in this case. The chairman of the Commission recognized this fact and dissented. From his dissent it appears that the Commission has, in fact, been considering motions for rehearing. Moreover, the General Assembly has met twice since Walker and has not disturbed its holding. We think the rule is established.
+We do want to be specific in what is involved in this case. Ark. Stat. Ann. § 81-1325(b) (Supp. 1983) provides that the notice of appeal shall be filed within 30 days from the date of the receipt of the order or award of the Commission. There has been no notice of appeal filed here within that period of time. We agree with the appellee that the filing of a motion for reconsideration, or rehearing, does not extend the time to file the notice of appeal. Thus, the decision which held that appellant is not entitled to additional temporary total disability benefits or to a change of physicians is final. Incidentally, we also agree with the appellee that a motion for reconsideration, or rehearing, may be acted upon within the ninety-day period in which the record on appeal must be filed and docketed. This seems clear because, even though a notice of appeal is filed, the trial court, and by analogy the Commission, retains jurisdiction until the record on appeal is lodged in the appellate court. Brady v. Aiken, Inc., 273 Ark. 147, 617 S.W.2d 358 (1981); Estes v. Masner, 244 Ark. 797, 427 S.W.2d 161 (1968); Andrews v. Lauener, 229 Ark. 894, 318 S.W. 2d 805 (1958).
+Although there was no timely appeal from the Commission’s decision of May 11, 1983, the question of whether appellant is entitled to “current total disability’’ — which is the subject of the motion for reconsideration — is a matter for the Commission to decide. We express no opinion on how it should be decided. We also recognize that there may be a question of whether the motion was filed within 30 days from the receipt of the Commission’s May 11 decision. On remand, any question in that regard may be settled by the Commission, except we note that the controlling date is the date of filing, not the date the motion is put on the Commission’s motion docket. Whether new evidence may be introduced and whether the Commission should remand to an administrative law judge are also matters for the Commission to settle. We hold only that the Commission has the authority to grant the motion for reconsideration.
+Remanded for proceedings consistent with this opinion.
+Glaze, J., not participating.
+The court also discussed other provisions of the Act, as well as due process and equal protection considerations. See also 34 Ark. L. Rev. 506 (1980).
+See Davis v. C & M Tractor Co., 2 Ark. App. 150, 617 S.W.2d 382 (1981), for the derivation of this ninety-day period.
