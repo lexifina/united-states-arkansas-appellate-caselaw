@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 95-480"
+decided: "1996-04-24"
+citations: ["53 Ark. App. 146", "920 S.W.2d 30"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings, C.J., and Neal, J., agree."]
+parties: ["William BENTON v. Bin BARNETT"]
+source_url: "https://static.case.law/ark-app/53/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139283
+cites_cases: ["288 Ark. 156", "293 Ark. 360", "307 Ark. 134", "318 Ark. 309", "323 Ark. 643"]
+---
+
+# Benton v. Barnett
+
+## Majority (JUDITH Rogers, Judge.)
+
+JUDITH Rogers, Judge.
+The appellant, William Benton, appeals from a $5,000 judgment in favor of appellee, Bill Barnett, which was entered upon a jury’s verdict. For reversal, appellant contends that the trial court erred in denying his motion for a new trial. We affirm.
+Appellant filed a complaint in battery against appellee for injuries he had sustained, alleging that appellee had attacked and beaten him without provocation during an altercation at a service station. Appellee answered and filed a counterclaim against appellant, contending that the allegations in appellant’s complaint were knowingly false and that the suit was brought for purposes of “harassing, annoying, alarming, vexing, and causing financial loss” to him. Based on this claim, appellee sought “judgment over” against appellant, Rule 11 sanctions, punitive damages, costs and attorney’s fees.
+The case proceeded to trial. In summary, appellant testified that he and appellee exchanged words and that appellee hit him as many as five times, knocking him backwards into a drink machine and causing his nose and face to bleed. Appellee, who was not injured in the fray, admitted hitting appellant but said that he did so only after appellant had attempted the first blow. The jury returned a verdict for appellee in the amount of $5,000.
+Appellant filed a motion for a new trial pursuant to Rule 59 of the Arkansas Rules of Civil Procedure. In this motion, appellant contended that appellee “presented no evidence at trial of any damages he suffered” and that the award of “damages assessed by the jury ... was in error and clearly contrary to a preponderance of the evidence.” The trial court denied the motion, stating in its order that there had been “testimony and certainly argument concerning the employment of counsel to defend this lawsuit.” This appeal followed.
+For reversal, appellant contends that appellee presented no evidence of damages in support of his claim. He further argues that appellee’s counterclaim did not state a cause of action in tort. He maintains that the jury’s verdict was essentially an award of attorney’s fees and argues that attorney’s fees are not a proper element of damages, since attorney’s fees are not allowed unless expressly authorized by statute. See Elliot v. Hurst, 307 Ark. 134, 817 S.W.2d 877 (1991). In support of his arguments, appellant alludes to the testimony of appellee when he was asked by his own attorney what damages he was seeking, to which appellee replied, “Well, basically it’s cost me quite a bit of money to put up with this for four years and finally come to this conclusion.” Appellant also points to argument made in closing by appellee’s counsel asking the jury to award appellee $5,000 for his attorney’s fees “to send a message to” the appellant. In defense of the trial court’s decision, appellee contends that appellant’s arguments were not properly preserved for appeal. We agree.
+It is obvious from a reading of appellant’s motion for a new trial and his supporting brief that it was, and remains, appellant’s contention that there was no evidence presented by appellee to justify the submission of the case to the jury. Appellant, however, failed to challenge the sufficiency of the evidence by motion for a directed verdict, as is required under Rule 50(e) of the Rules of Civil Procedure. Instead, he raised the issue by motion for a new trial under Rule 59. Although Rule 59 specifically states that a motion for a new trial may be granted where the verdict is clearly contrary to the preponderance of the evidence, Hall v. Grimmett, 318 Ark. 309, 885 S.W.2d 297 (1994), such a motion, however, does not test the sufficiency of the evidence to go to the jury. Id. See also Yeager v. Roberts, 288 Ark. 156, 702 S.W.2d 793 (1986). A party must test the sufficiency of the evidence by motions for directed verdict and judgment notwithstanding the verdict, not by a motion for a new trial. Majewski v. Cantrell, 293 Ark. 360, 737 S.W.2d 649 (1987). Therefore, appellant’s challenge, to the sufficiency of the evidence must fail. We recognize that this distinction is a fine one indeed, but it is one that has been fashioned by the supreme court.
+With regard to appellant’s remaining arguments concerning the sufficiency of appellee’s counterclaim and the verdict being tantamount to an award of attorney’s fees, these matters were not included in his motion for a new trial. Moreover, at no time before trial did appellant complain by appropriate motion about any deficiencies with respect to appellee’s complaint for damages. Neither did he raise any objection to the testimony offered by appellee relative to his claim, nor did he object to the argument of appellee’s counsel. Likewise, appellant raised no objection to the jury being offered a verdict form allowing it to assess damages in appellee’s favor. It is a well-settled rule that issues not raised in the trial court will not be considered for the first time on appeal. Stacks v. Jones, 323 Ark. 643, 916 S.W.2d 120 (1996). Since appellant did not raise these issues in his motion for a new trial, we will not address them. It remains to be seen whether it would have been appropriate for appellant to have asserted these matters in a motion for a new trial, in the absence of any prior objection. See Stacks v. Jones, supra., Newbern, J., concurring.
+Affirmed.
+Jennings, C.J., and Neal, J., agree.
