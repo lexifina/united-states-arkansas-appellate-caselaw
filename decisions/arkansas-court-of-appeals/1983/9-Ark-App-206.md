@@ -1,0 +1,37 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 83-62"
+decided: "1983-09-21"
+citations: ["9 Ark. App. 206", "657 S.W.2d 213"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Cloninger, JJ., agree."]
+parties: ["Bessie CARTER & Audrey THOMPSON v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/9/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139990
+cites_cases: ["266 Ark. 162", "275 Ark. 448", "4 Ark. App. 84", "5 Ark. App. 163", "634 S.W.2d 145"]
+---
+
+# Carter v. State
+
+## Majority (Tom Glaze, Judge.)
+
+Tom Glaze, Judge.
+This appeal arises from the appellants’ convictions of third degree battery, for which Carter was sentenced to sixty days and Thompson to one hundred twenty days in the Pulaski County jail. Appellants rely upon one point for reversal: that the trial court erred in not finding appellants justified in resisting an unlawful intrusion into their home and an attack upon their persons by police officers.
+According to testimony at trial, three Little Rock police officers went to appellant Carter’s home on the morning of May 24, 1982, looking for her son, who was suspected of a crime. Mrs. Carter told the policemen that her son was not there, and she offered to bring him to the police station later if he came to the house. As the policemen began to leave the house, they observed that someone had pulled down a curtain upstairs. When the officers mentioned that fact to Mrs. Carter, she offered to allow them to search her home. Detective Dunnington and Officer Garrison entered the house; Detective LeMaster remained outside the back door.
+Officer Garrison stayed downstairs in the living room while Detective Dunnington went upstairs with Mrs. Carter. When the two had gotten halfway up the stairs, Mrs. Carter’s daughter, appellant Thompson, came out of a bedroom “screaming” that the officers had no search warrant and no right to be there. Mrs. Carter then asked the officers to leave. Detective Dunnington testified that he continued up the stairs behind Mrs. Carter, touching her arm to move around her. At that point, Mrs. Thompson reached over and began scratching him on the face. Then Mrs. Carter “jumped” him. Officer Garrison came to his aid and the four of them struggled. Then Dwight Jones came out of an upstairs bedroom with something in his hand and said, “Duck, Momma, I’ve got a gun.” Officer Garrison drew his gun, and Jones ran back into the bedroom. Detective LeMaster came into the house to assist the other two officers. Jones came down the stairs again with a twelve-inch piece of wood or metal pipe in his hand, which he drew back as if to hit Officer Dunnington. Detective LeMaster drew his revolver to stop Jones, and the scuffle ended. Both police officers were taken to the hospital where they were treated for minor wounds and given tetanus shots.
+The appellants rely upon the justification statute, Ark. Stat. Ann. § 41-507.1 (Supp. 1983), which provides:
+The right of an individual to defend himself and the lives of persons, or property, in his home against harm, injury, or loss by persons unlawfully entering or attempting to enter or intrude thereupon is hereby reaffirmed as a fundamental right to be preserved and promoted as a public policy in this State, and there shall be a legal presumption that any force or means used to accomplish such purpose was exercised in a lawful and necessary manner, unless the same is overcome by clear and convincing evidence to the contrary.
+The above-stated public policy shall be strictly complied with by the courts, and appropriate instructions thereof shall be given to juries sitting in trial of criminal charges brought in connection therewith, (emphasis supplied).
+Appellants contend that once Mrs. Carter revoked her consent to search, the police officers assumed the posture of illegal intruders against whom the appellants had the right to defense themselves by virtue of the statute. Appellants relied upon. Doles v. State, 275 Ark. 448, 631 S.W.2d 281 (1982), for the propositions that a person has a right to use reasonable force to protect himself and a right not to retreat when in his home.
+In Doles, the appellant had been convicted of second degree murder for shooting an acquaintance who was in appellant’s home threatening to kill him, despite appellant’s repeated requests that he leave. The Supreme Court found that the trial court erred in refusing to give a jury instruction on j ustification when sufficient evidence existed to support such an instruction. See Thomas v. State, 266 Ark. 162, 583 S.W.2d 32 (1979). The facts at bar present a very different case than Doles.
+The police officers went to Mrs. Carter’s home in their official capacity and in the course of an investigation. They entered at Mrs. Carter’s invitation, not as intruders. Although she unquestionably had the right to revoke her consent to search, A.R.Cr.P. Rule 11.5, her revocation necessitated only that the officers cease their search. It does not follow, as appellants contend, that from the moment of revocation the officers became illegal intruders who were no longer serving in their official capacity as police officers.
+Section 41-507.1, supra, gives one the right to defend himself and others and his property against unlawful intrusion, but not the right to be an aggressor. Sufficient evidence existed for the trial court to find that the appellants acted as aggressors rather than in defense of their persons or property. The evidence did not indicate that the police officers attempted in any way to harm or injure the appellants or their property.
+This court has dealt recently with two cases involving a person’s right to use force against law enforcement officers. Both cases involved officers who were making arrests. Both also involved Ark. Stat. Ann. § 41-512 (Repl. 1977), which prohibits the use of physical force to resist arrest. We pointed out in Barnes v. State, 4 Ark. App. 84, 628 S.W.2d 334 (1982), that § 41-512 does not deprive one of the defense of justification if a law enforcement officer uses excessive force in making an arrest. One may use such force as he reasonably believes necessary to defend against any unlawful force he reasonably believes a law enforcement officer is about to inflict upon him. We reiterated this proposition in Lucas v. State, 5 Ark. App. 163, 634 S.W.2d 145 (1982).
+In the case at bar, there is no evidence the police officers used force at all, let alone unlawful force sufficient to j ustify appellants’ attacks upon them. The fact that the officers remained on the premises after Mrs. Carter revoked her consent to search does not equate with the officers’ use of excessive force in Barnes and Lucas. The testimonies of the appellants were not abstracted for the Court, but Detective Dunnington testified that he placed his hand on Mrs. Carter’s arm to step around her on the stairs. That was the only physical action exerted by any of the officers until the attack on Detective Dunnington commenced. The trial judge pointed out:
+Now, whether the officers were right or wrong in entering or staying in the residence is not the most important consideration in this case. The most important fact is that these officers were attacked... while performing their duty, whether they’re officers or citizens they should not be attacked.
+We agree.
+Affirmed.
+Cooper and Cloninger, JJ., agree.
