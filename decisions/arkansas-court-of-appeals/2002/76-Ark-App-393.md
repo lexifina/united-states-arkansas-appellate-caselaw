@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 00-1262"
+decided: "2002-01-30"
+citations: ["76 Ark. App. 393", "65 S.W.3d 485"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROBBINS and Roaf, JJ., agree."]
+parties: ["PIERCE ADDITION HOMEOWNERS ASSOCIATION, INC. v. CITY of VILONIA PLANNING COMMISSION and Lloyd Stone"]
+source_url: "https://static.case.law/ark-app/76/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6142327
+cites_cases: ["328 Ark. 18", "341 Ark. 716", "347 Ark. 126", "Ark. Code Ann. § 14-56-425"]
+---
+
+# Pierce Addition Homeowners Ass'n v. City of Vilonia Planning Commission
+
+## Majority (Olly NEAL, Judge.)
+
+Olly NEAL, Judge.
+This appeal derives from a Faulkner County Circuit Court order dismissing with prejudice appellant’s emergency petition for stay of approval of a subdivision and issuance of a building permit. Because the circuit court lacked jurisdiction due to appellant’s failure to prepare and certify the record pursuant to Inferior Court Rule 9, we reverse and dismiss.
+Appellee Lloyd Stone petitioned the City of Vilonia’s Planning Commission for approval of a preliminary plat of a subdivision, Benton Addition. The Control of Development and Subdivision of Land Regulations for the City of Vilonia require, in part, that the applicant provide notice to adjoining and affected property owners.
+As part of the petition process, Stone allegedly notified two adjacent property owners of his application for a preliminary plat, and on July 29, 1999, the Planning Commission approved the preliminary plat for construction of six homes in the subdivision. A building permit was issued and Stone began construction.
+Appellant objected to the Commission’s approval of the preliminary plat, claiming that its members were not properly notified of Stone’s application. In response, on August 19, 1999, the Commission requested that Stone temporarily cease work until the issue could be addressed. Stone provided additional notice to all other landowners who were affected by the subdivision. On September 30, 1999, the Commission again approved the preliminary plat and authorized Stone to continue construction, finding that he had met all the requirements necessary for approval of the preliminary plat and issuance of the building permit.
+Appellant subsequently filed an appeal and emergency petition for stay of approval to the circuit court. The circuit court entered an ex parte order staying the Commission’s ruling, but finally reached the decision that Stone had met all of the necessary requirements and dismissed appellant’s appeal with prejudice. It is from that decision that the Pierce Addition Homeowners Association brings this appeal.
+• Appellant’s sole argument on appeal is that the trial court erred in failing to hold a trial de novo as required by Arkansas law. Counsel for appellees asserts that the trial court should be affirmed because 1) the association failed to perfect its appeal to the circuit court; 2) Arkansas Code Annotated section 14-56-425 (Repl. 1998) does not guarantee appellant a trial; and 3) the association’s appeal was properly dismissed as it had no chance of success on the merits.
+Appeals from final action taken by the administrative, quasi-judicial, and legislative agencies may be taken to circuit court and must be filed in the manner provided under Rule 9 of the Arkansas Inferior Court Rules. See Ark. Code Ann. § 14-56-425 (Repl. 1998); see also Board of Zoning Adjustment v. Cheek, 328 Ark. 18, 942 S.W.2d 821 (1997). The provisions of Inferior Court Rule 9 are mandatory and jurisdictional; if an appellant does not comply with the rule’s provisions, the circuit court is without authority to accept the appeal. J & M Mobile Homes, Inc. v. Hampton, 347 Ark. 126, 60 S.W.3d 481 (2001). When a party fails to perfect an appeal from an inferior tribunal to a circuit court in the time and manner provided by law, the circuit court never acquires jurisdiction of the appeal. Id.; see also Board of Zoning Adjustment, supra.
+Rule 9 of the Arkansas Inferior Court Rules governs appeals taken from agencies like the City of Vilonia Planning Commission to the circuit courts; that rule provides, in pertinent part, as follows:
+(a) Time for Taking Appeal. All appeals in civil cases from inferior courts to circuit courts must be filed in the office of the clerk of the particular circuit court having jurisdiction of the appeal within thirty (30) days from the date of the entry of the judgment.
+(b) How Taken. An appeal from an inferior court to the circuit court shall be taken by fifing a record of the proceedings had in the inferior court. It shall be the duty of the clerk to prepare and certify such record when requested by the appellant and upon payment of any fees authorized by law therefor. The appellant shall have the responsibility of fifing such record in the office of the circuit clerk.
+(c) When the clerk of the inferior court, or the court in the absence of a clerk, neglects or refuses to prepare and certify a record for filing in the circuit court, the person desiring an appeal may perfect his appeal on or before the 30th day from the date of the entry of the judgment in the inferior court by filing an affidavit in the office of the circuit court clerk showing that he has requested the clerk of the inferior court [or the inferior court] to prepare and certify the records thereof for purposes of appeal and that the clerk [or the court] has neglected to prepare and certify such record for purposes of appeal. A copy of such affidavit shall be promptly served upon the clerk of the inferior court [or the court] and the adverse party.
+Here, appellant has failed to meet these requirements. On September 30, 1999, the Vilonia Planning Commission made its final ruling allowing Lloyd Stone to resume construction. The Association filed its notice of appeal of this decision on October 6, 1999. Pursuant to the applicable Arkansas Inferior Court Rule 9, the Association had until October 30, 1999, to perfect its appeal by. filing with the circuit court a certified copy of the record of the proceedings before the Planning Commission. Otherwise, it could file an affidavit with the circuit clerk showing that a request had been made to the inferior court clerk to prepare and certify the records for appeal and that the clerk neglected to do so.
+Our review of the record reveals that the appeal was not properly before the circuit court. On October 28, 1999, appellants filed the minutes to several Planning Commission meetings. These documents, however, were not certified from the inferior court or an inferior court clerk; nor was there an affidavit showing that appellants requested preparation and certification of the record and that the inferior court or its clerk neglected to prepare and certify such records. When the trial court lacks jurisdiction, the appellate court also lacks jurisdiction. See Koonce v. Mitchell, 341 Ark. 716, 19 S.W.3d 603 (2000). Here, the circuit court lacked jurisdiction to enter an order.
+We reverse and dismiss.
+ROBBINS and Roaf, JJ., agree.
