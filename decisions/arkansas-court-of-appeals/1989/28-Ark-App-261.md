@@ -1,0 +1,56 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 88-416"
+decided: "1989-06-28"
+citations: ["28 Ark. App. 261", "773 S.W.2d 110"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbin, C.J., and Mayfield, J., agree."]
+parties: ["Susan WRIGHT, Widow of Timothy Wright v. TYSON FOODS, INC."]
+source_url: "https://static.case.law/ark-app/28/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140697
+cites_cases: ["11 Ark. App. 38", "11 Ark. App. 72", "14 Ark. App. 198", "204 Ark. 407", "205 Ark. 752", "246 Ark. 515", "25 Ark. App. 297", "252 Ark. 755", "255 Ark. 951", "262 Ark. 398", "5 Ark. App. 264", "Ark. Code Ann. §11-9-518"]
+---
+
+# Wright v. Tyson Foods, Inc.
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+Timothy Wright was a long haul truck driver for Nashville Trucking. He also worked as a “relief driver” for Tyson Foods, Inc. In the early morning hours of February 7,1986, Wright was killed in a collision, while driving a Tyson truck loaded with chickens.
+His widow, Susan Wright, the appellant, filed a workers’ compensation claim for death benefits. The Commission found that, at the time of his death, Wright was an employee of Tyson Foods, but awarded only the minimum death benefits of $15.00 per week. On appeal, Mrs. Wright contends that the Commission erred in awarding only minimum benefits. On cross-appeal, Tyson Foods contends that the Commission erred in finding that Wright was an employee as opposed to being an independent contractor. We affirm on both direct appeal and cross-appeal.
+The determination as to whether, at the time of an injury, a person was an employee or an independent contractor is a factual one. D & M Construction Co. v. Archer, 14 Ark. App. 198, 686 S.W.2d 799 (1985). When we review the Commission’s decision on a question of fact, we affirm unless the decision is not supported by substantial evidence. We must view the evidence in the light most favorable to the Commission’s findings. Blevins v. Safeway Stores, 25 Ark. App. 297, 757 S.W.2d 569 (1988). There may be substantial evidence to support the Commission’s decision even though we might have reached a different conclusion if we sat as the trier of fact or heard the case de novo. Brower Mfg. Co. v. Willis, 252 Ark. 755, 480 S.W.2d 950 (1972). The ultimate question in these cases is not whether the employer actually exercises control over the doing of the work, but whether he has the right to control, see Irvan v. Bounds, 205 Ark. 752, 170 S.W.2d 674 (1943), and the resolution of the issue depends upon the facts of each case. Sands v. Stombaugh, 11 Ark. App. 38, 665 S.W.2d 902 (1984). Ordinarily no one feature of the relationship is determinative. Carter v. Ward Body Works, 246 Ark. 515, 439 S.W.2d 286 (1969). In Franklin v. Arkansas Kraft, Inc., 5 Ark. App. 264, 635 S.W.2d 286 (1982), we listed some of the factors that may be properly considered:
+(1) the right to control the means and the method by which the work is done;
+(2) the right to terminate the employment without liability;
+(3) the method of payment, whether by time, job, piece or other unit of measurement;
+(4) the furnishing, or the obligation to furnish, the necessary tools, equipment and materials;
+(5) whether the person employed is engaged in a distinct occupation or business;
+(6) the skill required in a particular occupation;
+(7) whether the employer is in business;
+(8) whether the work is an integral part of the regular business of the employer; and
+(9) the length of time for which the person is employed.
+5 Ark. App. at 269-70, 635 S.W.2d at 289.
+In the case at bar, Wright was one of a number of relief drivers used by Tyson Foods to haul chickens when one of their regular drivers became unavailable or when there were extra chickens to be hauled. The supervisor maintained a list of six or seven such “back-up drivers.” When the supervisor needed an additional driver he would call a man on the list. Tyson Foods furnished the truck, already loaded with chickens, and the gas and oil for the trip. The supervisor, Jerry Robertson, would give the relief driver a time schedule showing when he should be at a certain chicken house. The supervisor testified that he expected the same work out of the relief drivers as he did from the regular drivers and that they were paid the same. He said that he would dismiss a relief driver for “hot rodding,” tearing up a truck, or taking an unauthorized detour. He said that the relief drivers were required to follow and respond to his directions. He testified that he considered the relief drivers to be “part-time Tyson employees.” There was evidence that the relief drivers were covered by Tyson Foods’ liability insurance, but that Tyson Foods is self-insured as far as workers’ compensation is concerned. Another relief driver testified that he was expected to follow the same company rules as regular drivers. There was additional evidence, some tending to show that Wright was an employee and some that tended to show the contrary, but We are persuaded that the foregoing constitutes substantial evidence to support the Commission’s finding that, at the time of his death, Wright was an employee rather than an independent contractor.
+On direct appeal, appellant contends that the Commission erred in awarding only minimum death benefits. From March 19, 1984, until his death on February 17,1986, Wright had received six payments from Tyson Foods for his work as a relief driver. The payments totaled $384.93. Within the year immediately preceding his death, he had been paid a total of $208.26. The parties agree that the applicable code provision is Ark. Code Ann. §11-9-518 (1987) which provides:
+Weekly wages as basis for compensation.
+(a)(1) Compensation shall be computed on the average weekly wage earned by the employee under the contract of hire in force at the time of accident and in no case shall be computed on less than a full-time workweek in employment.
+(2) Where the injured employee was working on a piece basis, the average weekly wage shall be determined by dividing the earnings of the employee by the number of hours required to earn the wages during the period not to exceed fifty-two (52) weeks preceding the week in which the accident occurred and by multiplying this hourly wage by the number of hours in a full-time workweek in the employment.
+(b) Overtime earnings are to be added to the regular weekly wages and shall be computed by dividing the overtime earnings by the number of weeks worked by the employee in the same employment under the contract of hire in force at the time of the accident, not to exceed a period of fifty-two (52) weeks preceding the accident.
+(c) If, because of exceptional circumstances, the average weekly wage cannot be fairly and justly determined by the above formulas, the commission may determine the average weekly wage by a method that is just and fair to all parties concerned.
+Appellant emphasizes the language of subsection (a)(1), “Compensation . . . in no cases shall be computed on less than a full-time workweek in the employment.” Appellee, on the other hand, argues that subsection (c) is applicable “because of exceptional circumstances.” The Commission held that Travelers Insurance Co. et al. v. Perry, 262 Ark. 398, 557 S.W.2d 200 (1977), was controlling. Appellant argues that Travelers is distinguishable and relies heavily on Mack Coal Co. v. Hill, 204 Ark. 407, 162 S.W.2d 906 (1942). We agree with the Commission that Travelers controls.
+Mack Coal involved nine compensation cases filed by members of the United Mine Workers Union. The union had contracts with various coal companies which provided for a maximum five-day week. For reasons relating to the demand for coal, the coal mining business was necessarily seasonal, and there was evidence that the coal mines involved operated an average of 118 days per year. Although Mack Coal was decided under prior law, our understanding of its holding is that the court approved the Commission’s application of what was then the equivalent of Ark. Code Ann. § 11-9-518(a)(1) (1987), as opposed to computing the claimant’s wages under subsection (c). In other words, the court treated these seasonal mine workers as if they were full-time employees.
+Gill v. Ozark Forest Products, et al., 255 Ark. 951, 504 S.W.2d 357 (1974), also involved seasonal employment, this time in the timber industry. The employment was seasonal because of weather conditions and the supply of timber. In Gill there was no guarantee of a full work week for the claimant, but he always worked whatever number of hours were available to him. Gill was decided under Ark. Stat. Ann. § 81-1312 (Repl. 1960), the provisions of which are identical to present law. The court held that the employee’s widow’s benefits should be computed on the basis of a full-time work week, relying on Mack Coal, supra.
+In Travelers Insurance Co. et al. v. Perry, 262 Ark. 398, 557 S.W.2d 200 (1977), it was undisputed that Perry was injured in the course of his employment. Perry was employed by Manpower, Inc., on May 27, 1975, and from then until July 2, 1975, he worked a total of four days and was paid $63.00. The Commission thought the case was governed by the decision in Gill, supra, and awarded compensation based upon a full-time work week. The supreme court reversed, and said:
+However, the facts in Gill are easily distinguished. In Gill it was undisputed that the worker had a “contract of hire in force” which provided for a 40-hour work week at an agreed rate whenever work was available. The claimant always worked when needed.
+In this case there was no contract between Perry and Manpower. Perry simply made himself available for work and Manpower assigned him to an employer. Perry did not have a contract that required him to work or to be available for work.
+There is a dispute as to whether Perry made himself available at all times during this six-week period for work. It is undisputed that he was only paid for a total of four days over the six-week period of time.
+We find no substantial evidence to support the finding by the Commission that Perry’s average weekly wage was $88.00.
+262 Ark. at 400, 557 S.W.2d at 201.
+In another case relating to the problem here, we said:
+The computation of such average wage, under particular fact situations, often becomes difficult in one’s effort to arrive at a result just and fair to both employee and employer. It is generally considered contrary to that concept and against public policy to so compute an employee’s wage that it will .result in a compensation award that pays the employee more during his period of disability than he is accustomed to earn in his usual or normal year around activity.
+Farm Air Corp. v. Reader, 11 Ark. App. 72, 77, 666 S.W.2d 717, 720 (1984) (quoting from 11 Schneider, Workmen’s Compensation Law § 2175 (perm. ed. 1957)).
+In the case at bar, over a period of about two years, the decedent earned a total of $384.93. We agree with the Commission that it was obliged under the supreme court’s decision in Travelers to award only the minimum death benefits.
+Affirmed.
+Corbin, C.J., and Mayfield, J., agree.
