@@ -1,0 +1,34 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 82-392"
+decided: "1983-05-25"
+citations: ["8 Ark. App. 264", "651 S.W.2d 467"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elizabeth Jane WHITE, Individually and as Personal Representative of the Estate of H. B. WHITE, Deceased v. Thomas H. HICKEY"]
+source_url: "https://static.case.law/ark-app/8/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6141413
+cites_cases: ["220 Ark. 643", "261 Ark. 389", "267 Ark. 989", "270 Ark. 715", "401 S.W.2d 293", "56 F.2d 364"]
+---
+
+# White v. Hickey
+
+## Majority (Lawson Cloninger, Judge.)
+
+Lawson Cloninger, Judge.
+This case involves the liquidation of the assets of a partnership and a disbursement of insurance proceeds.
+In 1961, Dr. Thomas H. Hickey, the appellee, and Dr. Henry B. White entered into a written partnership agreement to engage in the practice of medicine in a clinic in Morrilton, Arkansas. The agreement provided that the partners would equally divide the profits of the partnership, and that upon the death of either partner the partnership would be dissolved. Thereafter, the two partners purchased four life insurance policies in the amount of $15,000 each.. The doctors were the individual owners of the four policies, each doctor being the named insured on two of the policies with the other partner designated as beneficiary. All four of the policies provided that the designated beneficiary was revocable. The premiums on all the policies were paid by the partnership, and the policies were kept in the partnership offices.
+At an undetermined time, Dr. White surreptitiously removed the policies from the partnership offices, and in 1978 changed the designated beneficiary under his two policies to his wife, Elizabeth Jane White, the appellant. All four of the policies were found in Dr. White’s desk at his house following his death. At that time, appellee learned for the first time that the policies had been removed from the partnership offices and that Dr. White’s beneficiary had been changed. Dr. White remained as beneficiary on appel-lee’s policies until after Dr. White’s death. Dr. White died in 1980, and the insurer, American Foundation Life Insurance Company, paid the $30,000 in death benefits to appellant.
+Appellant filed suit in chancery court seeking the liquidation of the partnership. Appellee answered, contending that, by agreement of the partners, the proceeds of the policies in the event of the death of either partner, were to be used to enable the surviving partner to buy out, or help buy out, the interest of the deceased partner in the partnership assets.
+The trial court ordered a liquidation of the partnership assets, and ordered that all partnership assets be sold at public auction. Appellant has appealed from that portion of the chancery court’s decision which allowed appellee a credit of $30,000 against any interest of appellant in the proceeds of the partnership assets. We affirm.
+Appellant contends that the findings of the trial court were clearly erroneous because appellant was designated beneficiary of the insurance proceeds. She bases this point on the fact that because the policy gave the insured the right to change the beneficiary, the appellee had no vested interest in the policy. Self v. New York Life Insurance Company, 56 F.2d 364 (8th Cir. 1932), cert. denied, 287 U.S. at 607. She argues that although appellee alleges that there was an oral agreement with regard to the life insurance policies, the terms of a written contract cannot be altered or reformed by oral agreements unless the evidence in support of the oral agreement is clear, unequivocal and decisive. Abco Oil Corporation v. Stephens, 270 Ark. 715, 606 S.W.2d 134 (1980).
+The use of insurance in partnership transactions is discussed at length in Appleman’s Insurance Law and Practice, Section 871, where it is stated that benefits or proceeds of a policy must be regarded as partnership property where the premiums have been paid by the partnership. It is further stated that a partner who is guilty of an unauthorized use of partnership funds may still be liable to his partners for the funds used.
+The Uniform Partnership Act, Ark. Stat. Ann. § 65-121 (Repl. 1980) provides that every partner must account to the partnership for any benefit and hold as trustee for it any profits derived by him without the consent of the other partners from any use by him of its property. Ark. Stat. Ann. § 65-108 (Repl. 1980) provides that unless a contrary intention appears, property acquired with partnership funds is partnership property.
+Partners are bound to conduct themselves toward each other with good faith, and good faith not only requires that every partner should not make any false representations to his partners, but also that he should abstain from all concealments which may be injurious to the partnership business. Alexander v. Sims, 220 Ark. 643, 249 S.W.2d 832 (1952). In Bailes v. Bailes, 261 Ark. 389, 549 S.W.2d 69 (1977), the Arkansas Supreme Court stated:
+The Uniform Partnership Act does not require the initial partnership agreement be written and neither can we find any provision requiring an agreement which disposes of the assets upon the death of a partner to be in writing.
+In Leal v. Leal, 401 S.W.2d 293 (C.C.A. Tex. 1966), the Texas Court of Civil Appeals held that where a designated beneficiary pays premiums on a life policy pursuant to an agreement that he shall remain the beneficiary or receive proceeds of the policy, he acquires a vested right therein regardless of whether the insured retains the right under the policy to change the beneficiary.
+The appellee contends, and the trial court found, that, by agreement of the parties, the proceeds of the policies, in the event of the death of a partner, were to be used to buy out, or help buy out, the partnership interest of the deceased partner. There was ample evidence to support the finding of the trial court. There was evidence of a valid agreement, and it was not necessary for it to be in writing.
+The rule in Arkansas is that parol evidence cannot be introduced to change or alter a contract in writing. Blount v. McCurdy, 267 Ark. 989, 593 S.W.2d 468 (Ark. App. 1980). However, the parole evidence rule is not applicable to the facts in this case. Appellee made no attempt to alter the terms of the insurance contract. Under the terms of the policies, each insured had the authority to change the beneficiary, and the insurer was entitled to make payment to the designated beneficiary at the time of the insured’s death. The beneficiary under Dr. White’s policies properly received the proceeds, but she received them in trust for the benefit of appellee.
+Affirmed.
