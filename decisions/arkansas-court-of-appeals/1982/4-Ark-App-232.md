@@ -1,0 +1,27 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 81-393"
+decided: "1982-03-10"
+citations: ["4 Ark. App. 232"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dixie Amis BOWEN v. Joe T. DANNA and Sue L. DANNA"]
+source_url: "https://static.case.law/ark-app/4/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140254
+cites_cases: ["185 F. 2d 14", "263 Ark. 706", "276 F. 2d 468"]
+---
+
+# Bowen v. Danna
+
+## Majority (Lawson Cloninger, Judge.)
+
+Lawson Cloninger, Judge.
+This is a companion case to Bowen v. Danna, CA 81-209. These two cases were consolidated for consideration on appeal. On April 4, 1979, appellant, Dixie Bowen, filed her complaint in the Circuit Court of Benton County against appellees, Joe T. Danna and Kathryn S. Danna, for fraud and misrepresentation in the inducement and sale of a particular piece of property in Carroll County. Appellant sought money damages and a jury trial. On December 12, 1979, the Dannas filed their foreclosure action in the Chancery Court of Carroll County against Bowen seeking to foreclose a mortgage on the property. This was the subject of the previous appeal — CA 81-209 [Bowen v. Danna, supra]. The chancery action was tried first on October 12 and a decree of foreclosure was entered on February 19, 1981. On August 11, 1981, the Circuit Court of Benton County entered an order dismissing Bowen’s complaint on the basis of res judicata. From this order appellant, Dixie Bowen, now brings this appeal.
+Her sole point for reversal is that the trial court erred in dismissing her complaint on the basis of res judicata because the issues had not been litigated nor waived. Specifically, appellant alleges that in the chancery suit, appellant, Dixie Bowen, merely tried to show that the filing of the fraud and misrepresentation suit in Benton Circuit Court was the motive for commencing the foreclosure action. There was no evidence going to fraud or misrepresentation on the part of the Dannas prior to the execution of the note and mortgage. According to appellant, these issues were preserved for jury trial in the Benton Circuit Court action. In essence, the trial court found that Bowen’s action for fraud and misrepresentation was a compulsory counterclaim under Rule 13 (a) of the Arkansas Rules of Civil Procedure, and should have been alleged in the action in chancery court.
+We find that the trial court was in error. Rule 13 (a) provides that any causes of action which a party has against his opponent and which arise out of the same transaction or occurrence as the opponent’s claim must be pleaded as counterclaims. Such pleading is compulsory. However, when the cause of action which would otherwise of necessity be pleaded as a compulsory counterclaim is also the subject of pending litigation in another court — litigation which had been commenced before the instant action — waiver will not result from the failure to counterclaim the cause of action in question and the failing party will not thereafter be barred by res judicata. See Union Paving Company v. Downer Corporation, 276 F. 2d 468 (9th Cir. 1960); Esquire, Inc. v. Varga Enterprises, 185 F. 2d 14 (7th Cir. 1960).
+In Braswell v. Gehl, 263 Ark. 706, 567 S.W. 2d 113 (1978), appellees brought suit in circuit court to evict appellants for non-payment of rent on premises leased to them. Appellants answered and counterclaimed for damages, alleging that appellees had breached the lease agreement. Appellees moved to dismiss appellants’ counterclaim on the basis that the same issues were involved in a pending action in Pulaski Chancery Court. The trial court granted the motion. On appeal the Arkansas Supreme Court reversed, recognizing that the litigation in Pulaski Chancery Court sought injunctive relief. The court also recognized that the counterclaim in that particular case was filed to recoup the appellants’ business investment and solely because appellees’ present action against them jeopardized that investment. Further, their counterclaim was a substantially different action than the case in Pulaski Chancery Court. The court held that if the objects of two suits are different, they may progress at the same time although they are between the same parties and involve the same subject matter.
+In this situation, we have essentially two different cases. This case was a suit for fraud and misrepresentation in the inducement and sale of real property. In this case, Bowen sought money damages and a jury trial. In the suit in chancery court, Danna brought a foreclosure action based upon default. Bowen raised the defense of fraud and misrepresentation, but not in the sale of the property as was the subject of the suit in the circuit court, but only as these terms related to the allegations of default. Fraud and misrepresentation in the sale of the property was neither raised in the pleadings nor was it argued in the proceedings in chancery court. Moreover, this action was filed before the Dannas filed their action in chancery court. This has been held to be a bar to a claim of res judicata in the federal courts. Union Paving Company, supra; Esquire, Inc., supra.
+Reversed and remanded with instructions to proceed with the action.
+This case, subsequent to a petition for rehearing filed by appellee, was certified to the Arkansas Supreme Court. The opinion written by this court was withdrawn.
