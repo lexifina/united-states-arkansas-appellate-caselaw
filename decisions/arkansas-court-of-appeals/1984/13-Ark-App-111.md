@@ -1,0 +1,42 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 84-41"
+decided: "1984-12-05"
+citations: ["13 Ark. App. 111", "680 S.W.2d 718"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cloninger and Corbin, JJ., agree."]
+parties: ["ARKANSAS STATE BOARD OF PHARMACY v. Steve ISELY"]
+source_url: "https://static.case.law/ark-app/13/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137952
+cites_cases: ["12 Ark. App. 229", "243 Ark. 967", "266 Ark. 323", "266 Ark. 339", "269 Ark. 67"]
+---
+
+# Arkansas State Board of Pharmacy v. Isely
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+This appeal involves the penalties imposed on the appellee by the appellant for violations of regulations regarding the practice of pharmacy. The Board appeals from the trial court’s decision that one of the bases found by the Board to justify suspension of the appellee’s license was not supported by substantial evidence, and from the trial court’s reduction of the period of suspension.
+On February 16, 1982 a hearing was held before the Board, and, as a result of that hearing, the Board imposed a $200 fine and suspended the appellee’s license for 30 days. The appellee appealed that decision to the circuit court, which remanded the case to the Board for further development of the factual basis for the Board’s findings. On remand, the Board heard additional charges, and, as a result of a hearing held on October 13, 1982, found that the appellee had failed to maintain accurate records, that he was guilty of unprofessional conduct in refilling altered prescriptions, that he had arbitrarily changed the directions for dosages on certain prescriptions, and that he had dispensed drugs without a prescription. Based on these findings, the Board suspended his license for 90 days and imposed a $500 fine. On the second appeal, the circuit court found substantial evidence to support the Board’s finding regarding the inaccuracy of the records, and the court deferred to the Board’s expertise on its finding regarding the altered prescription. However, the court held that the finding that the appellee had refilled unauthorized prescriptions was based on conjecture, speculation, or surmise. The court, based on those findings, reduced the period of suspension from 90 days to 10 days, leaving all other penalties intact. From that decision, the Board appeals.
+Since no one appeals from the two findings which the trial court found to be supported by substantial evidence, we will not deal with those facts. The evidence regarding the unauthorized refill of a prescription centers around transactions involving the appellee and Dr. T. H. Hickey. A Health Department Auditor, in the course of his investigation, obtained a statement from Dr. Hickey that he had not authorized a prescription for Mr. Ivan Ward for Talwin. Subsequently, the appellee introduced a statement from Dr. Hickey which indicated that he might have authorized the medication for Mr. Ward. Mr. Ward and his wife testified that, when the prescription was presented to the appellee, he called Dr. Hickey to obtain authorization for the refill. The appellee testified that he had obtained authorization from Dr. Hickey for the refill. Further, Mr. Ward’s son testified that he had spoken with Dr. Hickey about his father’s condition, and that he later went to the pharmacy and observed the appellee discussing the matter with Dr. Hickey over the telephone prior to filling the prescription. The appellee’s mother verified her son’s version , of the events surrounding the refill of Mr. Ward’s prescription.
+From this evidence, the Board made its findings and assessed the penalties noted above. The trial court affirmed the Board’s findings on two of the charges, but, as noted earlier, found that the Board’s conclusion that the appellee had refilled an unauthorized prescription was based on conjecture and speculation rather than on substantial evidence. After reviewing the evidence, we agree with the trial court that the Board’s finding regarding the refill of unauthorized prescriptions was not supported by substantial evidence.
+On appeal from decisions resulting from actions under the Administrative Procedure Act, Ark. Stat. Ann. § 5-701 et seq (Repl. 1976),
+. . .the circuit court’s review of the evidence is limited to a determination of whether there was substantial evidence to support the action taken. On appeal to this court, our review is similarly limited to a determination of whether the action of the board or agency is supported by substantial evidence. Arkansas Real Estate Commission v. Harrison, 266 Ark. 339, 585 S.W.2d 34 (1979). Substantial evidence has been defined as valid, legal and persuasive evidence that a reasonable mind might accept as adequate to support a conclusion, and force the mind to pass beyond mere conjecture. Pickens-Bond, Const. Co. v. Case, 266 Ark. 323, 584 S.W.2d 21 (1979).
+Arkansas Real Estate Commission v. Hale and Owens, 12 Ark. App. 229, 674 S.W.2d 507 (1984).
+We affirm the decision of the trial court that the Board’s decision regarding the charge of refilling unauthorized prescriptions was not supported by substantial evidence. The only evidence before the Board which supported such a finding was Dr. Hickey’s initial statement in which he indicated that he had not authorized the refill in question. Dr. Hickey later recanted, and stated, under oath, that he might have authorized the questioned prescription. For the Board to accept as truth the initial statement, and to disregard the witness’ later statement, and the testimony of all the other witnesses, required speculation and conjecture on the part of the Board.
+The Board also argues that the trial court erred in substituting its judgment for that of the Board in assessing the penalty against the appellee. On this point, we agree with the appellant.
+The trial court, in deciding to modify a penalty, suspension or revocation of a pharmacist’s license, is limited by the provisions of Ark. Stat. Ann. § 5-713(h) (Supp. 1983), which states:
+(h) The court may affirm the decision of the agency or remand the case for further proceedings. It may reverse or modify the decision if the substantial rights of the petitioner have been prejudiced because the administrative findings, inferences, conclusions, or decisions are:
+(1) in violation of constitutional or statutory provisions;
+(2) in excess of the agency’s statutory authority;
+(3) made upon unlawful procedure;
+(4) affected by other error or law;
+(5) not supported by substantial evidence of record;
+or
+(6) arbitrary, capricious, or characterized by abuse of discretion.
+The trial court, or, for that matter, this Court, has the authority to modify a penalty assessed under the Administrative Procedure Act if it is found that such penalty was unduly harsh and unreasonable under all the facts. Baxter v. Arkansas State Board of Dental Examiners, 269 Ark. 67, 598 S.W.2d 412 (1980); Arkansas State Board of Pharmacy v. Patrick, 243 Ark. 967, 423 S.W.2d 265 (1968). Although the trial court may have felt that the 90 day suspension was arbitrary in the sense that it was too harsh under all the circumstances of the case, based on the evidence the trial court found to be substantial, we are not in agreement with the trial court’s decision to reduce the period of suspension, nor do we feel compelled to assess a penalty on our own, either by reinstating the penalty assessed by the Board, or arriving at some other period of suspension. We have decided, rather, to remand the case to the circuit court, with instructions to the trial court to remand the matter to the Board. The Board is to assess a penalty which, in the determination of the Board, is commensurate with the violations found to be supported by substantial evidence by the trial court and this Court. Neither we, nor the trial court, could determine the weight the Board placed on the alleged violation concerning the unauthorized refill, but, since both the trial court and this Court have found that charge and finding of guilt to be unsupported by substantial evidence, a penalty should be assessed absent any consideration of that charge. The Board of Pharmacy is composed of five experienced pharmacists, and, “it is more likely to know the effectiveness of penalties than any court.” Patrick, supra, (dissenting opinion).
+Affirmed, and remanded.
+Cloninger and Corbin, JJ., agree.
