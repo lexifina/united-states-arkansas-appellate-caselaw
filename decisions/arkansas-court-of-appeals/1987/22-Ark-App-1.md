@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 86-380"
+decided: "1987-07-08"
+citations: ["22 Ark. App. 1", "731 S.W.2d 792"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Coulson and Jennings, JJ., agree."]
+parties: ["David LONG v. Bill CAUTHRON, Sheriff"]
+source_url: "https://static.case.law/ark-app/22/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6656459
+cites_cases: ["130 Cal. App.3d 776", "18 U.S.C. § 3182", "192 Neb. 451", "224 So.2d 206", "266 Ark. 419", "373 F.2d 149"]
+---
+
+# Long v. Cauthron
+
+## Majority (George K. Cracraft, Judge.)
+
+George K. Cracraft, Judge.
+David Long appeals from an order denying his petition for a writ of habeas corpus and release from his detention under a governor’s warrant for his extradition to the State of California. We find no error and affirm.
+On January 22, 1986, appellant was taken into custody pursuant to a governor’s warrant for his extradition to the State of California. The validity of the governor’s warrant is not questioned. On February 21,1986, the appellant filed a petition for a writ of habeas corpus in which he alleged that more than thirty days had elapsed since his arrest under the governor’s warrant; that the delay in delivering him to the agent from California was inexcusable; and that the warrant should be quashed and he released from custody pursuant to 18 U.S.C. § 3182 (1982). Ata hearing on the petition, the trial court found that any delay in delivery of the appellant to the authorities from California was not the fault of that state; that appellant had not been unduly prejudiced by the delay; and that the thirty-day provision in the federal statute was directory, as opposed to mandatory, and did not bar extradition in this case.
+In Cadle v. Cauthron, 266 Ark. 419, 584 S.W.2d 6 (1979), the Arkansas Supreme Court recognized that the only requirement of the United States Constitution with reference to extradition is that, upon demand of a requesting state, the executive authority of the asylum state is bound to deliver the fugitive. U.S. Const, art. IV, § 2, cl. 2. Cadle further declared that the requirements for extradition were set forth in 18 U.S.C. § 3182 and that neither the United States Constitution nor the United States Code required any particular type of proceeding concerning extradition matters, the details of extradition proceedings being left to the various states.
+18 U.S.C. § 3182 provides as follows:
+Whenever the executive authority of any State or Territory demands any person as a fugitive from justice, of the executive authority of any State, District or Territory to which such person has fled, and produces a copy of an indictment found or an affidavit made before a magistrate of any State or Territory, charging the person demanded with having committed treason, felony, or other crime, certified as authentic by the governor or chief magistrate of the State or Territory from whence the person so charged has fled, the execution authority of the State, District, or Territory to which such person has fled shall cause him to be arrested and secured, and notify the executive authority making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear. If no such agent appears within thirty days from the time of the arrest, the prisoner may be discharged. [Emphasis added.]
+Arkansas has adopted the Uniform Criminal Extradition Act (Ark. Stat. Ann. § 43-3001 et seq. (Repl. 1977 and Supp. 1985)), which conforms to the requirements of both the Constitution and the United States Code. Our act, however, does not place any limit on the time during which the agent of the demanding state must take charge of the prisoner.
+Appellant argues that the federal statute has preempted the field of extradition procedures and that our courts are bound to follow the federal statute. He contends that under the United States Code it was mandatory that the agent for the State of California appear within thirty days of his arrest or that he be released. While we agree that we must follow federal statutes regarding extradition, Cadle v. Cauthron, supra, we do not agree that the terms of 18 U.S.C. § 3182 mandate the result sought by the appellant in this case. The word “may” as contained in the federal statute is generally construed as permissive. Although “may” can, in certain contexts, be construed to mean “shall,” we are cited no cases in which the federal courts have so held with respect to this statute, and we note that various state courts have held the language to be permissive rather than mandatory. See People v. Superior Court of Los Angeles County, 130 Cal. App.3d 776, 183 Cal. Rpt. 132 (1982); Prettyman v. Karnopp, 192 Neb. 451, 222 N.W.2d 362 (1974); McEwen v. State, 224 So.2d 206 (Miss. 1969).
+We do not construe the federal statute as mandating the release of a prisoner held on a governor’s warrant where the demanding state has not taken him into custody within thirty days of the arrest. The asylum state is bound by the Constitution to take him into custody and deliver him to the demanding state. The thirty-day provision in the federal statute does no more than release the asylum state from its constitutional obligation to hold the prisoner if the demanding state does not appear within thirty days. Nothing in it prohibits a state from holding him for a reasonable time thereafter. Here, the prisoner was in custody under our governor’s warrant for thirty-one days prior to the filing of the petition for the writ. We do not find this to be unreasonable.
+We likewise find no merit in appellant’s argument that the permissible period for holding him under the warrant ran from the time of his arrest until the date of the hearing on his petition. Any delay incurred after the filing of the petition for a writ of habeas corpus is the result of appellant’s own act. The purpose in filing the habeas corpus action was to test the validity of his detention. The receiving state should not be penalized for failing to send its agent to claim the fugitive for extradition before the termination of litigation to avoid it. Smith v. Idaho, 373 F.2d 149 (9th Cir. 1967); People v. Superior Court of Los Angeles County, supra.
+Affirmed.
+Coulson and Jennings, JJ., agree.
