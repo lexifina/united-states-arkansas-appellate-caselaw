@@ -1,0 +1,40 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 00-642"
+decided: "2001-06-06"
+citations: ["74 Ark. App. 122", "45 S.W.3d 427"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Neal, J., concurs.", "Pittman, J., agrees."]
+parties: ["Alton OVERTON v. Jason JONES"]
+source_url: "https://static.case.law/ark-app/74/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138439
+cites_cases: ["279 Ark. 252", "340 Ark. 418", "Ark. Code Ann. § 9-10-102"]
+---
+
+# Overton v. Jones
+
+## Majority (Sam BIRD, Judge.)
+
+Sam BIRD, Judge.
+This case arises from a paternity determination and custody award by the Chancery Court of St. Francis County regarding the minor child Spencer Lewis Jones, who was born out of wedlock on December 23, 1998. His mother, Nicole Overton, was killed in a car accident on April 10, 1999. Appellant Alton Overton, who is Nicole’s father and Spencer’s maternal grandfather, appeals the chancery court order that awarded custody of the child to appellee Jason Jones after determining that Jones was his biological father. Overton contends that the trial court erred (1) in denying his motion to dismiss, based on improper venue and a lack of jurisdiction, and (2) in awarding custody to appellee Jones, because the child’s interests would be best served by awarding custody to Overton. We hold that the St. Francis County Chancery Court was not the proper venue for matters relating to the paternity and custody of the minor child. Therefore, we reverse on the first point and vacate the trial court’s orders. In view of this disposition, we find it unnecessary to address the merits of the second point.
+It is helpful to set forth the factual and procedural history of this case before turning to the issues on appeal. On April 13, 1999, three days after Nicole Overton’s death, Jason Jones filed a petition in St. Francis County Chancery Court seeking a determination that he was Jason’s father and asking that custody be awarded to him. On April 29, Alton and his new wife, Mary, filed in Saline County Chancery Court a petition for guardianship, and an order awarding guardianship was entered on that date.
+On May 6, Alton and Barbara Overton moved to dismiss the St. Francis County Chancery Court action, contending that the court did not have jurisdiction over the minor child, that St. Francis County was not the proper venue for the cause of action, and that the petition before the court failed to state facts upon which relief could be granted. They also contend that the Saline County Probate Court had assumed jurisdiction of the child and had appointed a guardian, that the minor child resided in Saline County, and that the best interests of the child required that the litigation take place in Saline County. On May 18, the St. Francis County Chancery Court denied the Overtons’ motion to dismiss and conducted a paternity hearing, at which it considered the testimony of the parties and the results of a DNA test that had been performed before Nicole’s death. In an order of June 24, 1999, the court found that Jason Jones was the father of the child. On June 25, the Overtons filed a counter-petition alleging that Jason Jones was not a fit and proper person to have custody, and asking that Alton Over-ton be awarded custody. On September 30, the St. Francis County Chancery Court conducted a hearing to decide who should be awarded custody of the child. By order of December 13, the St. Francis County Chancery Court awarded custody to Jason Jones and visitation privileges to the Overtons.
+Whether the trial court erred in denying Alton Overton’s motion to dismiss, based upon improper venue and lack of jurisdiction
+Venue and jurisdiction, though sometimes used interchangeably, are two distinct legal concepts. Venue refers to the geographic area, like a county, where an action is brought to trial. Meny v. Norris, 340 Ark. 418, 13 S.W.3d 143 (2000). Jurisdiction is the power of a court to decide cases and presupposes control over the subject matter and parties. Id.
+Alton Overton contends that proper venue for the paternity and custody determinations relating to the child involved here was in Saline County, where the minor child resided, and that venue was improper in St. Francis County, where the father resided. Jason Jones contends that this issue should not be addressed because Overton did not raise his argument below. We disagree. Overton’s motion to dismiss as abstracted in his brief, specifically states that St. Francis County was not the proper venue for the paternity and custody determinations, and that the minor child had resided in Saline County for his entire lifetime and continued to reside there. Additionally, the abstracted order by which the court denied Over-ton’s motion to dismiss includes the finding that the court “has jurisdiction over the parties and cause of action and is the proper venue.” From the allegations contained in the motion to dismiss and the court’s finding of “proper venue” in the order denying the motion, we find that the issue of venue was properly raised below.
+Venue of paternity actions shall be in the county in which the plaintiff resides or, in cases involving a juvenile, in the county in which the juvenile resides. Ark. Code Ann. § 9-10-102(c) (Supp. 1999) (emphasis added). As Overton points out, Spencer was first cared for at his home in Saline County by his mother; by his maternal step-grandmother, Mary J. Overton; and by his maternal grandparents, Alton and Barbara Overton. Furthermore, the Overtons continued to care for the child after his mother’s death.
+There is no dispute that the county of residence of Spencer Jones, the juvenile, was Saline County. Therefore, under the mandate of section 9-10-102(c), the proper venue for the paternity determination of Spencer Jones was in Saline County. Therefore, we reverse and vacate the St. Francis County Chancery Court order entered in this cause on June 24, 1999.
+Arkansas Code Annotated section 9-10-113(b) (Repl. 1998) provides that a biological father who has established paternity in a court of competent jurisdiction may petition the chancery court, or other court of competent jurisdiction, wherein the child resides, for custody of the child (emphasis added). Thus it is equally clear that Saline County, and not St. Francis County, was the proper venue for the custody determination in this case. Therefore, we reverse and vacate the St. Francis County Chancery Court order entered in this cause on December 13, 1999.
+The St. Francis County Chancery Court orders relating to the paternity and custody of Spencer Jones are reversed and vacated.
+Neal, J., concurs.
+Pittman, J., agrees.
+
+## Concurrence (Olly Neal, Judge,)
+
+Olly Neal, Judge,
+concurring. I concur with the decision to reverse because venue for custody determinations lies exclusively in the county in which the child resides. I disagree, however, with the holding that Section 9-10-102(c) fixes venue of a paternity action involving a juvenile in the county in which the juvenile resides.
+Section 9-10-102(c) provides, “Venue of paternity actions shall be in the county in which the plaintiff resides or, in cases involving a juvenile, in the county in which the juvenile resides.” The use of the word “or” does not place limitation on venue to the county in which the juvenile resides; it would have used the word “but” instead of “or,” allowing the statute to read, “Venue of paternity actions shall be in the county in which the plaintiff resides hut, in cases involving a juvenile, in the county in which the juvenile resides.”
+It is not beyond the realm of logic that the legislature would allow venue of paternity action to He in two counties. A prior statute allowed a man seeking to establish paternity to bring the action in either the county in which the mother resided or the county in which the child resided. See Ark. Stat. Ann. 34-716 (Supp. 1981). See also Fuller v. Robinson, 279 Ark. 252, 650 S.W.2d 585 (1983).
