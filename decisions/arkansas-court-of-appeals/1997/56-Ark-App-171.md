@@ -1,0 +1,34 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 96-445"
+decided: "1997-03-19"
+citations: ["56 Ark. App. 171", "939 S.W.2d 858"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rogers and Crabtree, JJ., agree."]
+parties: ["Lillian HOWARD v. Willow CRAMLET"]
+source_url: "https://static.case.law/ark-app/56/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139472
+cites_cases: ["164 Ark. 261", "213 Ark. 889", "243 Ark. 572", "261 S.W.2d 645", "280 Ark. 492", "312 Ark. 183", "320 Ark. 240", "490 F.Supp. 452", "5 Ark. App. 26", "54 Ark. App. 216"]
+---
+
+# Howard v. Cramlet
+
+## Majority (John Mauzy Pittman, Judge.)
+
+John Mauzy Pittman, Judge.
+This is a quiet-title action. Appellant, Lillian Howard, appeals from an order of the Madison County Chancery Court finding that she failed to establish an easement or right-of-way across appellee’s, Willow Cramlet’s, property. Appellant argues on appeal that this ruling was error. We agree and reverse and remand for further proceedings consistent with this opinion.
+Wayne and Marlene Keck owned 320 acres of land. On April 20, 1992, they conveyed 199.57 of the 320 acres to appellee by warranty deed with the following reservation; “Less and except a right of way 30 feet in width, for the purposes of ingress and egress over the above described property for access to the adjacent property to the west. ...” The reservation across appel-lee’s servient estate provided ingress and egress to the Kecks’ remaining lands.
+On May 15, 1992, the Kecks conveyed a portion of their lands to appellant. On July 27, 1992, Marlene Keck, the surviving spouse of Wayne Keck, conveyed her right-of-way across appel-lee’s 199.57 acre tract to appellant. That instrument stated, “This right of way is more specifically described as being 30 feet in width proceeding across the above described property [appellee’s lands] to the property of the grantee [appellant] described below.”
+In 1993, a dispute arose when appellee blocked the roadway appellant was using to access appellant’s property. Thereafter, appellee brought suit to quiet title contending that appellant did not have an easement or right-of-way across appellee’s property. The court held that appellant’s deed did not contain a metes and bounds description and was too vague for enforcement. It found that there was no easement retained by the Kecks in their conveyance to appellee or by Marlene Keck’s conveyance of the easement or right-of-way to appellant.
+In Hatfield v. Arkansas Western Gas Co., 5 Ark. App. 26, 28-29, 632 S.W.2d 238, 240 (1982), we held:
+An easement or right-of-way is an interest in land and is conveyed by deed the same as land is conveyed. However, it is not essential to the validity of the grant of an easement that it be described by metes and bounds or by figures giving definite dimensions of the easement. The grant of an easement is valid when it designates the easement or right-of-way as such and describes the lands which are made servient to the easement. While the owner of the servient estate has the right to limit the location of an easement, where he fails to do so it may be selected by the grantee so long as his selection is a reasonable one taking into consideration the interest and convenience of both estates. Where the grant of a right-of-way is not bounded in the deed it is to be bounded by fines of reasonable enjoyment. Fulcher v. Dierks Lumber & Coal Co., 164 Ark. 261, 261 S.W.2d 645 (1924). The court in reaching such determination will consider the interest and convenience of both estates, and the grantor will have the right to the use of the easement, except insofar as the limitation of that use is essential to the reasonable enjoyment of the easement. Drainage District No. 16, Mississippi County v. Holly, 213 Ark. 889, 214 S.W.2d 224 (1948), 25 Am. Jur. 2d Easements and Licenses § 78.
+A primary characteristic of an easement is that its burdens fall upon the possessor of the land from which it issues. This characteristic is expressed in the statement that the land constitutes a servient tenement and the easement a dominant tenement. Restatement of Property § 450 comment a (1944).
+The rule in this state is that the owner of an easement may make use of the easement compatible with the authorized use so long as the use is reasonable in fight of all facts and circumstances of the case. The owner of the servient tenement may make any use thereof that is consistent with, or not calculated to interfere with, the exercise of the easement granted. 3 Tiffany, Law of Real Property, § 811 (3rd ed. 1939); see Natural Gas Pipeline Company of America v. Cox, 490 F.Supp. 452 (E.D. Ark. 1980).
+The location of the undefined right-of-way must be reasonable to both the dominant and servient estates, considering the condition of the place, the purposes for which it was intended, and the acts of the grantee. Carroll Electric Coop. Corp. v. Benson, 312 Ark. 183, 848 S.W.2d 413 (1993); Massee v. Schiller, 243 Ark. 572, 420 S.W.2d 839 (1967). The owner of the servient estate has the right to delimit the right-of-way, but if he or she fails to do so, the holder of the dominant estate may exercise this right, but in either case the location must be reasonable. Bradley v. Arkansas-Louisiana Gas Co., 280 Ark. 492, 659 S.W.2d 180 (1983); Hatfield, supra; see Carroll Electric, supra.
+The findings of a chancellor will not be disturbed on appeal unless they are found to be clearly erroneous or clearly against the preponderance of the evidence. Fields v. Ginger, 54 Ark. App. 216, 925 S.W.2d 794 (1996). From our de novo review, we conclude that the chancellor’s finding that appellant failed to establish an easement over the lands of appellee is clearly erroneous. In this case, the grant of the easement is valid since it designates the right-of-way and describes the lands that are made servient to the easement. Hatfield, supra; see Bradley, supra; Fulcher v. Dierks Lumber & Coal Co., 164 Ark. 261, 261 S.W.2d 645 (1924).
+Appellant filed a counterclaim seeking an injunction and damages for appellee’s obstruction of the road that appellant was using to access her property. Appellant testified that she incurred $560.00 for the cost of bulldozing appellee’s obstructions. The owner of a servient estate may not erect a barrier that unreasonably interferes with the right of passage by the easement owner. Wilson v. Brown, 320 Ark. 240, 897 S.W.2d 546 (1995). Because the court found no easement, the issue of damages was not reached. The decree is reversed, and the case is remanded for the court to consider the issue of damages and to enter an order consistent with this opinion. The order should locate the easement by description.
+Reversed and remanded.
+Rogers and Crabtree, JJ., agree.
