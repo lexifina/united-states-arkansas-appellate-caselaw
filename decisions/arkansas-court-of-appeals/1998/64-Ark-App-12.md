@@ -1,0 +1,47 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 98-513"
+decided: "1998-11-04"
+citations: ["64 Ark. App. 12", "977 S.W.2d 900"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pittman and Griffen, JJ., agree."]
+parties: ["Johnny DAVIES, Jr. v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/64/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136129
+cites_cases: ["264 Ark. 575", "317 Ark. 609", "320 Ark. 393", "324 Ark. 322", "324 Ark. 450", "333 Ark. 698", "333 Ark. 732", "37 Ark. App. 61", "507 U.S. 725", "896 S.W.2d 890", "Ark. Code Ann. § 16-30-102", "Ark. Code Ann. § 16-32-202"]
+---
+
+# Davies v. State
+
+## Majority (Sam Bird, Judge.)
+
+Sam Bird, Judge.
+Johnny Davies, Jr., was charged by information with possession of a controlled substance (crack cocaine) with intent to deliver. At trial, during voir dire and during closing argument, appellant admitted that he was guilty of possession of cocaine, but he argued that he was not guilty of possession with intent to deliver. Appellant was found guilty by a jury of possession and sentenced to seventy-two months in the Arkansas Department of Correction, and a $3,000 fine. On appeal he argues that he should have been granted a mistrial or a new trial because an alternate juror was in the jury room during deliberations.
+At the trial held on January 15, 1998, Willie Pegues, a narcotics officer with the Hot Springs Police Department, testified that he did a “pat-down” search of appellant in connection with a traffic stop. Appellant kept moving his hand to his waist, so Officer Pegues checked and found a cellophane package that contained a white rock-looking material that the officer believed to be “rock” cocaine. Chris Harrison, a forensic drug chemist from the Arkansas State Crime Laboratory, testified that he tested the substance taken from appellant and found it to be 1.318 grams of 76% pure cocaine.
+Following the reading of the jury’s verdict and the polling of the jurors, a colloquy took place at the bench:
+The Court: I just realized that the alternate probably went back in there. I’m going to excuse her at this point.
+Mr. Bosson [Prosecuting Attorney]: I don’t see any problem with that.
+Mr. Becker [Defense Counsel]: I do, Your Honor. I move for a mistrial.
+The Court: That will be denied unless you can show some prejudice.
+Mr. Becker: Well, Your Honor, . . . only twelve were suppose^] to go back. The alternate should only go back if there’s a — the normal procedure is if one of the jurors is disqualified or cannot take up deliberations and then they are to begin deliberations.
+The Court: Well, at this point I don’t see where any prejudice has been done. I’m going to exclude the alternate juror and we’re [going to] proceed. Your motion will be denied.
+End of Side Bar Conference.
+The Court: Mr. Terral, we appreciate your service as alternate juror. You are allowed to be excused at this point.
+The jury was then instructed, arguments on sentencing were heard, and the jury retired to deliberate on sentencing.
+On January 22, 1998, appellant filed a motion for new trial on the ground that the number of jurors that deliberated on his guilt was thirteen and that he had an absolute right to a twelve-member jury. On January 27 at the sentencing proceeding, defense counsel informed the court that he did not have any evidence to present on the motion for new trial. After reviewing the circumstances of the alternate juror being present for the guilt phase of jury deliberations, the court denied the motion for new trial on the basis that appellant was unable to show any prejudice, as the jury had convicted him of only simple possession and he had admitted his guilt to that charge in court. Appellant’s only argument on appeal is that the court erred in denying his motion for mistrial and motion for a new trial on the ground that there were thirteen jurors in the jury room during the guilt phase of jury deliberations.
+Arkansas Code Annotated section 16-32-202(b)(l) (Supp. 1997) provides that “[j]uries shall be composed of twelve (12) jurors.” In arguing that the thirteenth juror in the room during deliberations violated his right to a trial by a twelve-person jury under the United States and Arkansas Constitutions, appellant cites Byrd v. State, 317 Ark. 609, 879 S.W.2d 434 (1994), and Collins v. State, 324 Ark. 322, 920 S.W.2d 846 (1996).
+We find those cases to be inapplicable to the present situation. In Byrd, the court considered a constitutional challenge to an amendment to Ark. Code Ann. § 16-32-202(b)(l), which allowed six-person juries to hear misdemeanor cases at the trial court’s discretion. The court held that the right to a twelve-person jury is inviolate and that the amendment was unconstitutional.
+In Collins, the appellant had been convicted by an eleven-member jury, without waiving his right to trial by a twelve-member jury. Our supreme court held that the right to trial by a twelve-member jury is a fundamental right, the violation of which renders the judgment void and subject to collateral attack. Neither of these cases involved the issue of an alternate juror present during deliberations.
+Arkansas Code Annotated section 16-30-102 (1987) provides that the court may direct that not more than three alternate jurors be called and impaneled in addition to the regular jury to replace a regular juror who becomes unable or disqualified to serve. When the jury retires to deliberate, an alternate juror who is not needed to replace a regular juror shall be discharged.
+It is not unprecedented for alternate jurors or other nonjury members to appear in the jury room during deliberations. In Campbell v. State, 264 Ark. 575, 572 S.W.2d 845 (1978), a woman who had been with the appellant when he was arrested for possessing a stolen automobile testified for the State. During a recess in appellant’s trial, the woman, who was intoxicated, wandered into the jury room, apparently looking for a cup of coffee. Although appellant was aware of the woman’s actions, no immediate objection was made. Appellant subsequently filed a postcon-viction petition pursuant to Ark. R. Crim. P. 37, and one of his arguments was that the court erred in not declaring a mistrial on the basis of the woman in the jury room. The Arkansas Supreme Court held that the burden was upon appellant to show actual improper influence on the jury.
+In United States v. Olano, 507 U.S. 725, 737 (1993), the Court considered the trial court’s action at the end of a three-month trial in allowing, with the consent of the defendants, two alternate jurors to attend jury deliberations, although instructing them not to participate. Federal Rule of Criminal Procedure 24(c) provides, as does Ark. Code Ann. § 16-30-102(b) (Repl. 1994), that “[a]n alternate juror who does not replace a regular juror shall be discharged after the jury retires to consider its verdict.” The Court held that, although the presence of the alternate jurors during deliberations was a deviation from Rule 24(c), and the error was “plain,” no prejudice would be presumed. The burden was on the defendants to make “a specific showing of prejudice.”
+McDonald v. State, 37 Ark. App. 61, 824 S.W.2d 396 (1992), is directly on point. The alternate juror in that case had been excused but, through some misunderstanding, entered the jury room fifteen minutes after the jury had retired, and remained there for about fifteen minutes. Appellant argued that the mere presence of the alternate juror compromised the sanctity of the jury’s deliberations and his right to a fair and impartial trial. This court held that the appellant had failed to show any prejudice by the alternate’s presence in the jury room.
+In the instant case appellant was charged with and tried for possession of cocaine with intent to deliver. He admitted that he possessed the cocaine, but argued to the jury that he was not guilty of “intent to deliver.” The jury returned with a verdict that appellant was guilty of possession, not possession with intent to deliver. Since the jury returned the verdict that appellant sought, he cannot say he was prejudiced by the presence of the alternate juror during deliberations.
+Appellant also argues that he should have been granted a new trial on the same basis. Appellee contends that the motion for new trial was not timely and should not be considered. Appellant’s motion for new trial was filed on January 22, 1998. However, the judgment and commitment order was not filed until February 10, 1998. A posttrial motion that is filed prior to the entry of the judgment is untimely and ineffective. See Brown v. State, 333 Ark. 698, 970 S.W.2d 287 (1998); Hicks v. State, 324 Ark. 450, 921 S.W.2d 604 (1996)(per curiam); and Webster v. State, 320 Ark. 393, 896 S.W.2d 890 (1995)(per curiam).
+Even if appellant’s motion for new trial had been timely filed, our decision would be the same. Because the jury returned the verdict appellant had sought, he cannot show that he suffered any prejudice because of the thirteenth juror in the jury room.
+Affirmed.
+Pittman and Griffen, JJ., agree.
+On May 21, 1998, the Arkansas Supreme Court adopted Rule of Criminal Procedure 32.3 to govern the use of alternate jurors in criminal trials when a regular juror is unable to serve or is disqualified. See Appendix, 333 Ark. 732 (1998).
