@@ -1,0 +1,34 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 98-820"
+decided: "1999-03-17"
+citations: ["66 Ark. App. 38", "987 S.W.2d 287"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Robbins, C.J., and Pittman, J., agree."]
+parties: ["FRED’S STORES of Tennessee, Inc. v. Lloyd BROOKS"]
+source_url: "https://static.case.law/ark-app/66/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136449
+cites_cases: ["289 Ark. 14", "289 Ark. 434", "294 Ark. 182", "299 Ark. 399", "305 Ark. 173", "307 Ark. 127"]
+---
+
+# Fred's Stores of Tennessee, Inc. v. Brooks
+
+## Majority (Terry Crabtree, Judge.)
+
+Terry Crabtree, Judge.
+This is an appeal from a jury verdict in a slip-and-fall case in favor of the appellee, Lloyd Brooks. On appeal, Fred’s Stores of Tennessee, Inc., the appellant, maintains that there is insufficient evidence of negligence to support the jury verdict. We find the evidence insufficient and reverse and dismiss.
+On September 18, 1995, while on crutches, appellee slipped and fell on clear hair gel in Fred’s in Nashville, Arkansas. At trial, five witnesses testified, including appellee, appellee’s wife, a customer who-was in the store at the time of the accident, a former employee of Fred’s, and the supervisor on duty at Fred’s at the time of the accident. Appellee testified that as he was making a right turn in the store, his left crutch hit a slick spot, and he fell to the floor. While on the floor, appellee noticed that a clear gel was on his crutch and shoe.
+Peggy Lansdell, a former employee of Fred’s, testified that she was working at Fred’s on the day of the accident and stated that she remembered that on a shelf nearby the accident, the store stocked hair gel. She specifically recalled that one particular bottle had gel all over the outside of the bottle. Lansdell further testified that she knew of no written policy concerning proper cleaning of debris on the floor and that no particular employee was responsible for checking the aisles of the store to ensure that the aisles were free from debris or fallen objects. In addition, she stated that the store usually stayed a mess.
+Anita Johnson, Fred’s supervisor at the time of the accident, testified that she did not require one particular employee to check the aisles of the store and that the store had no written procedure for employees to follow as a guideline to protect customers from accidents. Johnson further stated that she could not recall if the store was cleaned and swept the night before the accident.
+At the close of appellee’s case and at the close of all the evidence, appellant made motions for directed verdicts, stating that there was no evidence to support a verdict for appellee because appellee produced ño evidence that any substance on the floor' resulted from the negligence of appellant or that a substance had been on the floor for such a time that appellant knew or should have known of its presence. The trial court denied the motions. Subsequently, the jury returned with a verdict in favor of appellee for $10,000. At that point, appellant made a motion for judgment notwithstanding the verdict, and the circuit judge denied it..
+A motion for a directed verdict should be granted only - if there is no substantial evidence to support the verdict. Bank of Malvern v. Dunklin, 307 Ark. 127, 817 S.W.2d 873 (1991). On appeal from a denial of a directed verdict, this court views the evidence in the light most favorable to the party against whom the verdict is sought and gives it the highest probative value. Boykin v. Mr. Tidy Car Wash, Inc., 294 Ark. 182, 741 S.W.2d 270 (1987). Substantial evidence has been defined as being of sufficient force and character to compel a conclusion one way or another. Wal-Mart Stores, Inc. v. Kelton, 305 Ark. 173, 806 S.W.2d 373 (1991). It must force the mind to pass beyond suspicion or conjecture. Id.
+A property owner has a general duty to exercise ordinary care to maintain his or her premises in a reasonably safe condition for the benefit of invitees. Johnson v. Arkla, Inc., 299 Ark. 399, 771 S.W.2d 782 (1989). The burden of establishing a violation of this duty in a slip-and-fall case is well established. A plaintiff must show either 1) that the presence of a substance upon the premises was the result of the defendant’s negligence or 2) that the substance had been on the premises for such a length of time that the defendant knew or reasonably should have known of its presence and failed to use ordinary care to remove it. Safeway Stores, Inc. v. Willmon, 289 Ark. 14, 708 S.W.2d 623 (1986).
+Under the first part of the standard, appellant argues there was insufficient evidence that a substance was on the floor as a result of its negligence. We agree that appellee failed to present sufficient evidence regarding how the substance came to be on the store floor. Appellee’s theory apparently was that hair gel was removed or spilled from an opened container on a nearby shelf onto the floor, causing him to fall. However, testimony to this effect was speculative and insufficient to show there was a substance on the floor due to the appellant's negligence. Possible causes of a fall, as opposed to probable causes, do not constitute substantial evidence of negligence. Safeway Stores, Inc., supra.
+Appellant next contends, under the second part of the standard, that there was insufficient evidence that a substance remained on the floor for such a length of time that its employees were or should have been aware of its existence and failed to exercise ordinary care to remove it. We have recognized that the length of time a substance is on the floor is a key factor. The burden is on the plaintiff to show there is a substantial interval between the time the substance is placed on the floor and the time of the accident. Johnson v. Arkla, Inc., supra.
+Here, there was insufficient evidence that a substance had been on the store floor for such a substantial period that the employees knew or should have known of its existence. Appellee introduced no evidence that there were foot tracks through the hair gel in the aisle, which might lead to the inference that employees or patrons had walked through the gel and ignored the danger it presented. In fact, the store was only open two hours before the accident occurred, and appellee presented no evidence whatever of a substance on the floor- prior to the time the store opened for business.
+After careful review, we conclude that the jury had no evidence from which it might determine without speculation or conjecture how the substance got on the floor or how long it remained there prior to the accident. See Skaggs Co., Inc. v. White, 289 Ark. 434, 711 S.W.2d 819 (1986).
+Reversed and dismissed.
+Robbins, C.J., and Pittman, J., agree.
