@@ -1,0 +1,38 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 81-64"
+decided: "1981-07-01"
+citations: ["2 Ark. App. 195", "618 S.W.2d 173"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayfield, C.J., dissents."]
+parties: ["Fred TOWNSEND v. Jo Ann DOSS"]
+source_url: "https://static.case.law/ark-app/2/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140063
+cites_cases: ["143 Colo. 189", "27 Ariz, App. 62", "94 A.L.R. 2d 468"]
+---
+
+# Townsend v. Doss
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+Appellee is the owner of real estate in Arkansas County, Arkansas and appellant is a real estate broker in Stuttgart, Arkansas. Appellee listed her real estate with appellant and the property was sold to a Mrs. Mahfouz, who assumed an existing loan on the property and agreed to pay the balance in cash. The warranty deed was recorded September 10, 1979, and $7,000.00 of the down payment, which was due November 20, 1979, has never been paid.
+Appellee brought suit against appellant and Mrs. Mahfouz seeking to recover the S7.000.00 due on the down payment. A default judgment was entered against Mrs. Mahfouz. The trial court found appellant to have been negligent in his handling of the real estate transaction and granted a judgment in favor of appellee. From that judgment comes this appeal.
+Appellant argues that the trial court erred in failing to give a directed verdict. The basis for this argument is that there was no proof establishing the standard of care owed by appellant to appellee. We have found no Arkansas case directly in point, nor have counsel for the parties cited us to such a case. Appellant’s argument is founded on the premise that there was no contractual obligation breached by appellant; that there was no testimony as to regulations of the Arkansas Real Estate Commission which might have been violated; and there was no expert testimony which established the standard of care owed by a realtor to his customer under these circumstances.
+While it is true that there was no specific evidence presented to the court on the standard of care issue, we do not believe that such evidence was necessary to determine negligence, and therefore liability, of the broker in question.
+The general rule is stated clearly in 94 A.L.R. 2d 468:
+It is the well-established rule that a real-estate broker, who is not a mere middleman, but is employed by a principal to act as agent in a real-estate transaction, is under a duty to exercise reasonable care and skill, or that degree of care and skill ordinarily employed by persons of common capacity engaged in the same business, and that a broker is liable to his principal for all consequences directly flowing from his failure to exercise such degree of ordinary care and skill in the handling of the matter entrusted to him. [Emphasis supplied.]
+In Morley v. J. Pagel Realty & Insurance, 27 Ariz, App. 62, 550 P. 2d 1104 (1976), the court dealt with the question of whether a broker was under a duty to advise his clients that the balance of the purchase price, evidenced by an unsecured promissory note, should be secured by a mortgage. In that case, the court stated:
+Although this information (requiring a mortgage) might be beyond the average person, it is common knowledge in the real estate business. We think that as part of appellees’ duty to effect a sale for appellants on the best terms possible and to disclose to them all the information they possessed that pertained to the prospective transaction, appellees were bound to inform appellants that they should require security for the Haydens’ performance.
+In Lester v. Marshall, 143 Colo. 189, 352 P. 2d 786 (1960), the Colorado Supreme Court held that where a broker’s agent gratuitously undertook to close a real estate transaction, and assured the purchasers that they would receive a title free of encumbrances, and the purchasers relied on that promise, the broker was liable for a loss resulting from his failure to do what he promised. The court stated:
+Our conclusion that the evidence was sufficient to support the trial court’s finding that there was an express undertaking by the defendants on which the plaintiffs relied to their damage renders unnecessary a consideration of the legal duties implicit in the relationship of broker to client.
+We deem it significant that the plaintiffs resided out of Denver and that they were thus dependent on the services of the defendants. Defendants, in turn, were agreeable to plaintiffs’ leaving the arrangements to them since they did not recommend employment of counsel to examine the title and to render services at the time of the closing. The assurances given to the plaintiffs that everything would be taken care of prior to the closing; that they would get a title free of encumbrances; that the disbursements were made routinely; and that everything would be cared for after the closing, resulted in a quieting of any apprehension plaintiffs may have had, and a reliance on the defendants to perform whatever duties were requisite to complete the transaction without complications.
+The court quoted from 2 Restatement, Agency, § 378 (1958), as follows:
+One who, by a gratuitous promise or other conduct which he should realize will cause another reasonably to rely upon the performance of definite acts of service by him as the other’s agent, causes the other to refrain from having such acts done by other available means is subject to a duty to use care to perform such service or, while other means are available, to give notice that he will not perform.
+In the case at bar, there was evidence from which the court could have found that appellant was aware of the prior financial problems of the purchasers; that appellee was concerned about their past history and the security for the balance of the down payment; that appellee expressed her concerns to appellant; that appellant told her she did not have to come to Stuttgart from Texas since he would handle the details of the transaction; that appellant assured appellee that if the balance of the down payment was not paid she could get her house back; that appellant made absolutely no effort to secure (by mortgage or otherwise) the balance due, and that appellee had been damaged by the appellant’s failure to act as promised.
+The only explanation given by appellant was that he somehow believed that the savings and loan association (which prepared the deed and assumption agreement) was going to hold the deed rather than record it until a substantial sum had been paid on the amount due. We find no evidence to support the theory that this was an escrow situation; it was clearly a straight sale with an assumption of an existing mortgage as part of thé consideration.
+We believe that the evidence clearly supports the finding of the trial court that appellant was negligent in his handling of the transaction and that his negligence resulted in damage to Ms. Doss. We fail to see the need for expert testimony to establish the principle that a realtor should advise a client that her equity should be secured. This case is even clearer considering the assurances given Ms. Doss by Townsend that she could get her house back if there was a default. It would have been a simple matter to afford protection for Ms. Doss; appellant assured her she was protected; she was not protected and suffered a loss, and, since Townsend was the party who undertook to protect her from loss, he should bear the loss. We find no error, and therefore we affirm.
+Mayfield, C.J., dissents.
