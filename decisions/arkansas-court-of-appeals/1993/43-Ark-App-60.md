@@ -1,0 +1,68 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 93-122"
+decided: "1993-08-25"
+citations: ["43 Ark. App. 60", "859 S.W.2d 654"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Robbins, J., agrees.", "Mayfield, J., concurs."]
+parties: ["Deborah Ann ROLAND (Archer) v. Jeffery Neil ROLAND"]
+source_url: "https://static.case.law/ark-app/43/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136932
+cites_cases: ["29 Ark. App. 137", "29 Ark. App. 64", "292 Ark. 385", "299 Ark. 200", "305 Ark. 613", "306 Ark. 209", "309 Ark. 604", "34 Ark. App. 118", "35 Ark. App. 11", "Ark. Code Ann. § 9-12-312", "Ark. Code Ann. § 9-14-107"]
+---
+
+# Roland v. Roland
+
+## Majority (John Mauzy Pittman, Judge.)
+
+John Mauzy Pittman, Judge.
+Appellant, Deborah Ann Roland, and appellee, Jeffery Neil Roland, were divorced by a decree of the Lonoke County Chancery Court in May 1981. In the divorce decree, appellant was awarded custody of the parties’ twenty-one-month-old child and appellee was ordered to pay appellant $100.00 per month in child support. In March 1992, appellant filed a motion to increase appellee’s child support obligation, and appellee responded with a motion to change custody. Following a hearing, the chancellor denied both motions. On appeal, appellant argues that the chancellor erred in failing to find a change in circumstances and in not following the family support chart.
+At the hearing, evidence was introduced that appellee’s weekly take-home pay is $249.50; in 1981, he made $125.00 in take-home pay per week. Appellee testified that he has remarried and has two children from his second marriage. His wife does not work. He also testified that he pays approximately $700.00 per month for his Ford truck, his furniture, and his mobile home. On cross-examination in regard to his request for a change of custody, however, appellee testified that he could adequately support the child on his present income.
+Appellant testified that she has also remarried and does not work. Her husband is employed and provides medical insurance for the child. She testified that she has not had an increase in child support since 1981, when the child was twenty-one months old. Appellant stated that the costs associated with rearing the child (who was thirteen at the time of the hearing) have increased. She stated that his clothes cost more; it costs more to feed him; and his activities, such as baseball, are more expensive. She also testified that, every winter, the child is ill with allergies and respiratory problems.
+At the conclusion of the hearing, the chancellor denied appellee’s request for a change of custody. With regard to the issue of support, he stated:
+We’re working with very, very limited resources here. Seems to me like — of course, I can understand there’s probably some bitterness here. You attorneys probably weren’t able to even talk with each other about this, I don’t know, but there has to be significant changes in income and other things.
+Mr. Roland does have two other children that he’s also supporting now, and this has been over a period of twelve years, limited income. Mrs. Archer stated that she —there’s no reason why she’s not able to work. And I know that you can’t raise a child on a Hundred Dollars a month, but I don’t know what I can do. I can’t make something out of nothing.
+In the order, the chancellor stated that he was denying appellant’s motion for an increase in child support because “it would be an undue burden upon the [appellee] to pay an additional amount of child support, based upon the Affidavit of Financial Means entered herein.” The chancellor ordered appellee to be responsible for one-half of the child’s medical expenses not covered by insurance. Appellee has not cross-appealed from that part of the order denying his request for a change of custody.
+Appellant argues on appeal that the chancellor erred in refusing to find a material change in circumstances; in failing to refer to the family support chart; and in not making a specific written finding as to why he deviated from the family support chart.
+A change in circumstances must be shown before a court can modify an order regarding child support, and the party seeking modification has the burden of showing a change in circumstances. Reynolds v. Reynolds, 299 Ark. 200, 771 S.W.2d 764 (1989); Ross v. Ross, 29 Ark. App. 64, 776 S.W.2d 834 (1989). The assumption is that the chancellor correctly fixed the proper amount in the original divorce decree. Id.
+In determining whether there has been a change in circumstances warranting adjustment in support, the court should consider remarriage of the parties, a minor reaching majority, change in the income and financial conditions of the parties, relocation, change in custody, debts of the parties, financial conditions of the parties and families, ability to meet current and future obligations, and the child support chart. Thurston v. Pinkstaff, 292 Ark. 385, 730 S.W.2d 239 (1987).
+Reynoldsv. Reynolds, 299 Ark. at 202,771 S.W.2d at 765. There is no hard and fast rule concerning the specific nature of the changed circumstances. Arkansas Dep’t of Human Servs. v. Brown, 35 Ark. App. 11, 811 S.W.2d 326 (1991).
+A chancellor’s determination as to whether there are sufficient changed circumstances to warrant an increase in child support is a finding of fact, and this finding will not be reversed unless it is clearly erroneous. See Freeman v. Freeman, 29 Ark. App. 137, 778 S.W.2d 222 (1989).
+We agree with appellant that the chancellor erred in refusing to find a change in circumstances since the entry of the 1981 divorce decree. Although it does not compel a determination of changed circumstances, we note that a change of ten percent in the payor’s income can be sufficient to support such a finding. Ark. Code Ann. § 9-14-107(a) (Supp. 1991). At the hearing, appellee admitted that his take-home pay of $125.00 per week has doubled since the parties’ divorce. His affidavit of financial means showed his weekly take-home pay to be $249.50. Additionally, appellant testified that the costs of rearing the child have increased during the eleven years between the date of the divorce decree and the hearing on the petition to increase support. She testified that the child has additional expenses resulting from his participation in school activities. She further testified that the child has medical problems; only a percentage of these expenses are covered by the health insurance provided for the child by appellant’s husband.
+In her brief, appellant also argues that, because a change in circumstances was proven, the chancellor erred in failing to modify the child support in accordance with the family support chart (which is $54.00 weekly, based on appellee’s take-home pay). Appellant also argues that the chancellor was required to give a fuller explanation for his deviation from the chart.
+The controlling law on what is required to determine the amount of child support is set forth in Ark. Code Ann. § 9-12-312(a)(2) (Supp. 1991):
+In determining a reasonable amount of support, initially or upon review to be paid by the noncustodial parent, the court shall refer to the most recent revision of the family support chart. It shall be a rebuttable presumption for the award of child support that the amount contained in the family support chart is the correct amount of child support to be awarded. Only upon a written finding or specific finding on the record that the application of the support chart would be unjust or inappropriate, as determined under established criteria set forth in the support chart, shall the presumption be rebutted.
+“Reference to the chart is mandatory, and the chart itself establishes a rebuttable presumption of the appropriate amount which can only be explained away by written findings stating why the chart amount is unjust or inappropriate.” Black v. Black, 306 Ark. 209, 214, 812 S.W.2d 480, 482 (1991). The chancellor, in his discretion, is not entirely precluded from adjusting the amount as deemed warranted under the facts of a particular case. Waldon v. Waldon, 34 Ark. App. 118, 806 S.W.2d 387 (1991). The presumption may be overcome if the chancellor determines, upon consideration of all the relevant factors, that the chart amount is unjust or inappropriate. Id.
+In its per curiam In Re: Guidelines for Child Support Enforcement, 305 Ark. 613, 804 S.W.2d XXIV (1991), the supreme court set out the factors the court should consider in determining whether an amount specified by the chart is unjust or inappropriate:
+In adopting this per curiam, the Court creates a rebuttable presumption that the amount of child support calculated pursuant to the most recent revision of the Family Support Chart is the amount of child support to be awarded in any judicial proceeding for divorce, separation, paternity, or child support.
+It shall be sufficient in a particular case to rebut the presumption that the amount of child support calculated pursuant to the Family Support Chart is correct, if the court enters in the case a written finding or specific finding on the record that the amount so calculated, after consideration of all relevant factors, is unjust or inappropriate. The court may grant less or more support if the evidence shows that the needs of the dependents require a different level of support.
+Relevant factors to be considered by the court in determining appropriate amounts of child support shall include:
+1. Food;
+2. Shelter and utilities;
+3. Clothing;
+4. Medical expenses;
+5. Educational expenses;
+6. Dental expenses;
+7. Child care;
+8. Accustomed standard of living;
+9. Recreation;
+10. Insurance;
+11. Transportation expenses; and
+12. Other income or assets available to support the child from whatever source.
+Additional factors may warrant adjustments to the child support obligations and shall include:
+1. The procurement and/or maintenance of life insurance, health insurance, dental insurance for the children’s benefit;
+2. The provision or payment of necessary medical, dental, optical, psychological or counseling expenses of the children (e.g. orthopedic shoes, glasses, braces, etc.);
+3. The creation or maintenance of a trust fund for the children;
+4. The provision or payment of special education needs or expenses of the child;
+5. The provision or payment of day care for a child; and
+6. The extraordinary time spent with the noncustodial parent, or shared or joint custody arrangements.
+Id. at 616-17, 804 S.W.2d at XXVI-XXVII.
+In this per curiam, the supreme court stated: “In determining requested modifications of child support orders entered prior to the effective date hereof, the trial court should consider the totality of the present circumstances of the parties and avoid modifications that would work undue hardship on the parties or any persons presently dependent thereon.” 305 Ark. at 618, 804 S.W.2d at XXVIII. In this case, the chancellor stated that, based upon appellee’s affidavit of financial means, it would be an “undue burden” to order him to pay more child support. In that affidavit, appellee listed his monthly bills and his children born of his second marriage. According to the per curiam quoted above, it was certainly permissible for the chancellor to consider the effect of an increase in appellee’s child support obligation on his ability to pay his bills and to support his other children.
+Nevertheless, from the chancellor’s remarks at trial and the order denying appellant’s petition for increased support, there is no indication that the chancellor referred to the family support chart. Given the presumption that the chart amount is reasonable, it is incumbent on the chancellor to give a fuller explanation of his reasons for rejecting the chart. See Cochran v. Cochran, 309 Ark. 604, 832 S.W.2d 252 (1992), where the chancellor had observed at the conclusion of the hearing that, if he followed the family support chart, the amount of child support would double, a result which he considered to be unreasonable. The supreme court reversed on appeal, stating that the chancellor’s observation that the chart amount of child support was unreasonable is not an adequate explanation for his deviation from the family support chart. It stated: “If appellate review is to have much significance, a greater account of why the chart amount is inappropriate under the circumstances of the case is essential.” Id. at 607, 832 S.W.2d at 254.
+On appeal, this court has the power to decide chancery cases de novo on the record before us, but in appropriate cases, we also have the authority to remand such cases for further action. See Black v. Black, 306 Ark. 209, 812 S.W.2d 480 (1991). We therefore remand this case to the chancellor for a determination of child support in accordance with Ark. Code Ann. § 9-12-312 and the guidelines for child support enforcement. Because this case requires a remand, we leave it to the discretion of the chancellor to decide whether a more detailed and explanatory opinion will suffice to meet the requirements of the supreme court’s per curiam order and Ark. Code Ann. § 9-12-312(a) (2) or whether further proof from the parties is necessary on the applicable factors and other relevant matters. We affirm that part of the order denying appellee’s petition for a change of custody and ordering appellee to be responsible for one-half of the child’s medical needs not covered by insurance.
+Affirmed in part; reversed and remanded in part.
+Robbins, J., agrees.
+Mayfield, J., concurs.
