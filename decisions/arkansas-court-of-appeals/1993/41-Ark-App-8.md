@@ -1,0 +1,33 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 92-396"
+decided: "1993-02-10"
+citations: ["41 Ark. App. 8", "847 S.W.2d 43"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Robbins and Rogers, JJ., agree."]
+parties: ["Dewayne HANNER v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/41/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6135962
+cites_cases: ["26 Ark. App. 34", "306 Ark. 402", "495 U. S. 508"]
+---
+
+# Hanner v. State
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellant in this criminal case was charged with two separate counts of rape committed by engaging in deviate sexual activity with two girls under twelve years of age. A jury trial was held, and the appellant moved for directed verdicts as to both counts of rape at the close of the State’s case. The trial court directed a verdict in favor of appellant as to the charge involving the victim A.E., but denied the motion as to the charge involving the victim J.B. After a continuance, the trial court allowed the State to amend the information as to both counts in order to dismiss the rape charges and substitute charges of sexual abuse in the first degree as to both victims. After deliberation, the jury found the appellant guilty of sexual abuse in the first degree as to the charge involving J.B., and guilty of sexual solicitation of a child as to the charge involving A.E. The appellant was sentenced to one year in the county jail for sexual solicitation, and to four years in the
+Arkansas Department of Correction for sexual abuse.
+On appeal, the appellant argues that his conviction of sexual solicitation of a child is barred by the double jeopardy clause, and that the trial court erred in denying his motion for a directed verdict as to the charge of rape of J.B. We affirm in part and reverse and dismiss in part.
+The record shows that the appellant was charged with two counts of rape committed by deviate sexual activity with two girls under twelve years of age. At trial, following the conclusion of the State’s case, the appellant moved for a directed verdict of an acquittal with respect to the charge of rape involving A.E. The trial court granted the motion. The prosecution conceded that the evidence was insufficient to support that charge, but asked that the jury be instructed on first-degree sexual abuse as a lesser-included offense of rape. The defense objected on the ground that first-degree sexual abuse was not a lesser-included offense of rape. After a continuance, the trial court ruled that first-degree sexual abuse was not a lesser-included offense of rape, but allowed the State to amend the information to charge the appellant with two counts of first-degree sexual abuse. The trial court overruled the appellant’s objection that, given the court’s prior grant of a directed verdict on the rape charge involving A.E., double jeopardy was violated by permitting the State to amend the information. The appellant advances the same argument on appeal. We find it to be well taken, and we reverse and dismiss as to that charge.
+In Grady v. Corbin, 495 U. S. 508 (1990), the United States Supreme Court held that subsequent prosecution is barred where the government will establish an essential element of the offense by proving conduct constituting an offense for which the defendant has already been prosecuted. Grady v. Corbin, supra, at 510. The Grady holding was discussed by the Arkansas Supreme Court in the recent case of State v. Thornton, 306 Ark. 402, 815 S.W.2d 386 (1991), as follows:
+The Court formulated a two (2) part inquiry to determine whether double jeopardy bars a prosecution. First, the Blockburger test should be applied. If it reveals that the offenses have identical statutory elements or that one offense is a lesser included offense of the other, then the inquiry must cease, and the subsequent prosecution is barred. If the subsequent prosecution is not barred under the first inquiry, it should be subjected to the second inquiry, the ‘proof of the same conduct’ analysis. The holding of the case concisely sets out this second inquiry as follows: ‘We hold that the Double Jeopardy Clause bars a subsequent prosecution if, to establish an essential element of an offense charged in that prosecution, the government will prove conduct that constitutes an offense for which the defendant has already been prosecuted.’
+State v. Thornton, supra, quoting Grady v. Corbin, supra.
+The Thornton Court further held that the State bears the burden to demonstrate that it will rely on conduct other than that for which the defendant has already been prosecuted. The State has failed to do so in the case at bar. Instead, it is obvious that the State intended to prove the entirety of the conduct employed in its attempt to prove the charge of rape against A.E., for no new trial was had or requested: instead, the information was merely amended to “conform to the proof.” Under these circumstances, the State has failed to meet its burden and we hold that the successive prosecution is barred by the Double Jeopardy Clause. State v. Thornton, supra, 306 Ark. at 406.
+Next, the appellant contends that the trial court erred in denying his motion for a directed verdict as to the rape charge involving J.B. We do not reach this issue because it is moot. The jury was never instructed to determine whether the appellant was guilty of rape on this count, because the charge was amended to first-degree sexual abuse, as was the charge involving A.E., and the appellant does not argue on appeal that the trial court erred in permitting the amendment as to the charge involving J.B. The question raised by the appellant therefore cannot affect the matter in issue, and we will not address it. See Dust v. State, 26 Ark. App. 34, 759 S.W.2d 569 (1988).
+Affirmed in part; reversed and dismissed in part.
+Robbins and Rogers, JJ., agree.
+The continuance followed discussion between the court and counsel regarding whether sexual abuse in the first degree was a lesser-included offense of rape. The trial court initially ruled that it was; however, following an objection by the appellant, the trial court reversed its earlier ruling and determined that sexual abuse in the first degree was not a lesser-included offense of rape, whereupon the trial court permitted the State to amend the information. No question is presented on appeal concerning the lesser-included offense determination made by the trial court, and we express no opinion on this issue.
