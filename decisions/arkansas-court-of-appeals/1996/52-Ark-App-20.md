@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 95-53"
+decided: "1996-01-31"
+citations: ["52 Ark. App. 20", "914 S.W.2d 763"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Stroud, JJ., agree."]
+parties: ["Dennis MILLIGAN and Water Treatment Services v. Chris BURROW, Director of Arkansas State Building Services, et al."]
+source_url: "https://static.case.law/ark-app/52/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136364
+cites_cases: ["118 S.W.2d 235", "121 S.W. 742", "196 Ark. 331", "288 Ark. 395", "291 Ark. 483", "297 Ark. 262", "297 Ark. 385", "305 Ark. 449", "320 Ark. 253", "725 S.W.2d 839", "91 Ark. 527", "Ark. Code Ann. § 19-10-305", "Ark. Code Ann. § 19-11-244", "Ark. Code Ann. § 19-11-247", "Ark. Code Ann. §§ 19-11-201"]
+---
+
+# Milligan v. Burrow
+
+## Majority (Wendell L. Griffen, Judge.)
+
+Wendell L. Griffen, Judge.
+Dennis Milligan and Water Treatment Services, Inc. (“WTS”) brought suit in the Circuit Court of Pulaski County, Sixth Division, the Honorable David Bogard presiding, against defendants Ed Erxleben, Director of the Office of State Purchasing, and Chris Burrow and Doug Bown, employees of Arkansas State Building Services (“SBS”). Milligan and WTS alleged that the defendants wrongfully denied a state contract to Milligan and WTS for the service of water treatment equipment at six state buildings. Milligan and WTS submitted a bid for the contract and insisted they were the low bidders, yet the contract was awarded to a California company. Milligan then contacted one of his state legislators, Representative Mark Riable, who wrote a letter to SBS asking why WTS did not get the job. Bown replied by letter to Milligan and stated that SBS was not bound by the bidding process set forth in the Arkansas Purchasing Law (Ark. Code Ann. §§ 19-11-201 — 19-11-261 (Repl. 1994)). Bown’s letter further stated that SBS was aware of complaints concerning Milligan’s service and that price was not the only consideration in awarding the contract.
+Milligan and WTS filed suit alleging violations of the Arkansas Purchasing Law, breach of good faith, and tortious interference. Their complaint sought compensatory damages, punitive damages, and costs. Milligan and WTS appeal from the trial court’s grant of a motion to dismiss pursuant to Rule 12(b)(6) of the Arkansas Rules of Civil Procedure.
+Milligan and WTS raise numerous points on appeal. We address only three: sovereign immunity, exhaustion of administrative remedies, and allowable remedies under the Arkansas Purchasing Law.
+The concept of sovereign immunity is well grounded in Arkansas law. Ark. Const, art. 5, § 20; Ark. Code Ann. § 19-10-305(a)(Repl. 1994); Paige v. McKinley, 196 Ark. 331, 118 S.W.2d 235 (1938). Here, appellants sued three state employees for acts performed in their official capacities. Although the action was filed nominally against state employees, it is tantamount to an action against the State of Arkansas. See Beaulieu v. Gray, 288 Ark. 395, 705 S.W.2d 880 (1986). Sovereign immunity, therefore, applies to this case and protects not only the State but its employees as well. Appellants are correct when they assert that the immunity is a qualified one, but they have failed to show facts that would place these state employees outside even a qualified immunity. Smith v. Denton, 320 Ark. 253, 895 S.W.2d 550 (1995); Cf. Robinson v. Beaumont, 291 Ark. 483, 725 S.W.2d 839 (1987).
+This appeal also fails at a threshold level because Milligan and WTS have failed to exhaust their administrative remedies. The Arkansas Purchasing Law includes a provision that adopts the exhaustion doctrine for disputes arising from bids for state services. Ark. Code Ann. § 19-11-244 (Repl. 1994). We do not decide whether the Arkansas Purchasing Law applies. Appellants chose to bring suit under the Purchasing Law and were bound by the procedural requirements of the statute, but they argue that they fall within a recognized exception to the exhaustion doctrine whereby a litigant need not exhaust administrative remedies where it would be futile to do so or where there was no genuine opportunity to do so. Arkansas Motor Vehicle Comm’n v. Cantrell Marine, 305 Ark. 449, 808 S.W.2d 765 (1991). Appellants seek refuge under the exception based on an assertion by a state employee (Bown) that the Arkansas Purchasing Law no longer applied to the bid at issue. Appellants were not justified in assuming that Bown’s assertion was correct. More specifically, appellants were not justified in further assuming that the purchasing law’s dispute resolution process was no longer applicable. Litigants are under at least a minimal duty to investigate the extent of the administrative remedies available to them before resorting to the courts. See, e.g., Barr v. Arkansas Blue Cross & Blue Shield, Inc., 297 Ark. 262, 761 S.W.2d 174 (1988).
+Finally, even if appellants’ action could survive these threshold inquiries, they seek the wrong remedy. The Arkansas Purchasing Law provides for termination of the contract or “other remedies provided by law” if an award is in violation of the law. Ark. Code Ann. § 19-11-247 (Repl. 1994). These “other remedies” might include an injunction or perhaps mandamus, but a violation of a competitive bidding statute does not give rise to a claim for damages. Klinger v. City of Fayetteville, 297 Ark. 385, 762 S.W.2d 388 (1994). Appellants’ complaint sought compensatory and punitive damages, but failed to seek injunctive relief or mandamus.
+Therefore, we agree with the trial court that jurisdiction was lacking due to sovereign immunity. Pitcock v. State, 91 Ark. 527, 121 S.W. 742 (1909). Jurisdiction was also lacking due to appellants’ failure to exhaust administrative remedies. Barr, supra. Moreover, appellants’ choice of remedy is simply not in accordance with the law. Klinger, supra.
+Affirmed.
+Cooper and Stroud, JJ., agree.
