@@ -1,0 +1,45 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 81-3"
+decided: "1981-05-20"
+citations: ["1 Ark. App. 335", "615 S.W.2d 406"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbin, J., not participating."]
+parties: ["Danny CALLISON v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/1/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6142993
+cites_cases: ["114 Ark. 472", "170 S.W. 582", "183 Ark. 17", "201 Ark. 588", "205 Ark. 376", "242 Ark. 142", "246 Ark. 368", "258 Ark. 314", "258 Ark. 544", "263 Ark. 739", "264 Ark. 928", "265 Ark. 869", "267 Ark. 274", "34 S.W. 2d 753", "423 U.S. 995", "46 L. Ed. 2d 369", "96 S. Ct. 423"]
+---
+
+# Callison v. State
+
+## Majority (Melvin Mayfield, Chief Judge.)
+
+Melvin Mayfield, Chief Judge.
+Appellant was convicted of selling a controlled substance, lysergic acid dieth-ylamide (LSD). He was sentenced to five years in the State Department of Corrections with two years suspended on condition of good behavior. Approximately thirty days after the judgment was entered of record, the appellant filed a motion for new trial on the grounds of newly discovered evidence.
+The motion was denied and on appeal the appellant argues two points: (1) the trial court erred in admitting into evidence a packet alleged to have been purchased from appellant and a report identifying the contents of the packet as LSD, and (2) the trial court erred in denying his motion for new trial.
+We find no error in respect to either point and therefore affirm the judgment of the trial court.
+Appellant was convicted upon evidence provided by an undercover police officer, Alan Strickland, employed by the Rogers Police Department. Strickland testified that on April 6, 1979, he purchased a packet from appellant which contained three “hits” of a substance later identified as LSD. It was his testimony that he purchased the packet in a tavern in Rogers, that he paid $12.00 for it, put it in his pocket, took it home that evening and locked it in a jewelry box. The next morning he delivered the packet and his report to Detective Mike Jones of the Rogers Police Department.
+Jones testified that he received the packet from Strickland on the morning of April 7, placed it in an envelope marked with his case number, and mailed it by certified mail to the Crime Lab in Little Rock. A mail return receipt introduced into evidence shows that it was signed by Joe Allison and there was evidence that he was the evidence technician for the Crime Lab at that time. The packet, marked with its case number, was returned sealed to Jones from the Crime Lab on September 7, 1979-
+The three white papers inside the packet which contained the individual “hits” of LSD were not marked with identifying numbers at any stage of the proceeding but the packet containing them was marked. Along with the packet, the Crime Lab returned to Jones a record of drug analysis signed by Gene Bangs, a chemist with the Crime Lab.
+Bangs testified that the packet was assigned to him and that he tested the contents on May 18, 1979. He further testified that all evidence samples received by the Crime Lab for testing are kept in a locked storage vault to which about eight persons, all chemists and technicians employed by the Crime Lab, have access, and that after testing and resealing, an evidence sample is kept in the storage vault until it is returned by mail to the police department which submitted it. The returned packet was identified at the trial by Jones as the one he had submitted for testing by reference to the case number which he had placed on it.
+Appellant argues that the State failed to show an adequate chain of custody of the drug sample, and that therefore the sample and the resulting chemist’s report showing that the substance was LSD should not have been admitted into evidence. Appellant says that the outlined sequence of events shows breaks in the chain and that others besides the chemist had access to the sample.
+We find, however, that the chain of custody shown by the record of this proceeding fully meets the standards stated in Munnerlyn v. State, 264 Ark. 928, 576 S.W. 2d 714 (1979):
+To allow introduction of physical evidence, it is not necessary that every moment from the time the evidence comes into the possession of a law enforcement agency until it is introduced at trial be accounted for by every person who could have conceivably come in contact with the evidence during that period. Nor is it necessary that every possibility of tampering be eliminated; it is only necessary that the trial judge, in his discretion, be satisfied that the evidence presented is genuine and, in reasonable probability, has not been tampered with. See Gardner v. State, 263 Ark. 739, 569 S.W. 2d 74; Wickliff & Scott v. State, 258 Ark. 544, 527 S.W. 2d 640; Rogers v. State, 258 Ark. 314, 524 S.W. 2d 227, cert. den. 423 U.S. 995, 96 S. Ct. 423, 46 L. Ed. 2d 369 (1975).
+This point in Munnerlyn has been cited and followed in Baughman v. State, 265 Ark. 869, 582 S.W. 2d 4 (1979), and most recently the Baughman case was cited in Harkness v. State, 267 Ark. 274, 590 S.W. 2d 277 (1979), with the comment: “The purpose of showing a chain of custody is to prove authenticity. If there is a reasonable probability the evidence is genuine, the trial court’s ruling will be upheld.”
+The appellant made no separate objection to the admissibility of the test report of the drug sample but we uphold the trial court in the admission of that exhibit also.
+Appellant based his motion for new trial on an allegation of newly discovered evidence. In the motion, appellant’s attorney stated that since the trial of the case he had discovered a witness who would testify that in January of 1979, she had seen Strickland, the undercover agent, in possession of LSD which Strickland offered to deliver to the witness and which he did deliver to a friend of the witness. In his brief, appellant acknowledges that the purpose of presenting such evidence would be to impeach the credibility of the State’s primary witness against him. Appellant says, “Strickland’s credibility would be enhanced by the fact that he was a police officer. Certainly if it were proven that he delivered LSD to [the witness’ friend] and attempted to deliver LSD to the witness ... it would go to the very question of whether or not he was telling the truth.”
+We agree with the appellant that impeaching the credibility of the State’s witness is the only possible effect of this evidence and that is the reason his motion for new trial was properly overruled on this point.
+In Edgeman v. State, 183 Ark. 17, 34 S.W. 2d 753 (1931), the court denied a motion for new trial upon the finding: “There is nothing in the newly discovered evidence that would have any bearing at all on the case except that it might impeach the credibility of the prosecuting witness.” And the court noted: “This court has often held that as a general rule newly discovered evidence that goes only to impeach the credibility of a witness is no ground for a new trial. [Citation omitted.]”
+See also Cooper v. State, 246 Ark. 368, 438 S.W. 2d 681 (1969); Therman v. State, 205 Ark. 376, 168 S.W. 2d 833 (1943); and Dewein v. State, 114 Ark. 472, 170 S.W. 582 (1914).
+The only case which appellant cites in support of his right to a new trial based on his newly discovered evidence, Pierce v. State, 201 Ark. 588, 145 S.W. 2d 714 (1940), is distinguishable on the facts from appellant’s case. In Pierce, appellant’s motion for new trial upon the ground of newly discovered evidence was supported by the affidavits of five witnesses who swore that the only eyewitness at the trial was with them at a place where he could not have seen the crime committed.
+In the instant case the newly discovered evidence would simply tend to impeach the credibility of Strickland by showing he had previously delivered LSD to someone at a time when he was not acting as an undercover agent for the police. However, Strickland admitted on cross-examination that he had been guilty of dealing in controlled substances illegally in Washington County. The newly discovered evidence would be cumulative only.
+In Gross v. State, 242 Ark. 142, 412 S.W. 2d 279 (1967), the court said:
+Newly discovered evidence is one of the least favored grounds of motion for new trial. ... Such a motion is addressed to the sound legal discretion of the trial judge and an appellate court will interfere only in case of an apparent abuse of discretion or injustice to the movant. ...
+... The mere fact that the purported evidence would be contradictory to that offered at the trial by the State is insufficient. ... It must also be shown that, because of the proffered evidence, a different result upon a new trial is probable.
+Based on our review of the law and record of proceedings in this case, we cannot say that the trial court abused its discretion in overruling appellant’s motion for new trial.
+Affirmed.
+Corbin, J., not participating.
