@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 84-20"
+decided: "1984-06-20"
+citations: ["12 Ark. App. 53", "670 S.W.2d 822"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Cloninger, JJ., agree."]
+parties: ["Pinta Lou BRAY v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/12/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137128
+cites_cases: ["198 Ark. 871", "204 Ark. 752", "242 Ark. 362", "242 Ark. 368", "270 Ark. 614"]
+---
+
+# Bray v. State
+
+## Majority (George K. Cracraft, Judge.)
+
+George K. Cracraft, Judge.
+Pinta Lou Bray was charged with the crime of arson after she voluntarily confessed to having set fire to a couch and a mattress in a halfway house. In her confession she stated that she had set the fire to get even with one of the supervisors of the halfway house. A jury found her guilty of the lesser included offense of criminal mischief in the first degree and she was sentenced to a term of four years in the Department of Correction. On appeal she contends that the trial court erred in not directing a verdict at the close of the State’s case because the evidence apart from her own confession was insufficient to establish that a crime had been committed. We agree.
+Ark. Stat. Ann. § 43-2115 (Repl. 1977) provides that a confession of a defendant, unless made in open court, will not warrant a conviction unless accompanied with other proof that such an offense was committed. This statute requires that an extrajudicial confession be accompanied by other proof that the crime confessed to was actually committed by someone. The test of the correctness of the verdict is not whether the evidence is sufficient to sustain the verdict, but whether there was sufficient evidence that such an offense was actually committed or, in other words, proof of the corpus delicti. Bivens v. State, 242 Ark. 362, 413 S.W.2d 653 (1967).
+Ark. Stat. Ann. § 41-1906 (Repl. 1977) provides that a person commits the offense of criminal mischief in the first degree if he purposely destroys or causes damage to any property of another. It is not enough to show merely that the property was damaged or destroyed, for one essential element of this crime is that the damage was willfully caused and not accidental.
+Although the appellant voluntarily confessed that shé willfully set fire to a couch and mattress, her admission will not sustain a conviction unless the record contains other independent proof that the property of another was purposely destroyed or damaged. The only evidence introduced by the State was that of a captain of the Hot Springs Fire Department who stated that when he arrived at the residence he found a couch and mattress on fire. A good portion of the fire had already been put out. There was some smoke damage, but the only property damage was to the mattress and couch. While they were putting out the fire the appellant, who was sitting in a rocking chair behind them, admitted that she had set the fire at least twice. Her voluntary confession was later reduced to writing and was signed by her. No investigation was made to determine how the fires were started or what caused them.
+There is no presumption that an unexplained fire is of an incendiary origin. On the contrary the presumption is that such fire is caused by accident, or at least that it is not of criminal design. It is incumbent on the State to prove the corpus delicti, and in the case of intentionally set fires it is necessary that the State prove that the burning of the property in question was caused by a purposeful act of some person criminally responsible and not by natural or accidental causes. Johnson v. State, 198 Ark. 871, 131 S.W.2d 934 (1939). Apart from the confession of appellant there is no evidence in the record, direct or circumstantial, tending to show either that the fire was intentionally set or that it resulted from other than accidental causes.
+The State argues that as there were two fires, the jury could have inferred that they were purposely set, relying upon Burke v. State, 242 Ark. 368, 413 S.W.2d 646 (1967). We think Burke is clearly distinguishable. There a man discovered two fires in separate buildings on his farm which were located several hundred yards apart, burning at the same time. There was testimony from a witness, who was found not to be an accomplice, that he had accompanied the defendant to the property on the night of the fire. When the defendant stated his intention to burn the building, the witness left and returned to the vehicle. He further testified that he subsequently saw the defendant coming from the property after observing “a glow out to the left which was going pretty good.” The witness stated that the defendant admitted to him that he had set the fires. There was no evidence to rebut this. In those circumstances the court stated that in the total absence of evidence that the fires could have been other than of incendiary origin the question was properly submitted to the jury. We interpret the words of the court not to mean that the two separate fires were circumstances giving rise to an inference of arson, but that the direct testimony of the witness was sufficient to overcome the presumption of accidental origin if the jury chose to believe him. In this case the mere fact of the fires and the presence of the appellant in the vicinity are insufficient to rebut the presumption that the fires were accidental.
+The State further contends that the presumption mentioned in Johnson and followed in Boden v. State, 270 Ark. 614, 605 S.W.2d 429 (1980) and Carpenter v. State, 204 Ark. 752, 164 S.W.2d 993 (1942) does not apply to criminal mischief in the first degree but is restricted to arson. As criminal mischief in the first degree may be committed by purposely destroying or damaging another’s property by fire, we see no reason why the same presumption of accidental origin should not apply in such cases.
+Reversed and dismissed.
+Cooper and Cloninger, JJ., agree.
