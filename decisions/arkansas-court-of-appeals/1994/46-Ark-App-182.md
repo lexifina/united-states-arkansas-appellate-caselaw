@@ -1,0 +1,37 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 93-995"
+decided: "1994-06-22"
+citations: ["46 Ark. App. 182", "878 S.W.2d 417"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Robbins, JJ., agree."]
+parties: ["Byrones Eugene ZEILER v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/46/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139022
+cites_cases: ["269 Ark. 215", "302 Ark. 341", "306 Ark. 353", "307 Ark. 353", "42 Ark. App. 242", "42 Ark. App. 254"]
+---
+
+# Zeiler v. State
+
+## Majority (John E. Jennings, Chief Judge.)
+
+John E. Jennings, Chief Judge.
+Byrones Eugene Zeiler entered a conditional plea of guilty to possession of marijuana with intent to deliver, and was sentenced to five years with two suspended and fined $500.00. He brings this appeal pursuant to Rule 24.3 of the Arkansas Rules of Criminal Procedure, arguing that the trial court erred in denying his motion to suppress evidence seized during a nighttime search of his residence. Because we agree that the affidavit for the search warrant contained an insufficient factual basis to justify the nighttime search, we reverse.
+Greg Donaldson, a police officer for the city of Clarksville, testified at the suppression hearing about the circumstances leading up to his procurement of the search warrant. After a confidential informant indicated that he could buy marijuana from appellant, Donaldson supplied the informant with money, and the informant entered appellant’s residence and returned with marijuana. Donaldson then prepared an affidavit and procured the warrant. He testified that the affidavit was the sole basis for the issuance of the warrant.
+The affidavit describes a drug buy made by the informant from appellant at appellant’s residence on the evening of December 27, 1992. It includes the recorded serial numbers of the currency used to make the purchase of marijuana. The affidavit then states:
+Because of the ease with which the dope can be disposed of and the fact that Zeiler is dealing it now and may get rid of what he has left or dispose of the money used in this buy, a nighttime search should be authorized.
+The warrant issued that night recited that the affiant “has reasonable cause to believe and does believe” that at the described premises “there is now being concealed certain property to wit: marijuana and other controlled substance[.]” The warrant further states that “[d]ue to the danger of the immediate removal of the objects to be seized as described above in this warrant the issuing judicial officer authorizes execution of this writ at any time, day or night[.]”
+In reviewing a trial court’s ruling on a motion to suppress because of insufficiency of the affidavit, we make an independent determination based upon a totality of the circumstances and reverse the trial court’s ruling only if it is clearly against the preponderance of the evidence. Thompson v. State, 42 Ark. App. 254, 856 S.W.2d 319 (1993). An affidavit must set out facts showing reasonable cause to believe that circumstances exist which justify a nighttime search. See State v. Broadway, 269 Ark. 215, 599 S.W.2d 721 (1980). The issuing judicial officer must have reasonable cause to believe that (i) the place to be searched is difficult of speedy access; or (ii) the objects to be seized are in danger of imminent removal; or (iii) the warrant can only be safely or successfully executed at nighttime or under circumstances the occurrence of which is difficult to predict with accuracy. Ark. R. Crim. R 13.2(c); State v. Martinez, 306 Ark. 353, 811 S.W.2d 319 (1991). The affidavit should speak in factual, not merely conclusory, language. State v. Broadway, 269 Ark. 215, 599 S.W.2d 721 (1980).
+In State v. Martinez, 306 Ark. 353, 811 S.W.2d 319 (1991), the supreme court affirmed the trial judge’s granting of a motion to suppress. After quoting the language of Rule 13.2(c) regarding the circumstances that justify a nighttime search, the court said:
+The affidavit in this case does not set out facts showing reasonable cause for [the issuing judge] to have found that any of the three circumstances quoted above existed. The affidavit merely provides that four previous sales of marijuana had been made by Jesse Martinez to Officer Hanes, that controlled substances were believed to be stored at the Martinez residence, and that another purchase was scheduled to occur at the residence that day. The affidavit is silent with respect to anything regarding reasonable cause to believe the marijuana would be destroyed or removed before the next morning. Thus, we hold it was error for the nighttime search warrant to have been issued.
+Our holding is consistent with Hall v. State, 302 Ark. 341, 789 S.W.2d 456 (1990), and State v. Broadway, supra. Both Hall and Broadway have facts similar to the facts in the present case. In Hall, supra, we held that an affidavit reciting simply that illegal drugs were at appellant’s residence and that a confidential informant had purchased marijuana there within the last seventy-two hours did not state facts sufficient to support the issuance of a nighttime search warrant. The Hall case is controlling of the present case in all respects.
+Relying on Martinez, we held in Ramey v. State, 42 Ark. App. 242, 857 S.W.2d 828 (1993):
+Neither the affidavit nor the sworn testimony set out facts showing reasonable cause for the issuing judge to have found that any of the required circumstances had been met for a nighttime search. A conclusory statement was made that the drugs to be seized were in danger of imminent removal, but no facts were stated to support this conclusion. The officers merely described the sales that had been observed thus far. We therefore hold that it was error for the nighttime search warrant to have been issued.
+The affidavit in the case at bar speaks similarly in a conclusory statement about the necessity of a nighttime search. Officer Donaldson acknowledged on cross-examination that the affidavit was limited to the fact that marijuana was purchased that evening; it did not indicate whether more marijuana or other controlled substances were observed at appellant’s residence; it did not state whether any drug paraphernalia or other equipment used to package or distribute marijuana was present; it did not recite any other indications of drug activity at the premises such as a steady stream of traffic coming and going. In short, there was no showing of any factual basis to support the conclusion that “[appellant] may get rid of what he has left or dispose of the money used in this buy.”
+While the search warrant was issued in violation of Rule 13.2(c), a motion to suppress will not be granted unless the violation is “substantial.” Ark. R. Crim. P. 16.2(e). It is well established that the nighttime intrusion into a private home upon a warrant issued in violation of Rule 13.2(c) constitutes a substantial violation. See Garner v. State, 307 Ark. 353, 820 S.W.2d 446 (1991); State v. Martinez, 306 Ark. 353, 811 S.W.2d 319 (1991); Hall v. State, 302 Ark. 341, 789 S.W.2d 456 (1990); Ramey v. State, 42 Ark. App. 242, 857 S.W.2d 828 (1993). Also, in accord with this line of authority, we do not find that the “good faith exception” applies to this case.
+Reversed and remanded for the appellant to be allowed to withdraw his conditional plea.
+Reversed and remanded.
+Cooper and Robbins, JJ., agree.
