@@ -1,0 +1,50 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 98-808"
+decided: "1999-03-03"
+citations: ["65 Ark. App. 209", "987 S.W.2d 738"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Robbins, C.J., and Jennings, J., agree."]
+parties: ["Tony RAY v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/65/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139740
+cites_cases: ["313 Ark. 171", "320 Ark. 128", "326 Ark. 882", "328 Ark. 35", "942 S.W.2d 243", "Ark. Code Ann. § 9-27-317", "Ark. Code Ann. § 9-27-318"]
+---
+
+# Ray v. State
+
+## Majority (Josephine Linker Hart, Judge.)
+
+Josephine Linker Hart, Judge.
+Appellant, a juvenile, contends that the trial court erred by: (1) failing to transfer his criminal case from circuit court to juvenile court; (2) allowing his confession to be admitted into evidence at the hearing on his motion to transfer; and (3) allowing testimony regarding charges pending against him to be admitted at the transfer hearing. We affirm the circuit court on all the issues presented.
+Background
+On June 24, 1997, Van Burén police officers were called to the home of Lisa Lewis. Upon their arrival, officers found Lisa Lewis in the living room dying of gunshot wounds. Down the hall, a trail of blood led to the master bedroom where blood and bullet holes were found. In another bedroom, the officers located a gun cabinet with a shattered glass door and six or seven loaded guns lying on the bed. The sliding glass door entering the home from the carport was shattered, and Lewis’s vehicle was missing. Lewis was transported to the hospital where she died later that same day.
+Detective Mick Molnar of the Van Burén Police Department interviewed the sixteen-year-old appellant regarding the murder of Lewis. Before the questioning began, Detective Molnar gave appellant the same Miranda rights as given to adults. The appellant asked to speak with his father, but Detective Molnar told the appellant he could not talk to his father until after the interview. During the interview, appellant confessed that he had killed Lewis.
+The appellant stated that he and another person broke into Lewis’s home because he wanted to steal her car. He and his accomplice were in Lewis’s home for a couple of hours and shot items in her living room with air guns before she arrived home. Upon her arrival, the appellant took Lewis into the master bedroom where he shot her with a shotgun. Appellant left the room and returned with a .410 shotgun where he found Lewis reciting the Lord’s Prayer. The appellant shot Lewis with the .410 shotgun, reloaded the gun, and shot her again. The appellant and his accomplice then left in Lewis’s car.
+On June 25, 1997, appellant was charged as an adult in circuit court with capital murder, burglary, and theft of property. The appellant subsequently filed a motion requesting that his case be transferred to juvenile court, and a hearing was held on this motion.
+At the transfer hearing, testimony was presented that the appellant had received five disciplinary actions in school and was an average student. Evidence was presented that appellant was very active in his church. Over the appellant’s objection, the State presented testimony that the appellant was found in possession of a stolen vehicle and had pending against him three counts of theft of property for stealing vehicles. The appellant’s confession to Lewis’s murder was also admitted over his objection.
+Linda Westover, an employee of the Crawford County Detention Center, testified that she overheard the appellant say that he enjoyed “killing the bitch,” that he was looking forward to killing again but next time he would rape the victim, that it was fun watching her say the Lord’s Prayer and shooting her, and that it was all over too fast and it would be more fun next time.
+The circuit court denied the appellant’s motion to transfer. The circuit judge stated that he did not believe the law required that appellant be given the benefit of juvenile rights because he is charged as an adult. The court also held that evidence of pending charges against the defendant was admissible because it relates to the defendant’s character. The appellant then filed this interlocutory appeal.
+Applicable Law
+Ark. Code Ann. § 9-27-317 (Supp. 1997) provides in pertinent part:
+(g)(2)(A) No law enforcement officer shall question a juvenile who has been taken into custody for a delinquent act or criminal offense if the juvenile has indicated in any manner that he:
+(ii) Wishes to speak with a parent or guardian or to have a parent or guardian present.
+Ark. Code Ann. § 9-27-318 (Supp. 1997) provides in pertinent part:
+(b) A circuit court and a juvenile court have concurrent jurisdiction and a prosecuting attorney may charge a juvenile in either court when a case involves a juvenile:
+(1)At least sixteen (16) years old when he engages in conduct that, if committed by an adult, would be any felony;
+(d) Upon the motion of the court or any party, the judge of the court in which a delinquency petition or criminal charges have been filed shall conduct a hearing to determine whether to retain jurisdiction or to transfer the case to another court having jurisdiction.
+(e) In making the decision to retain jurisdiction or to transfer the case, the court shall consider the following factors:
+(1) The seriousness of the offense, and whether violence was employed by the juvenile in the commission of the offense;
+(2) Whether the offense is part of a repetitive pattern of adjudicated offenses which would lead to the determination that the juvenile is beyond rehabilitation under existing rehabilitation programs, as evidenced by past efforts to treat and rehabilitate the juvenile and the response to such efforts; and
+(3) The prior history, character traits, mental maturity, and any other factor which reflects upon the juvenile’s prospects for rehabilitation.
+(f) Upon a finding by clear and convincing evidence that a juvenile should be tried as an adult, the court shall enter an order to that effect.
+Discussion
+The appellant argues that his confession should not have been admitted into evidence because he was not advised of his right to speak to his parent nor allowed to speak to his parent after he requested to do so in contravention of Ark. Code Ann. § 9-27-317(g). In Boyd v. State, 313 Ark. 171, 853 S.W.2d 263 (1993), however, the Arkansas Supreme Court held that when a juvenile is prosecuted as an adult, he is subject to the procedures and penalties prescribed for adults. Because the appellant is being prosecuted as an adult and has not been prosecuted as a juvenile, he is subject to the same procedures as are prescribed for adults. Id.
+Arkansas Code Annotated § 9-27-318(e) lists factors the court must consider in deciding whether to transfer a case. The court must consider whether the defendant is accused of committing a serious crime and whether violence was used in the commission of the crime. In the present case, the appellant is charged with capital murder. Thus, the appellant is charged with a crime that is both serious and violent. The appellant’s confession details the violent nature of his acts. The court is not required to give equal weight to each of the factors listed in Arkansas Code Annotated § 9-27-318(e). The serious and violent nature of an offense is alone sufficient to try a juvenile as an adult. Carroll v. State, 326 Ark. 882, 934 S.W.2d 523 (1996); Ring v. State, 320 Ark. 128, 894 S.W.2d 944 (1994).
+The appellant contends that the circuit court erred in allowing testimony regarding the charges of theft of property that were pending against him. The State contends that this evidence was admissible to show the character of the appellant. Arkansas Code Annotated § 9-27-318 (e)(3) provides that the prior history, character traits, mental maturity, and any other factor that reflects upon the juvenile’s prospects for rehabilitation must be considered by the court in deciding whether the case should be transferred. In McClure v. State, 328 Ark. 35, 942 S.W.2d 243 (1997), the court held that evidence regarding the appellant’s alleged participation in an unrelated homicide was admissible to show his character. The court stated that evidence the appellant had been out past curfew when the murder occurred, provided ammunition for the murder, and drove the alleged murderer shortly after hearing gun shots showed his character traits were poor and that his mental maturity was low. In the present case, appellant stated in his confession that he wanted to take the victim’s vehicle. The fact that he has taken other vehicles tends to show poor character. The statements of the appellant at the detention center describing his pleasure in committing the murder and his intention to commit future murders show poor character and a diminished chance for rehabilitation in the juvenile system.
+The circuit court’s decision to retain jurisdiction must be supported by clear and convincing evidence. McClure v. State, 328 Ark. 35, 942 S.W.2d 243 (1997) The decision or retain jurisdiction will not be reversed unless it is clearly erroneous and the evidence will be viewed in the light most favorable to the State. Id. We find that the circuit court did not err in retaining jurisdiction. The serious and violent nature of the crime the appellant allegedly committed is alone a sufficient basis for the circuit court to maintain jurisdiction. Evidence that the appellant has allegedly taken other vehicles and described his pleasure in committing the murder and expressed his intent to murder again reflects on his character and his chance of being rehabilitated. Further, we find the circuit court did not err in admitting the confession because the appellant is charged as an adult and is not entided to the special procedures established for juveniles, but is instead subject to adult court procedures.
+We affirm the decision of the trial court.
+Robbins, C.J., and Jennings, J., agree.
