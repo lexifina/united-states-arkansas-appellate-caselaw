@@ -1,0 +1,33 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 85-14"
+decided: "1985-11-06"
+citations: ["16 Ark. App. 160", "698 S.W.2d 313"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Cloninger, JJ., agree."]
+parties: ["Elmer SMITH v. UNITEMP DRY KILNS, INC."]
+source_url: "https://static.case.law/ark-app/16/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6655221
+cites_cases: ["11 Ark. App. 270", "2 Ark. App. 87", "212 Ark. 687", "217 Ark. 434", "267 Ark. 659"]
+---
+
+# Smith v. Unitemp Dry Kilns, Inc.
+
+## Majority (Tom Glaze, Judge.)
+
+Tom Glaze, Judge.
+This is an appeal by Elmer Smith from a judgment against him issued by the trial court, sitting as factfinder, and in favor of Unitemp Dry Kilns, Inc., for the sum of $4,042.27. The parties’ dispute arose from appellant’s plans to build a produce stand and a small minimart. Appellee later brought this suit for engineering costs and blueprints it furnished for appellant’s proposed construction. Appellant raises three points, contending the trial court erred in finding: (1) a contract existed between the parties for appellee’s services; (2) appellee was due the sum of $4,800.00 from appellant, when the contract conditioned payment upon appellee’s delivery of fully completed design blueprints; and (3) there was sufficient evidence to show appellant was indebted to appellee on the contract of September 30,1981, in the amount of $4,800.00. We find no merit in any of these points and, therefore, affirm.
+We first consider appellant’s argument that no enforceable contract existed between the parties. The essential elements of a contract are (a) competent parties, (b) legal consideration, (c) mutual obligations, (d) subject matter, and (e) mutual assent. Hunt v. McIlroy Bank Trust, 2 Ark. App. 87, 616 S.W.2d 759 (1981). Appellant contends that the last two elements are missing in this case — i.e., specific subject matter and mutual assent (or meeting of the minds). We must disagree.
+Appellant argues that the parties’ purported agreement, reduced to a letter dated September 30, 1981, lacked specificity of subject matter, as it merely required appellee to perform “certain design services” for appellant, and that, because it lacked a specific subject matter, there was no meeting of the minds. Our Court has defined “meeting of the minds” as “an agreement reached by the parties to a contract and expressed therein, [cit. omit.] or as the equivalent of mutual assent or mutual obligation, [cit. omit.].” Rice v. McKinley, 267 Ark. 659, 660-1, 590 S.W.2d 305, 307 (Ark. App. 1979). Because the parties’ September 30, 1981, letter-agreement was based upon certain specifics contained in an earlier written proposal dated June 26, 1981, we also note the settled rule that, where the agreement of the parties is embraced in two or more instruments, both or all of the instruments must be considered together. Integon Life Insurance Corp. v. Vandegrift, 11 Ark. App. 270, 669 S.W.2d 492 (1984).
+From our review of the parties’ June 26th proposal and September 30th letter, we have no doubt that the appellant and appellee reached a meeting of the minds concerning specific and detailed subject matters. Appellee was to provide the design drawings enumerated in the June 26th proposal, and appellant was to pay appellee $4,800.00 for those drawings. Appellant admitted that he was to pay appellee $4,800.00 ten days after the signing of the September 30th letter-agreement. Both appellant and appellee signified their acceptance by signing the letter of September 30th. We find no error in the trial court’s determination that the parties entered into a valid contract.
+In appellant’s second point on appeal, he alleges that the trial court erred in finding that payment of the $4,800.00 was not conditioned upon appellee’s delivery of fully completed design blueprints. However, the contract, as accepted by appellant on October 6,1981, provides that “ [i] t is understood and agreed that ... for all practical purposes the design work has been completed.” Furthermore, Arthur Dillard, secretary of appellee and the one who signed and negotiated the contract on its behalf, testified that the agreement was for work already completed. In addition, Dillard testified that the plans, though not fully complete, were “virtually,” or “ninety-nine percent,” complete. He stated that the plans could not be made anymore complete until appellant secured the approval of the state health department. Appellant admitted that this approval had not yet been secured. Appellant further testified that he preferred not to complete the building at the present time because the interest rates had not come down to a reasonable level.
+In Doup v. Almand, 212 Ark. 687, 690, 207 S.W.2d 601, 603 (1948), our supreme court held that, when a person “ ‘prepared plans and specifications for a building pursuant to an unconditional order or direction of the owner, he is entitled to recover for his services whether or not the plans are used if they substantially comply with the employer’s instructions.’ ” (quoting 6 C.J.S. Architects, § 14, (now § 31)). The supreme court has further held that,
+[i]t is elementary that there is no breach of a contract where performance is prevented, or rendered impossible, by the conduct of the other party, [cit. omit.] It is also generally recognized that a defective performance is excused . . . where it is due to the acts of the owner or his representative, unless the contractor has not offered a substantial compliance with the contract, [cits, omit.]
+Harris v. Holder, 217 Ark. 434, 439, 230 S.W.2d 645, 648 (1950). We find no error in the trial court’s holding, as appellee had substantially complied with the contract and appellant’s actions prevented any further performance by the appellee.
+Appellant finally contends that there is insufficient evidence to prove that appellant owed appellee $4,800.00. However, as we mentioned earlier, appellant admitted that he understood he was to pay appellee $4,800.00 within ten days of signing the letter of September 30th. That letter, and Dillard’s testimony, indicated that the parties contemplated that the payment was for the plans as they were at that time. Therefore, the trial court was not in error in holding appellant was to pay appellee $4,800.00 under the terms of the September 30th letter.
+There being no merit to any of appellant’s points of error, the judgment is affirmed.
+Affirmed.
+Cooper and Cloninger, JJ., agree.
