@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 97-1018"
+decided: "1998-03-11"
+citations: ["61 Ark. App. 74", "964 S.W.2d 400"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rogers and Crabtree, JJ., agree."]
+parties: ["Claude RILEY, Jr. v. Christine RILEY"]
+source_url: "https://static.case.law/ark-app/61/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137547
+cites_cases: ["142 B.R. 308", "231 Ark. 416", "315 Ark. 37", "58 Ark. App. 42", "59 B.R. 527", "703 F.2d 1055", "724 F.2d 681", "Ark. Code Ann. § 16-56-111"]
+---
+
+# Riley v. Riley
+
+## Majority (John B. Robbins, Chief Judge.)
+
+John B. Robbins, Chief Judge.
+Appellant Claude Riley appeals the decision of the Ashley County Chancery Court that held him in contempt for failure to pay certain obligations provided for under the terms of a property settlement agreement that was incorporated into the parties’ divorce decree in 1983. His ex-wife, appellee Christine Riley, filed a motion for contempt on December 12, 1996, alleging that appellant had failed to pay numerous debts that he had agreed to pay in their property settlement agreement. After considering the case, the chancellor found that appellant was in contempt for failure to abide by the agreement as to payments that he should have paid within the applicable five-year statute of limitations. The debts' left unpaid were mortgage payments on the house where appellee and the children lived, life insurance premiums, and health insurance premiums. Burial insurance premiums were also delinquent, but they were found to be outside the statute of limitations. This appeal resulted. Though we review chancery cases de novo on appeal, we will not reverse the findings of fact of a chancellor unless the decision was clearly erroneous. Mearns v. Mearns, 58 Ark. App. 42, 946 S.W.2d 188 (1997). We affirm.
+When the parties divorced in 1983, appellant conveyed to appellee by warranty deed their residence in Hamburg, Arkansas, and agreed to pay all monthly mortgage payments on that property. He further agreed to pay certain life insurance premiums and all hospital and medical insurance premiums so long as the children were entitled to support and as long as appellee lives, provided she does not remarry.
+Payments on the house ceased when appellant filed bankruptcy in 1989. The house was subject to foreclosure, and to save her home appellee was forced to refinance the mortgage through a credit union and make payments of $300 per month. Appellant had failed to pay more than $19,000 of monthly mortgage payments and property taxes at the time of the hearing.
+Both parties agree that since the property settlement agreement is an independent contract, a five-year statute of limitations applies to the monthly mortgage installments. Ark. Code Ann. § 16-56-111 (1987). Because appellee filed her motion for contempt on December 12, 1996, any payments due prior to December 12, 1991, were barred by the statute of limitations. The chancellor so found, and appellee does not contest this finding.
+Appellant asserts, though, that since he discontinued payments as early as 1989, and perhaps even in 1988, appellee’s cause of action is barred because she did not bring her cause of action until later than five years after his initial failure to pay. Appellee responds by stating that failure to pay each monthly mortgage payment as it became due was a cause of action unto itself. The chancellor determined that when an obligation is made payable by installments, the statute of limitations runs against each installment as it became due and unpaid. See Karnes v. Marrow, 315 Ark. 37, 864 S.W.2d 848 (1993); Wilson v. Wilson, 231 Ark. 416, 329 S.W.2d 557 (1959). The chancellor’s decision was not clearly erroneous, and appellant’s argument on this point fails for that reason.
+Appellant next argues that the chancellor erred when he ordered appellant to pay the monthly mortgage installments because the debt had been refinanced and was serviced by a new lender. His argument is that this constitutes rewriting the property settlement agreement. This argument is not well founded. The settlement agreement did not specify to whom the payment would be made or on what terms; the parties agreed that appeEant would pay the mortgage and taxes on the house, period. Furthermore, it was due to appeEant’s faüure to perform his obligations under the terms of this agreement that a new mortgage was obtained by appeEee so that she would not lose her home. Enforcement of the agreement was proper. We cannot say that the chanceEor’s decision was clearly against the preponderance of the evidence.
+We do not address appeEant’s argument that this debt should be extinguished by bankruptcy. While obligations for alimony, support, and chüd support are not dischargeable, obligations that are in the nature of a property settlement are. In re Ramey, 59 B.R. 527 (Bankr. E.D. Ark. 1986). In determining how to characterize a debt from a divorce situation, the question is what was the intent of the parties at the time of the divorce. See Boyle v. Donovan, 724 F.2d 681 (8th Cir. 1984). However, this determination is for the bankruptcy court, not this court, to decide. Ramey, supra. We note that as of the date this case was filed in our court, appeEant was seeking a determination of the dischargeability issue in the bankruptcy court, the proper forum for that determination. In re Williams, 703 F.2d 1055 (8th Cir. 1983); In re Pierce, 142 B.R. 308 (Bankr. E.D. Ark. 1992). Furthermore, the order appealed from did not address dis-chargeability, and the chancellor’s findings noted that the bankruptcy discharge “is not considered.”
+The other two obligations at issue on appeal are the life and medical insurance premiums that appellant obligated himself to pay. These were also subject to the five-year statute of limitations. Appellee does not quarrel with this finding. Appellant asserts the same arguments concerning dischargeability as he posited with regard to the mortgage payments, and we dispose of this argument in the same fashion.
+Affirmed.
+Rogers and Crabtree, JJ., agree.
