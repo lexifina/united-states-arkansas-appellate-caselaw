@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 84-101"
+decided: "1984-11-07"
+citations: ["13 Ark. App. 13", "678 S.W.2d 782"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McILROY BANK & TRUST CO. v. LaVonne COMSTOCK"]
+source_url: "https://static.case.law/ark-app/13/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136130
+cites_cases: ["110 S.W. 591", "226 Ark. 935", "246 Ark. 805", "266 Ark. 310", "269 Ark. 266", "271 Ark. 394", "86 Ark. 175"]
+---
+
+# McIlroy Bank & Trust Co. v. LaVonne Comstock
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+Eva Denny purchased three certificates of deposit from appellant bank payable to herself or Mrs. LaVonne Comstock or Eva Jo Browne, her daughters. Shortly after Denny’s death, Browne went to the bank and asked that they not cash the certificates without notifying her. Authorities of the bank agreed although the bank was not given a written notice of an adverse claim. Subsequently, Mrs. Comstock presented the certificates to the bank for payment. The bank agreed to pay only if Mrs. Comstock would sign an indemnity agreement. She executed such an agreement and was paid $4,559.34, the face value of the certificates plus interest. Thirteen months later Mrs. Browne demanded payment from the bank of “her share” of the certificates and was paid $2,468.37. When Mrs. Comstock refused to reimburse the bank for that amount under the indemnity agreement, this action was brought. At the close of the bank’s case, the trial court granted Mrs. Comstock’s motion to dismiss. The bank has appealed.
+Ark. Stat. Ann. § 67-552 (Repl. 1980), which is Act 78 of 1965, provides:
+Checking accounts and savings accounts may be opened and certificates of deposit may be issued by any banking institution with the names of two [2] or more persons, either minor or adult, or a combination of minor and adult, and such checking accounts, savings accounts and certificates of deposits may be held:
+(d) If an account is opened or a certificate of deposit is purchased in the name of two (2) or more persons, whether as joint tenants, tenants by the entirety, tenants in common, or otherwise, a banking institution shall pay withdrawal requests, accept pledges of the same, and otherwise deal in any manner with the account or certificate of deposit upon the direction of any one (1) of the persons named therein, whether the other persons named in said account or certificate of deposit be living or not; unless one (1) of such persons named therein shall by written instructions delivered to the banking institution designate that the signature of more than one (1) person shall be required to deal with such account or certificate of depost [deposit].
+Ark. Stat. Ann. § 67-521 (Repl. 1980), which is Act 444 of 1965, provides:
+When a deposit shall have been made in the names of two [2] or more persons and in form to be paid to any of the persons so named, such deposit . . . shall become the property of such persons as joint tenants, and the same, together with all interest thereon, shall be held for the exclusive use of the persons so named, and may be paid to any of said persons. Such payment and the receipt or acquittance of the one to whom such payment is made shall be a. valid and sufficient release and discharge of said bank for all payments made on account of such deposit prior to the receipt by said bank of notice in writing signed by any one of said joint tenants not to pay such deposit in accordance with the terms thereof.
+The Supreme Court of Arkansas considered both § 67 552 and § 67-521 in Cook v. Bevill, 246 Ark. 805, 440 S.W.2d 570 (1969). The Court pointed out that the two acts should be construed together and that the legislative intent was clearly not to modify the first act by enacting the second. And in Boling v. Gibson, 266 Ark. 310, 584 S.W.2d 14 (1979), the court held that where there are alternative payees for certificates of deposit, the sums represented by the certificates are payable by the issuing bank to any one of the designated payees.
+Appellant contends that by orally agreeing with Mrs. Browne to refuse payment on the certificates without her authorization, it became obligated to her and when appellee induced the bank to pay her the face amount of the certificates plus interest by signing the indemnity agreement, she became liable to the bank when it later paid Mrs. Browne under the oral agreement. On the other hand, the appellee maintains that the statutes quoted above relieved the bank of any liability to make payment to Mrs. Browne because Mrs. Comstock had the certificates in her possession, was named as one of the three owners on the face of the certificates, and when she received the proceeds of the certificates the bank was discharged from any further liability on them. Thus, appellee says that the payment made to Mrs. Browne was merely a voluntary act by the bank.
+Appellant also'argues that it suffered a loss within the scope of the indemnity agreement which Mrs. Comstock signed. However, the appellee contends that the indemnity agreement was void for lack of consideration since the bank was already legally obligated to make payment to her if she presented the certificates to the bank for payment.
+We agree with the appellee’s position. When one pays money on a demand that is not legally enforceable, the payment is deemed voluntary. Absent fraud, duress, mistake of fact, coercion, or extortion, voluntary payments cannot be recovered. Gautrau v. Jan’s Realty, 271 Ark. 394, 609 S.W.2d 107 (1980); Boswell v. Gillett, 226 Ark. 935, 295 S.W.2d 758 (1956); Ritchie v. Bluff City Lumber Co., 86 Ark. 175, 110 S.W. 591 (1908). We think the payments to Mrs. Browne were voluntarily made.
+Also, it is necessary that there be consideration in order to have a valid, enforceable contract. Minyard v. Daking Mill, Inc., 269 Ark. 266, 599 S.W.2d 742 (1980). It has been said that consideration is any benefit conferred or agreed to be conferred upon a promisor to which he is not lawfully entitled, or any prejudice suffered or agreed to be suffered by a promisor other than such as he is lawfully bound to suffer. 17 Am. Jur. 2d Contracts § 96 at 439 (1964). We find no consideration for the indemnity executed by the appellee.
+Affirmed.
