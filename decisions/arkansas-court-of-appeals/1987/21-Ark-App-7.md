@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 86-235"
+decided: "1987-04-15"
+citations: ["21 Ark. App. 7", "727 S.W.2d 391"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Coulson and Cooper, JJ., agree."]
+parties: ["FARMER’S INSURANCE COMPANY v. Gary BUCHHEIT"]
+source_url: "https://static.case.law/ark-app/21/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136106
+cites_cases: ["1 Ark. App. 44", "10 Ark. App. 56", "12 Ark. App. 358", "15 Ark. App. 205", "15 Ark. App. 209", "8 Ark. App. 200"]
+---
+
+# Farmer's Insurance Co. v. Buchheit
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+This is an appeal from a decision of the Workers’ Compensation Commission holding appellee entitled to continuing temporary total disability and medical treatment and authorizing a change of physicians.
+The appellee suffered a fractured vertebra on June 22,1984, when a plywood board on which he was standing on a roof broke and he fell twenty-two feet to the ground, landing first on his heels then on his buttocks. At the first hearing, held November 12, 1984, it was determined that appellee was entitled to temporary total disability benefits and it was agreed that he would be examined by an orthopedic surgeon, Dr. Austin Grimes. A subsequent hearing was held on July 24,1985, at which appellee contended he was entitled to continuing temporary total disability benefits and medical care. Appellant contended appellee’s healing period had ended and that a change of physicians from his treating physician to Dr. Jeff Carson, a chiropractor, was unauthorized.
+The administrative law judge held that even though appellee admitted having worked for a couple of months between the first and second hearings, his injury severely limited his social and work activities and he was entitled to further medical treatment and temporary total disability, excepting the dates he had worked. The law judge also held that the change to Dr. Carson was authorized because appellee had followed the statutorily outlined procedure. The full Commission affirmed. For reversal, appellant argues that the decision was not supported by substantial evidence and the facts do not support the Commission’s order that appellee was entitled to a retroactive change of physicians.
+The record shows that subsequent to his compensable injury appellee contracted infectious mononucleosis. He admitted that delayed his healing period, but he also testified that he still suffered from severe pain and stiffness in his back. His girlfriend testified that some mornings the appellee was so stiff and sore she had to help him get up, and on one occasion, she had to physically carry him to the car and take him to the doctor because his legs were asleep. Appellee admitted he had attempted to work, first for a grocer, then for an automobile body repair shop. He testified that he tried to work because he was short of money but was forced to quit each job because of physical limitations caused by his injury and because the work was so strenuous.
+Various doctors who submitted medical reports on appellee’s condition confirmed the fractured vertebra but indicated it should have healed. One doctor stated that he could not understand why appellee was still having pain and suggested it might be caused by other reasons; however, he did not speculate as to what those other reasons might be. At the time of the last hearing, appellee was not on medication and was consulting only the chiropractor, Dr. Carson, who, he insisted, was the only doctor who had improved his condition at all since his injury.
+Appellant first argues that the Commission’s decision awarding temporary total disability is not supported by substantial evidence and that fair minded persons with the same evidence before them could not have reached the same conclusion. Stephens v. St. Vincent Infirmary, 15 Ark. App. 209, 691 S.W.2d 190 (1985); Snow v. Alcoa, 15 Ark. App. 205, 691 S.W.2d 194 (1985).
+Findings of the Workers’ Compensation Commission are viewed in the light most favorable to the decision reached by the Commission; the testimony is given its strongest probative force in favor of the action of the Commission; and the decision carries the weight of a jury verdict. Artex Hydrophonics, Inc. v. Pippin, 8 Ark. App. 200, 649 S.W.2d 845 (1983). The Commission has the duty of weighing medical evidence as it does any other evidence and if that evidence is conflicting, the resolution of the conflict is a question of fact for the Commission. Jones v. Scheduled Skyways, Inc., 1 Ark. App. 44, 612 S.W.2d 333 (1981). After a thorough review of the record, we cannot say the decision awarding temporary total disability is not supported by substantial evidence.
+Next, appellant argues the facts do not support the Commission’s decision that the appellee was entitled to retroactive approval of a change from his medical doctor to a chiropractor. Appellant cites Wright Contracting Co. v. Randall, 12 Ark. App. 358, 676 S.W.2d 750 (1984), and American Transportation Co. v. Payne, 10 Ark. App. 56, 661 S.W.2d 418 (1983), which held that under Act 290 of 1981, which amended Ark. Stat. Ann. § 81-1311, the Commission no longer had broad discretion to retroactively authorize a change of physicians. However, this argument ignores Act 444 of 1983, which added a specific provision authorizing a change to a chiropractor without seeking permission of the Commission. That addition is found in Ark. Stat. Ann. § 81-1311 (Supp. 1985) and states “if the change desired by the claimant is to a chiropractic physician, the claimant may make the change by giving advance written notification to the employer or carrier.”
+The record contains a copy of a notice stating that appellee desires to change physicians from Dr. Grimes to Dr. J. J. Carson, and the receipt of the notice is acknowledged by the signature of appellee’s employer, Tony Usdrowski. Although the notice is undated, appellee testified he began seeing Dr. Carson on March 13,1985, and was given the notice to take to his employer who then signed it. The Commission found that the provisions of Act 444 of 1983 had been sufficiently complied with and we find substantial evidence in the record to support this finding of fact.
+Affirmed.
+Coulson and Cooper, JJ., agree.
