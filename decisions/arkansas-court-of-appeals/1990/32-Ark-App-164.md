@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 90-60"
+decided: "1990-11-07"
+citations: ["32 Ark. App. 164", "798 S.W.2d 440"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayfield and Rogers, JJ., agree."]
+parties: ["STATE FARM FIRE & CASUALTY CO. v. Betty AMOS"]
+source_url: "https://static.case.law/ark-app/32/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6648181
+cites_cases: ["262 Ark. 198", "292 F. Supp. 141", "295 Ark. 412", "30 Ark. App. 39"]
+---
+
+# State Farm Fire & Casualty Co. v. Amos
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+On Judge 24,1986, the appellee, Betty Amos, was a passenger in a pickup truck driven by her son, Leslie Amos. Leslie had borrowed the truck, from his boss, Earl Scyrkels. Gary Dale Shadwick, who was legally drunk and uninsured, ran a stop sign and crashed into Scyrkels’ truck, injuring the appellee. Because Shadwick had no insurance, Scyrkels’ insurance company paid Ms. Amos the $50,000.00 bodily injury limits of its policy on the truck. Ms. Amos filed this suit against the appellant, State Farm Fire and Casualty Company, seeking to stack damages pursuant to a policy on Leslie Amos’ Toyota, which had bodily injury limits for uninsured motorist coverage of $25,000.00.
+The appellant moved for summary judgment prior to trial and also moved for a directed verdict at the close of the appellee’s case. Both motions were denied, and the case was submitted to the jury, which was instructed that the first $50,000.00 of any verdict it might award had already been paid to the appellee, so that its verdict would affect the appellant only in an amount exceeding that sum by up to $25,000.00. The jury returned a verdict of $2,700.00 for the appellee. The appellee later moved for a new trial on the basis that the award was insufficient, and the trial judge granted the motion. From that decision, comes this appeal.
+For reversal, the appellant contends that the trial judge erred in denying its motions for summary judgment and directed verdict. We note that the denial of a motion for summary judgment is ordinarily not reviewable on appeal even after final judgment is entered, see Henslee v. Kennedy, 262 Ark. 198, 555 S.W.2d 937 (1977), and we therefore address only the appellant’s contention that the trial court erred in refusing to direct a verdict in its favor.
+The crucial issue in the case at bar is whether the State Farm insurance policy provided the appellee benefits in addition to the primary coverage provided by Mr. Scyrkel’s policy. In its motion for a directed verdict, the appellant contended that it did not, based on the following language in the State Farm policy:
+If the insured sustains bodily injury while occupying a vehicle not owned by you, your spouse, or any relative, this coverage applies:
+(a) as excess to any uninsured motorist vehicle coverage which applies to the vehicle as primary coverage, but
+(b) only in the amount by which it exceeds the primary coverage.
+In its motion, the appellant argued that there was no contractual liability because the $25,000.00 State Farm coverage did not exceed the $50,000.00 primary coverage. The appellee argued that the above-quoted language was ambiguous and that the ambiguity should be resolved in favor of the insured by allowing the uninsured motorist provisions in the two policies to be “stacked,” i.e., allowing the appellee to recover the full amount of the State Farm coverage in addition to the full amount of the primary coverage. The trial court specifically found that no extrinsic evidence was required to interpret the policy and concluded that the above-quoted anti-stacking provision was ambiguous. The appellant’s directed verdict motion was denied, and the trial court allowed the case to proceed to the jury.
+In cases such as the case at bar, where the meaning of the language of a written contract does not depend on disputed extrinsic evidence, the construction and legal effect of the contract are questions of law. Duvall v. Massachusetts Indemnity and Life Ins. Co., 295 Ark. 412, 748 S.W.2d 650 (1988). In order to be ambiguous, a term in an insurance policy must be susceptible to more than one equally reasonable construction. Watts v. Life Ins. Co., 30 Ark. App. 39, 782 S.W.2d 47 (1990). We hold that the language of the State Farm policy unambiguously precluded any contractual liability to the appellee under the circumstances of the case at bar, and that the trial court erred in denying the appellant’s motion for a directed verdict.
+The anti-stacking provision in the State Farm policy provided that, under the circumstances presented here, the uninsured motorist insurance coverage would apply as excess to any primary coverage, but only in the amount by which it exceeds the primary coverage. The clarity of the language employed compares favorably with the “other insurance” clause at issue in Pinkus v. Southern Farm Bureau Casualty Insurance Co., 292 F. Supp. 141 (1968), which provided:
+PARAGRAPH 5. OTHER INSURANCE. With respect to bodily injury to an Insured while occupying an automobile not owned by a Named Insured under this endorsement, the insurance hereunder shall apply only as excess insurance over any other similar insurance available to each occupant, and this insurance shall apply only in the amount by which the applicable limit of liability of this endorsement exceeds the sum of the applicable limits of liability of all other such insurance.
+The Pinkus court addressed a dispute quite similar to that which is before us here. There, the plaintiffs sought coverage from the defendant as the secondary insurer on three “Uninsured Motorist Coverage” policies on three vehicles owned by plaintiffs. The policies provided uninsured motorist protection within limits of liability of $10,000.00 for each person and $20,000.00 for each accident. The plaintiffs were involved in an accident while passengers in a vehicle owned by a third party, and insured by Travelers Insurance Company, which provided primary coverage including an uninsured motorist endorsement, with identical limits to those provided by the defendant. Travelers paid the policy limits, and plaintiffs sought to stack the coverage provided by defendant. The court found the policy language to be unambiguous and concluded that the provision did not allow stacking under the circumstances of that case because the defendant insurer’s policies contained limits of liability which did not exceed the limits of liability in the Traveler’s policy.
+The same logic applies here. The only reasonable construction which can be given to the language of the State Farm policy is that coverage applies only to the extent that it exceeds the primary coverage. The State Farm coverage of $25,000.00 does not exceed the primary coverage of $50,000.00 in any amount. Therefore, the trial court erred in denying the appellant’s motion for a directed verdict. Accordingly, we reverse the trial court’s order granting a new trial, and the case is dismissed.
+Reversed and dismissed.
+Mayfield and Rogers, JJ., agree.
