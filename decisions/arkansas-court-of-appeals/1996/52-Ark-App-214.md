@@ -1,0 +1,38 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 95-363"
+decided: "1996-03-06"
+citations: ["52 Ark. App. 214", "916 S.W.2d 773"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayfield and Neal, JJ., agree."]
+parties: ["UNITED STATES FIDELITY & GUARANTY COMPANY v. Raymon BREWER and Fireman’s Fund Insurance Company"]
+source_url: "https://static.case.law/ark-app/52/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140368
+cites_cases: ["19 Ark. App. 335", "36 Ark. App. 76", "5 Ark. App. 205", "8 Ark. App. 274", "Ark. Code Ann. § 11-9-713"]
+---
+
+# United States Fidelity & Guaranty Co. v. Brewer
+
+## Majority (John F. Stroud, Jr., Judge.)
+
+John F. Stroud, Jr., Judge.
+This is an appeal from a decision of the Workers’ Compensation Commission finding that it had no authority to vacate its prior opinion and order a new trial on the basis of newly discovered evidence after the thirty-day appeal period had expired. We agree and affirm.
+Raymon Brewer sustained a compensable injury to his back during the course and scope of his employment on February 12, 1990. At the time of the injury, appellant was the workers’ compensation carrier for Brewer’s employer, Charles Allen Construction. As part of his medical treatment, Brewer underwent an MRI on April 2, 1990, which showed that he suffered from degenerative arthritis but revealed no herniated disc injury. Brewer returned to work on May 17, 1990, but continued to have some back pain. On January 1, 1991, appellee Fireman’s Fund Insurance Company became the workers’ compensation carrier for Charles Allen Construction.
+On July 9, 1992, Brewer suffered a second injury to his back during the course and scope of his employment when he fell five to six feet from a track hoe. He filed a workers’ compensation claim for the injury, and a hearing was held on February 11, 1993, to determine whether he had sustained an aggravation or a recurrence. If the injury had been found to be an aggravation, appellee Fireman’s Fund would have been liable for Brewer’s benefits. However, the administrative law judge found that Brewer’s injury was a recurrence of the February 12, 1990, injury, which rendered appellant liable. The Commission affirmed and adopted the ALJ’s opinion in an order entered on February 23, 1994. Appellant did not appeal the February 23, 1994, order.
+During the course of his treatment for the second injury, Brewer underwent an MRI on July 13, 1994. The MRI revealed that Brewer had a herniated disc. Both Brewer’s treating physician and an orthopedic surgeon who examined him opined that- Brewer’s herniated disc was a result of the July 9, 1992, fall.
+On November 1, 1994, appellant filed a motion to vacate the February 23, 1994, order and requested a new hearing. The Commission denied the motion and found that it lacked the authority to vacate its prior opinion and to order a new hearing after the thirty-day appeal period expired. Appellant filed a timely notice of appeal from that opinion.
+Appellant contends that the Commission had the authority to vacate its opinion and that its refusal to do so violates appellant’s constitutional right to seek a remedy. It also argues that it was reversible error for the Commission to refuse to admit additional evidence because the prerequisites for the admission of additional evidence have been met. We find no merit in appellant’s arguments and affirm.
+Appellant’s first contention is that Ark. Const, art. II, § 13 guarantees a remedy for every injury and that it was injured by the Commission’s order finding it liable for Brewer’s injuries. It argues that the Commission unconstitutionally denied it a remedy for that injury by failing to vacate its order and remand for rehearing. We do not address appellant’s constitutional argument because it was not raised before the Commission. The rule that prohibits presentation of constitutional issues for the first time on appeal applies with equal force to appeals from the Commission. Shaw v. Commercial Refrigeration, 36 Ark. App. 76, 818 S.W.2d 589 (1991).
+Appellant also contends that the Commission had statutory authority to vacate its order and remand for a rehearing pursuant to Ark. Code Ann. § 11-9-713 (1987), which provides:
+(A) Except where a joint petition settlement has been approved, the commission may review any compensation order, award, or decision. This may be done at any time within six (6) months of termination of the compensation period fixed in the original compensation order or award, upon commission’s own motion or upon the application of any party in interest, on the ground of a change in physical condition or upon proof of erroneous wage rate. Upon the review, the commission may make an order or award terminating, continuing, decreasing, or increasing for the future the compensation previously awarded, subject to the maximum limits provided for in this chapter. (Emphasis added.)
+Although Ark. Code Ann. § 11-9-713 grants the Commission the authority to modify a final award subsequent to the expiration of the time for appeal, the Commission may only do so upon a showing of a change in physical condition or proof of an assignment of an erroneous wage rate. See, Cooper Indus. Prod. v. Meadows, 5 Ark. App. 205, 634 S.W.2d 400 (1982).
+Appellant did not argue in his motion to vacate filed with the Commission that Brewer’s physical condition had changed since the order was entered or that there was an assignment of an erroneous wage rate. Instead, appellant argues that Mr. Brewer experienced a change in physical condition prior to the entry of the award but subsequent to the change in workers’ compensation carriers. Appellant seeks to offer new evidence to show that Mr. Brewer had a herniated disc at the time the original order was entered to shift liability for Brewer’s compensation to Firemen’s Fund. This is clearly outside the scope of the statute, which only allows modification of the amount of an award due to a change in physical condition. Thus, appellant’s reliance on Ark. Code Ann. § 11-9-713 (1987) is misplaced.
+The Commission was correct in its finding that it did not have the authority to vacate its prior order. Arkansas Code Annotated section 11-9-71.1 (b) (1987) provides:
+(b) Award or Order of Commission — Appeal. (1) A compensation order or award of the Workers’ Compensation Commission shall become final unless a party to the dispute shall, within thirty (30) days from receipt by him of the order or award, file notice of appeal to the Court of Appeals, which is designated as the forum for judicial review of those orders and awards.
+In this case, no appeal was filed from the order entered on February 23, 1994. We have previously held that the Commission has no authority to entertain a petition for rehearing after the expiration of the thirty-day appeal period. Lloyd v. Potlatch Corp., 19 Ark. App. 335, 721 S.W.2d 670 (1986); Smith v. Servomation, 8 Ark. App. 274, 651 S.W.2d 118 (1983); Cooper Indus. Prod. v. Meadows, 5 Ark. App. 205, 634 S.W.2d 400 (1982). Lloyd, Smith, and Cooper are controlling in this case, and the Commission was correct in its finding that it had no authority to grant appellant’s motion to vacate.
+Because we hold that the Commission did not have authority to vacate its order and remand the case for the taking of additional evidence, we need not address appellant’s argument that the statutory requirements for admitting additional evidence were met.
+Affirmed.
+Mayfield and Neal, JJ., agree.
