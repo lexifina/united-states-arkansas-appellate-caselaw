@@ -1,0 +1,40 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 85-497"
+decided: "1986-09-24"
+citations: ["19 Ark. App. 31", "716 S.W.2d 215"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft, C.J., and Glaze, J., agree."]
+parties: ["Ernest P. JOSHUA, d/b/a TONY’S DOGHOUSE v. Ronnie McBRIDE"]
+source_url: "https://static.case.law/ark-app/19/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6643618
+cites_cases: ["11 Ark. App. 263", "12 Ark. App. 364", "131 N.E.2d 210", "268 Ark. 269", "277 Ark. 433", "280 Ark. 337", "461 N.Y.S.2d 116", "497 P.2d 882", "61 S.E.2d 859", "670 S.W.2d 454", "92 A.D.2d 713"]
+---
+
+# Joshua v. McBride
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+In this appeal from the Pulaski County Circuit Court the question is whether an employment contract for a definite term may be terminated by the employer because of the employee’s short-term illness.
+Appellee, Ronnie McBride, is a bandleader and entered into a verbal agreement with appellant, Ernest Joshua, whereby appellee would perform at appellant’s nightclub six nights per week (Monday through Saturday) from May 7, 1984, through August 25, 1984. Appellee was to be paid $1,300.00 per week. Appellee obtained permission from the nightclub’s manager, Richard Smith, to be absent from work on Saturday, June 2, 1984, so that he could get married that day. It was agreed that the club would find a replacement band and that appellee would not be paid for that night.
+On Monday, June 4, 1984, appellee became ill with food poisoning and was unable to perform. His wife informed Richard Smith that appellee would be unable to perform that night and that he would be at work the next day. On June 5,1984, appellee received a telephone call from Smith telling appellee to take two weeks off. Appellee attempted to resolve the matter with appellant, but they could not reach an agreement as to the amount due appellee and the contract was terminated. The appellant’s son, Michael Joshua, testified that appellee was terminated because he was not at work on June 4, 1984. This was not denied by the appellant or his manager, Smith.
+Appellee filed suit against appellant for damages for breach of contract in the amount of $14,300.00. After a trial before the circuit judge sitting as a jury, a judgment in the amount of $12,600.00 was entered in favor of appellee. In the judgment, the court made the following findings:
+1. There was a verbal contract of employment between the parties;
+2. There was no dispute as to the period of the contract; and
+3. A personal service contract will allow for illness.
+Findings of fact of a circuit judge sitting as a jury will not be reversed on appeal unless clearly against a preponderance of the evidence, and in making that determination, we give due regard to the superior opportunity of the trial court to judge the credibility of the witnesses and the weight to be given to their testimony. Jones v. Innkeepers, Inc., 12 Ark. App. 364, 676 S.W.2d 761 (1984); ARCP Rule 52(a).
+On appeal, appellant does not question the amount of damages allowed but does argue that the court erred in holding that the contract involved would “allow for illness.” It is appellant’s contention that the parties had an “implied contract” which would include the requirement that appellee supply a replacement band during his absence on June 4,1984. We do not agree that the contract between the parties was “implied,” but think it was an express, verbal agreement that did not expressly include the requirement that appellee furnish a replacement band when he was absent. Parties, by their conduct, can enable a court to give substance to an indefinite term of a contract. “In essence, the court looks to the conduct of the parties to determine what they intended.” Welch v. Cooper, 11 Ark. App. 263, 268, 670 S.W.2d 454 (1984).
+In this case, there was testimony that in the past, when appellee and his band performed at appellant’s club, appellee had been required to supply a replacement band when he was absent. However, there was no evidence that this obligation had ever been placed upon appellee in the event of an unforeseeable, short-term illness. Appellee was not required to supply a replacement band on June 2, 1984, when he got married and his absence on that night was a foreseeable event for which plans for an alternate band could have been made by appellee if appellant had so required. In light of these facts, we cannot say the circuit judge was clearly erroneous in failing to find an implied requirement that appellee supply a replacement band in the event of illness.
+The appellant cites the cases of Newton v. Brown & Root, 280 Ark. 337, 658 S.W.2d 370 (1983) and M.B.M. Co. v. Counce, 268 Ark. 269, 596 S. W.2d 681(1980) for the proposition that he had the right to terminate appellee’s employment without cause. However, in those cases, the employment relationships were terminable at will. Here, the contract was for a definite term and was not terminable at will. In Griffin v. Erickson, 277 Ark. 433, 436-37, 642 S.W.2d 308 (1982), the Arkansas Supreme Court stated:
+Generally, a contract of employment for an indefinite term is a “contract at will” and may be terminated by either party, whereas a contract for a definite term may not be terminated before the end of the term, except for cause or by mutual agreement, unless the right to do so is reserved in the contract.
+Thus, the issue presented here is whether appellee’s one-day absence due to food poisoning provided appellant with good cause to terminate appellee.
+It is true, as a general rule, that “ [c] ontracts to perform personal acts are considered as made on the implied condition that the party shall be alive and capable of performing the contract, so that death or disability, including sickness, will operate as a discharge, termination of the contract, or excuse for nonperformance. . . .” 17A C.J.S. Contracts § 465, at 623 (1963). Temporary illnesses of short duration, however, are not usually cause for termination:
+Whether the employment of one engaged for a definite term may be terminated by the employer because of illness of the employee depends on all the circumstances, including the nature of the business and the employee’s duties, the character and possible duration of the illness, the necessities of the employer, the effect on him of a cessation of the employee’s services, and whether the employee’s duties may be reasonably and substantially performed for a time by another. Generally an employer may, in the absence of a stipulation to the contrary, treat an employment contract as terminated by illness or injury of the employee for all or a substantial part of the term whereby the purpose of the employment contract is frustrated or substantial performance becomes impossible, thereby materially affecting the employer’s interests. On the other hand, a brief or temporary illness or disability which does not prevent substantial performance of the contract by the employee does not justify termination of the contract of employment.
+53 Am. Jur. 2d Master and Servant § 50 (1970). See also Hortis v. Madison Golf Club, Inc., 92 A.D.2d 713, 461 N.Y.S.2d 116 (1983); Fishery. Church of St. Mary, 497 P.2d 882 (Wyo. 1972); Growers Outlet, Inc. v. Stone, 131 N.E.2d 210 (Mass. 1956); Citizens Home Ins. Co. v. Glisson, 61 S.E.2d 859 (Va. 1950).
+Whether justification exists for termination of the contract under the facts and circumstances of a particular case is usually a question of fact. Citizens Home Ins. Co. v. Glisson, supra. By terms of the contract in the present case, appellee was to perform at appellant’s nightclub for over three months; his absence because of illness, however, lasted only one day. It is our conclusion that the trial judge’s decision in this case was not clearly against the preponderance of the evidence.
+Affirmed.
+Cracraft, C.J., and Glaze, J., agree.
