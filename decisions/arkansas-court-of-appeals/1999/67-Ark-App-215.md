@@ -1,0 +1,46 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 98-1291"
+decided: "1999-09-01"
+citations: ["67 Ark. App. 215", "997 S.W.2d 445"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pittman and Roaf, JJ., agree."]
+parties: ["OFFICE of CHILD SUPPORT ENFORCEMENT v. Gary LONGNECKER"]
+source_url: "https://static.case.law/ark-app/67/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138854
+cites_cases: ["301 Ark. 627", "306 Ark. 209", "331 Ark. 581", "38 Ark. App. 81", "52 Ark. App. 201", "53 Ark. App. 41", "60 Ark. App. 189", "63 Ark. App. 187", "63 Ark. App. 192", "63 Ark. App. 89", "65 Ark. App. 240", "784 S.W.2d 588", "784 S.W.2d 589", "975 S.W.2d 878"]
+---
+
+# Office of Child Support Enforcement v. Longnecker
+
+## Majority (Sam Bird, Judge.)
+
+Sam Bird, Judge.
+The State of Arkansas Office of Child Support Enforcement, as Intervenor in a case between Brenda and Gary Longnecker, appeals a decision requiring Gary Longnecker to pay child support based solely on his primary employment as a fireman. The chancellor stated in a letter opinion:
+As I read the current law, support should be based upon Mr. Longnecker’s regular employment at the fire department only. It would be inequitable, at least, and should be against public policy to base support on additional part time work, especially considering that his regular work week is fifty-six hours.
+Appellee Gary Longnecker has, during the pendency of this action (1994-98), received income from three sources: the Stuttgart Fire Department, Riceland Builders (his father’s construction company), and the National Guard. Appellant argues that all Longnecker’s income from any source must be considered to arrive at the proper amount of support.
+Appellee counters that the chancellor was aware of all his sources of income, that he considered all the evidence, that he referred to the child-support chart, and that he provided written explanation as to why he did not apply all of appellee’s income to the chart. Thus, according to appellee, the chancellor precisely followed the procedure set out in Administrative Order of the Supreme Court Number 10 — Child Support Guidelines, 331 Ark. 581 (1998), and, therefore, his decision should be affirmed. We do not agree with appellee’s contention, and we reverse and remand.
+Appellee and his former wife, Brenda Longnecker, had two children: Rachel, DOB 9/23/79, and Hunter, DOB 4/22/85. When they divorced in 1994, Ms. Longnecker was awarded custody of both children. At that time child support was set at $125 a week. In May 1996, by agreement of the parties and the court, Hunter went to live with his father, and child support was abated. In October 1996, Ms. Longnecker sought return of custody and resumption of child support because Hunter had moved back into her home and wished to remain there. At that time appellee was ordered to pay $98 per week child support based on his fireman’s income and his income from the National Guard. The chancellor apparently had been informed that Longnecker was no longer working for his father at Riceland Builders.
+On September 23, 1997, Rachel reached the age of eighteen and sometime between her graduation from high school and her birthday, she married. At that time, the amount of child support appellee was required to pay was reduced to that for one child. The trial judge informed the parties that he would consider only appellee’s salary as a fireman in computing the proper amount of child support. Counsel for Child Support Enforcement objected, arguing that all of appellee’s income from all sources should be considered. The objection was overruled.
+Although chancery cases are reviewed de novo on the record, the appellate court will not reverse unless the chancellor’s findings are clearly against the preponderance of the evidence or are clearly erroneous. Mixon v. Mixon, 65 Ark. App. 240, 987 S.W.2d 284 (1999); Heflin v. Bell, 52 Ark. App. 201, 916 S.W.2d 769 (1996). Ordinarily, the amount of child support lies within the discretion of the chancellor, and his findings will not be disturbed on appeal absent an abuse of discretion. Halter v. Halter, 60 Ark. App. 189, 959 S.W.2d 761 (1998); Creson v. Creson, 53 Ark. App. 41, 917 S.W.2d 553 (1996); Belue v. Belue, 38 Ark. App. 81, 828 S.W.2d 855 (1992). Thus the question before us is whether the chancellor’s ruling constitutes an abuse of discretion.
+In setting the amount of child support that a noncustodial parent must pay, reference to the most recent child-support chart, 331 Ark. 581, is mandatory. Thompson v. Thompson, 63 Ark. App. 89, 974 S.W.2d 494 (1998). Before a chancellor can refer to the child-support chart, the payor’s income must be determined. Woodson v. Johnson, 63 Ark. App. 192, 975 S.W.2d 880 (1998). Arkansas Code Annotated section 9-14-201 (Repl. 1998) defines income:
+(7) As used in this title, and for all child support purposes, “income” means any periodic form of payment due to an individual, regardless of source, including wages, salaries, commissions, bonuses, workers’ compensation, disability, payments pursuant to a pension or retirement program, and interest. The definition of “income” may be expanded by the Arkansas Supreme Court from time to time in the Guidelines for Child Support Enforcement. (Emphasis added.)
+Administrative Order Number 10 — Child Support Guidelines, Section II, Definition of Income (1999), provides:
+Income means any form of payment, periodic or otherwise, due to an individual, regardless of source, including wages, salaries, commissions, bonuses, worker’s compensation, disability, payments pursuant to a pension or retirement program, and interest less proper deductions for:
+1. Federal and state income tax;
+2. Withholding for Social Security (FICA), Medicare, and railroad retirement;
+3. Medical insurance paid for dependant [sic] children, and
+4. Presendy paid support for other dependents by Court order.
+331 Ark. at 582-83. (Emphasis added.)
+In the supreme court’s per curiam In Re: Guidelines for Child Support Enforcement, 301 Ark. 627, 784 S.W.2d 589 (1990), the court stated many factors that may be considered in determining the appropriate amount of child support to be paid. They include, but are not limited to, clothing, accustomed standard of living, recreation, educational expenses, and “other income or assets available to support the child from whatever source.” 301 Ark. at 629, 784 S.W.2d at 591.
+In Black v. Black, 306 Ark. 209, 812 S.W.2d 480 (1991), the Arkansas Supreme Court stated that its per curiam listed examples of other matters in addition to the support chart that could have a “strong bearing” in determining the amount of child support. 306 Ark. at 214, 812 S.W.2d at 482.
+In Belue, supra, we reviewed the decision of a chancellor who had included as income for purposes of setting child support the father’s disability pension from the Veterans’ Administration, which was his only source of income. The chancellor stated:
+[I]t is my firm belief that the Supreme Court never intended to exempt income received from VA benefits, ... to be exempt [sic] from being calculated in child support payments. I can see no reason why Mr. Belue should five on a very substantial income and not support his child, even if the technical definition of income does not include that income which he receives.
+We held that the chancellor’s action was not error, stating, “The language ‘other income or assets available to support the child from whatever source’ contained in the per curiam shows the committee’s intent to expand, not restrict, the sources of funds to be considered in setting child support. See 301 Ark. at 629, 784 S.W.2d 588.” 38 Ark. App. at 85, 828 S.W.2d at 857.
+Thus, it is clear that all sources of a payor’s income are to be included in arriving at the sum of money upon which the amount of child support is to be derived from the Family Support Chart, and the chancellor’s decision to exclude some of the appellee’s income was an abuse of discretion.
+On de novo review of a fully developed chancery record, we may enter the order that the chancellor should have entered, or we may remand if we think justice will be better served. Reaves v. Reaves, 63 Ark. App. 187, 975 S.W.2d 878 (1998). However, in the instant case, we are reluctant to set the amount of child support to be paid by appellee because it does not appear that the record has been sufficiently developed as to whether any factors exist that might justify a departure from the presumptive amount of child support calculated pursuant to the Family Support Chart. Therefore, we think that the better course in this instance is to remand for the chancellor to redetermine the amount of appellee’s income in a manner consistent with this opinion, to afford the parties an opportunity to present evidence as to the existence of factors that might justify a departure from the presumptive amount of child support specified by the Chart, and, if it is determined that the amount specified in the Chart is unjust or inappropriate, to permit the chancellor to make the written findings required by Administrative Order Number 10.
+Reversed and remanded.
+Pittman and Roaf, JJ., agree.
