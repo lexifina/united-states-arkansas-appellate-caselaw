@@ -1,0 +1,43 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 89-180"
+decided: "1989-11-29"
+citations: ["29 Ark. App. 229", "780 S.W.2d 347"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings and Mayfield, JJ., agree."]
+parties: ["The GREEN HOUSE, INC. & Robert C. Sykes, Managing Agent v. The ARKANSAS ALCOHOLIC BEVERAGE CONTROL DIVISION, et al."]
+source_url: "https://static.case.law/ark-app/29/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140862
+cites_cases: ["1 Ark. App. 92", "18 Ark. App. 18", "25 Ark. App. 86", "256 Ark. 846", "333 N.E.2d 324", "406 P.2d 453", "48 Ind. Dec. 568", "Ark. Code Ann. § 25-15-210", "Ark. Code Ann. § 3-9-222", "Ark. Code Ann. §§ 3-9-221"]
+---
+
+# Green House, Inc. v. Arkansas Alcoholic Beverage Control Division
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellants in this administrative agency case applied for an on-premises, private club alcoholic beverage permit pursuant to Ark. Code Ann. §§ 3-9-221 and 222 (1987). After a hearing on August 17, 1988, the Arkansas Alcoholic Beverage Control Division Board (ABC Board) denied the application on the ground that it was not in the public interest. From that decision, comes this appeal.
+For reversal, the appellants contend that there is no substantial evidence to support the Board’s finding that issuance of the permit would not be in the public interest, and that the Board’s decision was arbitrary, capricious, and an abuse of discretion. We reverse and remand.
+We initially note that, although this appeal is from the circuit court’s affirmance of the Board’s denial of the permit, we review the decision of the Board, not the decision of the circuit court. Johnson v. Moore, 25 Ark. App. 86, 752 S.W.2d 293 (1988).
+The record shows that the appellant, Robert Sykes, is the managing agent of The Green House, Inc., a nonprofit organization located in the city of Russellville in Pope County, which is a dry area. Mr. Sykes is also the proprietor of the Ice House, a restaurant in Russellville. The appellants proposed to locate the private club in the Ice House, leasing from the restaurant a small area which would seat approximately 40 people.
+We have reviewed the record in this case and are convinced that it must be reversed and remanded to the Arkansas Alcoholic Beverage Control Board for further proceedings consistent with this opinion. Our determination is based on the board’s failure to make explicit and concise findings of fact as required by Ark. Code Ann. § 25-15-210(b)(2) (1987), which requires that:
+A final decision shall include findings of fact and conclusions of law, separately stated. Findings of fact, if set forth in statutory language, shall be accompanied by a concise and explicit statement of the underlying facts supporting the findings.
+In the case at bar, the Board concluded that:
+[T]he application is not m the public interest. . .because of the numerous objections that have been received from the Mayor, the Sheriff, the State Senator, the State Representative, the Prosecuting Attorney, and other public officials, as shown by testimony and by letters contained within the file.
+A finding that a private club permit is not in the public interest is not supported by substantial evidence if that finding is based solely on the number or official position of the persons who oppose it. See Snyder v. Alcoholic Beverage Control Board, 1 Ark. App. 92, 613 S.W.2d 126 (1981). However, we are unable to determine from the record whether the Board’s finding was based on the mere opposition of the specified public officials, or was instead based on fact-findings derived from the testimony of those officials, because the Board’s decision does not include “a concise and explicit statement of the underlying facts” supporting the finding, set forth in the language of Ark. Code Ann. § 3-9-222(f) (1987), that issuance of the permit would not be “in the public interest.” Instead, the “findings” of the Board consist of a narrative account of the proceedings and the substance of the testimony presented by the various witnesses. The Board’s decision is therefore too lengthy to reproduce in its entirety, but the following short excerpt is illustrative of all eleven of the “findings” recited in the Board’s decision:
+After considering all notes, memoranda, and sworn testimony, it is found, TO WIT:
+1. It appears that the matter had been denied by the Director because he found that the application had been very heavily opposed by area residents and public officials.
+2. Offering testimony first were State Senator Luther Hardin and Representative Doc Bryan, both of whom represent this area in the Arkansas General Assembly. Their testimony was taken out of turn as they were in Little Rock to attend a retirement committee meeting and were needed at the State Capitol building.
+3. Comments by Senator Hardin indicate that he was appearing in his capacity as a State Senator. It is his opinion that there is no need for the private club in this area of Russellville. He believes that the area is not appropriate and notes that there is a church which is immediately next to the proposed property where the private club would be operated. He notes that the establishment fronts on Arkansas Street which is also State Hwy. 7 and that it is a good restaurant but that the private club is just not needed. On cross examination Senator Hardin noted that there were a number of establishments that he would classify as “fine dining” establishments in Russellville some of which have private club permits and some do not. He acknowledged that the Russellville Country Club which has a private club permit has a dues structure which would be much higher than that proposed by the present applicant. Senator Hardin acknowledged that there are a number of private clubs in Pope County that have churches somewhat near to them, as is the case in the present application. He is philosophically against the private club concept, as it operates in dry counties but also has specific objections to this application.
+4. Rep. L.L. “Doc” Bryan next testified that he was also opposed to the application because of the close proximity of the private club property to a nearby church. He states that the church holds services two or three nights a week and that he did not see this as being a suitable location for the private club.
+Because the Board has merely recited the testimony rather than translating that testimony into findings of fact, we are unable to determine the Board’s view of the facts, or the theory of law on which the denial of the permit was based. We addressed a similar situation in Wright v. American Transportation, 18 Ark. App. 18, 709 S.W.2d 107 (1986), where we quoted the following language from Whispering Pines Home for Senior Citizens v. Nicalek, 48 Ind. Dec. 568, 333 N.E.2d 324 (1975):
+Once again, therefore, we attempt to tell the Board what a satisfactory specific finding of fact is.
+It is a simple, straightforward statement of what happened. A statement of what the Board finds has happened; not a statement that a witness, or witnesses, testified thus and so. It is stated in sufficient relevant detail to make it mentally graphic, i.e., it enables the reader to picture in his mind’s eye what happened. And when the reader is a reviewing court the statement must, contain all the specific facts relevant to the contested issue or issues so that the court may determine whether the Board has resolved those issues in conformity with the law.
+(Emphasis in the original.) The observations of the Board in the case at bar do not rise to the level of findings of fact. Reviewing courts may not supply findings by weighing the evidence themselves, because that function is the responsibility of the administrative agency, which sees the witnesses as they testify. Arkansas Savings and Loan Ass’n Board v. Central Arkansas Savings & Loan Ass’n, 256 Ark. 846, 510 S.W.2d 872 (1974).
+The findings are insufficient because there was a failure to incorporate therein a proper and acceptable finding of the basic or underlying facts drawn from the evidence. The Board’s decision only amounts to the statement ‘We have heard the evidence. The evidence does not meet the requirements of the law.’ This is not enough.
+Central Arkansas Savings & Loan Ass’n, supra, quoting Oklahoma Insp. Bur. v. State Bd. for Prop. & Cas. Rates, 406 P.2d 453 (Okla. 1965). We remand to the Board for further proceedings consistent with this opinion.
+Reversed and remanded.
+Jennings and Mayfield, JJ., agree.
