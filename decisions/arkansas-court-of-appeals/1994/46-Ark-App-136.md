@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 93-931"
+decided: "1994-06-15"
+citations: ["46 Ark. App. 136", "877 S.W.2d 936"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pittman and Mayfield, JJ., agree."]
+parties: ["Troy Lee ROGERS v. Laura Jane ROGERS a/k/a Villines"]
+source_url: "https://static.case.law/ark-app/46/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138311
+cites_cases: ["17 Ark. App. 253", "19 Ark. App. 242", "2 Ark. App. 37", "209 Ark. 44", "21 Ark. App. 194", "224 Ark. 366", "242 Ark. 790", "41 Ark. App. 29", "6 Ark. App. 261", "707 S.W.2d 777"]
+---
+
+# Rogers v. Rogers
+
+## Majority (John B. Robbins, Judge.)
+
+John B. Robbins, Judge.
+Appellant Troy Rogers appeals from an order of the Boone County Chancery Court in a child custody proceeding which denied in part his request to consider evidence of events which pre-dated a previous child custody hearing and order. Mr. Rogers contends on appeal that the chancellor erred in refusing to consider this proof in determining the best interest of the child and deciding his petition for a change of custody. We find no error and affirm.
+The history of this case shows that Mr. Rogers and appellee Laura Villines were divorced by decree on June 27, 1984. By agreement in 1985, Ms. Villines was given custody of the parties’ minor child, now approximately twelve years old. In 1989, Mr. Rogers was denied a change of custody. In July of 1990, he was awarded custody of the parties’ minor child upon a finding by the court that a change in circumstances had occurred and that it was in the child’s best interest that custody be placed with Mr. Rogers. However, in August of 1991 following a full evi-dentiary hearing the chancellor again awarded custody of the child to Ms. Villines. Then in June of 1992, Mr. Rogers filed another petition for change of custody, again alleging that a change in circumstances existed which warranted such change.
+In March of 1993 a pretrial hearing was held in which Mr. Rogers sought to introduce certain depositions and affidavits which contained evidence of conduct and events which occurred prior to the August 1991 hearing and order. Mr. Rogers contended that this evidence should have been admitted to show that it was in the child’s best interest to change custody because of the mother’s life style. The trial court ruled, after reviewing all of the depositions and affidavits in question, that some of the evidence pertaining to events pre-dating the 1991 hearing was admissible but the balance was not admissible because the portions ruled inadmissible were “not of such importance that the child’s welfare requires they be admitted.” The trial court cited to proper authority that “under some circumstances evidence which was not presented before [the] court [could] not be asserted at a later hearing.” Swindle v. Swindle, 242 Ark. 790, 415 S.W.2d 564 (1967).
+Mr. Rogers contends on appeal that all of the matter contained in these depositions and affidavits should have been admitted because the best interest and welfare of the child so required that it be considered.
+On appeal from chancery court cases, this court considers the evidence de novo, and the chancellor’s decision will not be reversed unless it is shown that his decision is clearly against a preponderance of the evidence. Thigpen v. Carpenter, 21 Ark. App. 194, 730 S.W.2d 510 (1987). As stated in Greening v. Newman, 6 Ark. App. 261, 263, 640 S.W.2d 463, 465 (1982), the general rule regarding evidence is that if a litigant fails to develop his case fully when it is first heard upon its merits the law does not afford him a second chance by permitting him to bring in additional proof which might have been offered in the first instance. This court, as well as the supreme court, has held that although the best interest of the child is the controlling issue in custody cases, when a parent fails to produce evidence available to him at one hearing, he cannot rely upon that evidence in a later effort to win a change of custody. Swindle, supra; Greening, supra. A decree fixing the custody of a child is a final adjudication on conditions then existing and should not be changed afterwards unless on altered conditions after the decree was rendered or on material facts existing at the time of the decree, but unknown to the court, and then only if the welfare of child so requires. Henkell v. Henkell, 224 Ark. 366, 273 S.W.2d 402 (1954); Phelps v. Phelps, 209 Ark. 44, 189 S.W.2d 617 (1945); Thigpen v. Carpenter, supra; Carters. Carter, 19 Ark. App. 242, 719 S.W.2d 704 (1986); Watts v. Watts, 17 Ark. App. 253, 707 S.W.2d 777 (1986).
+In this case the chancellor reviewed the depositions and affidavits in question and ruled that portions of them were inadmissible. The trial court, citing Thigpen v. Carpenter, supra, found that some of the evidence in the depositions pertaining to conduct which pre-dated the August 1991 hearing and order was inadmissible because it was not of such importance that the child’s welfare required its admission. After carefully reviewing the record and the excluded evidence in question, we are unable to say the chancellor abused his discretion in the evidentiary ruling, nor that his decision is clearly against the preponderance of the evidence.
+Ms. Villines argues on appeal that the issues involved in the present appeal are moot because the chancellor transferred jurisdiction to Florida. However, she fails to cite us to any argument or authority that the Arkansas Court of Appeals lacks jurisdiction to hear the present appeal. Assignments of error unsupported by convincing argument or authority will not be considered on appeal. Smith v. Smith, 41 Ark. App. 29, 848 S.W.2d 428 (1993). See also, Ark. R. App. P. 2; Ark. Sup. Ct. R. 1-2; see generally, Blosser v. Blosser, 2 Ark. App. 37, 616 S.W.2d 29 (1981).
+Affirmed.
+Pittman and Mayfield, JJ., agree.
