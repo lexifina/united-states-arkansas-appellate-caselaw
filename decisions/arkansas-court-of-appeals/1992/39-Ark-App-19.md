@@ -1,0 +1,45 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA91-351"
+decided: "1992-07-01"
+citations: ["39 Ark. App. 19", "832 S.W.2d 866"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Mayfield, JJ. agree."]
+parties: ["Jimmy JONES v. CITY OF IMBODEN"]
+source_url: "https://static.case.law/ark-app/39/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136199
+cites_cases: ["15 Ark. App. 226", "156 N.E. 642", "204 Ark. 871", "21 Ark. App 143", "216 S.E.2d 52", "216 Va. 77", "22 Ark. App. 21", "224 Ark. 397", "245 N.Y. 139", "278 N.W.2d 166", "300 A.2d 146", "33 Ark. App. 33", "62 N.J. 235", "736 S.W.2d 468", "8 Ark. App 92", "800 S.W.2d 438", "Ark. Code Ann. § 11-9-401"]
+---
+
+# Jones v. City of Imboden
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+Jimmy Jones was employed by the City of Imboden, Arkansas, as city marshal from 1965 until the first week of July 1989. Mr. Bob Taylor also lived in Imboden and Jones had known Taylor and his family for many years.
+On several occasions during 1988 and 1989, Mr. Taylor created disturbances and Jones, as city marshal, had to physically restrain him and take him to a mental hospital. Taylor threatened to kill Jones on each occasion.
+On the evening of August 11, 1989, some thirty days after Jones had resigned as city marshal, Taylor appeared outside his bedroom window again threatening to kill him. Jones called the sheriff and after deputies arrived Jones and Taylor got into a scuffle and Jones suffered a ruptured disc.
+Mr. Jones filed a claim for workers’ compensation against the City of Imboden and the administrative law judge awarded benefits. On appeal, the full Commission reversed. The Commission held that although there was a casual connection between the injury and the employment, the requirement that the injury occur “in the course of employment” was not met. See Ark. Code Ann. § 11-9-401 (1987).
+We have said many times that “arising out of the employment” refers to the origin or cause of the accident while the phrase “in the course of employment” refers to the time, place, and circumstances under which the injury occurred. Franklin Collier Farms v. Bullard, 33 Ark. App. 33,800 S.W.2d 438 (1990); Moore v. Darling Store Fixtures, 22 Ark. App. 21, 732 S.W.2d 496 (1987); Gerber Products v. McDonald, 15 Ark. App. 226, 691 S.W.2d 879 (1985); Owens v. National Health Laboratories, Inc., 8 Ark. App 92, 648 S.W.2d 829 (1983). In City of El Dorado v. Sartor, 21 Ark. App 143, 729 S.W.2d 430 (1987), we said:
+With respect to course of employment, the test advanced by Professor Larson requires that the injury occur within the time and space boundaries of the employment, while the employee is carrying out the employer’s purpose, or advancing the employer’s interests directly or indirectly. 1 A. Larson Workmen’s Compensation Law §§ 14.00, 20.00 (1985).
+One case relied upon by the appellant is Graybeal v. Board of Supervisors of Montgomery County, 216 Va. 77, 216 S.E.2d 52 (1975). Graybeal was a prosecuting attorney and in that capacity prosecuted Frank Dewease for murder. Dewease was convicted and sentenced to twenty years imprisonment. Dewease vowed revenge and five years later, Graybeal, while still employed as prosecuting attorney, arrived home late in the evening. He noticed a can on top of the family car and when he picked it up, it exploded, causing severe injuries.
+Significantly, that court’s prior pronouncements on the “in the course of’ requirement parallel those of our courts. The Virginia Supreme Court said:
+The “course of’ requirement, on the other hand, refers to continuity of time, space, and circumstances, only incidentally related to causation. This requirement must be satisfied by a showing of an unbroken course beginning with work and ending with injury under such circumstances that the beginning and the end are connected parts of a single work-related incident.
+Considering, then, that in the context of the present case “arising” means “originating,” we believe the claimant’s nighttime injury from the exploding bomb placed on the top of his family car no less arose in the course of his employment than if he had been shot by his revenge-seeking assailant in the courtroom immediately following the murder trial, or if he had been injured by a bomb triggered to explode in his office upon his return from the courtroom. The difference is in degree only and not in substance. In the realities of the present case, the course from prosecution to desire-for-revenge to injury was unbroken, constituting a single work-connected incident.
+This is essentially the same concept written of by Chief Justice Cardozo in Matter of Field v. Charmette Knitted Fabric Co., 245 N.Y. 139, 156 N.E. 642 (1927): “Continuity of cause has been so combined with contiguity in time and space that the quarrel from origin to ending must be taken to be one.”
+More closely in point is Thornton v. Chamberlain Manuf. Corp., 62 N.J. 235, 300 A.2d 146 (1973). The claimant there was a production foreman who had, during his employment, reprimanded an employee named Sozio for his failure to wear safety glasses. Sozio had told the claimant, “I’ll take care of your eyes later.” Nine days after the claimant terminated his employment, he saw Sozio in a bar. Sozio attacked him and Thornton’s injuries included the loss of vision in one eye.
+Chief Justice Weintraub, speaking for the court, said:
+Thus an accident may fairly be said to “arise” in the course of the employment if it had its origin there in the sense that it was the end-product of a force or cause set in motion in the course of employment. That construction is reasonable and advances the basic purpose of the statute that an enterprise shall absorb the injuries reasonably related to it. Here the injuries were caused in every realistic sense by petitioner’s exposure at work. We can think of no reason why the Legislature would want to deny relief because the work-generated force overtook petitioner at one moment rather than another.
+We are mindful that in the case at hand the employment relationship itself terminated before the work-initiated hazard ended in injury to him. In this respect, this case goes beyond the authorities cited above. But we see nothing critical in that further fact. In another case that fact might play a decisive role with respect to the work-connection of an injury, but in the case at hand it does not offer a rational basis to say the burden of this injury should not be borne by the enterprise from which it so clearly emerged. (Citation omitted.)
+Similarly in Jones v. Jay Truck Driver Training Ctr., 736 S.W.2d 468 (Mo. App. 1987), the court held that an employer’s obligation under workers’ compensation may extend beyond termination when the activity causing injury is a normal and reasonable incident of the employment relationship.
+In Bearshield v. City of Gregory, 278 N.W.2d 166 (S.D. 1979), William Bearshield, a police officer for Gregory, South Dakota, had had contact, in the line of duty, with one Norman Bluebird. Later, while Bearshield was on vacation, Bluebird stabbed him to death. The South Dakota Supreme Court cited with approval both Graybeal and Thornton. The court said:
+We agree with these latter authorities and find their reasoning to be in line with the broad spirit of the worker’s compensation statutes and the liberal construction they are to be afforded. The case before us is not a typical industrial injury case involving the usual employer-employee and cause-result nexus. This is a situation where decedent’s employment, by its very nature, exposed him to injury of an unusual sort, i.e., a fatal assault by a revenge-seeking youth. This type of injury knows no particular location.or working hours.
+Bearshield, 278 N.W.2d at 170.
+There is precedent in this state for the principle that an injury may be found to have occurred “in the course of employment” despite the fact that the claimant had been discharged prior to the work-related assault. Johnson v. Safreed, 224 Ark. 397, 273 S.W.2d 545 (1954); Lundell v. Walker, 204 Ark. 871, 165 S.W.2d 600 (1942). In Lundell the court stated, “[T]he conversation and act of killing were so much a part of the same transaction that discrimination cannot differentiate between them.” In Johnson the court said, “We have held that the period between discharge and injury must be somewhat longer than the minute, or less, involved in the instant case.”
+The principle applicable in the case at bar is the same as that involved in Johnson and Lundell: the difference is merely one of lapse of time. We agree with the Supreme Court of New Jersey in Thornton, supra, that the distinction is not a critical one in the case at bar.
+For the reasons stated the decision of the Commission is reversed and the case is remanded for the purpose of the determination of benefits.
+Reversed and remanded.
+Cooper and Mayfield, JJ. agree.
