@@ -1,0 +1,34 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 89-40"
+decided: "1989-10-25"
+citations: ["29 Ark. App. 137", "778 S.W.2d 222"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbin, C.J., and Cracraft, J., agree."]
+parties: ["Robert F. FREEMAN v. Sheila FREEMAN"]
+source_url: "https://static.case.law/ark-app/29/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139190
+cites_cases: ["20 Ark. App. 52", "26 Ark. App. 37", "292 Ark. 385", "418 N.W.2d 88", "616 S.W.2d 529", "624 S.W.2d 870"]
+---
+
+# Freeman v. Freeman
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+Robert and Sheila Freeman were divorced by decree of the Sebastian County Chancery Court in 1978. Mrs. Freeman was awarded primary custody of the parties’ two children and child support was set at $270.00 per month. The decree of divorce incorporated an agreement entered into by the parties entitled “Separation Agreement, Property Settlement, and Support Recommendation.” That agreement contained the following provision:
+INCOME TAX EXEMPTIONS: The Husband and Wife mutually agree that the Husband will be entitled to claim the two minor children as income tax exemptions on Federal and State Income Tax Returns for [so] long as the Husband pays his child support to the Wife on a regular and prompt basis.
+In the early 1980’s, Mrs. Freeman sought and obtained increases in child support. By 1983, child support had been established at $460.00 per month. In 1987, she filed a petition again seeking an increase in support. She also asked that the decree be modified to permit her to claim the children as dependents for tax purposes.
+The chancellor conducted a hearing and increased child support to $775.00 per month. He also modified the decree to provide that Mrs. Freeman would be permitted to claim the youngest child as a dependent for tax purposes. On appeal, Mr. Freeman argues that there was not a sufficient change in circumstances to support the chancellor’s decision to increase child support and that court lacked authority to modify the tax exemption provision of the decree. We affirm.
+Appellant is correct that it would be error for the chancellor to modify child support absent any change in circumstances. Thurston v. Pinkstaff, 292 Ark. 385, 389, 730 S.W.2d 239, 241 (1989). Here, however, there was ample evidence that the circumstances had in fact changed since 1983. There was testimony that both parties had substantial increases in income and that both now have increased expenses. Although we find it unnecessary to recite the testimony in detail, it is clear that the chancellor’s award was very near the amount recommended by the family support chart contained in the domestic relations handbook published by the Arkansas Bar Association. Arkansas Code Annotated § 9-12-312(a)(2) (Supp. 1987) requires the court to refer to the chart in setting child support. The code requirement is applicable in a modification setting. See Thurston, 292 Ark. at 388, 730 S.W.2d at 240. Although the chart is not binding on the chancellor, see Borden v. Borden, 20 Ark. App. 52, 54, 724 S.W.2d 181, 182 (1987), the fact that the order of support is in conformity with the chart is certainly an indication that it is not clearly erroneous. In sum, we conclude that the chancellor’s determination that there were sufficient changed circumstances to warrant an increase in child support is not clearly erroneous and that the court did not abuse its discretion in setting the amount of support to be paid.
+We also think that the chancellor had the authority to modify the tax exemption provision contained in the parties’ agreement and incorporated into the original decree of divorce. Appellant acknowledges that, regardless of any agreement between the parties, the chancery court always retains jurisdiction over child support, as a matter of public policy. See Crow v. Crow, 26 Ark. App. 37, 38, 759 S.W.2d 570, 571 (1988). He argues, however, that the right to claim the children as a tax exemption was bargained for and is more in the nature of a property right. He also contends that since the provision states that he may claim the children for so long as he pays his child support, there must be a failure of that condition before the chancellor has any authority to modify the parties’ agreement.
+In our view the issue is whether a provision contained in a separation agreement between divorce litigants, which is subsequently incorporated into the decree, governing the right to claim the parties’ children as tax exemptions, is more fairly and accurately characterized as a matter of property rights between the parties or, on the other hand, as a matter of child support. We think that such a provision is more closely related in nature to an award of child support than it is to a settlement of property rights, and therefore, such an agreement should be governed by the same rules applicable to awards of child support, i.e., that the chancellor continues to retain authority to modify such a provision on a proper showing.
+Although the issue was not precisely the same in In re Marriage of Lovetinsky, 418 N.W.2d 88, 90 (Iowa Ct. App. 1987), the court’s reasoning is pertinent and we agree with it:
+[Appellant] contends in the pretrial stipulation they agreed the tax exemption for their son was to be given to each in alternate years. She argues the trial court was bound to follow that agreement but incorrectly allocated the entire exemption to [appellee]. The trial court is not bound by the parties’ agreement. The provisions of a dissolution decree dealing with dependency deductions are connected directly with the requirements of a noncustodial parent to provide support and allocation of the allowance has a direct effect on the financial resources available to the child. The trial court was asked to decide child support and the exemption was part of the child support issue. [Citations omitted.]
+In Niederkorn v. Niederkorn, 616 S.W.2d 529, 533 (Mo. Ct. App. 1981), the court said, “[a]n award of the tax exemption to one party is nearly identical in nature to an order that the other party pay as child support a sum equal to the value of the exemption.” See also Calia v. Calia, 624 S.W.2d 870, 874 (Mo. Ct. App. 1981).
+Finally, in the alternative, appellant argues that even if the chancellor had authority to modify the tax exemption provision, the evidence was insufficient to support his decision to modify it. Because such a provision is, as we have held, in the nature of an award of child support, it was subject to modification on the same grounds and evidence that the court relied upon in modifying the child support proper. We find no error.
+Affirmed.
+Corbin, C.J., and Cracraft, J., agree.
