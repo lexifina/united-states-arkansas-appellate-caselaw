@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 89-71"
+decided: "1989-10-04"
+citations: ["29 Ark. App. 73", "776 S.W.2d 839"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft and Rogers, JJ., agree."]
+parties: ["Christi MARLER v. Darrell BINKLEY"]
+source_url: "https://static.case.law/ark-app/29/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137590
+cites_cases: ["18 Ark. App. 284", "19 Ark. App. 242", "5 Ark. App. 289", "8 Ark. App. 69"]
+---
+
+# Marler v. Binkley
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The parties were divorced on November 9, 1978 and the appellant, Christi Marler, was awarded custody of their ten-year-old daughter, Jennifer. The appellee was awarded visitation with Jennifer on alternate weekends, as well as three weeks in the summer and on alternate holidays. On May 7,1988, the appellant filed a petition alleging that the appellee had been physically abusing the child during visitation and she requested that visitation be suspended until a hearing could be held. The trial court entered a temporary order which reduced the appellee’s visitation to two hours on alternate weekends and further ordered that visitation take place at the appellant’s home. After a hearing on September 25, 1988, the trial court reinstated the appellee’s visitation rights and found insufficient evidence to justify modifying the decree. While the order specifically stated that there was no evidence of excessive force, it did restrain the appellee from using corporal punishment. On appeal, the appellant argues that the trial court erred in finding insufficient evidence to justify modification of visitation. We affirm.
+The polestar consideration for making judicial determinations concerning custody and visitation is the best interest of the child. Welch v. Welch, 5 Ark. App. 289, 635 S.W.2d 303 (1982). Important factors to be considered in determining reasonable visitation are the wishes of the child, the capacity of the party desiring visitation to supervise and care for the child, problems of transportation and prior conduct in abusing visitation, the work schedule or stability of the parties and the relationship with siblings and other relatives. Id.
+While chancery cases are tried de novo on appeal, the chancellor’s decision will not be reversed unless it is shown that his decision is clearly against the preponderance of the evidence. Carter v. Carter, 19 Ark. App. 242, 719 S.W.2d 704 (1986). Because there are no cases in which the superior position, ability, and opportunity of the chancellor to observe the parties and their witnesses carry as great a weight as one involving the custody of children, we defer to the chancellor’s determination as to the credibility of the witnesses. Id. While a child’s preference is certainly to be considered, it is not binding on the court. Anderson v. Anderson, 18 Ark. App. 284, 715 S.W.2d 218 (1986). The burden is on the party seeking a change in custodial orders to prove a subsequent material change in circumstances justifying the change. Id.
+The records reveals that when Jennifer was in the fourth grade her grades began to fluctuate widely and on one occasion she began crying uncontrollably in school. Jennifer testified that she began crying because the guidance counselor was talking to her class about child abuse and she believed that the appellee was abusing her. She stated that the appellee had whipped her “every weekend since Christmas” that she was with him. Jennifer said that she did not want to go and visit her father anymore.
+The appellee admitted that he had spanked Jennifer three or four times and that he used a paddle, with the exception of one time, when he spanked her with a stick she had just broken after being told not to break it. The appellee explained that she was spanked twice because she did the opposite of what she had been told to do and once when she left her coat at church. The appellee also stated that he believed the appellant had interfered with his relationship with his daughter. Jennifer began calling him Darrell instead of Dad and had become defiant and would not obey him. The appellant’s husband, Randy Marler, told the appellee that Jennifer was his child, not the appellee’s, and that he was going to adopt her.
+The appellant admitted that she wanted Randy to adopt Jennifer, that Jennifer knew her feelings about it, that Jennifer used the surname Marler, and that she considered Randy to be more of a father to Jennifer than the appellee. She stated that Jennifer was afraid of the appellee and since the temporary order restricting visitation, Jennifer’s grades and behavior had improved.
+Several other witnesses testified on the behalf of both parties. The essence of that testimony was that both the appellant and the appellee love Jennifer, take good care of her, and provide her with good homes.
+On this evidence we simply cannot say that the chancellor erred in finding that there was no material change in circumstances justifying a modification of visitation. Clearly both parties were involved in behavior that was not in Jennifer’s best interest, but none of that behavior amounted to abuse. Further, the chancellor’s order gave explicit directions to the parties concerning such behavior. Although the chancellor specifically found no evidence that the appellee had used excessive force on the child, he enjoined him from using corporal punishment on her in the belief that it would help Jennifer change her negative feelings about the appellee. He also ordered the appellant to instruct Jennifer to address the appellee as her father, and to refrain from referring to her step-father as father. Finally, he ordered the appellant not to discuss the subject of adoption either with Jennifer or in her presence. These orders were clearly appropriate to deal with the allegations presented to the chancellor.
+Undoubtedly, there are cases in which circumstances warrant the termination of a parent’s visitation rights. However, such action is a drastic one which our trial courts have cautiously employed and which our appellate courts have critically reviewed. Hawn v. Hawn, 8 Ark. App. 69, 648 S.W.2d 819 (1983). We find no error in the chancellor’s decision and affirm.
+Affirmed.
+Cracraft and Rogers, JJ., agree.
