@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 98-182"
+decided: "1998-09-30"
+citations: ["63 Ark. App. 114", "975 S.W.2d 433"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rogers and Griffen, JJ., agree."]
+parties: ["Randy HYATT v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/63/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138157
+cites_cases: ["103 Ark. 70", "146 S.W.2d 471", "293 Ark. 65", "318 Ark. 191", "325 Ark. 469", "331 Ark. 301", "331 Ark. 41", "959 S.W.2d 39"]
+---
+
+# Hyatt v. State
+
+## Majority (John Mauzy Pittman, Judge.)
+
+John Mauzy Pittman, Judge.
+Randy Hyatt appeals from his conviction at a jury trial of rape, for which he was sentenced to thirty years in the Arkansas Department of Correction. He contends that the trial court erred in allowing the prosecuting witness to testify concerning other instances of sexual abuse by appellant. We affirm.
+Appellant was charged with having raped his thirteen-year-old daughter on January 24, 1997. At trial, the victim testified that she began living with her mother and appellant approximately three years prior to the trial, or two and one-half years prior to the offense for which appellant was being tried. Before that, the victim had lived with her grandmother. At some point, the family moved to Oregon for several months and then moved back to Arkansas. The victim testified that, on January 24, she and her family went to Wal-Mart. When they returned home, appellant told her that he needed to talk to her in her bedroom about her grades. Once in the bedroom, appellant told her to take off all of her clothes, which she did. He then removed his clothes and penetrated her vagina with his finger and his penis. Afterwards, appellant told her to get dressed, which she did. Over appellant’s objection, the victim was also allowed to testify that, while they lived in Oregon, appellant began touching her private areas under her clothing. She stated that this would occur about once a week. She further testified that, after returning to Arkansas, appellant continued to touch her in the same places. Eventually, appellant began to remove the victim’s clothes and have intercourse with her. According to the victim, this activity continued periodically until the episode for which appellant was prosecuted.
+On appeal, appellant contends that the trial court erred in permitting the victim to testify about any acts of sexual misconduct by appellant other than that which occurred on January 24. He argues that the evidence was unrelated to the charged offense in time, location, and nature, and was introduced only to show his poor character in violation of Ark. R. Evid. 404. We find no error.
+Rule 404(b) provides:
+Other Crimes, Wrongs, or Acts. Evidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show that he acted in conformity therewith. It may, however, be admissible for other purposes, such as proof of motive, opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake or accident.
+The admission or rejection of evidence under Rule 404(b) is left to the sound discretion of the trial court and will not be disturbed absent a manifest abuse of discretion. Munson v. State, 331 Ark. 41, 959 S.W.2d 39 (1998). Were this not a case involving the sexual abuse of a child, the evidence of appellant’s other bad acts might well be inadmissible character evidence under Rule 404. See Greenlee v. State, 318 Ark. 191, 884 S.W.2d 947 (1994). However, our courts have long recognized a “pedophile exception,” which allows proof of “similar acts with the same child or other children in the same household when it is helpful in showing a proclivity toward a specific act with a person or class of persons with whom the accused has an intimate relationship.” Id. at 197, 884 S.W.2d at 950 (citations omitted). Such evidence not only helps to prove the depraved sexual instinct of the accused, Hernandez v. State, 331 Ark. 301, 962 S.W.2d 756 (1998), but is also admissible to show the familiarity of the parties and antecedent conduct toward one another and to corroborate the testimony of the victim, Free v. State, 293 Ark. 65, 732 S.W.2d 452 (1987) (citing Williams v. State, 103 Ark. 70, 146 S.W.2d 471 (1912)).
+The fact that some of appellant’s prior misconduct occurred in Oregon up to as much as two and one-half years before the charged offense does not necessarily render the evidence inadmissible. See Greenlee v. State, supra (evidence of multiple prior sexual offenses that occurred in Oklahoma admitted in Arkansas rape case); Munson v. State, supra (two and one-half years between prior conduct and charged offense); Mosley v. State, 325 Ark. 469, 929 S.W.2d 693 (1996) (eleven years between prior conviction and charged offense). Nor was the evidence in this case inadmissible simply because some of the prior conduct did not rise to the level of rape. See Greenlee v. State, supra (evidence of indecent exposure and lewd molestation offenses admitted in rape prosecution). In line with our supreme court’s statement in Free v. State, supra, of the purpose behind admitting this type of evidence, one text writer explains the point as follows:
+The “entire picture” theory is important in sex offense litigation. The theory is sometimes used to admit uncharged aspects of the sexual relationship between the victim and the perpetrator. Such evidence is particularly relevant when the perpetrator engages in a course of progressively more intrusive sexual conduct with the child. The perpetrator may begin with seductive talk or brief touching, and progress over weeks or months to sexual intercourse, fellatio, and similar invasive acts. When the defendant is charged with a single incident of invasive sexual contact, the jury sometimes needs information about the entire course of the relationship to fairly evaluate the victim’s credibility.
+2 J. Meyers, Evidence in Child Abuse and Neglect Cases, § 8.25, pp. 483-84 (3d ed. 1997) (footnotes omitted). From our review of the record in this case, we cannot conclude that the trial court abused its discretion in admitting the evidence of appellant’s prior sexual misconduct toward the victim.
+Affirmed.
+Rogers and Griffen, JJ., agree.
