@@ -1,0 +1,37 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 00-982"
+decided: "2001-04-25"
+citations: ["73 Ark. App. 307", "42 S.W.3d 590"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stroud, C.J., and Jennings, J., agree."]
+parties: ["Joseph A. BUKOWCZYK v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/73/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6141758
+cites_cases: ["107 S.W.2d 545", "147 Ark. 49", "194 Ark. 488", "226 S.W. 531", "69 Ark. App. 233", "Ark. Code Ann. § 5-37-302"]
+---
+
+# Bukowczyk v. State
+
+## Majority (OLLY NEAL, Judge.)
+
+OLLY NEAL, Judge.
+Appellant Joseph Bukowczyk was convicted at a'bench trial of violating the Arkansas Hot Check Law, and was sentenced to three years’ probation and ordered to pay $1,756.68 in restitution and $650.00 in fines and costs. On appeal, he makes two assignments of error, which can be consolidated into one issue: whether the trial court erred in finding that appellant violated the Arkansas Hot Check Law when the postdated instrument given by appellant to Suzuki of Russellville (Suzuki) was nothing but a memorandum clearly showing on its face that it was to be held in “lieu of a loan check.” We have reviewed the abstract of the record and hold, as a matter of law, that the judgment for conviction must be reversed and dismissed.
+The evidence is undisputed that on April 22, 1999, appellant went to Suzuki of Russellville to shop for a motorcycle. On April 23, 1999, appellant returned to Suzuki and gave an $8,400.00 check to a Suzuki salesman for the purchase of a motorcycle. The check was drawn in favor of Suzuki of Russellville, and postdated April 27, 1999. The check was also marked “hold in leiu [sic\ of loan check” on the “For” line. Suzuki’s general manager testified that Suzuki deposited the check “a day or two after [appellant] purchased the motorcycle,” and that the check was returned for insufficient funds. Thereafter, appellant was charged with violating the Arkansas Hot Check Law under Ark. Code Ann. § 5-37-302 (Repl. 1997).
+There is some dispute as to whether Suzuki was aware on April 23, 1999, that the check was postdated and bore a memorandum notation. However, for purposes of this opinion, we believe that the essential question raised by the appellant is whether the giving of a postdated check, bearing the notation, “hold in lieu of loan check,” constitutes a violation of section 5-37-302 under the Arkansas Hot Check Law. We hold it does not.
+The appellate court reviews a challenge to the sufficiency of the evidence in the light most favorable to the State and affirms the lower court’s decision if there is substantial evidence to support the conviction. Leatherwood v. State, 69 Ark. App. 233, 11 S.W.3d 571 (2000).
+Arkansas Code Annotated section 5-37-302 provides in pertinent part:
+It shall be unlawful for any person:
+(1) To procure any article or thing of value, ... or for any other purpose to make or draw . . . with the intent to defraud, any check, draft, or order for the payment of money upon any in-state or out-of-state bank, . . . knowing at the time of such making, drawing, . . . that the maker or drawer has not sufficient funds in, or on deposit with, such bank, . . . for the payment of such check, draft, or order in full, and all other checks, drafts, or orders upon such funds then outstanding; ...
+It appears from a careful reading of the statute that a violation occurs when there is an intent to defraud at the time a check is issued. Although the statute does not speak to postdated checks, our supreme court has addressed the application of a postdated check to an earlier and similar act, which made it a crime “for an individual, either resident or doing business in this State, to give a check in favor of any one on any bank when there shall not be sufficient funds therein to cover same.” Smith, v. State, 147 Ark. 49, 226 S.W. 531 (1921). In Smith, the supreme court reversed the appellant’s conviction and held that “the giving of a postdated check implies a promise to deposit money in the bank at a future date to pay the check, and there is nothing in the act which makes it unlawful to promise and fail to pay at a future date.” Id. at 50, 226 S.W. at 532. Later, by Act 304 of the Acts of 1929, the Legislature amended Act 258 to extend the purview of the law to cover postdated checks. See Patterson v. State, 194 Ark. 488, 107 S.W.2d 545 (1937). Act 304 provides in relevant part:
+Any person who, with intent to defraud, shall make or draw, . . . any check, draft or order, for payment of money, upon any bank or other depository, knowing at the time of such making, drawing, . . . that the maker, or drawer has not sufficient funds in, . . . with such bank or other depository, for the payment of such check, draft, or order, in full, upon its presentation, shall be guilty of a misdemeanor . . .
+As against the maker or drawer thereof, the making, drawing, . . . of a check, draft or order, payment of which is refused by the drawee, shall be prima facie evidence of intent to defraud and of knowledge of insufficient funds in, . . . such bank or other depository, provided such maker or drawer shall not have paid the drawee thereof the amount due thereon, together with all costs and protest fees, within ten days after receiving notice that such check, draft or order has not been paid by the drawee.
+The language of Act 304 clearly states that the drawing of a check where the payment of such is refused by the drawee creates prima facie evidence of intent to defraud and knowledge of insufficient funds against the drawer. However, while the Patterson court read Act 304 to mean that the statute applied to a postdated check, a reading of Act 1051 of the Acts of 1991, now codified at Ark. Code Ann. § 5-37-302, does not include the language “prima facie evidence of intent to defraud and of knowledge of insufficient funds” as it relates to the drawing of a check where the payment of such has been refused by the drawee. Thus, to the extent that Patterson v. State, supra, may be presently read to mean that Act 1051 of the Acts of 1991, now codified at Ark. Code Ann. § 5-37-302, applies to a postdated check, it is no longer good law.
+The undisputed evidence shows that appellant did not have sufficient funds on deposit to pay the check that he had issued Suzuki. However, under the present statute, the appellant must have intended to defraud Suzuki at the time he delivered the check. In the instant case, we hold that the element of intent to defraud has not been met. Here, the check was specifically postdated for April 27, 1999, and contained a memorandum notation that it was to be held “in lieu of a loan check.” Although an employee for Suzuki testified that he did not notice the memorandum at the time appellant presented the check on April 23, the postdated nature of the check coupled with the memorandum contained therein should have put Suzuki on notice that the check was not eligible for presentment of payment until a future date.
+Based on the evidence presented, we hold that the postdated check and the memorandum notation contained therein are conclusive evidence of a lack of intent to defraud as required by the statute. For these reasons, the judgment for conviction is hereby reversed and dismissed.
+Reversed and dismissed.
+Stroud, C.J., and Jennings, J., agree.
+Act 258 of 1913.
