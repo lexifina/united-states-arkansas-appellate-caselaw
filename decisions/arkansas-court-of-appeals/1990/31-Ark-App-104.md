@@ -1,0 +1,40 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 89-394"
+decided: "1990-05-09"
+citations: ["31 Ark. App. 104", "788 S.W.2d 497"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John NOGGLE v. ARKANSAS VALLEY ELEC. COOP, and Federated Rural Electric Insurance Corporation"]
+source_url: "https://static.case.law/ark-app/31/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137991
+cites_cases: ["292 Ark. 1", "295 Ark. 246", "297 Ark. 96", "Ark. Code Ann. § 11-9-102", "Ark. Code Ann. § 11-9-501", "Ark. Code Ann. §11-9"]
+---
+
+# Noggle v. Arkansas Valley Elec. Coop.
+
+## Majority (George K. Cracraft, Judge.)
+
+George K. Cracraft, Judge.
+John Noggle appeals from an order of the Arkansas Workers’ Compensation Commission determining that his “permanent partial disability rate” was limited to $154.00 per week under Ark. Code Ann. § 11-9-501(d)(1) (1987). He contends that the Commission has misinterpreted the provisions of that statute and that he is entitled to receive weekly benefits in a higher amount. We find no error and affirm.
+The case was submitted to the Commission on a stipulated record. It was agreed that appellant sustained a compensable scheduled injury resulting in the loss of vision in his right eye, for which he was entitled to compensation at the permanent partial disability rate for a period of 105 weeks. See Ark. Code Ann. §11-9- 5 21 (a) (14) (198 7). It was further stipulated that at the time of the injury his average weekly wage was $517.20. The only issue for us to determine is whether the Commission correctly computed the “permanent partial disability rate” at which appellant is to be paid.
+The issue on this appeal arises from changes made in the •workers’ compensation law by § 2 of Act 10 of 1986. The 1986 amendment sought to integrate into our law over an eighteen-month period the concept of calculating total disability rates by percentages of the “average state wage,” as defined in Ark. Code Ann. § 11-9-102(18) (1987), rather than the average weekly wage of the worker. The amendment also, over a period of time, serves to increase the percentages on which total disability rates are to be computed and to remove the maximum limitations on weekly payments. Separate and slightly different provisions were made for the calculation of permanent partial disability rates. Arkansas Code Annotated § 11-9-501 (1987), as amended, now provides in pertinent part as follows:
+Limitations on compensation — Death and disability.
+(a) Compensation to the injured employee shall not be allowed for the first seven (7) days’ disability resulting from injury, excluding the day of injury. If a disability extends beyond that period, compensation shall commence with the ninth day of disability. If a disability extends for a period of two (2) weeks, compensation shall be allowed beginning the first day of disability, excluding the day of injury;
+(b) Compensation payable to an injured employee for disability, other than permanent partial disability as specified in subsection (d) of this section, and compensation payable to surviving dependents of a deceased employee, the total disability rate, shall not exceed sixty-six and two-thirds percent (66-% %) of the employee’s average weekly wage with a twenty dollar ($20.00) per week minimum, subject to the following máximums:
+(1) For disability or death due to an injury occurring on and after July 1, 1987, through December 31, 1988, the maximum weekly benefits payable shall be one hundred eighty-nine dollars ($189);
+(2) For disability or death due to an injury occurring on and after January 1, 1989, through December 31, 1989, the maximum weekly benefits payable shall be sixty-six and two-thirds percent (66-% %) of the state average weekly wage;
+(3) For a disability or death which results from an injury occurring during a calendar year beginning on or after January 1, 1990, the maximum weekly benefit payable shall be seventy percent (70%) of the state average weekly wage.
+* * *
+(d) Compensation payable to an injured employee for permanent partial disability, including scheduled permanent injuries (the permanent partial disability rate), which results from an injury occurring on or after July 1, 1986, shall not exceed sixty-six and two-thirds percent (66-2/3 %) of the employee’s average weekly wage, with a twenty dollar ($20.00) per week minimum, subject to a maximum of one hundred fifty-four dollars ($154). However, if the employee’s total disability rate for the injury would be two hundred five dollars and thirty-five cents ($205.35) per week or greater, then the maximum permanent partial disability rate shall be seventy-five percent (75%) of the employee’s total disability rate.
+(Emphasis added.)
+The Commission ruled that the appellant’s “permanent partial disability rate” was limited to $154.00. It reasoned that allowing a claimant’s permanent partial disability rate to exceed that sum under subsection (d) was dependent upon a determination that his “total disability rate” would exceed the sum of $205.35 per week. The Commission further reasoned that, as the maximum total disability rate applicable to an injury occurring on July 14, 1987, was $189.00, see Ark. Code Ann. § 11-9-501(b)(1), the proviso of subsection (d) allowing one’s permanent partial disability rate to exceed $154.00 per week had no application.
+Appellant contends that the permanent partial disability rate must be determined exclusively by the terms of subsection (d). He contends that with this interpretation the rate would be calculated as follows: 66-%% of his average weekly wage of $517.20 equals $344.80; as that sum exceeds $205.35, the proviso of subsection (d) becomes applicable, and his weekly permanent partial disability rate should be 75% of $344.80, or $258.60.
+The fallacy of appellant’s position lies in the fact that the proviso in subsection (d) is dependent upon a determination of his “total disability rate,” which is not defined in subsection (d) but rather in the provisions of subsection (b):
+Compensation payable to an injured employee . . . [on account of total disability], and compensation payable to surviving dependents of a deceased employee, the total disability rate, shall not exceed sixty-six and two-thirds percent (66-% %) of the employee’s average weekly wage with a twenty dollar ($20) per week minimum, subject to the following máximums:
+(1) For disability or death due to an injury occurring on and after July 1, 1987, through December 31, 1988, the maximum weekly benefits payable shall be one hundred eighty-nine dollars ($189). . . .
+(Emphasis added.) It is well settled that ambiguities and conflicting interpretations of workers’ compensation statutes must be resolved in favor of the claimant due to the remedial nature of such legislation. Northwest Tire Service v. Evans, 295 Ark. 246, 748 S.W.2d 134 (1988). Statutes that are plain and unambiguous, however, will not be construed to mean anything other than what they say. Hinchey v. Thomasson, 292 Ark. 1, 727 S.W.2d 836 (1987). Different sections of a statute must be construed together and full effect given to each section if it is possible to do so. See Love v. Hill, 297 Ark. 96, 759 S.W.2d 550 (1988).
+We find no ambiguity in the statute in question or any conflict between its provisions. The proviso of subsection (d) is limited by the total disability rate, which is defined in another subsection of that statute. The wording of the statute is clear and the intent of the legislature appears clearly expressed. We agree with appellant that this construction prohibits ány worker injured during the period between July 1, 1987, and December 31, 1988, from ever being compensated at a permanent partial disability rate in excess of $ 154.00. However, this is clearly what the statute says, and it is not our function to question the wisdom of the legislature.
+Affirmed.
