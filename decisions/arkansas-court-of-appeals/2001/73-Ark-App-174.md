@@ -1,0 +1,29 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 00-944"
+decided: "2001-03-28"
+citations: ["73 Ark. App. 174", "40 S.W.3d 835"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Griffen and Baker, JJ., agree."]
+parties: ["WAL-MART STORES, INC., and Claims Management, Inc. v. Kemberly BROWN"]
+source_url: "https://static.case.law/ark-app/73/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139229
+cites_cases: ["333 Ark. 343", "335 Ark. 342", "50 Ark. App. 13", "65 Ark. App. 63"]
+---
+
+# Wal-Mart Stores, Inc. v. Brown
+
+## Majority (Terry Crabtree, Judge.)
+
+Terry Crabtree, Judge.
+This is an appeal of an Arkansas Workers’ Compensation Commission’s decision awarding attorney’s fees to appellee, Kemberly Brown, on the amount of temporary partial disability benefits paid to her by appellants, Wal-Mart Stores, Inc., and Claims Management, Inc. Appellee sustained a compensable injury to her wrist while lifting a box. Appellants initially accepted the claim and paid certain medical expenses. On October 20, 1998, at a prehearing conference, appellants admittedly controverted appellee’s temporary partial disability benefits. A hearing was scheduled for January 6, 1999, on that issue. By letter dated December 7, 1998, appellants’ attorney advised appellee’s attorney that appellants would agree to accept the temporary partial disability, and appellants paid it accordingly. Appellants refused to pay any attorney’s fees with respect to the temporary-partial disability benefits paid.
+In an opinion filed on November 22, 1999, an Administrative Law Judge (“ALJ”) found that appellee did not show by a preponderance of the evidence that she was entitled to an attorney’s fee on the amount of the temporary partial benefits paid by appellants. Appellee appealed to the full Workers’ Compensation Commission. The Commission reversed the ALJ, and held that appellee was entitled to such attorney’s fees. Appellants appeal the Commission’s decision. We hold that the Commission’s decision was supported by substantial evidence, and, thus, we affirm.
+The Commission’s award of attorney’s fees was given pursuant to Ark. Code Ann. § ll-9-715(a)(2)(B)(ii) (Repl. 1996), which provides that fees for legal services shall be allowed only on the amount of compensation controverted and awarded. Appellants argue on appeal that no “award” was granted in this case, and thus an award of attorney’s fees was not supported by substantial evidence.
+This court reviews decisions of the Arkansas Workers’ Compensation Commission to see if the they are supported by substantial evidence. Crossett Sch. Dist. v. Fulton, 65 Ark. App. 63, 984 S.W.2d 833 (1999). Substantial evidence is that which a reasonable mind might accept as adequate to support a conclusion. Id. The issue is not whether this court might have reached a different result from the Commission. Malone v. Texarkana Pub. Schs., 333 Ark. 343, 969 S.W.2d 644 (1998). If reasonable minds could reach the result found by the Commission, we must affirm the decision. Bradley v. Alumax, 50 Ark. App. 13, 899 S.W.2d 850 (1995).
+Appellants admit that they initially controverted appellee’s temporary partial disability benefits. Appellants argue, however, that they eventually paid the benefits voluntarily, and thus appellee was never awarded the benefits and section ll-9-715(a)(2)(B)(ii) was not fulfilled. The Commission interpreted the requirements of section ll-9-715(a)(2)(B)(ii) to be that where an employer controverts an injured employee’s entidement to certain benefits, but later accepts liability prior to a hearing on the merits, the employee’s attorney may still request a hearing for an attorney’s fee on those controverted benefits. The Commission found that when there is no dispute that the employer controverted benefits but then paid the benefits on which an attorney’s fee is sought that the employee has established entidement to an award of those benefits for purposes of the employee’s attorney seeking an attorney’s fee under Ark. Code Ann. § ll-9-715(a)(2)(B)(ii). The Commission found no requirement in section ll-9-715(a)(2)(B)(ii) requiring that an award of controverted benefits must precede the employer’s payment of benefits for the claimant’s attorney to be entitled to a fee. We agree and hold that the Commission’s findings are supported by substantial evidence.
+It has long been recognized that “making an employer hable for attorney’s fees serves legitimate social purposes such as discouraging oppressive delay in recognition of liability, deterring arbitrary or capricious denial of claims, and insuring the ability of necessitous claimants to obtain adequate and competent legal representation.” Cleek v. Great S. Metals, 335 Ark. 342, 345, 981 S.W.2d 529, 530 (1998). “If the fundamental purposes of attorney’s fee statutes such as § 11-9-715 are to be achieved, it must be considered that their real object is to place the burden of litigation expenses upon the party which made it necessary.” Id. If appellee had not employed counsel to assist her in this matter, it is reasonable to conclude that her claim for temporary partial disability benefits would not have been properly presented and protected. See id. Appellants controverted appellee’s claim to temporary partial disability benefits at a prehearing conference on October 20, 1998. Appellants did not agree to pay the temporary partial disability benefits until December 1998, a month before the scheduled hearing. Appellee’s attorney requested a hearing for attorney’s fees on the temporary partial disability benefits. We hold that there is substantial evidence to support the Commission’s findings in this case, and that the Commission strictly interpreted § 11 — 9— 715(a)(2)(B)(ii).
+Affirmed.
+Griffen and Baker, JJ., agree.
