@@ -1,0 +1,38 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 90-341"
+decided: "1991-10-02"
+citations: ["35 Ark. App. 188", "816 S.W.2d 620"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings and Danielson, JJ., agree."]
+parties: ["Randy Dwight ARMSTRONG v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/35/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6650458
+cites_cases: ["15 Ark. App. 163", "267 Ark. 504", "298 Ark. 484", "30 Ark. App. 196", "7 Ark. App. 130", "Ark. Code Ann. § 5-1-102", "Ark. Code Ann. § 5-13-202"]
+---
+
+# Armstrong v. State
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+Appellant, Randy Dwight Armstrong, was convicted in a bench trial of terroristic threatening and second degree battery and was sentenced to five years in the Arkansas Department of Correction on each charge, to be served concurrently. On appeal he argues only that the evidence was insufficient to support the conviction of battery, second degree.
+The charges arose out of an incident which began at a Little Rock restaurant on October 29,1989. The appellant was involved in some kind of altercation with a woman inside the restaurant and was asked to leave. After appellant got to the parking lot, Deputy Sheriff Eddy Madden, who was working off duty that evening, attempted to arrest him. Madden testified that appellant resisted, became violent, abusive, and threatening to him and Corporal McNeely, who was helping Madden handcuff appellant, and a struggle ensued in which Madden and McNeely wrestled appellant to the ground.
+Deputy Sheriffs Cryer and Kesterson happened to be driving past, saw the struggle, and stopped. Deputy Cryer testified that after the appellant was handcuffed and placed under arrest, he immediately began to curse and threaten to kill the officers. Cryer said he placed appellant in the back seat of the patrol car that Deputy Kesterson was driving and Cryer got into the front seat. He said the car did not have a “cage” separating the front and back seats, and before they even got out of the parking lot appellant had lunged over the seat trying to get in the front, all the while yelling, screaming and threatening both officers and their families. Cryer said he crawled over the seat and held appellant in the back seat so Deputy Kesterson could drive.
+When they got to the Pulaski County Jail, the appellant was taken to the booking room where he was searched and the handcuffs were removed, then to a room where an Arkansas Arrest and Disposition Report was filled out. Cryer said that while the form was being completed the appellant continued to yell and scream, then became enraged, and managed to kick Kesterson in the leg. While Cryer was attempting to subdue him, appellant hit Cryer in the abdomen and tried to bite his right hand. Cryer testified that even after the appellant was subdued, he continued to make threats. As a result of the scuffle, Cryer had a bruise on his right shin which lasted about four days.
+Deputy Kesterson testified that appellant had threatened to kill him and his family and that he took the threats very seriously. He said appellant kicked him in the right shin, which resulted in a knot about the size of a quarter that turned blue, was puffed out about a quarter of an inch, and was tender for three to four weeks.
+Ark. Code Ann. § 5-13-202 (1987) defines the offense of battery in the second degree as follows:
+(a) A person commits Battery in the Second Degree if:
+(4) He intentionally or knowingly without legal justification causes physical injury to one he knows to be:
+(A) A law enforcement officer or firefighter, while such officer or firefighter is acting in the line of duty;
+Appellant does not deny that he knew Deputies Cryer and Kesterson were law enforcement officers who were acting in the line of duty; however,,he argues that the officers did not suffer physical injury as defined by Ark. Code Ann. § 5-1-102(14) (1987). That section provides: ‘“Physical injury’ means the impairment of a physical condition or the infliction of substantial pain.” Appellant contends that the evidence does not show that either officer suffered “substantial pain.”
+In resolving the question of the sufficiency of the evidence in a criminal case, this court views the evidence in the light most favorable to the appellee and affirms the judgment if there is any substantial evidence to support the finding of the trier of fact. Ryan v.State, 30 Ark. App. 196, 786 S.W.2d 835 (1990). Substantial evidence is that which is of sufficient force and character that it will, with reasonable certainty, compel a conclusion one way or the other, without resorting to speculation or conjecture. Williams v. State, 298 Ark. 484, 768 S.W.2d 539 (1989); Ryan v. State, supra.
+The appellant cites Kelley v. State, 7 Ark. App. 130, 644 S.W.2d 638 (1983), where we held the evidence insufficient to support a conviction of battery in the third degree because we found the evidence did not show that the injuries to the victim caused him “substantial pain.” In that case the injury did not require medical attention and was described by one witness as a “fingernail scratch.” By contrast, in Holmes v. State, 15 Ark. App. 163, 690 S.W.2d 738 (1985), we affirmed a conviction for second degree battery where the victim, a 10-year-old child, was choked, his tongue was pulled, and he was thrown down. The child testified that this hurt at the time it was done, but testified that he was not cut, did not bleed, and he did not hurt after it was over. We stated:
+In determining whether an injury inflicts substantial pain the trier of fact must consider all of the testimony and may consider the severity of the attack and the sensitivity of the area of the body to which the injury is inflicted. The finder of fact is not required to set aside its common knowledge and may consider the evidence in the light of its observations and experiences in the affairs of life.
+15 Ark. App. at 166.
+The offense of battery is divided into first, second, and third degrees. “To sustain a conviction of first degree battery, ‘life-endangering conduct’ must generally be involved.” Bolden v. State, 267 Ark. 504, 505, 593 S.W.2d 156 (1980). That is a Class B felony. Third degree battery only requires “physical injury” and is a Class B misdemeanor. See Ark. Code Ann.§ 5-13-203 (1987). Second degree battery is a Class D felony and is divided into four classifications. See Ark. Code Ann. § 5-13-202 (1987). The first three are concerned with “serious physical injury.” However, the fourth classification only requires “physical injury” if the victim is (A) a law enforcement officer or firefighter acting in the line of duty, (B) a teacher or other school employee upon, or adjacent to school grounds or in a building used for school purposes, (C) a person 60 years of age or older or one 12 years old or younger, or (D) an officer or employee of the state acting in the performance of his lawful duty. Thus, in the instant case only a “physical injury” was required. While “physical injury” is defined in Ark. Code Ann. § 5-1-102(14) (1987) as the “impairment of physical condition or the infliction of substantial pain,” we believe there is substantial evidence from which the fact finder, considering the evidence in the light of his own observations and experiences in the affairs of life, could find that the injuries to the law enforcement officers caused them substantial pain.
+Affirmed.
+Jennings and Danielson, JJ., agree.
