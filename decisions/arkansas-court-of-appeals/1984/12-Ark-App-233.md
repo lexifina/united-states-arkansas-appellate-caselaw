@@ -1,0 +1,35 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 83-392"
+decided: "1984-08-19"
+citations: ["12 Ark. App. 233", "674 S.W.2d 4"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayfield and Cooper, JJ., agree."]
+parties: ["Madelyn ASHMAN v. R. A. PICKENS"]
+source_url: "https://static.case.law/ark-app/12/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140899
+cites_cases: ["207 Ark. 244", "268 Ark. 800", "272 Ark. 411"]
+---
+
+# Ashman v. Pickens
+
+## Majority (Lawson Cloninger, Judge.)
+
+Lawson Cloninger, Judge.
+This is an appeal from a decree of the chancellor which granted the petition of appellee, R. A. Pickens, acting individually and as trustee of the B. C. Pickens trust, who sought to remove the appellant, Madelyn Ashman, as a co-trustee of the above-named trust. The trust was created by the last will and testament of the appellee’s father and has been in existence since 1932. Appellee has been a trustee since 1936, and appellant, who is appellee’s daughter, has been a trustee since 1961. The trust is involved in farming operations in Desha County where the appellee resides. The trust owns a 43% interest in R. A. Pickens and Son Company which runs a farm shop, a cotton gin and a commissary. It also handles seed, fertilizer and chemicals and the harvesting and marketing of crops. Gross sales of the company have averaged over $3.3 million for each of the last four years. The trust also owns a one-fourth interest in the partnership of R. A. Pickens & Son which owns approximately 9,713 acres of farm land.
+The provision in the will providing for the appointment of trustees states in pertinent part:
+When my son R. A. Pickens shall attain the age of 21 years, it is my wish and I hereby provide that he shall then become the fourth member of said Trustees of the Trust created by this Will, having equal voice and authority with each of the remaining three Trustees; and said Trustees shall continue to be four in number until a vacancy shall occur by death, resignation, or incapacity of one of the Trustees, after which there shall be three Trustees, INCLUDING my son R. A. Pickens so long as he may live; and after his death the third Trustee selected and appointed by the surviving Trustees shall be a son of said R. A. Pickens if he shall have a son surviving him who has attained his majority; and so on in the same manner during the existence of this Trust, the sound, adult male heirs of my body who have reached their majority, so long as they are available, shall be selected to fill vacancies occurring among said Trustees, so that at least one of said Trustees shall be of my own blood.
+Appellant argues three points for reversal which can be reduced to one major point; namely whether the trial court erred in granting appellee’s petition to remove appellant as trustee. Appellant initially argues that the chancellor erred in considering a point not covered in the pleadings. Specifically, appellant argues that it was error for the trial judge to find that the evidence tended to establish the existence of hostility and an impasse between appellant and appellee. Rule 15(b) of the Rules of Civil Procedure states in pertinent part:
+When issues not raised by the pleadings are tried by expressed or implied consent of the parties, they shall be treated in all respects as if they had been raised in the pleadings.
+Arkansas appellate courts have recognized the power of the chancellor to treat the pleadings as amended to conform with the proof. Sorrells v. Bailey Cattle Co., 268 Ark. 800, 595 S.W.2d 950 (Ark. App. 1980).
+The only issue to be determined is whether the chancellor abused his discretion in removing appellant as trustee of the trust. The removal of a trustee lies in the sound discretion of the trial court and its decision will not be overturned unless there has been an abuse of discretion. Festinger v. Kantor, 272 Ark. 411, 616 S.W.2d 455 (1981).
+In the instant case, the chancellor specifically found that appellant was a long-time resident of New York City and the probability was that she would remain there. The court further found that the business of the trust was large-scale farming and that appellant was not qualified to make farming decisions. In fact, appellant had not participated in any of the trust activities other than occasionally signing papers. Lastly, the chancellor found that there was “a clear and unmistakeable enmity” existing between the parties resulting in an impasse as to the selection of a third trustee required by the trust terms. The evidence at trial indicated that when appellee’s son, Andrew, resigned as trustee, appellant refused to cooperate with appellee in the selection of the third trustee. Additional evidence was consistent with the chancellor’s findings. Appellant testified that she did not have any experience in the farming industry other than occasional gardening. Further, she stated that she had not participated in the decisions of the farming operations.
+In Blumenstiel v. Morris, Executor, 207 Ark. 244, 180 S.W.2d 107 (1944), the Arkansas Supreme Court stated that removal of the trustee on the ground of non-residence or absence from the jurisdiction is proper only when the absence is of a prolonged character precluding proper attention to the trust or where, in addition to his absence, there is also a neglect of duty. Also in Blumenstiel, supra, the court adopted the rule that mutual hostility between the beneficiaries and the trustee is a sufficient ground for the court to remove the trustee if (1) the provisions of the instrument creating the trust require mutual interchange of ideas, and (2) if the hostility tends to defeat the purpose of the trust.
+Applying the above rules to the facts in this case, there was evidence in the record to support a finding by the chancellor that appellant’s absence from the jurisdiction of the trust precluded proper attention to the trust. Appellant herself testified that she did not participate in the major decisions of the trust but only signed papers and documents when sent to her. Appellee indicated an interest in appointing a trustee who was knowledgeable and experienced in farming operations because he was in poor health and would not be able to make all the decisions much longer.
+Further, there was evidence to support a finding that hostility between appellant and appellee tended to defeat one of the purposes of the trust; namely, the appointment of an additional trustee. Evidence indicated that appellant refused to cooperate with appellee in the appointment of another trustee. The trust required a mutual interchange of ideas in the appointment of the other trustee and thus met the requirements for removal stated in Blumenstiel v. Morris.
+We hold that the chancellor’s decision in removing appellant as trustee was not an abuse of discretion.
+Affirmed.
+Mayfield and Cooper, JJ., agree.
