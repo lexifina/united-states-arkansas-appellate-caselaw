@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 04-677"
+decided: "2005-03-02"
+citations: ["90 Ark. App. 161", "204 S.W.3d 586"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Glover and Baker, JJ., agree."]
+parties: ["Sherry PARKER and Sherry Crow v. Raymond JOHNSON and Loree Johnson"]
+source_url: "https://static.case.law/ark-app/90/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138252
+cites_cases: ["12 Ark. App. 21", "243 Ark. 317", "307 Ark. 252", "Ark. Code Ann. § 9-12-317"]
+---
+
+# Parker v. Johnson
+
+## Majority (John Mauzy Pittman, Chief Judge.)
+
+John Mauzy Pittman, Chief Judge.
+This appeal arose out of a declaratory-judgment action brought to determine whether certain real property was subject to judgment Hens arising from judgments obtained by appellants against Tiffany Johnson. The trial court, reasoning that voluntary payment of the mortgage by a subsequent purchaser at a judicial sale had the effect of extinguishing the Hens because this action was “no different than a foreclosure proceeding,” granted summary judgment in favor of appeHees. On appeal, appeHants contend that the trial court erred in granting appeHees’ motion for summary judgment, and in ordering that appellants’judgment Hens be set aside as to the real property. We agree, and we reverse and remand.
+The relationship of the parties is fairly complex. Judgments were obtained separately by each of the appellants against Tiffany Johnson, and these judgments were recorded on July 1 and 24, 2002. Shortly thereafter, on July 30, 2002, Tiffany Johnson was divorced from Robert Johnson. Upon entry of the final decree of divorce, certain residential real property owned jointly by Tiffany and Robert Johnson during their marriage was converted by operation of law from an estate by the entireties to a tenancy in common pursuant to Ark. Code Ann. § 9-12-317 (Repl. 2002), and the judgment Hens attached to Tiffany Johnson’s undivided one-half interest. The property subsequently was sold in a court-ordered partition sale conducted pursuant to a property-settlement agreement that had been approved by the court and incorporated into the divorce decree. The purchaser at the partition sale was the Johnson family corporation, in which appeHees Raymond and Loree Johnson are principals. The corporation then voluntarily paid the mortgage debt and sold the property to unrelated parties, the Smiths, who had knowledge of the judgment Hens. Appellees brought the present declaratory-judgment action to clear title to the property pursuant to an indemnity agreement with the Smiths.
+On appeal, appeHants argue that the trial judge erred in ruling that the retirement of the mortgage indebtedness by the Johnson family corporation following the public sale extinguished appellants’judgment hens. We agree. In his order setting aside the judgment liens, the trial judge correctly noted that the mortgage indebtedness predated the judgment liens and had priority over them. He erred, however, in ruling that the voluntary payment of the mortgage indebtedness by the family corporation terminated the judgment liens because this “was no different from a foreclosure proceeding.”
+It is true that “[a] judgment lien attaches only to the judgment debtor’s interest in the land, and, if that interest be subject to any infirmity or condition by reason of which it is eliminated or ceases to exist, the lien attached thereto ceases with it.” Pulaski Federal Savings & Loan Association v. Carrigan, 243 Ark. 317, 318, 419 S.W.2d 813 (1967). However, the infirmity in Carrigan was an obligation to sell the land pursuant to a contract of sale that was entered into three months before a foreclosure decree. The situation in the present case is different. Here, the judgment liens attached before the land was ordered to be sold. We think this situation is more akin to that presented in Construction Machinery v. Roberts, 307 Ark. 252, 819 S.W.2d 268 (1991), where the issue was whether a first mortgage lost its priority over a subsequent judgment lien when the mortgage holder chose not to foreclose, but instead to take a “warranty deed in lieu of foreclosure” and then resell the same property to a stranger to the title without taking any action against the judgment-lien holder. The supreme court held that the trial court erred in cancelling the judgment lien under those circumstances, distinguishing cases where all the interested parties were before the court and the only question was one of priorities. This distinction was based on the fact that, under the circumstances of those cases, the judgment-lien holders had the same chance to be paid that they had originally, whereas cancellation of the judgment lien without any foreclosure sale unfairly deprived the judgment-lien holder of any chance of recovery.
+If our law were that a first mortgagee could take back the property by deed in lieu of foreclosure and then resell it free and clear of an intervening encumbrance, we would wreak havoc in the marketplace of second mortgages. Under such circumstances, a second mortgage, or other junior encumbrance, would not constitute a meaningful security. The holders of intervening encumbrances are entitled to more; they are entitled to a fair chance to enforce their liens before those liens are extinguished.
+Id. at 257, 819 S.W.2d at 270-71.
+The situation in the present case involves similar considerations. Appellees purchased the land with knowledge that it was subject to appellants’ judgment liens. Appellants had no opportunity to protect their liens at the time appellees voluntarily paid the mortgage indebtedness. See, e.g., Tollett v. Titsworth, 12 Ark. App. 21, 670 S.W.2d 467 (1984). Consequently, we hold that the trial court erred in ruling that the voluntary payment of the mortgage indebtedness has the effect of extinguishing the judgment liens.
+Reversed and remanded.
+Glover and Baker, JJ., agree.
