@@ -1,0 +1,37 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 87-220"
+decided: "1988-06-22"
+citations: ["25 Ark. App. 45", "752 S.W.2d 46"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings and Mayfield, JJ., agree."]
+parties: ["James WILSON v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/25/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137105
+cites_cases: ["107 S.Ct. 3164", "18 Ark. App. 193", "20 Ark. App. 44", "21 Ark. App. 249", "270 Ark. 634", "Ark. Code Ann. § 5-4-309"]
+---
+
+# Wilson v. State
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+On June 23,1986, the appellant entered a guilty plea to a charge of possession of a controlled substance with intent to deliver and received five years probation. On August 20,1987, the Pike County Circuit Court granted the State’s petition to revoke the appellant’s probation and he was sentenced to ten years in the Arkansas Department of Correction. On appeal, the appellant argues four points: that the trial court erred in denying the motion to suppress evidence allegedly obtained as a result of an illegal arrest; that condition seven in the conditions of probation which requires the appellant to subject himself to a search at any time is unconstitutional; that evidence used to revoke his probation was seized during an illegal search; and that the court erred in allowing a crime laboratory report to be introduced into evidence. We disagree with the appellant’s arguments and affirm.
+The record reveals that on February 11, 1987, Sheriff George Riley went to the appellant’s residence because he “understood” that the appellant had controlled substances in his home and he wanted to search for them. Sheriff Riley was accompanied by Officer Dickie Branch and Jim O’Neil, a member of the county quorum court. When they arrived at the appellant’s house, Sheriff Riley began talking with the appellant who was in his yard splitting wood. According to Sheriff Riley, when he told the appellant that they were there to search for drugs, the appellant ran toward the door of his trailer. Sheriff Riley testified that they followed the appellant and that he could see green vegetable matter on the living room table when the appellant opened the front door. The officers entered the trailer, scuffled with the appellant, and, after subduing and handcuffing him, searched the trailer. Besides the green matter, which was later tested and found to be marijuana, three guns were found.
+The appellant testified that when he was told that his home was to be searched, he asked the Sheriff to wait outside while he got a shirt. The three men followed him onto the porch, according to the appellant, and after he had entered the trailer and latched the door, the officers forced their way in and searched the home. Officer Riley stated that he believed he had the authority to search the appellant’s home without a search warrant pursuant to condition seven of the appellant’s written conditions of probation which provides:
+7. The defendant shall, during the period of probation submit his person, place of residence or vehicle to search and seizure at any time of the day or night, with or without a search warrant, whenever requested to do so by the probation officer or any law enforcement officer.
+The appellant first argues that he was arrested illegally because the officers did not have reasonable cause to arrest him. Arkansas Statutes Annotated § 41-1208(2) (Repl. 1977) [Ark. Code Ann. § 5-4-309 (1987)] provides:
+(2) At any time before the expiration of a period of suspension or probation, any law enforcement officer may arrest a defendant without a warrant if the officer has reasonable cause to believe that [the] defendant has failed to comply with a condition of his suspension or probation.
+(Emphasis added). We disagree with the appellant’s contention that the officers did not have “reasonable cause” to believe that he had violated a condition of his suspension of probation.
+The appellant testified that he did not consent to the search and that he tried to prevent the officers from searching without a warrant. Because one of the conditions of the probation was that the appellant subject himself and his home to being searched, the appellant’s refusal gave the officers “reasonable cause to believe that the appellant had failed to comply with a condition of his probation.” We therefore find that the actual arrest, occurring a few minutes later, was not illegal.
+The appellant argues next that condition seven is unconstitutional. However, the appellant does not cite any convincing authority for this proposition; he vaguely alludes to various constitutional and statutory provisions which are only tangentially related to the issues. Assignments of error, unsupported by convincing argument or authority, will not be considered on appeal unless it is apparent without further research that they are well taken. Reynolds v. State, 18 Ark. App. 193, 712 S.W.2d 329 (1986).
+The appellant argues in his third point that the trial court should have suppressed the evidence seized in his home because the search was unlawful. It is the appellant’s contention that the officers needed a search warrant to conduct the search of his home.
+The appellant and the State both cite the case of Griffin v. Wisconsin, 483 U.S _, 107 S.Ct. 3164 (1987). In that case the United States Supreme Court upheld the warrantless search by probation officers of a probationer’s home. In its opinion, the Court pointed out the difference between a search conducted by a probation officer, who is concerned with both public interests and the welfare of the probationer, and a search conducted by a police officer. However, Griffin was not a revocation case; the evidence gathered by the probation officer was used to convict the probationer of a state weapons offense. Therefore, we do not find Griffin to be controlling.
+We have said many times that the exclusionary rule does not apply to revocation proceedings, at least where there has been a good faith effort to comply with the law. Carson v. State, 21 Ark. App. 249, 731 S.W.2d 237 (1987); Harris v. State, 270 Ark. 634, 606 S.W.2d 93 (Ark. App. 1980). However, an analysis of “good faith” is not required here because the officers had the authority to search the appellant’s home pursuant to the conditions of probation. We find that the trial court was correct in its refusal to grant the appellant’s motion to suppress.
+The appellant’s last argument concerns a report prepared by the Arkansas State Crime Laboratory which indicated that the green vegetable matter seized from the appellant’s home was marijuana. The appellant contends that because the report was hearsay and violated the best evidence rule, it was error to allow the State to introduce it into evidence. The appellant’s argument has no merit because the Rules of Evidence are not applicable in revocation proceedings. Felix v. State, 20 Ark. App. 44, 723 S.W.2d 839 (1987).
+We find that the trial court did not err in refusing to suppress the evidence found in the appellant’s home or in allowing the crime laboratory report to be introduced into evidence and, accordingly, we affirm the revocation of the appellant’s probation.
+Affirmed.
+Jennings and Mayfield, JJ., agree.
