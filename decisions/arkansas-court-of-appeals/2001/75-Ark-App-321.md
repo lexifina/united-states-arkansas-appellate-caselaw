@@ -1,0 +1,38 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 01-138"
+decided: "2001-10-24"
+citations: ["75 Ark. App. 321", "57 S.W.3d 233"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PITTMAN and Neal, JJ., agree."]
+parties: ["Patricia RUBLE v. ARKANSAS DEPARTMENT of HUMAN SERVICES"]
+source_url: "https://static.case.law/ark-app/75/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6141563
+cites_cases: ["12 S.W.2d 200", "12 S.W.3d 201", "306 Ark. 294", "312 Ark. 61", "334 Ark. 172", "340 Ark. 408", "340 Ark. 42", "42 U.S.C.A. § 12102", "971 S.W.2d 111", "Ark. Code Ann. § 9-27-316", "Ark. Code Ann. § 9-27-341"]
+---
+
+# Ruble v. Arkansas Department of Human Services
+
+## Majority (D. Vaught, Judge.)
+
+D. Vaught, Judge.
+In this parental-rights termination case, appellant asserts that the trial court erred in not requiring the Department of Human Services to comply with the Americans with Disabilities Act and in faffing to make a “reasonable” award of attorney’s fees. We affirm.
+On April 12, 1999, K.C. was taken into DHS custody after the agency received a phone call from the child’s babysitter alleging that appellant, Patricia Ruble, the child’s mother, had abandoned the child. On April 14, 1999, the court found that probable cause existed for custody to remain with DHS. On May 14, 1999, an adjudication order was entered, finding K.C. to be dependent/ neglected, and the child remained in DHS custody until the September 6, 2000, termination hearing. On October 5, 2000, appellant’s parental rights were terminated.
+During the time that K.C. was in DHS custody, appellant was provided many services by DHS. The services included counseling, parenting classes, job location and transportation assistance, and access to housing and utilities. One of the counselors who treated appellant at Community Services, Inc., noted the following in a client narrative: “I suggested that she [appellant] be sent to a residential facility for assessment, evaluation, and treatment, due to her acting out behaviors.” Also, Vicky Dennison testified that appellant was depressed and lethargic virtually all of the time and could not do anything to improve her condition.
+Appellant argues that these two pieces of evidence establish her entitlement to services under the Americans with Disabilities Act, and that DHS failed to provide such services. Appellant further reasons that the failure to provide these ADA-required services resulted in a premature termination of her parental rights.
+In the Americans with Disabilities Act, “disability” is defined at 42 U.S.C.A. § 12102(2), which reads:
+The term “disability” means, with respect to an individual
+(a) a physical or mental impairment that substantially limits one or more of the major life activities of such individual.
+(b) a record of such impairment; or
+(c) being regarded as having such an impairment.
+Here, appellant did not notify DHS that she was disabled. Appellant did not identify for DHS (nor, this court) what type of disability she has, nor did she identify what services she needs. The scant testimony that appellant argues establishes her disability is nothing more than a lay observation, and a recommendation for further evaluation. Appellant has not demonstrated that she has a “record” of any impairment covered by the ADA or that she is “regarded” as having such an impairment.
+Appellant did not establish that she is entided to ADA protection; therefore, any arguments related to requirements of the ADA are not preserved for appellate review. DHS provided appellant with meaningful access to services that would allow her a fair chance at remedying the conditions that caused the removal of her child. Once the child has been out of the home for twelve months, and the conditions that warranted removal have not been remedied by the parent, termination of parental rights is appropriate. Ark. Code Ann. § 9-27-341 (Supp. 1999).
+For her second point on appeal, appellant argues that the chancellor erred by failing to award the full amount requested in attorney’s fees for work performed. Appellant’s counsel was appointed by the chancellor pursuant to Ark. Code Ann. § 9-27-316 (Repl. 1998), which requires appointment of counsel for indigent parents in termination cases. Counsel filed a motion for attorney’s fees with the chancery court on September 27, 2000. The motion requested attorney’s fees in the amount of $2,700. This amount represented nineteen hours of work at a rate of $125 per hour. Counsel’s motion had an accompanying detailed worksheet which itemized the nineteen hours of service he provided; however, counsel did not include the worksheet in the abstract or attach the worksheet as an addendum to his brief. The motion was supported by affidavits from three local attorneys attesting to the fact that $125 per hour was the customary local billing rate for attorneys. The chancellor awarded appellant attorney’s fees in the amount of $900 and directed that the fees be paid from the Van Burén County coffers.
+Counsel argues that absent a showing that his $2,700 request for fees was “unreasonable,” he is entitled to the full amount requestéd. For this proposition, he cites Baker v. Arkansas Dep’t of Human Servs., 340 Ark. 42, 12 S.W.3d 201 (2000). However, in Baker, the supreme court examined the constitutionality of requiring counsel to represent an indigent parent pro bono in a termination case. The court recognized that the services of an attorney are a specie of property subject to Fifth and Fourteenth Amendment protection. Baker, supra; Arnold v. Kemp, 306 Ark. 294, 813 S.W.2d 770 (1991). In Arnold, the supreme court held that the appointment of counsel in criminal cases results in a taking of the appointed counsel’s property for which he must be justly compensated. Id. The Baker court recognized that termination cases are civil in nature, but it concluded that the principles that require payment of attorneys’ fees for representing an indigent criminal defendant are applicable to termination cases as well, and further concluded that it would be unconstitutional for the chancellor to appoint counsel to represent appellant, and then deny that counsel reasonable payment for services rendered.
+It is the “reasonable payment” language of Baker, supra, that appellant relies on. However, this court traditionally leaves the “reasonable” determination to the chancellor. The decision to award attorney’s fees and the amount to award are discretionary determinations that will be reversed only if the appellant can demonstrate that the trial court abused its discretion. Nelson v. River Valley Bank & Trust, 334 Ark. 172, 971 S.W.2d 111 (1998); Burns v. Burns, 312 Ark. 61, 847 S.W.2d 23 (1993).
+Appellant contends that an award of fees at a rate of $125 per hour is “reasonable” based on the/ affidavits provided to the court, and that absent a showing otherwise, any reduced award is an abuse of discretion. However, in Baker, the case upon which appellant so heavily relies, the supreme court set the fees at $55 per hour by per curiam order. See Baker v. Arkansas Dep’t of Human Servs., 340 Ark. 408, 12 S.W.2d 200 (2000). The trial court’s $900 fee award is comparable to the “reasonable” amount awarded in Baker. Additionally, at the time of counsel’s appointment in this case, there was no statutory provision for an award of attorney’s fees in indigent dependency-neglect cases. Therefore, we find no error. Affirmed.
+PITTMAN and Neal, JJ., agree.
+This omission was rectified by Act 1267 of 2001.
