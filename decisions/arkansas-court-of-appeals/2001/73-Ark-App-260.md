@@ -1,0 +1,35 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 00-898"
+decided: "2001-04-11"
+citations: ["73 Ark. App. 260", "41 S.W.3d 431"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Neal and Baker, JJ., agree."]
+parties: ["Michele TYLER v. Eddie D. TALBURT"]
+source_url: "https://static.case.law/ark-app/73/cases/0260-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140917
+cites_cases: ["27 Conn. L. Rptr. 26", "341 Ark. 716", "47 Ark. App. 156", "72 Ark. App. 15", "Ark. Code Ann. § 9-17-101", "Ark. Code Ann. § 9-17-205", "Tex. Fam. Code Ann. § 159.205"]
+---
+
+# Tyler v. Talburt
+
+## Majority (JOSEPHINE LINKER Hart, Judge.)
+
+JOSEPHINE LINKER Hart, Judge.
+Michele Tyler appeals the J denial of her petition to relieve her of the obligation to pay appellee spousal maintenance commensurate with a registered foreign decree of divorce. We, however, conclude sua sponte that pursuant to the Uniform Interstate Family Support Act (“UIFSA”), the relevant provision of which is codified at Ark. Code Ann. § 9-17-205(f) (Repl. 1998), the chancery court lacked jurisdiction to consider the modification petition, and we, consequently, reverse and remand with instructions to dismiss.
+The parties’ ten-year marriage ended by foreign decree of divorce dated September 29, 1997, which required appellant to pay alimony to appellee in the amount of $456 “each month . . . during the period of [appellee’s] continuing incapacitated physical, or mental disability, or until further orders of this Court. . . . [T]his Court shall review the maintenance provisions of this Decree after [appellee] receives a kidney transplant at two (2) month intervals at the motion of either party hereto.” Appellant petitioned the chancery court for registration of the foreign decree ostensibly because appellee had moved to Arkansas since the entry of said decree. The chancery court ordered the registration of the decree, and, thereafter, appellant petitioned to be relieved of the maintenance obligation contained in the decree. A trial on the petition was conducted on December 16, 1999, wherein the chancery court heard arguments of counsel and the testimonies of the parties.
+Appellee testified that during his marriage to appellant, he had suffered from a condition known as polycystic kidney disease, which, prior to his transplant in April, 1999, required that he undergo dialysis three time each week. He also testified that although he has physically felt well, his doctors have expressed to him their concern that his new kidney might be rejected by his body. In addition, he stated that prior to the onset of his condition he had worked as a mechanic; however, since that time he has been unable to maintain full-time employment, and that his sole means of financial support has been his spousal support, social security disability, and some miscellaneous income from small jobs that he did in town. Finally, his testimony revealed that although he is presently able to meet his expenses, his medicines, of which there were many, were being paid for by a kidney foundation, but that benefit would last for only three years following the transplant.
+In support of her petition, appellant testified that since the divorce, she had moved to Europe, where living expenses were much higher, commensurate with a job assignment. In addition, she testified that she originally received $456 per month from social security, which was the amount she was ordered to pay appellee; however, that amount has grown to $472 per month. Finally, she testified that in a year she received in excess of $60,000 in entitlements, pay (which was to increase the following month), and social security offset.
+In the end, the chancery court denied the petition, reasoning that appellant had failed to demonstrate a material change in circumstances that would justify a modification of the foreign decree. Thereafter, appellant moved for a new trial, which was also denied. Commensurate with Ark. R. App. P. — Civil 4(b)(1), appellant filed her notice of appeal, specifying the denials of her petition for modification and new trial as being the orders from which the appeal was taken.
+We review issues of law decided by a chancery court de novo. E.g., Atkinson v. Atkinson, 72 Ark. App. 15, 19, 32 S.W. 3d 41, 44 (2000) (citations omitted). However, we can raise sua sponte the question of whether the lower court lacked subject-matter jurisdiction. See, e.g., Leinen v. Arkansas Dep’t of Human Servs, 47 Ark. App. 156, 161-162, 886 S.W.2d 895, 898 (1994) (citations omitted). If we conclude that the lower court lacked such jurisdiction, then dismissal is an appropriate disposition of the case. See Koonce v. Mitchell, 341 Ark. 716, 718, 19 S.W.3d 603, 605-606 (2000).
+Arkansas statutory law provides that “[a] tribunal of this state may not modify a spousal support order issued by a tribunal of another state having continuing, exclusive jurisdiction over that order under the law of that state.” Ark. Code Ann. § 9-17-205(f). The law of the state that issued the spousal-support order at issue, Texas, provides that “[a] tribunal of this state issuing a support order consistent with the law of this state has continuing, exclusive jurisdiction over a spousal support order throughout the existence of the support obligation.” Tex. Fam. Code Ann. § 159.205(f) (West 1998). See also Bork v. Bork, 27 Conn. L. Rptr. 26 (Conn. Super. Ct. 2000) (ruling that Connecticut court lacked subject-matter jurisdiction over plaintiff s claim for alimony in light of New York spousal-support order).
+As explained by the adopted commentary for Ark. Code Ann. § 9-17-205:
+[T]he issuing tribunal retains continuing exclusive jurisdiction over an order of spousal support throughout the entire existence of the support obligation. The prohibition against a modification of an existing spousal support order of another state imposed by Sections 205 and 206 . . . marks a radical departure from [the Revised Uniform Reciprocal Enforcement of Support Act], which treats spousal and child support identically. Under UIFSA . . . modification of spousal support is permitted in the interstate context only if an action is initiated outside of, and modified by the original issuing state.
+Because Arkansas statutory law precludes our courts from entertaining petitions to modify Texas spousal-support orders, we conclude that the chancery court lacked subject-matter jurisdiction to hear appellant’s petition. Consequently, we reverse and remand with instructions to dismiss.
+Reversed and remanded with instructions to dismiss.
+Neal and Baker, JJ., agree.
+Actually, the chancery court also heard the testimony of one of the parties’ children on an issue that is not the subject of this appeal. Accordingly, we only focus on the material portions of the testimonies given on the matter that is the subject of this appeal.
+Pursuant to UIFSA, a spousal-support order is “a support order for a spouse or former spouse of the obligor.” Ark. Code Ann. § 9-17-101(18) (Repl. 1998).
