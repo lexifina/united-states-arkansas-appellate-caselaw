@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 90-36"
+decided: "1990-10-03"
+citations: ["32 Ark. App. 46", "795 S.W.2d 931"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Mayfield, JJ., agree."]
+parties: ["IN THE MATTER OF THE GUARDIANSHIP OF Lisa Renee MARKHAM, A Minor Beth Markham and Virgil Wayne Markham v. Randall Buck and Brenda Buck"]
+source_url: "https://static.case.law/ark-app/32/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6644632
+cites_cases: ["13 Ark. App. 102", "197 Ark. 853", "198 Ark. 567", "266 Ark. 441", "37 Ark. 27", "444 A.2d 309", "Ark. Code Ann. § 28-65-204", "Ark. Code Ann. § 28-65-401"]
+---
+
+# Markham v. Buck
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+The appellants, Beth and Wayne Markham, the natural parents of Lisa Renee Markham, appeal from an order of the Clark County Probate Court refusing to terminate a guardianship previously established for Lisa. The sole argument on appeal is that the probate judge’s failure to terminate the guardianship constituted an abuse of discretion. We disagree and affirm.
+Lisa Renee was born on March 27, 1986, three months premature. She weighed one and one-half pounds and spent the first four months of her life in the hospital. The child has had various physical problems since her birth. In April of 1988, Lisa’s parents took her to the home of Wayne’s aunt, Brenda Buck, and her husband Randall, the appellees here. In May of 1988, the appellants returned to pick up the child, but returned her to the Bucks within a few hours. At that time Mrs. Buck insisted on obtaining legal guardianship of the child and the Markhams agreed. The parents subsequently signed a formal consent to the guardianship. Mrs. Buck testified that the Markhams left Lisa with her and told her to raise the child. The Markhams testified that Mrs. Buck was just keeping the child for them until they “get back on their feet.” There was considerable evidence of the child’s physical and emotional improvement while she was in the Buck’s care.
+On August 9,1988, the Clark County Probate Court entered an order appointing the Bucks guardians for Lisa Renee. On February 27,1989, the Markhams filed a petition to set aside the guardianship. A hearing on the petition was held on April 25, 1990. At that hearing it was undisputed that Mrs. Buck had refused to permit the parents to take the child from her home, contending that the parents’ smoking might be detrimental to the child. Medical evidence was offered that tobacco smoke could harm the child. There was conflicting evidence as to the care appellants had given the child while Lisa was with them, their cooperation in following medical recommendations, and whether or not they had used marijuana in the past. There was evidence that the Markhams had had a somewhat stormy marriage, but that they were presently getting along well, living together in a rented apartment, and that Mr. Markham was employed, earning about $400.00 per month.
+Mrs. Buck testified that she did not want the guardianship terminated because the child had done so well in her care. There was evidence that the Bucks had spent approximately $1,000.00 for medical expenses for the child and that the Markhams had not attempted to reimburse, them.
+Appellants argue that, given the law’s preference for the natural parents, it was error for the trial court not to terminate the guardianship, citing Phifer v. Phifer, 198 Ark. 567, 129 S.W.2d 939 (1939), and Hancock v. Hancock, 197 Ark. 853, 125 S.W.2d 104 (1939). Appellants also rely on Ark. Code Ann. § 28-65-204 (1987) which establishes a preference for a natural parent in the appointment of a guardian of the person.
+This proceeding to terminate the guardianship was governed by Ark. Code Ann. § 28-65-401 (b)(3) (Supp. 1989), which provides that a guardianship may be terminated by court order if the guardianship is no longer necessary or for the best interest of the ward. Phifer v. Phifer was a custody dispute between the mother and the paternal grandmother. The chancellor had awarded custody to the grandmother and the supreme court reversed. In recognizing the principle that the natural parents are greatly to be preferred in a custody dispute, the court said:
+It is one of the cardinal principles of nature and of law that as against strangers or relatives, the parent, however poor and humble, if able to support the child in his own style of life, and of good moral character, cannot, without the most shocking injustice, be deprived of the privilege by anyone whatever, however brilliant the advantage he may offer. It is not enough to consider the interest of the child alone. [Citing Verser v. Ford, 37 Ark. 27 (1881)].
+198 Ark. at 573.
+On the other hand, the rights of parents are not proprietary and are subject to their related duty to care for and protect the child, and the law secures their preferential rights only so long as they discharge their obligations. Jones v. Jones, 13 Ark. App. 102, 680 S.W.2d 118 (1984). Jones v. Strauser, 266 Ark. 441, 585 S.W.2d 931 (1979), although a custody case in chancery, states the principles that seem applicable in the case at bar:
+The welfare of the child is the polestar in every child custody case. Ordinarily it is true that, as between a parent and a grandparent, the law awards custody to the parent unless he is incompetent or unfit to have custody of the child. In this case, the award of the custody of the child to her maternal grandparents was based on an agreement to which appellant was a party. While his parental preference was not thereby forfeited forever, its effect was so diminished that he bore the burden of showing a change in circumstances subsequent to that award which required or justified a change in the custody when considered from the standpoint of the welfare of the child.
+266 Ark. at 443 (citations omitted).
+Likewise, in the case at bar the evidence justifies a finding that the appellants voluntarily consented to an order appointing Mrs. Buck as the guardian for their daughter and that they asked Mrs. Buck to raise the child. While they did not thereby forfeit their parental rights, the burden was upon them to show that a termination of the guardianship would be in Lisa’s best interest. Under circumstances similar to those shown here, the court in Martin v. Sand, 444 A.2d 309 (Del. Fam. Ct. 1982), held that after the appointment of a guardian, the child will not be returned to the parents unless it is in the child’s best interest.
+The language of Ark. Code Ann. § 28-65-401 (b)(3) indicates that the termination of a guardianship for the best interest of the ward is a matter which lies within the probate court’s discretion. In the case at bar there was evidence from which the probate court could have determined that it was in Lisa’s best interest to remain in the Buck’s home, at least for the present. The Markham’s parental rights have not been terminated, and they are not prohibited from seeking further relief in the trial court as circumstances may permit.
+Affirmed.
+Cooper and Mayfield, JJ., agree.
