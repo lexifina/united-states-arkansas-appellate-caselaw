@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 81-387"
+decided: "1982-03-17"
+citations: ["4 Ark. App. 247", "629 S.W.2d 316"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LIGGETT CONSTRUCTION COMPANY, Employer, and TRI-STATE INSURANCE COMPANY, Insurance Carrier v. Milton GRIFFIN"]
+source_url: "https://static.case.law/ark-app/4/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140599
+cites_cases: ["2 Ark. App. 185", "209 Ark. 438", "209 Ark. 630", "218 Ark. 136", "221 Ark. 589", "249 Ark. 447", "262 Ark. 575", "267 Ark. 926", "269 Ark. 649"]
+---
+
+# Liggett Construction Co. v. Griffin
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+Appellee’s status at the time of his injury is the central issue in this workers’ compensation case. Appellee was injured while painting a house which was being constructed by the appellant, Liggett Construction Company, hereinafter referred to as Liggett. Appellee was working under the supervision of his brother, who had subcontracted the painting job from Liggett. Appellee had no workers’ compensation insurance on himself, nor did his brother purchase a policy of insurance. Appellee contended that he was either an employee of Liggett or that he was an employee of a subcontractor (his brother) who either did not provide workers’ compensation insurance, or who provided the insurance through Liggett. Liggett deducted amounts from the subcontractor’s settlement check and noted that such deductions were for workers’ compensation insurance.
+On appeal, the appellant argues that the evidence is insufficient to support the findings of the Commission and that the evidence compels the conclusion that the appellee was an independent contractor or partner, rather than an employee.
+At the time of his injury, the appellee was working under the direction of James Griffin, his brother, who was a subcontractor of Liggett. James Griffin was doing work for Liggett on two houses. The appellee was injured while working on what will be referred to as the “Calhoun” house. On that project, James Griffin was paid on a per job basis, as was appellee.
+It was the duty of the commission to follow a liberal approach and to draw all reasonable inferences favorable to the claimant. Williams v. National Youth Corps, 269 Ark. 649, 600 S.W. 2d 27 (Ark. App. 1980). The rule of liberal construction applies to the factual determination of whether the injured person is an employee or an independent contractor, and it requires that any doubts be resolved in favor of the person’s status as an employee. Purdy v. Livingston, 262 Ark. 575, 559 S.W. 2d 24 (1977); Feazell v. Summers, 218 Ark. 136, 234 S.W. 2d 765 (1950). On appeal, we must review the evidence in the light most favorable to the Commission’s decision and uphold that decision if it is supported by substantial evidence. Before we may reverse a decision of the Commission, we must be convinced that fair-minded persons, with the same facts before them, could not have reached the conclusion arrived at by the Commission. Office of Emergency Services v. Home Ins. Co., 2 Ark. App. 185, 618 S.W. 2d 573 (1981); Bunny Bread v. Shipman, 267 Ark. 926, 591 S.W. 2d 692 (Ark. App. 1980).
+There are many factors to be considered in determining whether an injured person is an employee or an independent contractor for purposes of workers’ compensation coverage. Some of those factors are:
+(1) the right to terminate the employment without liability;
+(2) the method of payment, whether by time, job, piece or other unit of measurement;
+(3) the right to control the means and the method by which the work is done;
+(4) the furnishing, or the obligation to furnish, the necessary tools, equipment, and materials.
+Purdy v. Livingston, supra; Massey v. Poteau Trucking Co., 221 Ark. 589, 254 S.W. 2d 959 (1953); Parker Stave Co. v. Hines, 209 Ark. 438, 190 S.W. 2d 620 (1946).
+We agree that the evidence is sufficient to support the Commission’s finding that appellee was an employee of James Griffin rather than an independent contractor. The appellee’s employment could have been terminated at will, either by himself or by James Griffin; he did work on the other residence on an hourly basis but was also hired for the purpose of completing a specific job on it as well as on the “Calhoun” residence; he was under the direct control and supervision of James Griffin, who in turn was under the direct control and supervision of Liggett as to the manner in which the work was to be completed; he supplied no materials or supplies on the “Calhoun” house, since those supplies and materials were supplied by James Griffin. Thus, from a review of the facts in this case, it appears that James Griffin was a subcontractor; that the appellee was an employee of James Griffin; and that the appellee was injured while working for his employer.
+Having determined that the relationship of employer-employee existed between James Griffin and appellee, it now becomes necessary to determine the relationship between James Griffin and Liggett and its insurance carrier. The Commission found that James Griffin was an insured subcontractor of Liggett and that James Griffin was insured for the purposes of workers' compensation by Liggett’s insurance carrier. The basis on which the Commission arrived at this conclusion was that Liggett withheld certain sums from monies due James Griffin. On the final settlement between Griffin and Liggett, the sum of $103.00 was withheld with a notation that that sum was for workers’ compensation insurance. The Commission found that such sum was paid to, and accepted by, Liggett’s insurance carrier and that Liggett was operating as an agent of James Griffin.
+After a review of the record, we conclude that the Commission erred in this determination. There is no evidence in the record to show that the $103.00 was ever paid to, or accepted by, Liggett’s carrier. The only thing the evidence proves is that certain sums were withheld for the stated purpose of paying for workers’ compensation insurance. Even if Liggett is estopped to deny coverage, that estoppel will not automatically apply to its insurance carrier. Phoenix of Hartford Coney, 249 Ark. 447, 459 S.W. 2d 558 (1970).
+We hold that, on these facts, James Griffin was an uninsured subcontractor and that the appellee is entitled to recover workers’ compensation benefits from Liggett’s insurance carrier. Arkansas Statutes Annotated § 81-1306 (Repl. 1976) makes the prime contractor liable for compensation to employees of a subcontractor who has failed to secure workers’ compensation coverage as required by the Workers’ Compensation Act. The primary purpose of this provision is to protect the employees of subcontractors who are not financially responsible, and to prevent employers from relieving themselves from liability by doing through independent contractors what they would otherwise do through direct employees. Hobbs Western Co. v. Craig, 209 Ark. 630, 192 S.W. 2d 116 (1946).
+Other rights and liabilities of the respective parties, and persons not parties to this litigation, may be determined in due course, but those matters are not now before us.
+Affirmed in part; reversed in part.
