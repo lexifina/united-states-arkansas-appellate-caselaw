@@ -2,7 +2,7 @@
 court: "Arkansas Court of Appeals"
 docket: "CA 96-258"
 decided: "1997-04-02"
-citations: ["57 Ark. App. 50", "941 S.W.2d 443", "57 Ark. App. 66"]
+citations: ["57 Ark. App. 50", "941 S.W.2d 443"]
 reporter: "ark-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
