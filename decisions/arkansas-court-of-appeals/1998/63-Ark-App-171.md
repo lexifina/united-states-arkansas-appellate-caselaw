@@ -1,0 +1,29 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 98-314"
+decided: "1998-10-07"
+citations: ["63 Ark. App. 171", "976 S.W.2d 399"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Crabtree and Roaf, JJ., agree."]
+parties: ["Richard E. SHULTS v. PULASKI COUNTY SPECIAL SCHOOL DISTRICT"]
+source_url: "https://static.case.law/ark-app/63/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139183
+cites_cases: ["10 Ark. App. 102", "52 Ark. App. 72", "55 Ark. App. 400", "57 Ark. App. 159", "Ark. Code Ann. § 11-9-102", "Ark. Code Ann. § 11-9-704"]
+---
+
+# Shults v. Pulaski County Special School District
+
+## Majority (Margaret Meads, Judge.)
+
+Margaret Meads, Judge.
+Appellant, Richard E. Shults, filed a workers’ compensation claim for an injury he sustained on June 26, 1995. The administrative law judge (ALJ) found that appellant was not entitled to benefits because he failed to prove by a preponderance of the evidence that he was performing employment services at the time he was injured. The Commission affirmed the denial of benefits, stating that merely because appellant was on his employer’s premises at the time an accident occurs does not mean the accident is compensable and that appellant’s injury was not inflicted at a time when employment services were being performed. On appeal to this court, appellant contends that the Commission erred in finding that he was not performing employment services at the time of his injury. We agree with appellant; therefore, we reverse.
+The standard of review in workers’ compensation cases is well-settled. On appeal, this court must determine whether there is substantial evidence to support the Commission’s decision. Weaver v. Whitaker Furniture Co., 55 Ark. App. 400, 935 S.W.2d 584 (1996). Substantial evidence is that relevant evidence which a reasonable mind might accept as adequate to support a conclusion. Id. The evidence is viewed in the light most favorable to the findings of the Commission and is given its strongest probative value in favor of the Commission’s decision. Barrett v. Arkansas Rehabilitation Servs., 10 Ark. App. 102, 661 S.W.2d 439 (1983). The issue is not whether the appellate court might have reached a different conclusion from the one found by the Commission, or even whether the evidence would have supported a contrary finding, but if reasonable minds could arrive at the same decision as the Commission, the decision must be upheld. Harvest Foods v. Washam, 52 Ark. App. 72, 914 S.W.2d 776 (1996).
+Appellant was employed by the Pulaski County Special School District as a building custodian at Tolleson Elementary School in Jacksonville, Arkansas. On June 26, 1995, appellant’s son had taken him to work because appellant’s truck was not working. Appellant’s co-worker, Leonard Holder, usuahy rode to work with appellant, but appellant had told him that he would have to find another way to work that day. Appellant and his son arrived at the school between 6:30 and 6:45 a.m. Appellant fell while entering the building, fracturing his right patella. This injury required surgery, and appellant was off work for seven weeks. His surgeon assessed a five percent permanent partial impairment of the lower extremity.
+One of appellant’s duties upon arriving at work was to disarm the alarm system when he entered the building. At the hearing, appellant testified, “I opened the door, and the alarm system is right on the right. And on the uprising when I went in the building, I seen the alarm had been disarmed, so I started running in the building . . . And the uprising, it was a fan cord on my left, and I don’t know whether I tripped on the uprising or the fan cord, but that’s where I fell at.” On cross-examination, appellant stated that the building doors were already opened when he arrived, and he knew his co-worker, Leonard Holder, was already at work because the doors were open and the alarm system was disarmed. He said, “After I walked in, yes sir, I could tell the alarm system was off.”
+Act 796 of 1993, which applies to all workers’ compensation injuries incurred after July 1, 1993, requires that the provisions of the workers’ compensation statutes be strictly construed. Ark. Code Ann. § 11-9-704(c)(3) (Repl. 1996). This act excludes from the definition of “compensable injury” any injury inflicted upon the employee at a time when employment services were not being performed. Ark. Code Ann. § 11-9-102(5) (B) (iii) (Supp. 1997). We have held that an employee was performing “employment services” when he “was engaging in an activity that carried out the employer’s purpose or advanced the employer’s interests.” Hightower v. Newark Pub. Sch. Sys., 57 Ark. App. 159, 943 S.W.2d 608 (1997).
+In denying appellant’s claim, the Commission stated that merely entering upon the premises of one’s employer was not sufficient to bring one within the employment services provision of Act 796. Although that is a correct statement of the law, we disagree that appellant was “merely entering upon” the employer’s premises. Upon appellant’s arrival at Tolleson Elementary School, his first duty as building custodian was to check the alarm system. We believe this duty was an activity that carried out the employer’s purpose or advanced the employer’s interests, and therefore constitutes employment services. Whether or not the alarm system had already been disarmed on the day of appellant’s accident is not dispositive, because appellant did not know this until he stepped into the building to check the system for himself. Therefore, we find that appellant did sustain a compensable injury because he sustained an injury to his knee at a time when employment services were being performed. We reverse and remand for an award of benefits.
+Reversed and remanded.
+Crabtree and Roaf, JJ., agree.
