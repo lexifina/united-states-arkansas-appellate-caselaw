@@ -1,0 +1,37 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 97-1182"
+decided: "1998-05-13"
+citations: ["62 Ark. App. 108", "968 S.W.2d 660"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings and Neal, JJ., agree."]
+parties: ["Jean FLOWERS v. ARKANSAS HIGHWAY & TRANSPORTATION DEPARTMENT"]
+source_url: "https://static.case.law/ark-app/62/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137725
+cites_cases: ["52 Ark. App. 61", "59 Ark. App. 224"]
+---
+
+# Flowers v. Arkansas Highway & Transportation Department
+
+## Majority (John F. Stroud, Jr., Judge.)
+
+John F. Stroud, Jr., Judge.
+This appeal comes from the Arkansas Workers’ Compensation Commission’s denial of a claim for a knee injury sustained by Jean Flowers when a co-worker pulled a chair out from under her. The Commission’s decision reversed the administrative law judge’s finding that the claim was compensable. Ms. Flowers now appeals to this court, contending that the Commission erred in holding that her injury was barred under our workers’ compensation statutes. Appellee, the Arkansas State Highway and Transportation Department, has filed no brief regarding her appeal. We find that Ms. Flowers’s injury was not statutorily barred and that it was compensable. We therefore reverse the Commission’s denial of her claim.
+Where, as here, the Commission denies a claim because the claimant has failed to show entitlement by a preponderance of the evidence, the substantial evidence standard of review requires that we affirm if the Commission’s opinion displays a substantial basis for the denial of relief. Barnard v. B & M Constr., 52 Ark. App. 61, 915 S.W.2d 296 (1996). Substantial evidence is that which reasonable minds might accept as adequate to support a conclusion. Id. On appeal, this court must view the evidence in the light most favorable to the Commission’s findings and give the testimony its strongest probative force in favor of the Commission’s action. Chamber Door Indus., Inc. v. Graham, 59 Ark. App. 224, 956 S.W.2d 196 (1997). We reverse the Commission’s findings only when we are convinced that fair-minded people with the same facts before them could not have arrived at the conclusion reached by the Commission. Id.
+This action began as a claim for two separate injuries to appellant’s right knee. The first was sustained in 1995 when appellant twisted her knee getting out of a highway crew truck, and the second occurred on January 30, 1996, in a locker room at highway department facilities. The administrative law judge found that both injuries were compensable. The Commission affirmed the law judge’s finding regarding the first injury but reversed the finding that the second was compensable.
+Appellant states that her appeal raises questions of legal significance regarding Arkansas Code Annotated section 11-9-102(5)(B) (Supp. 1997). She presents two points: 1) whether the Commission erred in holding that her injury was barred by the statute, and 2) whether the Commission erred in determining that the statute barred her claim for benefits as a result of her injury. Viewing these two points as one, we hold that the Commission improperly applied the statute to appellant’s claim.
+The Commission based its denial of appellant’s claim for her 1996 injury on Arkansas Code Annotated section 11-9-102(5)(B) (Supp. 1997). The statute reads in pertinent part:
+(B) “Compensable injury” does not include:
+(i) Injury to any active participant in assaults or combats which, although they may occur in the workplace, are the result of nonemployment-related hostility or animus of one, both, or all of the combatants, and which said assault or combat amounts to a deviation from customary duties; further, except for innocent victims, injuries caused by horseplay shall not be considered to be compensable injuries[.]
+Subsection (5) (A) (i) states that an accidental injury causing physical harm to the body, arising out of and in the course of employment and which requires medical services, is a compensable injury. Under subsection (5)(E), the burden of proving such an injury shah, be on the employee and shall be by a preponderance of the evidence.
+The only testimony before the Commission was that given by appellant at the hearing before the administrative law judge. Appellant testified that all employees were required to clock in at the beginning of each work day and then change into work clothes in a room provided by the employer, and that they were required to change back into street clothes before being allowed to clock out at the end of the day. She testified that on January 30, 1996, while she was seated and changing from work clothes into street clothes, a co-worker approached her and demanded, “What are you doing in my damn chair?” Appellant’s testimony continued:
+And, she put her hand on the back of the chair. And, I never thought anything of it. And, the next thing I knew, the chair was pulled out from underneath me, and I went to the floor. And, my right knee got bent from, I guess, trying to brace myself. And, when I landed, my right knee was turned — my — the bottom part of my leg was turned towards the back, and I had heard it pop.
+Medical records reveal that after the incident with her co-worker, appellant received medical treatment culminating in arthroscopic surgery to her knee.
+In denying appellant’s claim, the Commission cited Arkansas Code Annotated section 11-9-102(5)(B)(i) and stated:
+No one contends that the incident involving the co-worker was horseplay. Rather, the incident where the chair was pulled out from underneath claimant is clearly an assault upon claimant by her co-worker. There is no evidence that this assault arose out of the employment relationship between claimant and claimant’s co-worker. Claimant filed a grievance against her co-worker for the assault which occurred. Claimant’s co-worker was disciplined by the supervisor regarding the incident. There is insufficient evidence in the record to suggest what precipitated the event. All the record reveals with regard to why the incident occurred is that claimant sat down in a chair which claimant’s coworker contended was hers. In our opinion, such incident does not arise out of a work related animus or hostility between claimant and her co-worker. Therefore, we find that claimant has failed to prove by a preponderance of the evidence that the January 30, 1996 incident is compensable.
+It is clear to us that the injury suffered by appellant does not fall under the exclusion of Arkansas Code Annotated section ll-9-102(5)(B)(i). The first words of the subsection plainly state that coverage is barred for injury “to any active participant in assaults or combats” (emphasis added). Evidence before the Commission shows that appellant had not clocked out and was sitting in a chair changing clothes. She was doing exactly what her employer required her to do and thus was performing services for the employer. There was no evidence before the Commission from which reasonable minds could have concluded that appellant was an active participant in the assault upon her. Therefore, there is no evidence to uphold the Commission’s decision that appellant’s claim was barred by Arkansas Code Annotated section 11 — 9— 102(5)(B)(i).
+Reversed and remanded for an award of benefits in keeping with this opinion.
+Jennings and Neal, JJ., agree.
