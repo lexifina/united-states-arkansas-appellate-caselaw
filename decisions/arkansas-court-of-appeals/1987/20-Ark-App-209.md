@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 86-237"
+decided: "1987-04-08"
+citations: ["20 Ark. App. 209", "727 S.W.2d 144"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayfield and Coulson, JJ., agree."]
+parties: ["Mattie Lee BONNER v. Ronald D. SIKES and Bonita SIKES, Husband and Wife"]
+source_url: "https://static.case.law/ark-app/20/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6650444
+cites_cases: ["247 Ark. 1093", "264 Ark. 275", "281 Ark. 481", "8 Ark. App. 346"]
+---
+
+# Bonner v. Sikes
+
+## Majority (George K. Cracraft, Judge.)
+
+George K. Cracraft, Judge.
+Mattie Lee Bonner appeals from an order of the chancery court of Van Burén County reforming a deed executed by her to Ronald D. Sikes and Bonita Sikes. We agree that the chancellor erred and remand the case for further proceedings.
+Appellant was the owner of a five-acre tract of land. In 1978 she conveyed one acre, described by metes and bounds, to the appellees. The deed provided that access to appellees’ tract should be along the west line of the appellant’s larger tract.
+Subsequent to the conveyance, appellees erected a dwelling on the one-acre tract, with its sewer lines placed on lands retained by appellant. Appellees did not use the access provided in the deed but used a route across the center of appellant’s land. In 1985 the appellant brought this action to enjoin appellees from using the roadway and to require them to make necessary repairs to stop the spilling of raw sewage onto the appellant’s property.
+Appellees answered stating that the roadway should not be moved because it had been placed where it was at appellant’s request and that the appellees had established a prescriptive easement to its use. No further relief was requested by either party. The chancellor found that appellees had not acquired a prescriptive easement across appellant’s land and directed that the appellees use that access provided for in the deed. No appeal is taken from that portion of the decree.
+There was testimony that the laying of the sewage line did create problems because the area in which it had been laid was wet. After heavy rains, the sewage seeped to the surface and created the problem. The appellees testified that they were aware that the sewer lines had not been placed on the land described in their deed but they had made some effort to rectify the situation.
+The chancellor entered a decree, dated June 20, 1985, in which he found as follows:
+A Grantee may not challenge a Grantor’s title. When one sells property it is assumed that such property is fit for the purpose sold. Applying these rules, it follows that the defendants’ property must have an adequate sewer system to be useful for the purpose sold. The deed from Plaintiff [appellant] to Defendants [appellees] should therefore be reformed to describe the land upon which the sewer system and field lines are located.
+The decree further provided that some trained person should determine the land to be “taken” for a sewage system which complies with the laws of the State of Arkansas and a surveyor employed to describe that property by metes and bounds. It further directed the surveyor to lay out the roadway. The order provided that, if the parties could not agree upon persons to perform these services, the court would select such persons, and directed that after the preparation of all legal descriptions “an order shall be entered setting forth the correct legal description of the reformed property lines.” No notice of appeal from this order was filed.
+Pursuant to the chancellor’s order of June 20, 1985, a surveyor’s report containing the specified descriptions was filed and approved by the court. On March 10, 1986, a decree was entered in which .35 acres of the lands described in the original deed were returned to the appellant and a different tract of .35 acres belonging to the appellant vested in the appellees. The decree also adequately described the access easement. Appellant filed a timely notice of appeal from this decree. We conclude that the chancellor erred in ordering reformation of the deed.
+Reformation can be ordered only upon clear, convincing, and decisive evidence that a mutual mistake has been made in the drawing of an instrument, or that there has been a unilateral mistake accompanied by inequitable conduct on the part of the other party. Falls v. Utley, 281 Ark. 481, 665 S.W.2d 862 (1984). This equitable remedy is afforded to make an instrument correctly recite the agreements and undertakings of the parties made at the time of its execution. If, because of mutual mistake or unilateral mistake coupled with fraud or inequitable conduct, the document does not correctly state what the parties intended, it will be reformed. It is not a remedy permitting a court to rewrite a document so as to provide for something, for which the parties did not intend to provide, but one to make the writing reflect the agreement actually made.
+Here there was not a scintilla of evidence that the deed did not correctly describe the lands agreed upon. Nor was it even alleged that the sewer lines were placed outside the description contained in the deed by mistake or fraud. The chancellor erred in his conclusion that reformation is a proper remedy where real estate is found to be unsuitable for the purpose for which it was purchased. Although there are implied warranties with regard to the sales of personal property, the rule of caveat emptor applies to a sale of real estate, and, with the exception of the sale of new housing by a vendor-builder, there is no implied warranty that real property is fit for any purpose. Wawak v. Stewart, 247 Ark. 1093, 449 S.W.2d 922 (1970).
+Appellees finally contend that, since appellant did not file a notice of appeal from the chancellor’s order of June 20,1985, his notice filed within thirty days of the March 10,1986, decree was untimely. We conclude that the appellant’s notice of appeal was timely because the 1985 order was not an appealable one.
+Rule 2(a)(1) of the Arkansas Rules of Appellate Procedure provides that an appeal may be taken from a final judgment or decree of a trial court. It is well settled that, in order for a decree to be final, it must be of such a nature as to not only decide the rights of the parties, but to put the court’s directive into immediate execution, ending the litigation or a separable part of it. Morgan v. Morgan, 8 Ark. App. 346, 652 S.W.2d 57 (1983). An order merely announcing the court’s determination of the rights of the parties, but contemplating further judicial action, is not an appealable one. Festinger v. Kantor, 264 Ark. 275, 571 S.W.2d 82 (1978). The 1985 order clearly contemplated further judicial action, which was not taken until the court’s final order was entered on March 10, 1986. The only appealable order contained in the record was that of March 10,1986. Appellant’s notice of appeal was timely filed thereafter.
+That portion of the decree ordering reformation is reversed and remanded. The decree is in all other respects affirmed.
+Mayfield and Coulson, JJ., agree.
