@@ -1,0 +1,56 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 92-221"
+decided: "1992-11-25"
+citations: ["40 Ark. App. 75", "842 S.W.2d 62"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft, C.J., and Rogers, J., agree."]
+parties: ["D.D., A Juvenile v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/40/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137216
+cites_cases: ["100 N.M. 726", "164 S.E.2d 190", "202 Ky. 664", "261 S.W. 18", "268 Ark. 497", "271 Ark. 678", "272 S.E.2d 126", "274 N.C. 498", "290 Ark. 375", "296 Ark. 167", "297 N.W.2d 291", "298 Ark. 484", "30 Ark. App. 196", "301 N.C. 512", "308 Ark. 539", "430 A.2d 433", "430 A.2d 436", "825 S.W.2d 840", "Ark. Code Ann. § 5-14-101"]
+---
+
+# D.D. v. State
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+This is an appeal from a judgment of Ashley County Chancery Court, Juvenile Division, which found appellant to be a delinquent juvenile because he had committed rape, theft of property, breaking or entering, and criminal mischief. Appellant was committed to the Pine Bluff Youth Services Center, a secure detention facility operated by the Arkansas Youth Services Board.
+Appellant argues the trial court erred in denying his motion for directed verdict on the charge of rape, and in allowing the prosecutor to ask the victim leading questions on the subject of “sex” and “sexual intercourse.”
+A motion for a directed verdict is a challenge to the sufficiency of the evidence. McIntosh v. State, 296 Ark. 167, 753 S.W.2d 273 (1988). In resolving the question of the sufficiency of the evidence in a criminal case, we view the evidence in the light most favorable to the appellee and affirm if there is substantial evidence to support the decision of the trier of fact. Ryan v. State, 30 Ark. App. 196, 786 S.W.2d 835 (1990). Substantial evidence is that which is of sufficient force and character that it will, with reasonable certainty and precision, compel a conclusion one way or the other, without resorting to speculation or conjecture. Williams v. State, 298 Ark. 484, 768 S.W.2d 539 (1989); Ryan, supra.
+Appellant was adjudged a delinquent juvenile because of rape by forcible compulsion. Arkansas Code Annotated §5-14-103(a)(1) (1987) provides a person commits rape if he engages in sexual intercourse or deviate sexual activity with another person by forcible compulsion. Both deviate sexual activity and sexual intercourse require penetration “however slight.” Ark. Code Ann. § 5-14-101(1) and (9) (1987).
+Essentially the appellant argues there was insufficient evidence of penetration to support his conviction. He argues the victim provided no details to substantiate her conclusion that she was raped; that her statements were ambiguous and conclusory; that there was no physical evidence to corroborate her testimony; and that it is reasonable to conclude the victim might equate a physical attack with rape.
+In Jackson v. State, 290 Ark. 375, 720 S.W.2d 282 (1986), our supreme court stated:
+The testimony of the alleged victim which shows penetration is enough for conviction. Penetration can be shown by circumstantial evidence, and if that evidence gives rise to more than a mere suspicion, and the inference that might reasonably have been deduced from it would leave little room for doubt, that is sufficient.
+290 Ark. at 385 (citations omitted).
+Here the 87-year-old victim testified that appellant grabbed her and commenced beating her; dragged her into the house and then raped her. She said she begged him to behave and to stop; that he raped her in the kitchen and in the living room; and that he had sex with her. The victim testified that she was a married woman; that she had sex with her husband during the years of her marriage; that she understood what it meant for someone to have sex; that this is what happened between her and the appellant; and that she thought appellant finished the sex act because he was “up there long enough.” She testified further that while the sex act was going on her dress was completely off.
+A number of courts have held similar testimony sufficient to constitute evidence of penetration. In State v. Golden, 430 A.2d 433 (R.I. 1981), the victim, a twenty-three-year-old woman, testified that the appellant said the victim was going to “give him sex.” A struggle ensued and the victim was cut severely. The victim’s recollection was somewhat vague, but she testified the next thing she knew the appellant was on top of her. Three neighborhood youths were in the vicinity. One of them, Alan, testified that he saw the victim and appellant “having sex” and the appellant “going up and down” on the victim; the youths informed Alan’s grandmother that they had seen some girl get “raped.” And the first officer on the scene testified they “appeared to be having intercourse.” The court stated that the victim had stated on several occasions during her testimony that the defendant “had intercourse” and “forceful * * * forcibly [sic] sex” with her and held that when one of understanding testifies to a completed act of sexual intercourse, it has been held to be sufficient proof of penetration. 430 A.2d 436-37.
+In State v. Sneeden, 274 N.C. 498, 164 S.E.2d 190 (1968), the victim testified the defendant told her to remove her pants, she became hysterical, and then felt a blow on the head. Thereafter she didn’t remember what happened until she came to and “he was in the act of raping me.” The court held that the victim’s statement that when she regained consciousness the appellant was in the act of raping her was merely her way of saying he was having intercourse with her; she was not expressing her opinion of what happened; but was stating in shorthand fashion her version of the events to which she had already testified.
+In State v. Ashford, 301 N.C. 512, 272 S.E.2d 126 (1980), the state argued that the victim testified the defendant had “intercourse” and “sex” with her and that these terms are sufficient as shorthand statements of fact on the issue of penetration. The Supreme Court of North Carolina agreed and held the testimony sufficient to support a finding by the jury that there was penetration.
+In State v. Brown, 100 N.M. 726, 676 P.2d 253 (1984), the victim died when after the attack the appellant abandoned her injured, helpless, and unconscious on a winter night. On appeal, the appellant claimed there was a failure of proof of penetration to support his conviction. Nevertheless the court held evidence that the appellant had assisted two co-defendants in forcibly removing the victim’s clothing and “then each in turn removed their pants and laid on top of the victim’s unclothed body” sufficient for the jury to have reached a reasonable conclusion that the appellant did penetrate the victim.
+In State v. Steinbrink, 297 N.W.2d 291 (Minn. 1980),a 15-year-old victim testified that “sexual intercourse” occurred, but she was not asked to explain what she meant by “sexual intercourse.” The appellate court held that its examination of the record “convinces us” that the victim knew the meaning of the terms (“making love” and “sexual intercourse”) which she used to describe the act of penetration.
+And in Williams v. Commonwealth, 202 Ky. 664, 261 S.W. 18(1924), a 16-year-old victim testified the appellant took her off in the woods; that they slept on the ground all night; that they had sexual intercourse; and that she was then 14 years old. The court held:
+A fact may be proved by circumstances no less than by words, and this rule is applied to the question of penetration just as it is in other questions of fact arising in criminal cases. Here the parties went to the woods for this purpose; the witness testified they stayed on the ground all night, and defendant got on top of her and had sexual intercourse with her two or three times that night. Certainly a jury giving this evidence reasonable effect did not need to be told that there was penetration of the female parts. This was the purpose of the whole adventure, and it must be presumed that the witness used the words “sexual intercourse” in their ordinary sense.
+202 Ky. at 665, 261 S.W. at 19.
+Although appellant in the instant case argues the evidence was ambiguous and conclusory, the evidence in this case rests upon the credibility of the victim, and while the victim, a lady of advanced age, might have been a little confused, it is the job of the trier of fact to resolve any contradictions, conflicts, and inconsistencies in a witness’s testimony. Franklin v. State, 308 Ark. 539, 825 S.W.2d 840 (1992). The trial judge, who was the trier of fact in the instant case, stated that he believed the victim’s testimony that the appellant “raped” her and had “sex” with her was given in its “ordinary, common, everyday sense, that anybody would understand,” and the judge overruled appellant’s motions for a directed verdict and found that he had committed the offense of rape. We think the evidence was for the trial judge to evaluate. The victim said she had sex with her husband during the years of their marriage, that she knew what that means, and she said “that’s what happened” between her and the appellant. We think there is substantial evidence to support the trial judge’s decision.
+Appellant also argues the trial court erred in allowing the prosecuting attorney to ask the victim leading questions on the subject of “sex” and “sexual intercourse.” Appellant argues that the victim’s confusion should not entitle the prosecuting attorney to advise the victim what the term “rape” means.
+During direct' examination the following exchange took place between the victim and the prosecutor:
+Q All right. After the beating was happening, what happened next?
+A Well, you know what he did.
+Q Yes, ma’am. But you have got to tell the Court what he did.
+A Yes, sir. Okay. Y es, sir. He raped me. He surely did. Y es, sir.
+Later, the following exchange took place:
+Q You say he raped you. Tell the judge exactly what that meant.
+A Going with you.
+Q Well, rape normally means a sex act. Did he—
+A Yes, sir. Uh-huh.
+Q Did he have sex with you?
+A Yes, sir.
+At this point, appellant’s attorney objected on the basis that the questions were leading. The trial judge responded that the prosecutor was simply trying to have the victim define what she meant by rape.
+Assuming, however, that some questions asked by the prosecutor were leading questions, Ark. R. Evid. 611(c) allows the trial judge some discretion in permitting leading questions, and it has been said that “it is always in the sound discretion of the trial judge to permit a witness to be asked leading questions on direct examination.” Hamblin v. State, 268 Ark. 497, 501, 597 S.W.2d 589 (1980). See also Scantling v. State, 271 Ark. 678, 609 S.W.2d 925 (1981). Here, the victim was 87 years of age. The transcript shows that she had some difficulty understanding, and she was reluctant to answer questions on a subject not normally discussed in public. Under the circumstances, we cannot find that the trial judge abused his discretion.
+Affirmed.
+Cracraft, C.J., and Rogers, J., agree.
