@@ -1,0 +1,34 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "E 02-305"
+decided: "2003-06-25"
+citations: ["82 Ark. App. 616", "120 S.W.3d 158"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vaught and Roaf, JJ., agree."]
+parties: ["Terri M. WEAVER v. DIRECTOR, Employment Security Department"]
+source_url: "https://static.case.law/ark-app/82/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6143564
+cites_cases: ["420 N.W.2d 231", "603 S.W.2d 478", "73 Ark. App. 86", "78 Ark. App. 174", "80 Ark. App. 99"]
+---
+
+# Weaver v. Director, Employment Security Department
+
+## Majority (karen R. Baker,)
+
+karen R. Baker,
+Judge. Appellant, Terri Weaver, appeals a decision by the Board of Review denying her unemployment benefits. For reversal, appellant argues that the finding of the Board of Review was unsupported by substantial evidence and that denial of unemployment benefits to a claimant whose employment is terminated by reason of the completion or expiration of an employment contract is arbitrary and contrary to law. We agree and reverse and remand for an award of benefits.
+Ms. Weaver was employed by the Monticello School District under a contract for a period of nine months beginning August 20, 2001, as a part-time, temporary adult-education paraprofessional. She worked thirty hours a week, which was the maximum allowed by the budget, at eight dollars an hour. Her job consisted of assisting the program secretary in meeting a December 17, 2001, deadline of entering student demographic data into a computer system. When she signed the contract, Ms. Weaver was told that the contract was temporary and could end the second week in January. Ms. Weaver testified that she told Ms. Branch, director of the Adult Education Program, that this was not a problem because she had plans to move to either Little Rock or Indiana where she would have access to assistance with her autistic child while she worked. After the December 17 deadline was met, she was informed that her position would be extended until the end of the school year. In May, Ms. Weaver’s contract expired. However, she did not move because, as she stated, “I didn’t have the finances because my unemployment was denied.” She testified that she was not offered a contract for the following term and that there was no formal discussion about rehiring her in the fall. She did not request another position with the school because of her understanding that her position was part-time and temporary.
+Ms. Branch testified that she did not offer Ms. Weaver her job back because Ms. Weaver did not tell her that she wanted her job back, and she thought Ms. Weaver was moving to Little Rock. Ms. Branch testified that each year she received a copy of a temporary budget in April. The full-time employees signed pending contracts at that time; however, part-time employees did not sign contracts until August. Ms. Branch stated that Ms. Weaver never asked for her job back and that according to the budget for the new year, she would have been able to hire Ms. Weaver.
+Ms. Weaver testified that Ms. Branch told her during a telephone conversation that she did not then know what her budget was, so she could not plan to rehire her for the fall. During this conversation they also discussed the fact that unemployment benefits had been denied by the Department.
+Ms. Weaver appealed the Department’s decision to the Appeals Tribunal, which reversed the Department and awarded benefits. The Board of Review reversed the Tribunal, finding that appellant voluntarily left her last work without good cause connected with the work and denied benefits until Ms. Weaver had thirty days of subsequent, qualifying employment. The Board based this finding on the ground that appellant would not be in the area to continue working for the employer, even though she ’ knew or should have known that the employer would likely have additional work for her. This appeal followed.
+Our scope of appellate review in cases such as this is well-settled and oft-stated:
+On appeal, the findings of the Board of Review are conclusive if they are supported by substantial evidence. Substantial evidence is such relevant evidence as a reasonable mind might accept as adequate to support a conclusion. We review the evidence and all reasonable inferences deducible therefrom in the light most favorable to the Board’s findings. Even when there is evidence upon which the Board might have reached a different decision, the scope of judicial review is limited to a determination of whether the Board could reasonably reach its decision upon the evidence before it.
+Thornton v. Director, 80 Ark. App. 99, 101-02, 91 S.W.3d 523, 524 (2002) (quoting Fleming v. Director, 73 Ark. App. 86, 88, 40 S.W.3d 820, 822 (2001)).
+Ms. Weaver argues that the finding of the Board of Review upon which it disqualified her from receiving unemployment benefits was unsupported by substantial evidence. We agree. In Dingmann v. Travelers Country Club, 420 N.W.2d 231, 233 (Minn. Ct. App. 1988), the Minnesota Court of Appeals interpreted the term “voluntarily quit,” and held that the test is whether the individual has exercised his own free will or choice in the separation. See Rankin v. Director, 78 Ark. App. 174, 79 S.W.3d 885 (2002) (holding that there was not substantial evidence to support the Board’s finding that appellant voluntarily left his last work where there was undisputed evidence that he had no choice when he was transferred away from his job by the Board of Correction). Arkansas Code Annotated section 11-10-513(a)(1) (Repl. 2002) states that an individual shall be disqualified for benefits if he or she voluntarily and without good cause connected with work left his or her last work.
+Here, Ms. Weaver was hired for a part-time, temporary position at the school. She not only completed her deadline in December, but she accepted an extension of her position until the end of the school year. At that time, she did not “voluntarily quit”; rather, her job was completed. Whether there was good cause is irrelevant if the departure was not voluntary. Therefore, the Board’s finding that she voluntarily left work without good cause connected with the work is not supported by substantial evidence. Accordingly, we reverse and remand for an award of benefits.
+Vaught and Roaf, JJ., agree.
+In Alcorn v. Daniels, 603 S.W.2d 478 (Ark. App. 1980), this court held that where the claimant was hired for a temporary “four to five weeks job” and where she completed such job, her leaving to seek permanent employment was not for a reason other than good cause in connection with work. This case does not appear in the Arkansas Appellate Reports.
+See Alcorn, supra (Newbern, J., concurring).
