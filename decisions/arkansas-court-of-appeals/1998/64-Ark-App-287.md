@@ -1,0 +1,33 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 98-511"
+decided: "1998-12-23"
+citations: ["64 Ark. App. 287", "983 S.W.2d 453"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bird and Griffen, JJ., agree."]
+parties: ["WILLIAMS MACHINE & FABRICATION, INC. v. McKnight Plywood, Inc."]
+source_url: "https://static.case.law/ark-app/64/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6141011
+cites_cases: ["101 Or. App. 400", "112 Or. App. 472", "326 U.S. 310", "332 Ark. 24", "342 U.S. 437", "357 U.S. 235", "444 U.S. 286", "466 U.S. 408", "53 Ark. App. 132", "97 F.3d 1100"]
+---
+
+# Williams Machine & Fabrication, Inc. v. McKnight Plywood, Inc.
+
+## Majority (John Mauzy Pittman, Judge.)
+
+John Mauzy Pittman, Judge.
+The appellant, an Oregon corporation, was hired to modify some machinery purchased in Oregon. Before appellant would undertake the work, it required a down payment and financial statement. Appellant received down payment in the form of a check for $33,800 issued by appehee, McKnight Plywood, Inc., an Arkansas corporation. Appellant also received appellee’s financial statement on appehee’s letterhead. Appellant did the work, which took approximately one year, and was then told to deliver the repaired machinery to a Mississippi corporation named Jackson Wood Products, Inc. Appellant delivered the machinery as instructed but never received full payment. Consequently, appellant sued appehee in a state circuit court in Oregon. Appehee failed to respond, and a default judgment was entered. Appehant then attempted to register the foreign judgment in the Circuit Court of Phillips County, Arkansas. Appehee defended on the grounds that personal jurisdiction was lacking; it asserted that its president was also the president of Jackson Wood Products, and that the repair order was made on behalf of Jackson Wood Products, which received the equipment. The trial court found that personal jurisdiction over appellee was lacking and held that the default judgment was not entitled to be enforced in Arkansas. From that decision, comes this appeal.
+For reversal, appellant contends that the trial court erred in finding that the Oregon circuit court lacked jurisdiction over appellee, and in finding that appellee lacked sufficient minimum contacts with Oregon to permit an exercise of jurisdiction that comports with the due process clause. We agree, and we reverse.
+The Arkansas Supreme Court recently summarized the principles governing the exercise of personal jurisdiction over nonresident defendants in John Norrell Arms, Inc. v. Higgins, 332 Ark. 24, 28, 962 S.W.2d 801, 803 (1998), where it stated that:
+The U.S. Supreme Court has held that in order for state courts to maintain personal jurisdiction over a nonresident person under the Due Process Clause of the Fourteenth Amendment, a party must satisfy two prongs. The party, first, must show that the nonresident has had sufficient “minimum contacts” with this state and, secondly, must show that the court’s exercise of jurisdiction would not offend “traditional notions of fair play and substantial justice.” International Shoe Co. v. Washington, 326 U.S. 310, 316 (1945). In this same vein, the Court has held that personal jurisdiction over a nonresident defendant generally easts when the defendant’s contacts with the state are continuous, systematic, and substantial. Helicopteros Naciaonales de Columbia, S.A v. Hall, 466 U.S. 408 (1984). See also Perkins v. Benguet Consol. Mining Co., 342 U.S. 437 (1952). It is essential for a finding of personal jurisdiction that there be some act by which the defendant purposefully avails himself or herself of the privilege of conducting business in the forum state. Hanson v. Denckla, 357 U.S. 235 (1957). Moreover, the contacts should be such where a defendant would have a reasonable anticipation that he or she would be haled into court in that state. World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286 (1980);
+The Eighth Circuit Court of Appeals has established a five-factor test for determining the sufficiency of a defendant’s contacts with the forum state so as to result in personal jurisdiction:
+(1) the nature and quality of contacts with the forum state;
+(2) the quantity of such contacts; (3) the relation of the cause of action to the contacts; (4) the interest of the forum state in providing a forum for its residents; and (5) convenience of the parties.
+Burlington Industries, Inc. v. Maples Industries, Inc., 97 F.3d 1100 (8th Cir. 1996). See also Glenn v. Student Loan Guar. Found., 53 Ark. App. 132, 920 S.W.2d 500 (1996). We agree with the Eighth Circuit and our court of appeals that these factors are helpful in the minimum-contact analysis.
+Although appellee was later reimbursed by Jackson Wood Products, and despite the trial court’s finding to the contrary, we think it clear that appellee was at the very least acting as Jackson Wood Products’s agent in the transaction. Agency may be implied from the apparent relations and conduct of the parties, Showalter v. Edwards and Associates, Inc., 112 Or. App. 472, 831 P.2d 58 (1992), and here appellee was the entity writing the checks and providing the credit. In this context, it should be noted that the Oregon Rules of Civil Procedure declare that personal jurisdiction exists where a party is served in any action that arises out of a promise made to the plaintiff by defendant “to perform services within this state or to pay for services to be performed in this state by the plaintiff.” ORCP 4 E(l) (emphasis added). Whatever other involvement appellee may have had, its payment of the down payment, accompanied by its financial statement, clearly shows that it was the entity promising to pay for appellant’s work. Such a promise to pay for services to be performed in Oregon was found to be a sufficient basis for jurisdiction in Lenhardt v. Stafford, 101 Or. App. 400, 790 P.2d 557 (1990).
+Given the length of the relationship between the parties (almost one year), the fact that appellee’s corporate president himself went to Oregon to obtain appellant’s services, and that the suit arises directly out of appellee’s actions in Oregon, we think it apparent that appellee purposely availed itself of the privilege of doing business in Oregon. Having submitted its financial statement in Oregon to an Oregon company in an attempt to obtain that company’s services, appellee should not have been surprised to be sued in Oregon when those services were not paid for.
+Reversed and remanded.
+Bird and Griffen, JJ., agree.
