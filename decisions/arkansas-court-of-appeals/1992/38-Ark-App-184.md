@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 91-505"
+decided: "1992-06-03"
+citations: ["38 Ark. App. 184", "832 S.W.2d 278"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings and Mayfield, JJ., agree."]
+parties: ["DYNAMIC ENTERPRISES INC., d/b/a Car Mart v. Ron TAYLOR, Commissioner of the Insurance Department for the State of Arkansas"]
+source_url: "https://static.case.law/ark-app/38/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139918
+cites_cases: ["285 Ark. 172", "285 Ark. 397", "297 Ark. 262", "305 Ark. 449", "Ark. Code Ann. § 23-60-102", "Ark. Code Ann. § 23-61-303"]
+---
+
+# Dynamic Enterprises Inc. v. Taylor
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellant in this chancery case sought a declaratory judgment to determine whether a contract it proposed constituted “insurance” within the meaning of Ark. Code Ann. § 23-60-102 (1987). The appellee moved for dismissal, alleging that the appellant had failed to exhaust its administrative remedies and the chancellor granted the appel-lee’s motion. From that decision, comes this appeal.
+For reversal, the appellant contends that the chancellor erred in dismissing its complaint, asserting that the pursuit of administrative remedies would be futile, inefficient, and result in unnecessary delay. We affirm.
+The record shows that the appellant proposed to sell a contract referred to as a “Total Loss — Vehicle Purchase Contract Waiver”. This contract was to be offered to buyers of used vehicles which are sold and financed by the appellant’s dealerships. The contract calls for the financing dealership to waive any balance due on the purchase price of the vehicle involved if the buyer suffers a.total loss of that vehicle by theft or accident prior to full payment of the purchase price. In January 1990, the appellant corresponded with a representative for the appellee, requesting an opinion as to whether the proposed contract would be considered insurance as defined by Ark. Code Ann. § 23-60-102 (1987). On April 4, 1990, an attorney for the Arkansas Insurance Department wrote to the representative of the appellant and stated that the contract submitted to the insurance department for review was in fact considered an insurance product by the department and that any person or entity offering such a contract would first have to qualify as an insurance company and comply with the provisions of the Arkansas Insurance Code. The appellant then filed its declaratory judgment action which, as we have noted, was dismissed for failure to exhaust administrative remedies.
+The parties are required to exhaust their administrative remedies prior to seeking a declaratory judgment because declaratory judgment actions are intended to supplement rather than replace ordinary causes of action. Rehab Hosp. Serv. Corp. v. Delta-Hills Health Sys. Agency, Inc., 285 Ark. 397, 399, 687 S.W.2d 840, 841 (1985). A basic rule of administrative procedure requires that the agency be given the opportunity to address a question before resorting to the courts. See Truck Transport, Inc. v. Miller Transporters, Inc., 285 Ark. 172, 173-74, 685 S.W.2d 798, 799 (1985).
+The appellant asserts on appeal that it would have been futile to pursue an administrative hearing and that, therefore, it has met the requirements of one of the exceptions to the exhaustion of remedies doctrine which were set out in Barr v. Arkansas Blue Cross and Blue Shield, Inc., 297 Ark. 262, 267, 761 S.W.2d 174, 177 (1988). In Barr, the Supreme Court held that exhaustion of administrative remedies is not required where an administrative appeal would be futile. Id. In this regard, the appellant asserts that the insurance commissioner had already made up his mind on this particular issué and that an administrative appeal would be futile, inefficient, and result in an unnecessary delay.
+The record discloses, however, that Arkansas Insurance Commissioner Lee Douglass (who had succeeded Ron Taylor as Commissioner by the time of trial) testified at the hearing that he had not made up his mind as to the merits of the appellant’s proposed contract and that he had not reviewed any of the documentation which may have been submitted to the department, including the proposed contract itself. Commissioner Douglass also stated that he had not reviewed applicable Arkansas case law or law from other jurisdictions which might apply to the appellant’s proposed contract. Further, the record does not reveal that the appellant presented any evidence that there would be an undue delay if the appellant were to proceed with the administrative remedies available. The chancellor found that the appellant failed to show that it fell within any exceptions to the doctrine. We cannot say that such a finding is against the preponderance of the evidence. Ark. R. Civ. P. 52(a). The appellant also argues that, because the provision for an administrative hearing set out in Ark. Code Ann. § 23-61-303 (1987) is not mandatory, the exhaustion of administrative remedies doctrine does not apply. We cannot accept the appellant’s argument in this regard. Section 23-61-303 provides in part as follows:
+(a) The commissioner may hold hearings for any purpose within the scope of this code deemed by him to be necessary.
+(b)(1) The commissioner shall hold a hearing if required by any provision or upon written demand for a hearing by a person aggrieved by any act, threatened act, or failure of the commissioner to act, or by any report, rule, regulation, or order of the commissioner, other than an order for the holding of a hearing, or an order on hearing or pursuant thereto.
+It is true that the statute itself does not require the appellant to seek a hearing before the Insurance Department. However, if the appellant wishes to seek a declaratory judgment, it must first give the agency the opportunity to address the issue involved. Rehab Hosp. Serv. Corp. v. Delta-Hills Health Sys. Agency, Inc., 285 Ark. at 399, 687 S.W.2d at 842. The appellant’s failure to seek a hearing before the Department was clearly a failure to exhaust its administrative remedies. See Arkansas Motor Vehicle Comm’n v. Cantrell Marine, Inc., 305 Ark. 449, 450, 808 S.W.2d 765, 766 (1991). We find no error in the chancellor’s action dismissing the appellant’s complaint for declaratory judgement.
+Affirmed.
+Jennings and Mayfield, JJ., agree.
