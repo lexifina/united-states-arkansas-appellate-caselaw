@@ -1,0 +1,41 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 87-60"
+decided: "1987-10-14"
+citations: ["22 Ark. App. 191", "737 S.W.2d 661"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft and Mayfield, JJ., agree."]
+parties: ["ELK ROOFING COMPANY, et al. v. Donald PINSON"]
+source_url: "https://static.case.law/ark-app/22/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6661275
+cites_cases: ["1 Ark. App. 65", "15 Ark. App. 205", "241 Ark. 498", "255 Ark. 1036", "259 Ark. 76", "291 Ark. 624", "4 Ark. App. 124", "4 Ark. App. 64", "6 Ark. App. 92", "644 S.W.2d 321"]
+---
+
+# Elk Roofing Co. v. Pinson
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+Elk Roofing Company appeals from a decision of the Workers’ Compensation Commission awarding Donald Pinson additional medical and temporary total disability benefits for a medical complication, which the Commission found was causally related to an earlier, admittedly compen-sable injury. We affirm the decision of the Commission.
+In 1976, while employed as a truck driver for Elk Roofing, Pinson sustained a compensable injury when he was struck on the left leg with a two-by-four. As a result of the injury Pinson developed thrombophlebitis in the leg. Pinson subsequently developed pulmonary emboli, and surgery was required. Elk Roofing paid medical and temporary total disability benefits.
+In 197 8 Pinson was laid off at Elk Roofing, and in October of that year, he developed another pulmonary embolus while working as a truck driver for Cherokee Carpet Mills. Both Elk Roofing and Cherokee Carpet controverted the claim. The Commission found that Pinson’s 1978 condition was a recurrence, as opposed to an aggravation or new injury, and held that Elk Roofing was therefore responsible. Pinson was awarded permanent disability benefits based on a 40% permanent partial disability rating. We affirmed the Commission’s decision in an unpublished opinion.
+In 1984, while working as a short haul truck driver for Great Lakes Chemical Company, Pinson developed deep, non-healing ulcers on his left leg. He sought additional medical and temporary total disability benefits from Elk Roofing, which controverted the claim, contending that Pinson’s leg ulcers were not causally connected to the 1976 injury. The Commission held that the requisite causal connection was established and that Elk Roofing had liability.
+Elk Roofing now contends that the Commission’s award of additional temporary total disability benefits was error as a matter of law, since the Commission had held that Pinson’s healing period for the 1976 injury ended in 1978. In support of this argument Elk Roofing cites Arkansas Secretary of State v. Guffey, 291 Ark. 624, 727 S.W.2d 826 (1987). The actual holding in Guffey was that there is no authority in our Workers’ Compensation Act providing for awards of “current total disability” benefits, a concept which both the Commission and this court had applied in the past. See, e.g., City of Humphrey v. Woodward, 4 Ark. App. 64, 628 S.W.2d 574 (1982). The court in Guffey also said:
+To the extent that McNeely has been interpreted as holding that temporary benefits, regardless of how they are denominated, may be paid after the end of the healing period, that interpretation is erroneous.
+Even before Guffey, however, the rule was that temporary disability benefits cannot be awarded after the healing period has ended. Moro, Inc. v. Davis, 6 Ark. App. 92, 638 S.W.2d 694 (1982); Mad Butcher, Inc. v. Parker, 4 Ark. App. 124, 628 S.W.2d 582 (1982). The validity of this rule is not in question — the issue is its applicability to the facts of this case.
+Here Pinson suffered a blow to the leg, which resulted in thrombophlebitis and then pulmonary emboli. His healing period for these conditions ended, and he received an award of permanent partial disability. He now suffers from leg ulcers, which the Commission found to be a complication causally related to Pinson’s original 1976 injury. Obviously, Pinson is now in a new “healing period.” A claimant’s healing period ends when the underlying condition causing the disability has become stable and if nothing further in the way of treatment will improve that condition. Mad Butcher, Inc., supra. In the present case the evidence is that treatment of the leg ulcers would significantly improve Pinson’s condition. Dr. Moore said in a 1984 report, “he will undergo extensive wide excision of the ulcer in the involved area of the leg with split thickness skin grafting and may require hospitalization for a considerable length of time for healing to occur.”
+If Pinson had suffered an entirely new injury, totally unrelated to his original leg injury, the fact that his healing period for the earlier injury had ended certainly would not prohibit an award of temporary disability benefits in connection with the new injury. It makes no more sense to hold Pinson is barred from receiving temporary benefits here.
+In Bearden Lumber Co. v. Bond, 1 Ark. App. 65, 71, 644 S.W.2d 321, 324 (1983), we said:
+We conclude that in all of our cases in which a second period of medical complications follows an acknowledged compensable injury we have applied the test set forth in Williams — that where the second complication is found to be a natural and probable result of the first injury, the employer remains liable. (Emphasis added.)
+We see no reason to hold that this liability does not include liability for additional temporary benefits, when the claimant undergoes a second, distinct healing period.
+In Burks, Inc. v. Blanchard, 259 Ark. 76, 531 S.W.2d 465 (1976), the supreme court approved an award of additional compensation to a claimant whose recurring symptoms were causally related to his original injury, despite the fact that he had already received an award of permanent disability and therefore his original healing period had presumably ended. In Home Ins. Co. v. Logan, 255 Ark. 1036, 505 S.W.2d 25 (1974), thesupreme court implied that recurring symptoms may give rise to a subsequent healing period, after the original one has ended.
+Guffey’s prohibition against an award of temporary disability after the healing period ends clearly contemplates a single healing period. There is no indication that the claimant in Guffey underwent a second healing period because of a subsequent medical complication. Indeed, the opinion in Guffey states that the only question for decision was whether the claimant was entitled to “current total disability” and apparently there was no issue about disability during a healing period.
+Elk Roofing also argues that the Commission’s finding of a causal connection between the leg ulcers and the 1976 injury is not supported by substantial evidence. In making that determination on appeal we must view the evidence in the light most favorable to the findings of the Commission. Snow v. Alcoa, 15 Ark. App. 205, 691 S.W.2d 194 (1985). On this issue Elk Roofing points to medical testimony indicating that Pinson had “fully recovered from illnesses arising from the episode of thrombophlebitis in 1976” before the leg ulcers developed, and to other testimony indicating that Pinson’s truck driving activities after he left Elk Roofing may have aggravated his condition. The Commission, however, relied on other medical evidence. Dr. Moore said, “it is my opinion that his present problem [the ulcers] dates back to that initial injury. . . .” Dr. Weedman said, “Mr. Pinson has chronic stasis ulcers of his left leg, which is a direct result of venous insufficiency, resulting from the thrombophlebitis that he developed in May, 1976.” We hold that the Commission’s finding of fact on the issue of causal connection is supported by substantial evidence.
+Affirmed.
+Cracraft and Mayfield, JJ., agree.
+Thrombophlebitis is the inflammation of a vein with the secondary formation of blood clots.
+These are blood clots which developed in the blood vessels of the leg and then detached and migrated to the arteries going to the lungs.
+McNeely v. Clem Mill & Gin, 241 Ark. 498, 409 S.W.2d 502 (1966), was the case from which we mistakenly derived the concept of “current total disability.”
