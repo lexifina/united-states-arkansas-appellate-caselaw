@@ -1,0 +1,33 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 80-95"
+decided: "1981-04-22"
+citations: ["1 Ark. App. 207", "614 S.W.2d 239"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marilyn SCOTT v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/1/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140910
+cites_cases: ["260 Ark. 857", "261 Ark. 195", "271 Ark. 451", "271 Ark. 671", "271 Ark. 692", "545 S.W. 2d 606"]
+---
+
+# Scott v. State
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+Appellant was convicted at a non-jury trial of tampering with physical evidence, Ark. Stat. Ann. § 41-2611 (Repl. 1977), and was sentenced to two years imprisonment. Appellant contends that the judgment rendered below should be dismissed because it is not supported by evidence of guilt of the crime charged, and that the trial court erred in denying her motion for dismissal of the charges below.
+On December 14, 1979, Little Rock Police officers arrived at a Little Rock residence to investigate a shooting. Upon arrival they found Jerry Chandler, the brother-in-law of appellant, standing in the street with two bullet wounds. Mr. Chandler indicated that he had been shot twice by his wife, Carolyn Chandler, the half sister of appellant. Mr. Chandler was transported by ambulance to the hospital and following his removal from the scene the officers began their investigation. After questioning Mrs. Chandler and appellant, appellant advised the officers that she had thrown the gun with which Chandler was shot in the backyard. She testified that she had removed the gun and thrown it into the backyard as a result of requests by the victim. Although the officers searched for the weapon, it was never located. The record reflects that no criminal charges were ever filed as a result of the shooting. The testimony of the officers indicates that appellant was uncooperative in assisting them in locating the weapon. Her testimony was to the contrary and indicated that she was nervous and really did not know where she had thrown the weapon.
+Ark. Stat. Ann. § 41-2611 (Repl. 1977) provides as follows:
+(1) A person commits the offense of tampering with physical evidence if he alters, destroys, suppresses, removes or conceals any records, document or thing with the purpose of impairing its verity, legibility, or availability in any official proceeding or investigation.
+(2) Tampering with physical evidence is a class D felony if the actor impairs or obstructs the prosecution or defense of a felony. Otherwise, tampering with physical evidence is a class B misdemeanor.
+The record indicates that appellant did remove the weapon. She testifies that she threw it into the backyard. The first question is whether or not she did so with the purpose of impairing its availability in an official proceeding or investigation. The police officers were clearly involved in an investigation when they sought the gun following the shooting of Jerry Chandler. The testimony of appellant was to the effect that she was simply attempting to stop further bloodshed by disposing of the weapon at the request of the victim. The testimony of the police officers indicates that she did not assist them in locating the weapon. Those facts are to be considered by the trial court in determining whether or not appellant had the requisite intent required under the statute.
+The credibility of witnesses is determined by the Court as the trier of fact and we must affirm the judgment of the trial court if there is any substantial evidence to support the verdict. Smith v. State, 271 Ark. 671, 609 S.W. 2d 922 (1981). When we view the sufficiency of the evidence, it is reviewed in the light most favorable the State. Norton v. State, 271 Ark. 451, 609 S.W. 2d 1 (1980). Intent is a state of mind which must ordinarily be determined by inference from the circumstances rather than by direct evidence. White v. State, 271 Ark. 692, 610 S.W. 2d 266 (Ark. App. 1981).
+We conclude that the trial court had sufficient evidence upon which to base a finding that appellant did remove or conceal the weapon with the purpose of impairing its availability in an investigation. We believe that the finding of guilt was supported by substantial evidence and that therefore the Court correctly denied appellant’s motion for dismissal.
+However, we must deal with the sentence imposed by the Court. The second portion of Ark. Stat. Ann. § 41-2611 (Repl. 1977) grades the offense based on its seriousness. Tampering is a class D felony where the actor impairs or obstructs the prosecution or defense of a felony. In all other cases it is a class B misdemeanor. At the time appellant threw the weapon into the backyard there had obviously been no felony charges filed since the incident had just occurred. It seems clear from the record that the unavailability of the weapon under the circumstances could have seriously impaired the investigation of the case. The shooting of Jerry Chandler could have constituted any number of felonies ranging from murder to battery.
+The problem is in determining whether appellant actually impaired or obstructed the prosecution or defense of a felony. From the record we cannot determine that she did impair the prosecution of a felony. Therefore, the state failed to meet its burden of proof on the felony charge since it did not show that the appellant impaired or obstructed the prosecution or defense of a felony. The state only proved the lesser offense, which is a misdemeanor. There is no substantial evidence to support the felony conviction.
+When the trial court imposes punishment for a higher degree of an offense than the evidence will support, the appellate court has the power to reduce the punishment to the maximum for the lesser offense, to the minimum for the lesser offense, to some intermediate term or to remand the case to the trial court for the assessment of the punishment or for a new trial. Collins v. State, 261 Ark. 195, 548 S.W. 2d 106 (1977); Dixon v. State, 260 Ark. 857, 545 S.W. 2d 606 (1977).
+Since there is no substantial evidence to support the felony conviction, the conviction must be reduced to misdemeanor tampering with evidence. This is a class B misdemeanor, punishable by imprisonment in the county jail for a term not to exceed ninety (90) days and/or a fine not to exceed $500.00. Ark. Stat. Ann. § 41-901 and 41-1101 (Repl. 1977). The judgment is so modified and the cause remanded to the Circuit Court for the entry of a judgment sentencing appellant within the limits allowed for class B misdemeanor.
+Modified and remanded.
