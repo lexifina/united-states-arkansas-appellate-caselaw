@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 84-205"
+decided: "1985-05-15"
+citations: ["15 Ark. App. 45", "689 S.W.2d 5"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbin and Glaze, JJ., agree."]
+parties: ["Ricky KENNEL v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/15/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137146
+cites_cases: ["10 Ark. App. 242", "12 Ark. App. 57", "13 Ark. App. 124", "254 Ark. 509", "260 Ark. 571", "264 Ark. 175", "276 Ark. 203", "283 Ark. 162", "6 Ark. App. 138", "8 Ark. App. 120"]
+---
+
+# Kennel v. State
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+In this criminal case, the appellant was charged with theft of property. He was convicted by a jury and sentenced to seven years in the Arkansas Department of Correction. From that decision, comes this appeal. The appellant’s sole point for reversal is that the State’s case was based on the testimony of an accomplice and that the accomplice’s testimony was insufficiently corroborated, mandating a dismissal. The appellant moved for a directed verdict at the end of the State’s case and the trial court denied that motion. The appellant failed to renew his motion at the close of all the evidence.
+The accomplice testified that the appellant broke into a building at a wood yard and stole two chain saws. The owner of the business testified that his business was broken into and two chain saws were taken. The appellant’s brother testified that he visited the appellant in jail and that the appellant informed him that the police had charged him with the theft of two chain saws. The brother testified that, although the appellant denied stealing the saws, he acknowledged that he knew where the saws were located. The appellant’s brother got the chain saws and delivered them to the police. The owner of the two saws testified that the two saws were stolen from him, and he testified as to their value.
+After the trial court denied the appellant’s motion for a directed verdict, the appellant took the stand in his defense and testified that he was on the victim’s property the night of the burglary. He testified that he was there for the purpose of stealing an alternator from a vehicle and that he intended to use it on his car. The appellant also testified that, after being unsuccessful in finding a car with an alternator which would fit his vehicle, he found Burton, the accomplice, by a building. He testified that both he and Burton left without taking anything. Later, according to the appellant, while he was in a crap game, Burton borrowed his vehicle. When Burton returned, according to the appellant, he had the two chain saws. Burton allegedly assured him that the saws were not stolen and that he had obtained them in exchange for an ounce of marijuana. The appellant stated that he then took the saws and sold them for Burton.
+For reversal, the appellant argues that the evidence adduced at trial which tended to corroborate Burton’s testimony was insufficient under Ark. Stat. Ann., Section 43-2116 (Repl. 1977). We disagree.
+The testimony of an accomplice must be corroborated by other evidence which tends to connect the defendant with the commission of the offense. Ark. Stat. Ann., Section 43-2116 (Repl. 1977). The test for determining the sufficiency of corroborating evidence is if, taken independently of the accomplice’s testimony, the evidence establishes the crime and tends to connect the accused with its commission. Linell v. State, 283 Ark. 162, 167-8, 671 S.W.2d 741, 744 (1984); Walker v. State, 13 Ark. App. 124, 129, 680 S.W.2d 915, 918 (1984). While the evidence need not be sufficient to convict, it must to a substantial degree connect the defendant with the commission of the crime. Rhodes v. State, 276 Ark. 203, 210-11, 634 S.W.2d 107, 111 (1982); Coston v. State, 10 Ark. App. 242, 243-4, 663 S.W.2d 187, 188 (1984). Even though a single circumstance may not be sufficient, all of the circumstances in evidence may constitute a chain sufficient to corroborate the accomplice’s testimony. King v. State, 254 Ark. 509, 511, 494 S.W.2d 476, 478 (1973); Coston, supra.
+Because the appellant failed to renew his motion for a directed verdict at the close of all the evidence, the sufficiency of the evidence is to be determined on the entire record. Drew v. State, 8 Ark. App. 120, 123, 648 S.W.2d 836, 837 (1983); Christian v. State, 6 Ark. App. 138, 143, 639 S.W.2d 78, 81 (1982); See Chandler v. State, 264 Ark. 175, 177, 569 S.W.2d 660, 661 (1978).
+In reviewing the evidence, we look at it in the light most favorable to the State. Rhodes, supra, 276 Ark. at 211; Coston, supra, 10 Ark. App. at 245; Drew, supra, 8 Ark. App. at 123. We will not overturn the jury’s verdict if it is supported by substantial evidence. Tackett v. State, 12 Ark. App. 57, 60, 670 S.W.2d 824, 826 (1984). In looking at the corroborating evidence as a whole, including the testimony of the appellant, we find it sufficient.
+While the mere possession of recently stolen property is insufficient evidence to corroborate the accomplice’s testimony, it is á circumstance to be considered in determining whether there is a chain of circumstances which renders the corroborating evidence sufficient. Olles v. State, 260 Ark. 571, 575, 542 S.W.2d 755, 758-9 (1976). In the case at bar the appellant had possession of the stolen saws, and he testified that he was at the scene of the crime. There is no question that the theft did occur, and the possession of the objects of the theft, coupled with the appellant’s admission that he was present at the scene of the theft, provides sufficient corroboration for the accomplice’s testimony. The jury was not bound to believe the appellant’s explanation of his possession of the saws, nor, for that matter, the accomplice’s testimony, but the weight to be given the evidence and the credibility of the witnesses are matters for the jury. King, supra; Tackett, supra, 12 Ark. App. at 59. Based on the whole record, we affirm, though we do not mean to imply that we would reach the same result if we were only considering the evidence adduced during the State’s case in chief.
+Affirmed.
+Corbin and Glaze, JJ., agree.
