@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 91-384"
+decided: "1992-06-17"
+citations: ["39 Ark. App. 1", "832 S.W.2d 508"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Rogers, JJ., agree."]
+parties: ["Charles Edward ELAM, Jr. v. Helen May ELAM, now Acosta"]
+source_url: "https://static.case.law/ark-app/39/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6135924
+cites_cases: ["Ark. Code Ann. § 9-13-201", "Ark. Code Ann. § 9-13-202", "Ark. Code Ann. § 9-13-213", "Tenn. Code Ann. § 36-6-201"]
+---
+
+# Elam v. Elam
+
+## Majority (Elizabeth W. Danielson, Judge.)
+
+Elizabeth W. Danielson, Judge.
+Appellant Charles Elam, Jr., appeals from an order in which the Sebastian County Chancery Court granted appellee Helen Elam’s petition for divorce and awarded her custody of the parties’ minor child, Kenneth Elam. Appellant argues that the court should not have exercised jurisdiction over the child because a Tennessee court had previously entered an order placing guardianship of the child with his paternal grandparents and because there was insufficient service of process on appellant to give the court jurisdiction to award custody. We agree that the court should have declined to exercise jurisdiction over the child custody matter and reverse and remand.
+The child of the parties was born in May of 1987. The parties apparently began experiencing financial difficulties in 1988 and agreed that it would be best for Kenneth to live with his paternal grandparents. In July of 1988 the grandparents filed a petition for guardianship of Kenneth, which stated that Mr. and Mrs. Charles Elam, Jr., (the parties to this appeal) were in agreement that Mr. and Mrs. Charles Elam, Sr., (the grandparents) maintain custody of Kenneth Elam. On July 28, 1988, an order was entered by the juvenile court of Obion County, Tennessee, appointing the grandparents, Charles and Oma Jean Elam, guardians of Kenneth.
+On August 28,1988, Helen Elam filed a petition for divorce in the Chancery Court of Sebastian County, Arkansas. In this petition it was stated that the parties’ minor child was currently residing with his paternal grandparents and that it was Helen Elam’s desire that Kenneth remain with his grandparents. Apparently appellee subsequently amended her petition to request custody of the child, though such amendment is not included in the record. On October 27, 1989, the paternal grandparents filed in Obion County, Tennessee, a petition for adoption of Kenneth. In the divorce decree filed January 10, 1990, the Sebastian County Chancery Court granted appellee’s petition for divorce and awarded her custody of the parties’ son Kenneth.
+Appellant argues that the Sebastian County Chancery Court should have declined to exercise jurisdiction pursuant to the provisions of the Uniform Child Custody Jurisdiction Act (UCCJA), which is codified at Ark. Code Ann. § 9-13-201 et seq. (1987). Arkansas Code Annotated § 9-13-203 provides as follows:
+(a) A court of this state which is competent to decide child custody matters has jurisdiction to make a child custody determination by initial or modification decree if:
+(1) This state (i) is the home state of the child at the time of commencement of the proceeding, or (ii) had been the child’s home state within six (6) months before commencement of the proceeding and the child is absent from this state because of his removal or retention by a person claiming his custody or for other reasons, and a parent or person acting as parent continues to live in this state; or
+(2) It is in the best interest of the child that a court of this state assume jurisdiction because (i) the child and his parents, or the child and at least one (1) contestant, have a significant connection with this state and (ii) there is available in this state substantial evidence concerning the child’s present or future care, protection, training, and personal relationships; . . .
+“Home state” is defined as the state in which the child immediately preceding the time involved lived with his parents, a parent, or a person acting as parent, for at least six consecutive months. Ark. Code Ann. § 9-13-202(5) (1987).
+Additionally, the courts of this state are required to recognize and enforce an initial or modification decree of a court of another state which has assumed jurisdiction under statutory provisions substantially in accordance with those of the UCCJA or under factual circumstances meeting the jurisdictional standards of the UCCJA. Ark. Code Ann. § 9-13-213 (1987). We note that Tennessee has adopted the UCCJA. See Tenn. Code Ann. § 36-6-201 et seq. (Repl. 1991).
+Some of the general purposes of the UCCJA are to avoid jurisdictional competition and conflict with courts of other states in child custody matters; promote cooperation with the courts of other states to the end that a custody decree is rendered in the state that can best decide the case in the best interest of the child; assure that litigation concerning the custody of the child and his family have the closest connection and where significant evidence concerning his care, protection, training, and personal relationships are most readily available, and that courts of this state decline the exercise of jurisdiction when the child and his family have a closer connection with another state; discourage continuing controversies over child custody in the interest of greater stability for the child; to facilitate the enforcement of custody decrees of other states; and to promote and expand the exchange of information and other forms of mutual assistance between the courts of this state and those of other states concerned with the same child.
+The record indicates that the paternal grandparents were granted legal guardianship of Kenneth in July of 1988, and that Kenneth has been residing with them in Tennessee continuously since that time. At the time the court exercised jurisdiction over the child, the Tennessee court had already assumed jurisdiction and entered the guardianship order. Considering the provisions and purposes of the UCCJA and the circumstances of this case, we find that the Sebastian County court erroneously exercised jurisdiction over the minor, Kenneth Elam.
+Appellee argues that she cannot be bound by the Tennessee guardianship decree since she was not a party to that action. However, the record shows that appellee’s notarized signature appears on the petition for guardianship in Tennessee and we find nothing in the record to indicate that she has ever taken any steps to challenge the order granting guardianship. In fact, in her petition for divorce, she recognizes the fact that Kenneth was residing with his grandparents and stated it was her desire that he remain with them.
+Since we have held that the Arkansas court should not have exercised jurisdiction over the custody matter under the provisions of the UCCJA, we need not address appellant’s second point on appeal concerning the sufficiency of the notice given him. The case is reversed and remanded for proceedings consistent with the Uniform Child Custody Jurisdiction Act.
+Reversed and remanded.
+Cooper and Rogers, JJ., agree.
