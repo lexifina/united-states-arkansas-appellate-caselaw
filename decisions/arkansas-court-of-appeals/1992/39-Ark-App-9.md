@@ -1,0 +1,40 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 91-154"
+decided: "1992-06-24"
+citations: ["39 Ark. App. 9", "832 S.W.2d 513"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings and Cooper, JJ., agree."]
+parties: ["Michael REA v. James FLETCHER and National Union Fire Insurance Company"]
+source_url: "https://static.case.law/ark-app/39/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6135991
+cites_cases: ["229 Ark. 929", "246 Ark. 377", "283 Ark. 191", "285 Ark. 275", "292 Ark. 13", "294 Ark. 1"]
+---
+
+# Rea v. Fletcher
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+This is an appeal from a summary judgment. On October 5,1989, appellant Michael Rea and appellee James Fletcher were employed by Rapistan Corporation on a construction site in Searcy, Arkansas, when appellant, who was being given a ride to the construction site, fell from the tailgate of Fletcher’s vehicle and injured his spine. Appellant filed a complaint alleging his injury occurred because of Fletcher’s careless and negligent acts.
+Appellee Fletcher filed a motion for summary judgment contending an employer is required to provide a safe place to work for its employees and, under the exclusive remedy doctrine of the Arkansas Workers’ Compensation Law, an employee who receives workers’ compensation benefits for an injury during the course and scope of his work may not bring suit against his employer for injuries allegedly arising from unsafe working conditions.
+Attached to the motion was Fletcher’s affidavit stating that on October 5, 1989, he was employed as a millwright with Rapistan Corporation and that Rea was also employed by Rapistan. Persons working at the construction site were required to park their vehicles at a parking lot approximately one-half mile away. The corporation provided transportation from the lot to the site on a trailer pulled by one of two corporate pickup trucks, one of which was routinely driven by Fletcher’s foreman Bill Beede. Employees were driven between the parking lot and job site in the morning, at lunch, and after work.
+On the day of the incident, Beede told Fletcher to get his truck and bring it to the job site in case transportation was needed because neither of the corporate trucks was available and to use his truck to transport employees to the parking lot at lunch if the corporate trucks were still unavailable. Another Rapistan employee drove Fletcher to the parking lot in a corporate golf cart to get his truck and Fletcher drove his truck to the job site. At lunch time the corporate trucks were still unavailable. As Fletcher was using his truck to transport Beede and other employees, appellant fell from the truck.
+Appellant’s response to the motion stated Fletcher was not his supervisor; was not in any supervisory capacity at the time of his acts; was not under the direct control of a supervisor; and his acts were a breach of personal duties Fletcher owed appellant.
+The trial court granted appellee’s motion for summary judgment on the basis that an employer is required to provide its employees a safe place to work; that the employee’s parking lot and the area between the parking lot and the construction site where the plaintiff was allegedly injured were part of plaintiffs work place; that plaintiffs employer, Rapistan Construction Company, had a duty to maintain a safe place to work in that area; that absent willful or intentional misconduct, non-supervisory employees acting within the scope of their employment are also protected by the same tort immunity afforded their employers by the Arkansas Workers’ Compensation Act; and that Fletcher was performing job-related activity at the express direction of his supervisor, and was acting within the scope of his employment when the alleged unintentional negligent act occurred.
+Appellant contends that Fletcher’s recklessness presents a question of fact. Appellant cites King v. Cardin, 229 Ark. 929, 319 S.W.2d 214 (1959), and argues that case authorized third-party actions by one employee against a coemployee and that under a statute like ours a negligent coemployee is regarded as a third person.
+The appellee argues the sole issue before the trial court was whether, as a matter of law, appellee’s employment status entitled him to tort immunity. Appellee also argues that appellant produced no specific facts regarding appellee’s alleged recklessness.
+In Allen v. Kizer, 294 Ark. 1, 740 S.W.2d 137 (1987), our supreme court stated:
+We denied tort immunity in Kingv. Cardin, 229 Ark. 929, 319 S.W.2d 214 (1959) for two fellow employees, a truck driver and a laborer, who negligently backed over the decedent employee with a truck. We held that for the purposes of Ark. Stat. Ann. § 81-1340 (Repl. 1976) of the Worker’s Compensation Act, an employee’s claim against this employer does not affect his right to sue a negligent coemployee. However, in Nealy. Oliver, 246 Ark. 377,438 S.W.2d 313 (1969) we stated that the duty to provide a safe place to work is that of the employer and cannot be delegated to an employee.
+Recently, in Simmons First Nat’l Bank v. Thompson, 285 Ark. 275, 686 S.W.2d 415 (1985), we held that supervisory employees are immune from suit for negligence in failing to provide a safe place to work. See Fore v. Circuit Court of Izard County, 292 Ark. 13, 727 S.W.2d 840 (1987). In Simmons we stated, “Since an employer is immune under the Worker’s Compensation statutes from suite for a negligent failure to provide a safe place to work, the same immunity should protect supervisory employees when their general duties involve the overseeing and discharging of that same responsibility.”
+Based upon holdings in Simmons and Fore, we now conclude that supervisory as well as non-supervisory employees are immune from suit for negligence in failing to provide a safe place to work.
+294 Ark. at 6.
+In the instant case, appellee was simply a fellow employee of the appellant. It is not disputed that the employer required employees to park in a parking lot some distance from the job site; that the employer regularly furnished transportation from the parking lot to the job site using the employer’s vehicles; that, on the day the incident occurred, the employer’s vehicles were unavailable; that appellee was instructed by his supervisor to bring his pickup to the construction site to be used as transportation for other employees in case the employer’s vehicles were unavailable; that at lunch time the employer’s vehicles were still unavailable; and that the incident occurred as appellee was using his pickup at noon to transport fellow employees to the parking lot.
+Even assuming appellee was somehow negligent in driving his vehicle, he is immune from suit because under the facts of this case providing transportation from the employer-designated parking area to the job site involves the duty to provide a safe place to work.
+Appellant has also argued there is a question of fact as to appellee’s negligence and that a willful and intentional injury is an exception to the Worker’s Compensation Act. Sontagv. Orbit Value Co., Inc., 283 Ark. 191, 672 S.W.2d 50 (1984). The problem with appellant’s argument is his complaint alleged only “careless and negligent acts” and that appellee drove in a “reckless” manner. And his affidavit which was attached to his response to appellee’s motion for summary judgment states only that appellee “made a jackrabbit start, causing the truck to lurch forward.” In Sontag the court held when the employee is able to show “actual, specific and deliberate intent” he may avoid the exclusive remedy under the Workers’ Compensation Law. Since there are no allegations of “willful and intentional injury” appellant cannot avoid the exclusive remedy under the Workers’ Compensation Law and maintain a tort action.
+The trial court did not err in granting appellee’s motion for summary judgment.
+Affirmed.
+Jennings and Cooper, JJ., agree.
