@@ -1,0 +1,40 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 94-450"
+decided: "1995-05-24"
+citations: ["49 Ark. App. 131", "898 S.W.2d 476"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings, C.J., and Rogers, J., agree."]
+parties: ["LAWYERS SURETY COMPANY v. Juanita Phillips CAGLE"]
+source_url: "https://static.case.law/ark-app/49/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140594
+cites_cases: ["16 Ark. 72", "183 Ark. 298", "29 Ark. App. 107", "33 Ark. App. 47", "36 S.W.2d 76", "42 Ark. App. 72", "853 S.W.2d 890", "Ark. Code Ann. § 16-107-303"]
+---
+
+# Lawyers Surety Co. v. Cagle
+
+## Majority (John B. Robbins, Judge.)
+
+John B. Robbins, Judge.
+Lawyers Surety Company has appealed from an order of the Lawrence County Circuit Court dismissing its complaint against appellee, Juanita Phillips Cagle, on the ground that the issues involved should have been litigated by counterclaim or cross-claim in an earlier probate action. We reverse the circuit judge’s order and remand this case for trial.
+Ms. Cagle was a guardian for the estate of a minor. When appellee presented her final accounting, the probate court found a deficiency in the ward’s funds in the amount of $27,312.73. The probate judge found that those funds had been misappropriated by appellee and directed that summons issue for appellant, Ms. Cagle’s surety, to show cause why it should not be liable for the deficiency. On May 18, 1992, a judgment was entered against appellee and appellant, jointly and severally, for the amount of the deficiency. Appellant satisfied this judgment on June 24, 1992.
+Appellant brought an action in circuit court against appellee in October 1992 for indemnification of the amount that it had paid to the ward. In response, appellee moved to dismiss on the ground that appellant should have brought a cross-claim in the earlier action and that the doctrine of res judicata barred any recovery in this case. After a hearing on the motion to dismiss, the circuit judge entered an order in which he agreed, finding that the complaint stated facts that “should have been litigated by counterclaim or cross-claim” in the probate court action.
+On appeal, appellant argues that its complaint against appellee is a simple indemnification suit to collect the money that it paid on behalf of a principal obligor, which is authorized by Ark. Code Ann. § 16-107-303 (1987). That statute provides in pertinent part:
+(a) When any bond, bill, or note for the payment of money or delivery of property shall not be paid by the principal debtor, according to the tenor thereof, and the bond, bill, or note, or any part thereof shall be paid by the security, the principal debtor shall refund to the security the amount or value, with interest thereon at the rate of ten percent (10%) per annum, from the time of payment.
+(b)(1) When the payment by a security shall be made in money, the security may recover the money with interest, in an action for so much money, paid to the use of the defendant.
+Appellant argues that its cause of action against appellee arose after it paid the money to the ward. It also argues that, in the earlier action, its claim against appellee would have been in the form of a cross-claim, which is permissive and not compulsory. It additionally argues that, because appellant and appellee were not opposing parties in the probate case, it was not required to file a compulsory counterclaim against appellee. In response, appellee argues that it should not make any difference whether a claim is a counterclaim or a cross-claim. We disagree with appellee and are persuaded that appellant is correct.
+Arkansas Rule of Civil Procedure 13 provides in pertinent part:
+(a) Compulsory Counterclaims. A pleading shall state as a counterclaim any claim which, at the time of filing the pleading, the pleader has against any opposing party, if it arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim and does not require for its adjudication the presence of third parties of whom the court cannot acquire jurisdiction. . . .
+(f) Cross-Claim Against Co-Party. A pleading may state as a cross-claim any claim by one party against a co-party arising out of the transaction or occurrence which is the subject matter either of the original action or of a counterclaim therein or relating to any property which is the subject matter of the original action. Such cross-claim may include a claim that the party against whom it is asserted is or may be liable to the cross-claimant for all or part of a claim asserted in the action against the cross-claimant.
+Under the claim preclusion aspect of the doctrine of res judicata, a valid and final judgment rendered on the merits by a court of competent jurisdiction bars another action by the plaintiff or his privies against the defendant or his privies on the same claim or cause of action. Magness v. Commerce Bank of St. Louis, 42 Ark. App. 72, 78, 853 S.W.2d 890 (1993). Res judicata bars not only the re-litigation of claims which were actually litigated in the first suit but also those which could have been litigated. Id. Where a case is based on the same events as the subject matter of a previous lawsuit, res judicata will apply even if the subsequent lawsuit raises new legal issues and seeks additional remedies. Id. The doctrine of res judicata applies only when the party against whom the earlier decision is being asserted had a fair and full opportunity to litigate the issue in question. Id. The cases dealing with the issue of res judicata do not draw a distinct line beyond which the principle of res judicata invariably applies and where it does not; the very nature of litigation makes that impossible. Golden Host Westchase, Inc. v. First Serv. Corp., 29 Ark. App. 107, 119, 778 S.W.2d 633 (1989). In Nickles Brothers Investments v. Rector-Phillips-Morse, Inc., 33 Ark. App. 47, 50, 801 S.W.2d 308 (1990), we held that res judicata applies to claims that might have been litigated as cross-claims, as well as to those that were actually litigated in an earlier action.
+Appellant correctly points out that Arkansas case law permits a surety to bring an action to recover money it has paid on behalf of a principal in a subsequent and independent action against the principal. In such an action, the principal’s obligation to pay arises upon the assessment of the damages from the breach of the condition of his bond and the payment of the money for him by his security. In Snider v. Greathouse, 16 Ark. 72, 77 (1855), the court stated:
+But the liability of the security upon the bond is joint and several, and although he cannot have his recourse over against his principal, until he has paid the debt, still he is liable over to the creditor in the first instance; and, upon the payment of the debt, after it becomes due, if it is liquidated, or after its liquidation, if not so, according to the terms of the contract, whether by process of law or not, an obligation is raised to pay the same.
+Id. at 78. See also Washum v. Lester, 183 Ark. 298, 36 S.W.2d 76 (1931).
+In 41 Am. Jur. 2d Indemnity § 29 (1968), it is stated:
+[ W]here a contract is strictly one of indemnity, that is, one against loss or damages, the indemnitee cannot recover until he has made payment or otherwise suffered an actual loss or damage against which the covenant runs. Applying this principle, it has been held that a surety cannot have a right of action on a general promise of indemnity until he has been compelled to pay the debt for which he is bound. ...
+In this case, appellant’s cause of action against appellee arose upon its satisfaction of the probate judgment; its claim for indemnity, therefore, is not barred by the doctrine of res judi-cata. We reverse the circuit judge’s order dismissing appellant’s complaint and remand this case for trial.
+Reversed and remanded.
+Jennings, C.J., and Rogers, J., agree.
