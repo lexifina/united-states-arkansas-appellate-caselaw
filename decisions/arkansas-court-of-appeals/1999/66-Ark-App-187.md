@@ -1,0 +1,48 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 98-838"
+decided: "1999-04-28"
+citations: ["66 Ark. App. 187", "992 S.W.2d 136"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hart, Rogers, and Stroud, JJ., agree.", "Bird and Griffen, JJ., dissent."]
+parties: ["Harold L. BARKER v. Syble D. BARKER"]
+source_url: "https://static.case.law/ark-app/66/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139274
+cites_cases: ["222 Ark. 219", "268 Ark. 120", "312 Ark. 61", "323 Ark. 88", "58 Ark. App. 42", "60 Ark. App. 221", "61 Ark. App. 88"]
+---
+
+# Barker v. Barker
+
+## Majority (Margaret Meads, Judge.)
+
+Margaret Meads, Judge.
+Harold and Syble Barker married on November 9, 1970, and separated on March 3, 1997. A decree of divorce was entered in the Union County Chancery Court on April 9, 1998, granting appellant a divorce, dividing appellant’s pension equally between the parties pursuant to a qualified domestic relations order, awarding appellee alimony of $100 per week, and dividing the marital property unequally in favor of appellee due to appellant’s depletion of the parties’ savings account shortly before he filed for divorce. Appellant appeals the $100 per week alimony award, asserting that the chancellor abused his discretion in determining the amount of alimony to be paid. We agree, and we reverse and remand this issue to the chancellor.
+An award of alimony is not mandatory, but is solely within the chancellor’s discretion, and such an award will not be reversed absent an abuse of that discretion. Burns v. Burns, 312 Ark. 61, 847 S.W.2d 23 (1993). If alimony is awarded, it should be set at an amount that is reasonable under the circumstances. Mitchell v. Mitchell, 61 Ark. App. 88, 964 S.W.2d 411 (1998). The purpose of alimony is to rectify, insofar as is reasonably possible, the frequent economic imbalance in the earning power and standard of living of the divorced parties in light of the particular facts of each case. Id.; Anderson v. Anderson, 60 Ark. App. 221, 963 S.W.2d 604 (1998).
+The primary factors to be considered in awarding alimony are the need of one spouse and the other spouse’s ability to pay, Mulling v. Mulling, 323 Ark. 88, 912 S.W.2d 934 (1996), but certain secondary factors may be considered in setting the amount of alimony. See, e.g., Boyles v. Boyles, 268 Ark. 120, 594 S.W.2d 17 (1980); Mearns v. Mearns, 58 Ark. App. 42, 946 S.W.2d 188 (1997). These secondary factors include (1) the financial circumstances of both parties, (2) the amount and nature of the income, both current and anticipated, of both parties, and (3) the extent and nature of the resources and assets of each of the parties. Id. Ordinarily, fault or marital misconduct is not a factor in an award of alimony. Mitchell, supra.
+In the present case, the parties had been married for approximately twenty-seven years. Both parties are retired; appellant receives $675 per month from his Teamster’s pension and $872 monthly in Social Security benefits, and appellee receives $447 per month in Social Security benefits. There are no other sources of income. At the hearing, the chancellor ordered the marital home to be sold; because appellant had failed to preserve marital assets by spending most of the parties’ savings at casinos, he further ordered that appellee receive the first $7,500 in profit from the sale of the house, with the balance of the profit, if any, to be divided equally. The remainder of the personal property was divided equally among the parties, with the exception of those items that were non-marital property. The chancellor ruled appellant’s pension was marital property and ordered that it be divided equally between the parties. In awarding alimony, the chancellor’s order provides, “There is a substantial disparity in incomes of these parties and [appellant] should pay to [appellee] the sum of $100.00 per week alimony.”
+Without the alimony award, adding each party’s Social Security check and one-half of the pension yields the following monthly income:
+$872.00 + 337.50 = $1209.50 Appellant:
+$447.00 + 337.50 = $ 784.50 Appellee:
+We agree that these figures reflect a substantial disparity in the incomes of the parties, and therefore we find that an alimony award is justified.
+However, the chancellor’s award has resulted in an even greater disparity in the parties’ incomes and has not rectified the economic imbalance between the parties. Taking into consideration the alimony award ordered by the chancellor, the parties’ monthly income is:
+Appellant: $1209.50 - $433.40 = $ 776.10
+Appellee: $ 784.50 + $433.40 = $1217.90
+Appellee argues that the chancellor awarded her alimony to compensate for appellant squandering the parties’ retirement savings immediately prior to filing for divorce. We disagree. The chancellor addressed that concern separately when he ordered that appellee be given the first $7,500 in profit from sale of the marital home. The sole basis stated by the chancellor for awarding alimony was to address the substantial disparity in the parties’ income.
+For the reasons stated above, we find that the chancellor abused his discretion in ordering appellant to pay $100 per week alimony, and we reverse and remand to the chancellor for a determination of the proper amount of alimony.
+Reversed and remanded.
+Hart, Rogers, and Stroud, JJ., agree.
+Bird and Griffen, JJ., dissent.
+
+## Dissent (Sam Bird, Judge,)
+
+Sam Bird, Judge,
+dissenting. I respectfully dissent from the majority opinion because I do not believe that the chancellor abused his discretion in determining the amount of alimony to be paid to the appellee.
+As the majority opinion correctly points out, an award of alimony is not mandatory, but is solely within the chancellor’s discretion, and such an award is not reversed unless this court determines that the chancellor abused his discretion in making the award. Burns v. Burns, 312 Ark. 61, 847 S.W.2d 23 (1993). The purpose of alimony is to rectify, insofar as is reasonably possible, the frequent economic imbalance in the earning power and standard of living of the divorced husband and wife. Mitchell v. Mitchell, 61 Ark. App. 88, 964 S.W.2d 411 (1988). The alimony award must always depend upon the particular facts of each case. Dean v. Dean, 222 Ark. 219, 258 S.W.2d 54 (1953). The primary factors to consider in determining whether to award alimony is the need of one spouse and the ability of the other spouse to pay. Mitchell v. Mitchell, supra. To balance these primary factors, a chancery court should consider certain secondary factors, including the financial circumstances of both parties; the amount and nature of the income, both current and anticipated, of both parties; the extent and nature of the resources and assets of each of the parties; and the earning ability and capacity of both parties. Anderson v. Anderson, supra.
+During the hearing, the appellant testified that he “cashed in” $17,000 in his and appellee’s retirement savings in 1996 or 1997, that he gave various sums to family members, and that he paid $2,000 to the IRS. Appellant admitted that he lost $10,000 of their savings at gambling casinos. According to appellant’s abstract, he testified as follows: “I spent several thousand dollars when I went to the casinos. I had a few drinks and I was broke. I took somewhere in the neighborhood of $10,000 with me. When I sobered up, I was broke.”
+The appellee, who was seeking $150 in alimony per week, testified that the appellant had actually squandered all of the $17,000 that they had accumulated as retirement savings, not just the $10,000 that he admitted to losing at the casino. She stated that appellant had been paying temporary alimony of $100 per week before the divorce decree was entered, some of which she used to pay their $176 monthly house payment.
+In his order, the chancellor noted that there was a substantial disparity in the incomes of the parties and ordered appellant to pay appellee $100 per week in alimony. He also noted that the appellant’s squandering of marital funds justified an unequal division of certain marital property, and stated that this division should occur when the marital home is sold. The chancellor ordered that, from the proceeds of the sale of the marital home, the appellee should be paid $7,500 and the remaining proceeds should be divided equally between the parties. It should be noted that half of that $7,500 would have been received by appellee upon the sale of the house anyway, so that the effect of what the chancellor did was to award appellee only $3,750 to compensate her for the appellant’s squandering of all the couple’s savings, including $10,000 that appellant admitted losing on his gambling trip.
+Based upon the testimony, I do not agree that the chancellor abused his discretion in awarding appellee $100 per week in alimony. The amount the appellant receives in social security retirement is $872; by contrast, appellee receives $447 in social security retirement. Further, appellant admitted that he lost $10,000 of the couple’s retirement savings, and there was testimony that he actually squandered their entire $17,000 in savings. Without the award of alimony, the chancellor’s unequal distribution of the proceeds from the sale of the home does not adequately compensate appellee for appellant’s irresponsible conduct that resulted in the loss of their entire savings. Therefore, I do not believe it was an abuse of the chancellor’s discretion to award appellee $100 per week in alimony, and I would affirm.
+Griffen, J., joins in this dissent.
