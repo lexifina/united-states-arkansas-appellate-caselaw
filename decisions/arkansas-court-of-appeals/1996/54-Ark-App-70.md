@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 95-626"
+decided: "1996-06-12"
+citations: ["54 Ark. App. 70", "923 S.W.2d 874"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rogers and Neal, JJ., agree."]
+parties: ["Betty Carter BRANCH v. Kyle Dean CARTER"]
+source_url: "https://static.case.law/ark-app/54/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137212
+cites_cases: ["263 Ark. 69", "304 Ark. 133", "308 Ark. 201", "312 Ark. 141", "Ark. Code Ann. § 16-56-115", "Ark. Code Ann. § 9-14-233", "Ark. Code Ann. § 9-14-236"]
+---
+
+# Branch v. Carter
+
+## Majority (JOHN B. Robbins, Judge.)
+
+JOHN B. Robbins, Judge.
+Appellant Betty Carter Branch and appellee Kyle Carter were divorced on July 19, 1983. Pursuant to the divorce decree, Ms. Branch received custody of their three-year-old daughter and Mr. Carter was ordered to pay child support of $52.00 per week. For the first year following their divorce, Mr. Carter was current on his child-support payments. However, the court records indicate that, since July 19, 1984, Mr. Carter has continued to fall behind on his support obligation. On May 18, 1994, Ms. Branch filed a petition for relief alleging that Mr. Carter was delinquent on his payments. The parties stipulated that Mr. Carter was delinquent in the amount of $12,251.50 for the time period between July 19, 1984, and July 19, 1989, and $7,404.00 for the time period between July 20, 1989, and the date Ms. Branch’s petition was filed. The chancery court ordered Mr. Carter to pay $7,404.00 in delinquent child support. However, the court found that collection of delinquent child support which accrued prior to July 20, 1989, was barred by the applicable statute of limitations. Ms. Branch acknowledges that collection of the delinquent child support which accrued prior to July 19, 1986, is time-barred. However, she contends that the support which accrued between July 19, 1986, and July 19, 1989, should not have been barred by the statute of limitations. The parties stipulated that the amount which accrued during this three-year period was $5,562.00, and Ms. Branch appeals, asserting entidement to this amount. We agree and reverse.
+In addressing this issue we have reviewed the recent changes that our legislature has made with regard to the limitations period for the collection of delinquent child support. Prior to 1989, the applicable statute of limitations for arrearages occurring as a result of failure to pay child support was five years. Ark. Code Ann. § 16-56-115 (1987). However, in 1989 the legislature changed the limitations period to ten years. This change was codified at Ark. Code Ann. § 9-14-236 (Supp. 1989). In Sullivan v. Edens, 304 Ark. 133, 801 S.W.2d 32 (1990), the supreme court held that the ten-year statute did not apply retroactively, and all child support that had become due prior to the effective date of the 1989 act was still subject to the five-year limitations period. On March 29, 1991, the legislature again modified the limitations period through enactment of Act 870. This act, codified at Ark. Code Ann. § 9-14-236 (Repl. 1993), provides that any child-support action can be “brought at any time up to and including five (5) years beyond the date the child for whose benefit the initial support order was entered reaches eighteen (18) years.” The act also provides that the enlarged limitations period “shall retroactively apply to all child support orders now existing.”
+Act 870 of 1991 was discussed in Johnson v. Lilly, 308 Ark. 201, 823 S.W.2d 883 (1992). In that case, the supreme court acknowledged that the act applied retroactively. However, quoting Morton v. Tullgren, 263 Ark. 69, 563 S.W.2d 422 (1978), the court stated:
+[N]o one has any vested right in a statute of limitations until the bar of the statute has become effective. It is also true that the General Assembly may validly enlarge the period of limitations and make the new stiatute, rather than the old, apply to any cause of action which has not been barred at the time the new statute becomes effective.
+And see Chunn v. D’Agostino, 312 Ark. 141, 847 S.W.2d 699 (1993).
+In the present case, the child-support arrearage that accrued between July 19, 1984, and the date the 1989 act became effective was subject to the five-year statute of limitations because the 1989 act did not have retroactive application. However, when the 1991 act, which was retroactive, became effective, its provisions applied to all delinquent child support which was not barred under previous statutes of limitations on the date of its enactment. Any cause of action for delinquent child support which was barred at the time Act 870 went into effect could not be revived by the act. Chunn v. D’Agostino, supra; Johnson v. Lilly, supra. Consequently, at the time Act 870 became effective by an emergency clause on' March 29, 1991, Ms. Branch could have brought an action for delinquent child support extending back to March 29, 1986, because an action for these accruals would not have been time-barred under prior law. Therefore, the 1991 act retroactively applies to all delinquent payments which accrued after March 29, 1986.
+In her brief, Ms. Branch argues that the applicable statute of limitations does not bar recovery for any arrearage accrued after July 19, 1986. In actuality, only claims for arrearage that accrued prior to March 29, 1986, are time-barred. Nonetheless, we agree with Ms. Branch’s specific claim for relief. She contends that she is entided to unpaid child support which accrued between July 19, 1986, and July 19, 1989. Based on our review, we agree that she is entitied to such an award. Therefore, we reverse and remand to the trial court for an award of support to appellant for this additional period of' time, and for the statutory attorney’s fee and interest provided under Ark. Code Ann. § 9-14-233 on the total child support owed in the sum of $12,966.00.
+Reversed and remanded.
+Rogers and Neal, JJ., agree.
