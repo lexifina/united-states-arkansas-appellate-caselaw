@@ -1,0 +1,41 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 91-483"
+decided: "1992-11-25"
+citations: ["40 Ark. App. 81", "842 S.W.2d 66"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Danielson, JJ., agree."]
+parties: ["Herman MITCHELL v. Erma MITCHELL"]
+source_url: "https://static.case.law/ark-app/40/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137340
+cites_cases: ["26 U.S.C.A. § 414", "301 Ark. 87", "304 Ark. 309", "305 Ark. 318", "34 Ark. App. 224", "781 S.W.2d 491"]
+---
+
+# Mitchell v. Mitchell
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+Herman Mitchell appeals from an order filed August 29, 1991, entitled “Second Amended Supplement to Decree of Divorce Qualified Domestic Relation Order.”
+Appellant and appellee, Erma Mitchell, were divorced by decree filed April 23, 1986. The decree provided that .the court would reserve ruling on the wife’s request for one-half of the husband’s retirement, and the parties were given thirty days to file briefs on the issue. Although it is not in the record, the parties agree that the trial court entered an Amended Decree and Order on September 29, 1986, in which the court held that the husband’s pension was vested, that it was marital property and should be divided equally, and that, when the husband began to draw his pension benefits, the wife would be entitled to receive one-half of it. No appeal was taken from this order, but it apparently failed to meet the federal requirements for a Qualified Domestic Relations Order (QDRO).
+The requirements for a QDRO are contained in 26 U.S.C.A. § 414(p) (West 1988 & Supp. 1992). This section defines a QDRO as a domestic relations order which creates or recognizes the existence of an alternate payee’s right to receive all or a portion of the benefits payable to a participant in a pension plan. A domestic relations order means a judgment, decree or order (including approval of a property settlement agreement) made pursuant to a state’s domestic relations or community property law and relating to the provision of child support, alimony, or marital property rights to a spouse, former spouse, child or other dependent of a plan participant. To qualify as a QDRO, a domestic relations order must meet certain specific standards. Within a reasonable period after receipt of a domestic relations order, the administrator of the plan shall determine whether such order is a QDRO, and if the administrator determines that an order does not meet the standards, the administrator will not honor the order until it does meet the standards.
+The husband in this case was a participant in the Central States Southeast and Southwest Areas Pension Fund. In an effort to make the September 29, 1986, order comply with the federal regulations, three subsequent orders were entered by the trial court. It is the latest of these, entered August 29,1991, which was finally accepted as a QDRO and which is the subject of this appeal by the husband.
+The gist of appellant’s argument is that the trial court erred in amending a decree that was over 5 years old. Specifically,, appellant argues that the appellee failed to meet the requirements of Ark. R. Civ. P. 60 which bars the amendment or modification of a decree after 90 days, absent compliance with Rule 60(c), and that appellee failed to present to the trial court a proper motion requesting the relief which the court granted.
+We are unable to reach the merits of appellant’s argument because he has failed to properly perfect his appeal. Arkansas Rule of Appellate Procedure 4 provides:
+(a) Time for Filing Notice. Except as otherwise provided in subsequent sections of this rule, a notice of appeal shall be filed within thirty (30) days from the entry of the judgment, decree or order appealed from. . . .
+(b) Time for Filing Notice of Appeal Extended by Timely Motion. Upon the filing in the trial court within the time allowed by these rules of a motion for judgment notwithstanding the verdict under Rule 50(b), of a motion to amend the court’s findings of fact or to make additional findings under Rule 52 (b), or of a motion for a new trial under Rule 59(b), the time for filing of notice of appeal shall be extended as provided in this rule.
+(c) Disposition of Posttrial Motion. If a timely motion listed in section (b) of this rule is filed in the trial court by any party, the time for appeal for all parties shall run from the entry of the order granting or denying a new trial or granting of denying any other such motion. Provided, that if the trial court neither grants nor denies the motion within thirty (30) days of its filing, the motion will be deemed denied as of the 30th day. A notice of appeal filed before the disposition of any such motion or, if no order is entered, prior to the expiration of the 30-day period shall have no effect. A new notice of appeal must be filed within the prescribed time measured from the entry of the order disposing of the motion or from the expiration of the 30-day period. No additonal [additional] fees shall be required for such filing. (Emphasis added by Court of Appeals.)
+The sequence of events in this case relevant to the disposition of this appeal is as follows:
+August 29, 1991 SECOND AMENDED SUPPLEMENT TO DECREE OF DIVORCE QUALIFIED DOMESTIC RELATIONS ORDER
+September 4, 1991 Appellant’s notice of appeal
+September 5, 1991 Appellant’s MOTION FOR THE COURT’S FINDINGS OF FACTS AND CONCLUSIONS OF LAW
+September 5, 1991 Appellant’s motion for RELIEF FROM THE SECOND SUPPLEMENT TO QUALIFIED DECREE OF DIVORCE OF QUALIFIED DOMESTIC RELATIONS ORDER
+October 14, 1991 Hearing after which court orally denies appellant’s motions.
+In the September 5,1991, motion entitled “MOTION FOR THE COURT’S FINDINGS OF FACT AND CONCLUSIONS OF LAW,” appellant stated the request was made “in compliance with Rule 52 of the Arkansas Rules of Civil Procedure.” Under Appellate Procedure Rule 4(b), the filing of a motion to amend the court’s findings of fact or to make additional findings under Rule 52(b) extends the time for filing notice of appeal. In addition, appellant’s second motion, filed on September 5, 1991, entitled “RELIEF FROM THE SECOND SUPPLEMENT TO QUALIFIED DECREE OF DIVORCE OF QUALIFIED DOMESTIC RELATIONS ORDER,” is in essence a motion for new trial under Rule 59(b). Appellate Procedure Rule 4(b) also extends the time for filing notice of appeal when a motion for new trial is filed as provided in Ark. R. Civ. P. 59(b).
+Therefore, under either motion filed by appellant on September 5,1991, the time to appeal would run from the entry of an order on the motion or from the thirtieth day after the filing of the motion, whichever came first. See Ferguson v. Sunbay Lodge, Ltd., 301 Ark. 87, 781 S.W.2d 491 (1989); Jasper v. Johnny’s Pizza, 305 Ark. 318, 807 S.W.2d 664 (1991); Phillips Construction Co., v. Cook, 34 Ark. App. 224, 808 S.W.2d 792 (1991). These cases also make it clear that even when an appealable order has been entered and a notice of appeal has been filed within 30 days thereafter, the filing of a motion provided for in Appellate Procedure Rule 4(b) will extend the time for filing the notice of appeal, and the notice of appeal filed before the time is extended will be ineffective.
+In the instant case, the notice of appeal filed on September 4,1991, was ineffective because of the motions filed on September 5,1991. Moreover, those motions were deemed denied at the end of 30 days after they were filed — unless the trial court ruled on them before that time. Although the trial court orally denied the motions at a hearing on October 14, 1991, this was more than 30 days after they were filed and they were already deemed denied; therefore, it was necessary to file a new notice of appeal within 30 days after the motions were deemed denied. Because this was not done, no appeal has been perfected. While this issue was not raised by the appellee, it is jurisdictional and we must raise it even if the parties do no. Eddings v. Lippe, 304 Ark. 309, 802 S.W.2d 139 (1991).
+Dismissed.
+Cooper and Danielson, JJ., agree.
