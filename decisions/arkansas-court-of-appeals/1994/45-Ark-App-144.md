@@ -1,0 +1,40 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 93-503"
+decided: "1994-03-23"
+citations: ["45 Ark. App. 144", "871 S.W.2d 595"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings, C.J., and Mayfield, J., agree."]
+parties: ["CHAMBERLAIN GROUP, et al. v. Al RIOS, Sr. and Second Injury Fund"]
+source_url: "https://static.case.law/ark-app/45/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6656350
+cites_cases: ["28 Ark. App. 229", "295 Ark. 1", "39 Ark. App. 62", "41 Ark. App. 1", "41 Ark. App. 57", "Ark. Code Ann. § 11-9-525"]
+---
+
+# Chamberlain Group v. Rios
+
+## Majority (John B. Robbins, Judge.)
+
+John B. Robbins, Judge.
+The Chamberlain Group (Chamberlain) appeals an order of the Arkansas Workers’ Compensation Commission which found that the Second Injury Fund was not liable in this case. Appellant Chamberlain argues on appeal that the Second Injury Fund’s liability should have been determined on the date Mr. A1 Rios, Sr., appellee, became permanently and totally disabled, rather than on the date of the actual injury. Chamberlain also contends that the Commission erred in holding that the Second Injury Fund had no liability under the facts of this case, challenging whether there was substantial evidence to support its decision. We find no error and affirm.
+The parties in this case stipulated that an employee-employer relationship existed on November 1, 1988, and that Mr. Rios sustained a compensable injury on that date. It was further stipulated that Mr. Rios sustained a 20% impairment to the body as a whole resulting from that injury, and that he was permanently and totally disabled. Mr. Rios had two back surgeries as a result of his 1988 injury, one in 1989, and another in 1990. Evidence before the Commission also indicated that Mr. Rios had been diagnosed with diabetes approximately fifteen years earlier.
+Chamberlain contends that Rios’ diabetes constituted an impairment and combined with his work-related injury to render him totally disabled. Consequently, Chamberlain argues, it should be liable only for 20% of Rios’ disability benefits which are attributable to his 20% anatomical impairment, and the Second Injury Fund is responsible for the balance.
+The first issue raised by Chamberlain is that the presence of a preexisting impairment sufficient to trigger Second Injury Fund liability should be determined as of the date Mr. Rios became permanently and totally disabled, two and one-half years after the date of the actual injury. However, the applicable statute, Ark. Code Ann. § 11-9-525 (1987), requires the impairment to predate the work-related injury by providing the following:
+(b)(1) Commencing January 1, 1981, all cases of permanent disability or impairment where there has been previous disability or impairment shall be compensated as herein provided.
+(3) If any employee who has a permanent partial disability or impairment, whether from compensable injury or otherwise, receives a subsequent compensable injury. . .
+(5) If the previous disability or impairment, whether from compensable injury or otherwise, and the last injury together result in permanent total disability, . . .
+(Emphasis added.) The Arkansas Supreme Court has also recognized in this context that an impairment must pre-date the com-pensable work-related injury, by setting forth three basic requirements for Second Injury Fund liability:
+It is clear that liability of the Fund comes into question only after three hurdles have been overcome. First, the employee must have suffered a compensable injury at the present place of employment. Second, prior to that injury the employee must have had a permanent partial disability or impairment. Third, the disability or impairment must have combined with the recent compensable injury to produce the current disability status.
+(Emphasis added.) Mid-State Constr. Co. v. Second Injury Fund, 295 Ark. 1, 5, 746 S.W.2d 539, 541 (1988).
+As pointed out above, the parties in this case stipulated that Mr. Rios sustained his work-related injury on November 1, 1988. Chamberlain cannot object to a stipulation made before the Commission for the first time on appeal. Death & Perm. Total Disab. Fund v. Whirlpool, 39 Ark. App. 62, 837 S.W.2d 293 (1992).
+In addressing Second Injury Fund liability, the determination of whether an employee suffered a preexisting impairment in addition to any disability which resulted from a work-related injury is a factual one and is to be made by the Commission. Both the Administrative Law Judge and the Commission found that Mr. Rips did not suffer from a disability or impairment prior to November 1, 1988. The evidence presented showed Mr. Rios’ diabetes was totally controlled by medication prior to his 1988 injury, and did not in any way affect his work. The Commission has the duty of weighing the medical evidence as it does any other evidence, and resolving any conflicts is a question of fact for the Commission. CDI Contractors v. McHale, 41 Ark. App. 57, 848 S.W.2d 941 (1993). The Commission’s decision on this issue is supported by substantial evidence. We find no merit in Chamberlain’s first argument.
+Chamberlain also argues on appeal that the Commission erred in finding that the Second Injury Fund had no liability under the facts of this case, challenging whether there was substantial evidence to support its decision. On appeal of Workers’ Compensation Commission decisions, this court reviews the evidence and all reasonable inferences deducible therefrom in the light most favorable to the findings of the Commission. Arkansas Highway & Transp. Dep’t. v. McWilliams, 41 Ark. App. 1, 846 S.W.2d 670 (1993). We must uphold the Commission’s decision if it is supported by substantial evidence. Id. If reasonable minds could have reached the Commission’s conclusion then we must affirm. Id.
+In order for the Second Injury Fund to have liability the three prerequisites as set out above in Mid-State Constr. Co., 295 Ark. 1 (1988), must be met. Both the Administrative Law Judge and Commission found that Mr. Rios did not have a disability or impairment prior to his injury in 1988. As explained above, that decision is supported by substantial evidence. Therefore, Chamberlain has failed to meet the second requirement in Mid-State, i.e., “prior to that injury the employee must have had a permanent partial disability or impairment.”
+The Commission found that Mr. Rios’ diabetes did not affect his ability to work before his 1988 injury. Dr. Martin A. Koehn in a July 22, 1991, report stated:
+You have indicated that you felt Mr. Rios may be partially disabled on the basis of his diabetic condition. In my opinion, as far as his work has been concerned, I feel that his diabetes and his diabetic peripheral neuropathy have not contributed to his disability. As you are probably aware, he has had diabetes for a number of years and has been able to work with it while undergoing treatment. He has now developed some peripheral neuropathy secondary to his diabetes, manifested by numbness and tingling and pares-thesias in his feet and lower legs. This, however, has not affected his work or his disability.
+(Emphasis added.) As pointed out in the Administrative Law Judge’s opinion which the Commission adopted, there was no evidence that Mr. Rios’ preexisting diabetes affected his ability to work prior to his admitted compensable injury on November 1, 1988. Although Dr. Fletcher gave a different opinion as to Mr. Rios’ diabetes and its effect on him, the Commission has the duty of weighing the medical evidence, and if the evidence is conflicting, the resolution of the conflict is a question of fact for the Commission. Mack v. Tyson Foods, Inc., 28 Ark. App. 229, 771 S.W.2d 794 (1989). The Commission’s conclusion that there is no Second Injury Fund liability is supported by substantial evidence.
+Affirmed.
+Jennings, C.J., and Mayfield, J., agree.
