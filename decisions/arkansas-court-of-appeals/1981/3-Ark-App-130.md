@@ -1,0 +1,28 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 81-11"
+decided: "1981-10-28"
+citations: ["3 Ark. App. 130", "623 S.W.2d 216"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ethel Bryant WILLIAMS v. Hubert H. BROOKS et al"]
+source_url: "https://static.case.law/ark-app/3/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6714977
+cites_cases: ["31 Ark. L. Rev. 359"]
+---
+
+# Williams v. Brooks
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellant previously brought an appeal in this cause, and this court reversed and remanded with directions that all parties were entitled to a new trial. From an adverse jury verdict, appellant brings this second appeal. Appellees contend that appellant failed to abstract the pleadings and exhibits, submitted an abstract of testimony which was impartial, and argued the facts in her statement of the case. We must agree with appellees, and, in so doing, we find the abstract to be flagrantly deficient in meeting the requirements of Rule 9 of the Rules of the Supreme Court and Court of Appeals, and accordingly we must affirm for non-compliance with that rule.
+We first note that there is no judgment in the record from which this second appeal is taken. Jury verdict forms are included in the transcript, but if a written judgment was ever filed, it is not in the record.
+Appellant raises four points for reversal in her brief, but none of the pleadings or exhibits which are necessary to support appellant’s arguments appear in her abstract. Without these pleadings and exhibits, it is impossible for this Court to decide the issues raised by the appellant. For example, the issues on appeal arise out of an alleged unlawful attachment of appellant’s property by appellee sheriff. At trial, appellant attempted to cross-examine the sheriff regarding a bond obtained by the sheriff pursuant to Ark. Stat. Ann. § 30-408 (Repl. 1979), in connection with the attachment of appellant’s property. The trial court ruled that appellant’s questions were not relevant as to the issue of the sheriff’s liability, and appellant challenges the court’s ruling as her first assignment of error. What relevancy the bond may have to appellant’s action against appellees is largely dependent upon whether the bond complies with § 30-408, above. See Ark. Stat. Ann. § 30-410 (Repl. 1979). Appellant, however, failed to abstract the bond, and we are unable to determine if it was sufficient and met the requirements set forth in § 30-408.
+Another glaring omission from appellant’s abstract is the absence of the writ of attachment and levy notice instruments employed by the sheriff in this cause. These instruments were also not included in the abstract or record in the first appeal, causing unnecessary confusion to the members of this Court. For instance, Judge Penix, in her dissenting opinion, was under the impression that the writ of attachment was issued for a specific piece of property. In this appeal, a search of the transcript reveals that the writ reflects no mention of any specific property. We do find in the record a levy notice which does mention a mobile home, but, again, this notice was never abstracted by the appellant.
+In brief, the appellant has challenged the writ of attachment and the manner in which it was served by the sheriff in two appeals. However, on the first appeal, the writ was not included in the record or abstract and in the second appeal, it was not abstracted. The importance, relevancy and need for appellant to abstract the writ in this action seems only to state the obvious.
+Even more puzzling is the manner in which this case was submitted to the jury. The colloquy between the trial court and counsel at trial indicates that sometime during or after the testimony of the witnesses, this case became a negligence action against the sheriff. Yet, a search of the transcript reflects that negligence was never raised nor mentioned in any pleading, and no pleadings were subsequently amended at trial to make this a negligence action. The transcript shows appellant filed an action against the sheriff and appellee Hubert Brooks to dissolve or vacate the writ of attachment, to order the return of appellant’s property and to request damages to her property. By the time this case went to trial, nine pleadings involving six separate parties were filed, none of which were abstracted by appellant. Again, negligence was never alleged as a ground for relief by any party, yet the Court, without objection, instructed the j ury that the appellant’s claim was dependent upon finding that the sheriff was negligent in his attachment of appellant’s property.
+None of the problems we mention above are made evident by reading the appellant’s abstract, and it is literally impossible to understand any of appellant’s arguments on appeal without a constant reference and return to the transcript of the trial court’s proceedings below. There are other problems we encountered due to appellant’s failure to abstract, but we believe the few already mentioned suffice to illustrate the flagrant deficiency in appellant’s abstract and brief and to show why we must affirm for noncompliance with Rule 9. This case has been before our Court on two separate occasions, and each time the appellant failed to properly abstract necessary pleadings, exhibits and testimony. For these reasons, we are unable to award any of the relief requested by appellant.
+See also, Justice George Rose Smith, [31 Ark. L. Rev. 359 (1977)], Arkansas Appellate Practice: Abstracting the Record.
