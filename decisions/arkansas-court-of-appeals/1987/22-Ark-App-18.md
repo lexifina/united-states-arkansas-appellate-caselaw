@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 87-28"
+decided: "1987-07-08"
+citations: ["22 Ark. App. 18", "731 S.W.2d 794"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbin, C.J., and Mayfield, J., agree."]
+parties: ["Dennis TURNBULL v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/22/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6656753
+cites_cases: ["19 Ark. App. 172", "20 Ark. App. 35", "290 Ark. 446", "723 S.W.2d 373"]
+---
+
+# Turnbull v. State
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellant in this criminal case was charged with driving while intoxicated, and convicted after a trial in the City Court of Kensett, Arkansas. After a de novo appeal to the Circuit Court of White County, Arkansas, the appellant was found guilty of driving while intoxicated, first offense. He was fined $600.00, his driver’s license was suspended for ninety days, and he was sentenced to ten days in the White County Detention Center. From that decision, comes this appeal.
+For reversal, the appellant contends that the circuit judge erred in failing to find that the arrest was invalid on the ground that the arresting officer was an auxiliary policeman who was not under the direct supervision of a full-time certified law enforcement officer. He also argues that the arresting officer was not acting in his capacity as an auxiliary policeman at the time of the arrest, but instead was acting as a member of the Kensett Neighborhood Watch. We affirm.
+There is evidence to show that the appellant was driving erratically within the city limits of Kensett on March 22, 1986. Carthel Kelsey, an auxiliary law enforcement officer of the Kensett City Police and president of the Kensett Neighborhood Watch, was patrolling Kensett when he observed the appellant’s vehicle weave, go into the ditch on the left side of the road, and come out again. Kelsey gave chase and arrested the appellant. At the time of the arrest, Kelsey was certified as an auxiliary law enforcement officer, and was dressed in the uniform of the Kensett Police Department. Larry Smith, a fireman, was riding with Kelsey as he made his patrol. Smith was a member of the Kensett Neighborhood Watch, but he was not a law enforcement officer or an auxiliary law enforcement officer. When Kelsey left the patrol car to apprehend the appellant, he told Smith to wait in the car, and Smith took no part in the apprehension. Chief Webb of the Kensett Police Department, a certified law enforcement officer and Kelsey’s supervising officer, arrived on the scene after Kelsey made the arrest, but he did not otherwise participate in the arrest. Kelsey stated that he was in radio contact with Chief Webb while on patrol; that he had talked to Webb by radio approximately ten minutes before he observed the appellant driving erratically; and afterwards informed Chief Webb by radio that he was in pursuit of the appellant.
+The appellant first asserts that Kelsey was not under Chief Webb’s direct supervision when the arrest occurred, and contends that the trial court thus erred in failing to find that the arrest was invalid. We disagree. The authority of an auxiliary law enforcement officer is governed by Ark. Stat. Ann. § 42-1404 (Supp. 1985), which provides in part that:
+(a) An auxiliary law enforcement officer shall have the authority of a police officer as set forth by statutes of this State when the auxiliary law enforcement officer is performing an assigned duty and is under the direct supervision of a full-time certified law enforcement officer.
+(b) When not performing an assigned duty and when not working under the direct supervision of a full-time certified law enforcement officer, an auxiliary law enforcement officer shall have no authority other than that of a private citizen.
+The essence of the appellant’s argument is that Kelsey’s radio contact with Chief Webb did not provide the “direct supervision” that the statute requires. We find no merit in this contention, because the physical presence of a supervising officer is not required to validate an arrest made by an auxiliary law enforcement officer. Ark. Stat. Ann. § 42-1401 (Supp. 1985). Moreover, direct supervision of an auxiliary law enforcement officer can be provided by radio contact. See McAfee v. State, 290 Ark. 446, 720 S.W.2d 307 (1986). Under these circumstances, we hold that the trial court did not err in failing to find that the arrest was invalid.
+Next, the appellant asserts that the evidence was insufficient to support a finding that Kelsey was acting in his capacity as an auxiliary law enforcement officer when he arrested the appellant, and that the evidence shows that Kelsey was acting as a member of the Kensett Neighborhood Watch when the arrest was made. Where the sufficiency of the evidence is at issue, we review the evidence in the light most favorable to the State, and we affirm if the verdict is supported by substantial evidence. Lair v. State, 19 Ark. App. 172, 718 S.W.2d 467 (1986). Substantial evidence is evidence which induces the mind to go beyond mere suspicion or conjecture, and which is of sufficient force and character to compel a conclusion one way or the other. Dillard v. State, 20 Ark. App. 35, 723 S.W.2d 373 (1987). Although it is true that Kelsey was a member of the neighborhood watch, and was accompanied by another watch member as he made his patrol, Kelsey unequivocally stated at trial that, on the night in question, he was on patrol as an auxiliary police officer and not as a member of the neighborhood watch. There is also evidence to show that Chief Webb had assigned Kelsey to patrol duty on the night in question; that Kelsey was in the uniform of the Kensett Police Department; and that Smith, the fireman, took no part in the appellant’s arrest. Viewing the evidence in the light most favorable to the State, we hold that the evidence was sufficient to support a finding that Kelsey was acting in his capacity as an auxiliary policeman when he arrested the appellant.
+Affirmed.
+Corbin, C.J., and Mayfield, J., agree.
