@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 88-129"
+decided: "1989-01-25"
+citations: ["26 Ark. App. 256", "763 S.W.2d 103"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayfield, J., agrees.", "Jennings, J., concurs."]
+parties: ["Phillip Todd CHENOWITH v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/26/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6141038
+cites_cases: ["288 Ark. 213", "293 Ark. 24", "293 Ark. 411", "Ark. Code Ann. § 16-90-111", "Ark. Code Ann. § 16-93-604"]
+---
+
+# Chenowith v. State
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellant in this criminal case was charged with theft of property in eight informations filed on September 10,1985. Thecases were consolidated for trial. The appellant was found guilty in each case, and the jury returned verdicts fixing his punishment at 21 years imprisonment on each count. The trial court sentenced the appellant to 21 years on each count, to be served concurrently with each other and concurrently with sentences arising from previous convictions. Subsequently the appellant filed a motion to correct illegal sentences, alleging that the range of punishment submitted to the jury should have been eight to fifteen years, rather than the ten to thirty-year range actually submitted. After a hearing on the motion, the trial judge reduced all eighi sentences to the minimum term of eight years, to be sefved concurrently with each other. However, the order also provided that the modified sentences were to be served consecutive to a six-year sentence from Pope County and a ten-year sentence from Yell County. From that decision, comes this appeal.
+On appeal, the appellant contends that the trial court erred in ordering the modified sentences to be served consecutive to the otherwise unrelated prior sentences from Pope and Yell counties. He argues that the trial judge had no authority to modify the sentences in this manner because he had already begun to serve the sentences as originally imposed. Although it is true that a trial court has authority to modify a valid sentence once it has been put into execution, see Redding v. State, 293 Ark. 411, 738 S.W.2d 410 (1987), this rule is inapplicable in the case at bar because, as the appellant concedes, all eight of the sentences originally imposed exceeded the maximum permissible range of punishment and were thus invalid. The appellant’s reliance upon principles governing the modification of valid sentences is therefore misplaced. The authority of a trial court to correct illegal sentences is codified in Ark. Code Ann. § 16-90-111 (1987), which provides that a circuit court may correct an illegal sentence at any time.
+The Arkansas Supreme Court discussed the rules relating to the modification of an illegal sentence in Campbell v. State, 288 Ark. 213, 703 S.W.2d 855 (1986). The appellant in Campbell had initially been sentenced to fifty years, with fifteen years suspended. At a post-conviction hearing, the appellant correctly asserted that a sentence of fifty years was in excess of the time allowed by law, and the trial judge modified the sentence to thirty-five years, with no time suspended. On appeal, Campbell argued that he was entitled to the fifteen years suspended provided for in the original sentence. The Supreme Court rejected this argument, stating that:
+Where a sentence involves separate sentences, as with several counts for example, it is true the law generally prohibits the modification of the legal portion of the sentence. However, where there is error in one portion of an individual sentence, as here, the courts view the sentence as an indivisible totality and if modification is required, the court may on resentencing impose any sentence it could have lawfully imposed at the outset.
+703 S.W.2d at 857-58 (citations omitted).
+We note that the facts of the case at bar are to be distinguished from the situation presented in Avants v. State, 293 Ark. 24, 732 S.W.2d 149 (1987). Avants was convicted of two felonies which he committed while on parole from an earlier felony conviction. Under Ark. Stat. Ann. § 43-2829 (Repl. 1977), now codified at Ark. Code Ann. § 16-93-604 (1987), sentences imposed for felonies committed while on parole are to be served consecutive to the sentence for the prior felony. The sentences for Avant’s later convictions were within the permissible range of punishment, and the trial judge acted within his discretion in ordering them to be served concurrently with each other; however, the trial judge erred in ordering the láter convictions to be served concurrently with the sentence for the prior felony. Although this erroneous disposition was favorable to Avants, he nevertheless challenged it. The trial court corrected the error by ordering the sentences for the subsequent felonies to be served consecutively to the sentence for the prior felony. However, the trial court additionally modified the original disposition by ordering that the later sentences were to run consecutively to each other. On appeal, Avants argued that the trial court erred in ordering the subsequent sentences to run consecutive to each other. The Supreme Court agreed, holding that the trial court had no authority to change the later sentences from concurrent to consecutive because those sentences were valid as originally imposed. Avants v. State, 732 S.W.2d at 150. Avants is inapplicable in the present case, however, because here the sentences originally imposed were not valid; in every case, the sentence was in excess of the maximum term allowable by law. Because modification of each individual sentence was required, the trial court had the authority on resentencing to impose any sentence it lawfully could have imposed at the onset. Campbell v. State, supra. We find no error, and we affirm.
+Affirmed.
+Mayfield, J., agrees.
+Jennings, J., concurs.
