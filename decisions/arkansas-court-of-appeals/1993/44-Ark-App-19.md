@@ -1,0 +1,33 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "E 92-179"
+decided: "1993-11-17"
+citations: ["44 Ark. App. 19", "865 S.W.2d 649"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pittman and Rogers, JJ., agree."]
+parties: ["RAZORBACK VACUUM v. DIRECTOR, Arkansas Employment Security Department and Sharon L. Clark"]
+source_url: "https://static.case.law/ark-app/44/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136179
+cites_cases: ["11 U.S.C. § 362", "133 B.R. 846", "28 B.R. 465", "660 F.2d 1108", "Ark. Code Ann. § 11-10-501", "Ark. Code Ann. § 11-10-701", "Ark. Code Ann. §11-10-102"]
+cites_law: ["united-states/federal/usc/title-11/362.md"]
+---
+
+# Razorback Vacuum v. Director
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellee in this unemployment compensation case filed a claim for unemployment benefits which was denied by the Agency on the grounds that she voluntarily left her last work without good cause connected with the work. This decision was affirmed by the Appeal Tribunal. The appellee then appealed the Appeal Tribunal’s decision to the Board of Review. Prior to a telephone hearing before the Board, the appellant filed a Chapter 11 bankruptcy petition. After a hearing in which the appellant did not participate, the Board issued a decision reversing the Appeal Tribunal, finding that the appellee left her last work with good cause connected with the work, and granting the appellee benefits. From that decision, comes this appeal.
+For reversal, the appellant contends that the hearing conducted by the Board of Review should have been stayed pursuant to the automatic stay provision of the Federal Bankruptcy Code, 11 U.S.C. § 362(a)(1).
+The automatic stay provision of the Bankruptcy Act is extremely broad; by its terms, it is “applicable to all entities” to stay the commencement or continuation of a wide range of proceedings, including administrative proceedings. U.S.C. §362(a)(l) (1988). However, various exceptions are contained in subsection (b) of § 362, including the provision in § 362(b)(4) that the filing of a bankruptcy petition will not operate as a stay under subsection (a)(1) “of the commencement or continuation of an action or proceeding by a governmental unit to enforce such governmental unit’s police or regulatory power.” The narrow question presented by this appeal is whether an administrative hearing by the Arkansas Board of Review to determine if a claimant is qualified to draw unemployment benefits is exempt from the automatic stay provisions of the Bankruptcy Code as an exercise of the State’s police power pursuant to 11 U.S.C. § 362(b)(4). We hold that such a hearing is exempt from the automatic stay, and we affirm.
+The legislative history of § 362(b)(4) states that:
+This section is intended to be given a narrow construction in order to permit governmental units to pursue actions to protect the public health and safety and not to apply to actions by a governmental unit to protect a pecuniary interest in property of the debtor or property of the estate.
+The appellant relies upon the case of Herr v. State, 28 B.R. 465 (1983), which analyzed the application of the automatic stay to the attempts of Maine’s Employment Security Bureau to recover overpayments to the claimant on the basis of the pecuniary purpose and public policy underlying the State action. Although the Herr Court found that the Bureau was exempt from the automatic stay, the appellant argues that we should employ the same analysis in deciding the case at bar. We decline to do so, however, because we think that the circumstances of the present case are more akin to those presented to the Sixth Circuit Court of Appeals in In re Mansfield Tire and Rubber Co., 660 F.2d 1108 (6th Cir. 1981).
+In Mansfield, a case of first impression, the Sixth Circuit held that the administration of workers’ compensation claims by a state agency created for that purpose is a valid exercise of the police or regulatory power of a governmental unit so as to fall within the exception of § 362(b)(4). In so holding, the Sixth Circuit noted that actions under the Fair Labor Standards Act and enforcement proceedings by the National Labor Relations Board had been held to fall within the exception enunciated in § 362(b)(4). Furthermore, the Court noted that the Industrial Commission is liable to the injured employee for his benefits. Mansfield, supra, 660 F.2d at 1115.
+The Arkansas Employment Security Law was enacted under the police power of the State of Arkansas for the public good and general welfare of the citizens of this State. Ark. Code Ann. §11-10-102(3) (1987). Furthermore, as was the case in Mansfield, supra, benefits are not paid directly by the employer; instead, Ark. Code Ann. § 11-10-501 (1987) provides that all benefits under the Act are payable from the Unemployment Compensation Trust Fund through Employment Security Division offices. The effect on the employer in the case at bar would be limited to the calculation of the rate of contribution to be paid in the future. See Ark. Code Ann. § 11-10-701 et. seq.
+The appellant asserts that Mansfield should be distinguished because the workers’ compensation proceedings at issue in that case involved considerations of public safety which are absent from the unemployment compensation proceeding that gave rise to the case at bar. We find no meaningful distinction on that basis. “Police power” has been defined as “the power vested in the legislature to make, ordain, and establish all manner of wholesome and reasonable laws, statutes, and ordinances ... as they shall judge to be for the good and welfare of the commonwealth, and of the subjects of the same.” Black’s Law Dictionary, 1317 (4th ed. 1968). The furtherance of a State’s goals in the regulation of public welfare has been cited as a factor in determining whether a government unit has exercised police power so as to be exempt from the automatic stay provision of § 362(b)(4). See In re Piperi, 133 B.R. 846 (Bankr. S.D. Tex. 1990). The Employment Security Law of the State of Arkansas was enacted by the Legislature for the specific purpose of alleviating the “serious' menace to the health, morals, and welfare” of the people of Arkansas posed by economic insecurity due to unemployment. Ark. Code Ann. § 11-10-102(1) (1987). We hold that, under the circumstances of the case at bar, the Board of Review did not err in concluding that the administrative hearing was exempted from the automatic stay provisions under subsection (b)(4), and we affirm.
+Affirmed.
+Pittman and Rogers, JJ., agree.
