@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 86-40"
+decided: "1986-09-24"
+citations: ["19 Ark. App. 36", "715 S.W.2d 885"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft, C.J., and Cooper, J., agree."]
+parties: ["William Christopher MILLER, a/k/a Ennis Stanley BLANKENSHIP v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/19/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6643742
+cites_cases: ["15 Ark. App. 269", "16 Ark. App. 241", "17 Ark. App. 237", "286 Ark. 1", "286 Ark. 421", "389 U.S. 109"]
+---
+
+# Miller v. State
+
+## Majority (Tom Glaze, Judge.)
+
+Tom Glaze, Judge.
+Appellant appeals from a conviction for driving while intoxicated. He was fined $2500 and sentenced to three years in the Department of Correction. For reversal, he contends that the trial court erred by (1) overruling his motion for a directed verdict based on the State’s failure to prove certification of the arresting officer, (2) admitting into evidence a breathalyzer log, and (3) admitting into evidence a docket entry of a prior DWI conviction. We affirm.
+Appellant was arrested on February 12,1985, after Officer McFadden of the Springdale Police Department observed appellant’s car straddling the eastbound lanes of Highway 68. Appellant drove his car into a parking lot, and McFadden followed. As appellant got out of his car, he staggered and fell against it. McFadden detected a strong odor of alcohol, and appellant held onto the car to maintain his balance. Appellant’s eyes were “bloodshot” and his speech was slurred. McFadden arrested appellant and took him to the Springdale Police Department. Appellant was given a breathalyzer test which showed his blood alcohol content was .22.
+Appellant first argues the State failed to prove McFadden was a certified police officer. Appellant contends that, because the State failed to introduce McFadden’s certificate reflecting McFadden had completed statutorily-required police training, the State’s evidence based on his testimony should be disallowed. We disagree. Appellant failed to object to McFadden’s testimony or question his status upon cross-examination. Instead, appellant first raised the issue in his motion for directed verdict at the close of the State’s case. This case is distinguishable from Brewer v. State, 286 Ark. 1, 688 S.W.2d 736 (1985), wherein the appellant, prior to trial, moved to dismiss the charges because the arrest was made by an unauthorized auxiliary officer. Because appellant failed to raise the issue in a timely and proper manner before the trial court, we cannot consider it on appeal. Holt v. State, 15 Ark. App. 269, 692 S.W.2d 265 (1985).
+Appellant next argues that the trial court erred by admitting into evidence a breathalyzer log showing all tests performed on the machine from February 8-12, 1985. The log reflects test results of other people and appellant’s result is located at the bottom. Immediately above appellant’s entry is the daily check on the machine. Under Rule 403 of the Uniform Rules of Evidence, appellant argues that the introduction of the entire log was unfair, prejudicial, confusing, and misleading to the jury because appellant’s blood alcohol content was the highest one recorded on it.
+The trial judge, in overruling appellant’s objection, stated that he believed the log was admissible to show that the machine had been calibrated and to show appellant’s test result. He offered, however, to instruct the jury to disregard the other results, or to admit the log with the other results excluded. Appellant stated that he objected to the admission of the log in any form, and that the judge’s instruction would not correct the problems with the document.
+Determining whether the probative value of the evidence is outweighed by its prejudicial impact is within the sound discretion of the trial judge, and we will not reverse his decision absent a showing of an abuse of that discretion. Harper v. State, 17 Ark. App. 237, 707 S.W.2d 332 (1986). Here, the log was clearly admissible for the purpose of showing calibration of the machine and appellant’s test result. The judge, properly we believe, offered to admonish the jury to disregard the other test results or delete them, but appellant rejected this offer. It is well settled that a proper admonition by the trial judge to the jury cures prejudice. Tiggs v. State, 16 Ark. App. 241, 700 S.W.2d 65 (1985). On these facts, we cannot say the judge abused his discretion by admitting the log in its entirety.
+Finally, appellant argues that the trial court erred by considering a prior DWI conviction in setting sentence. On August 25, 1983, appellant was issued a ticket for DWI. On the back of the ticket, a note reflects the appellant was found guilty, ordered to pay a fine and costs, and had his driver’s license suspended. Under a section labeled “Court’s Orders or Notes,” the municipal judge wrote “Rights Explained & waived, Sept. 29, 1983/O.G.L.” Appellant contends that this conviction should not have been used to enhance his sentence because the municipal judge did not specifically state that the right to counsel had been knowingly and intelligently waived. We believe the waiver has been sufficiently demonstrated.
+It is well established that if the record is silent as to representation or waiver, the conviction cannot be used as evidence that the offense charged is the fourth DWI offense, and thus a felony under the statute. Burgett v. Texas, 389 U.S. 109 (1967); Peters v. State, 286 Ark. 421, 692 S.W.2d 243 (1985). Here, however, the record is not silent. The municipal judge, in his own handwriting, noted that appellant’s rights had been explained and waived. We cannot accept appellant’s argument that such a notation was afoul of the rule in Burgett merely because the judge inadvertently failed to include the words “right to counsel” when indicating the appellant’s rights had been explained and waived. We therefore hold that the trial court properly considered the prior conviction in setting sentence.
+Affirmed.
+Cracraft, C.J., and Cooper, J., agree.
