@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 85-463"
+decided: "1986-10-29"
+citations: ["19 Ark. App. 148", "718 S.W.2d 117"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cracraft, C.J., and Mayfield, J., agree."]
+parties: ["BI-STATE ENERGY, INC. v. TIDEWATER COMPRESSION, INC."]
+source_url: "https://static.case.law/ark-app/19/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6647172
+cites_cases: ["213 Ark. 447", "261 Ark. 556", "356 S.W.2d 809", "500 S.W.2d 94", "503 S.W.2d 356"]
+---
+
+# Bi-State Energy, Inc. v. Tidewater Compression, Inc.
+
+## Majority (Donald L. Corbin, Judge.)
+
+Donald L. Corbin, Judge.
+Appellant, Bi-State Energy, Inc., appeals from an order of the Washington County Circuit Court registering appellee’s foreign judgment. We find merit to appellant’s argument that the trial court erred in determining appellant was afforded due process by service of process upon the Texas Secretary of State and reverse.
+The record reflects that appellee, Tidewater Compression, Inc., a Texas corporation, obtained a default judgment against appellant on February 9, 1984, in the District Court of Harris County, Texas, in the amount of $10,525.28 plus interest, attorney’s fees in the sum of $2,630 and court costs of $117. Appellee filed an Application for Registration of Judgment in Arkansas pursuant to Ark. Stat. Ann. § 29-801 et seq. (Repl. 1979). Appellant, an Arkansas corporation, defended on the basis that service of notice of the Texas complaint was defective.
+Appellee had filed suit against appellant in Texas on a lease agreement and sent the summons to a West Fork, Arkansas, address, which appeared on the lease and which appellee contended was the address where it had sent its invoices. The summons was returned stamped “moved, left no forwarding address.” Appellee then served the summons upon the Texas Secretary of State pursuant to the Texas “Long-Arm Statute,” Tex. Rev. Civ. Stat. Ann. art. 2031b (Vernon 1964). The Texas Secretary of State mailed the summons to the West Fork, Arkansas, address and the summons was again returned marked “moved, left no address.” Without any further notice to appellant, appellee obtained a default judgment. Appellant subsequently received notice of the default judgment from the Harris County Circuit Clerk’s office. The clerk’s office sent the notice to appellant in care of its agent for service of process at its Prairie Grove, Arkansas, address, which was listed in appellant’s articles of incorporation.
+It is well settled that statutes providing for service of process upon nonresidents must be strictly construed, reasonable notice to the defendant in a lawsuit being essential to due process of law. Brace v. Concours Auto Market, 261 Ark. 556, 549 S.W.2d 802 (1977), citing Kerr v. Greenstein, 213 Ark. 447, 212 S.W.2d 1 (1948). In Texas, there must be strict compliance with statutes dealing with service on foreign corporations. Texaco, Inc. v. McEwen, 356 S.W.2d 809 (Tex. Civ. App. 1962). A record showing of jurisdiction upon substituted service must meet two major requirements: (1) The pleadings must allege facts which, if true, would make the defendant responsible to answer, or contain allegations making the defendant amenable to process by the use of the long-arm statute; and (2) there must be proof in the record that the defendant was, in fact, served in the manner required by statute. Whitney v. L & L Realty Corp., 500 S.W.2d 94 (Tex. 1973). The defendant’s actual knowledge of the suit, absent proper service, does not put him in court. Scucchi v. Woodruff, 503 S.W.2d 356 (Tex. Civ. App. 1973).
+Service of process upon foreign corporations is governed in Texas by Tex. Rev. Civ. Stat. Ann. art. 2031 b and sections 3 and 5 provide as follows:
+Sec. 3. Any foreign corporation, association, joint stock company, partnership, or non-resident natural person that engages in business in this State, irrespective of any Statute or law respecting designation or maintenance of resident agents, and does not maintain a place of regular business in this State or a designated agent upon whom service may be made upon causes of action arising out of such business done in this State, the act or acts of engaging in such business within this State shall be deemed equivalent to an appointment by such foreign corporation, joint stock company, association, partnership, or nonresident natural person of the Secretary of State of Texas as agent upon whom service of process may be made in any action, suit or proceedings arising out of such business done in this State, wherein such corporation, joint stock company, association, partnership, or non-resident natural person is a party or is to be made a party.
+Sec. 5. Whenever process against a foreign corporation, joint stock company, association, partnership, or nonresident natural person is made by delivering to the Secretary of State duplicate copies of such process, the Secretary of State shall require a statement of the name and address of the home or home office of the non-resident. Upon receipt of such process, the Secretary of State shall forthwith forward to the defendant a copy of the process by registered mail, return receipt requested.
+In the case at bar appellee furnished the following name and address to the Texas Secretary of State: Bi-State Energy, Inc., P. O. Box 369, West Fork, Arkansas, 72774. As previously noted, the summons was returned to the Secretary of State marked “moved, left no address.” When the Texas court entered the default judgment against appellant there was no indication whatever that appellant had received the registered mail or had any reason at all to know that it had been sued in the Texas court. Therefore, it cannot be seriously argued that the record affirmatively showed, as required by Texas law, that the court had personal jurisdiction over appellant. The Texas long-arm statute was not strictly complied with and appellant was not subject to the personal jurisdiction of the Harris County District Court. Accordingly, the trial court erred in permitting the registration of appellee’s foreign judgment and this cause is reversed.
+Reversed.
+Cracraft, C.J., and Mayfield, J., agree.
