@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 97-651"
+decided: "1999-01-13"
+citations: ["65 Ark. App. 5", "983 S.W.2d 83"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Neal and Meads, JJ., agree."]
+parties: ["BOB COLE BAIL BONDS, INC. v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/65/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136166
+cites_cases: ["298 Ark. 461", "319 Ark. 327", "328 Ark. 178", "Ark. Code Ann. § 16-84-201"]
+---
+
+# Bob Cole Bail Bonds, Inc. v. State
+
+## Majority (Wendell L. Griffen, Judge. Bob)
+
+Wendell L. Griffen, Judge. Bob
+Cole Bail Bonds appeals the Union County Circuit Court’s forfeiture order for a $100,000 appearance bond posted on behalf of Eric Brown, a criminal defendant. Appellant alleges on appeal that the trial court failed to give the form of notice required by statute because the summons issued by the trial court was directed to its street address rather than the post-office box address stated on the bond. We hold that the failure to strictly comply with Ark. Code Ann. § 16-84-201(a)(l)(B) (Supp. 1997) was reversible error. Therefore, we reverse.
+Eric Romane Brown was charged with delivery of a controlled substance (crack cocaine) in Union County Circuit Court. Bob Cole Bail Bonds, Inc., issued a $100,000 appearance bond on Brown’s behalf on February 24, 1996. Brown failed to attend a court proceeding on July 30, 1996, so the trial court issued an order to the Sebastian County Sheriff that Bob Cole Bail Bonds be summoned to appear within 120 days ofjuly 31, 1996, to show cause why judgment should not be rendered against it for the face value of the bond ($100,000). The summons was sent to Bob Cole Bail Bonds at 707 Rogers Avenue in Fort Smith — the business address — rather than to Post Office Box 10176, Fort Smith, Arkansas 72917, which was the address shown on the bond to which correspondence was to be forwarded. The summons was received by the wife of an agent for Bob Cole Bail Bonds on August 5, 1996. Bob Cole received actual notice of Brown’s failure to appear the following day. By order dated January 24, 1997, the $100,000 appearance bond posted on behalf of Brown was forfeited. Bob Cole Bail Bonds appeals that order of forfeiture on the ground that the trial court did not send the notice as required by the statute.
+The State argues that the trial court substantially complied with the requirements of the statute and that Bob Cole Bail Bonds was not prejudiced because it had actual notice of Eric Brown’s nonappearance. Arkansas Code Annotated section 16-84-201(a)(1)(A) (Supp. 1997) provides:
+If the defendant fails to appear for trial or judgment, . . . the court may direct the fact to be entered on the minutes, and shall promptly issue an order requiring the surety to appear, on a date set by the court not less than ninety (90) days nor more than one hundred twenty (120) days after the issuance of the order, to show cause why the sum specified in the bail bond or the money deposited in lieu of bail should not be forfeited.
+Arkansas Code Annotated section 16-84-201(a)(l)(B) (Supp. 1997) explains the procedure by which notice should be given to the surety: “The one hundred twenty-day period begins to run from the date notice is sent by certified mail to the surety company at the address shown on the bond, whether or not it is received by the surety.” (Emphasis added.)
+In AAA Bail Bond Company v. State, 319 Ark. 327, 891 S.W.2d 362 (1995), the Arkansas Supreme Court held that a trial court’s judgment of forfeiture of a bail bond was improperly entered against the surety and that the fact that a surety had actual knowledge of the defendant’s nonappearance before it received written notification did not constitute substantial compliance with the statute’s express requirement that written notification commence the 120-day period. Id. The AAA court rejected the State’s argument that actual knowledge of the defendant’s failure to appear constituted substantial compliance with the statute. The court found that argument unpersuasive “in view of the statute’s clear and express requirement that written notification of [the defendant’s] nonappearance be given to appellant to commence the 120-day period.” Id.
+In Holt Bonding Co. v. State, 328 Ark. 178, 942 S.W.2d 834 (1997), where the record failed to reflect notice to the surety within the time limits specified in the statute and forfeiture was entered before a show-cause order was issued, the supreme court again held that reversible error resulted from the State’s noncompliance with the terms of the statute. Id. In Holt, the order forfeiting the bond was entered without a show-cause order having been issued. Thus, the supreme court found it persuasive that the surety had “no written notice that the trial court was considering forfeiture of its bond.” Id. In responding to the argument that, although the “trial court’s forfeiture order entered in this matter failed to meet the exact terms or requirements of [the statute], . . . the procedures followed and orders issued accomplished the statute’s purpose,” the court stated that, as in AAA, strict construction of the statute is required. Holt at 181. The Holt court explained the reason behind strictly construing the statute: “such requirements, being in derogation of common-law rights, must be strictly construed and compliance with them must be exact.” Holt, supra (emphasis added).
+As the supreme court stated in Holt, “actual knowledge of a proceeding does not validate defective process.” Id. (Citing Wilburn v. Keenan Cos., 298 Ark. 461, 768 S.W.2d 531 (1989)). The standard is clear. The statutory notice requirements prescribed by Ark. Code Ann. § 16-84-201(a)(l)(B) (Supp. 1997) must be strictly and exactly followed by the trial court. Here, they were not where the trial court directed that summons be directed to appellant at a different address from the address shown on the bond. Therefore, the trial court erred when it held a forfeiture proceeding after failing to comply with the statute.
+Reversed.
+Neal and Meads, JJ., agree.
