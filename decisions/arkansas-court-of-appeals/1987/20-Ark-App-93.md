@@ -1,0 +1,37 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 86-168"
+decided: "1987-02-18"
+citations: ["20 Ark. App. 93", "724 S.W.2d 191"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayfield and Cracraft, JJ., agree."]
+parties: ["Jerry THARP v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/20/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6646598
+cites_cases: ["11 Ark. App. 282", "156 Ark. 205", "16 Ark. App. 143", "19 Ark. App. 84", "223 Ark. 330", "246 S.W. 503", "251 Ark. 650", "262 Ark. 407", "264 Ark. 479", "267 Ark. 1172", "268 Ark. 535", "274 Ark. 379", "288 Ark. 101", "290 Ark. 130", "511 S.W.2d 493", "702 S.W.2d 2", "717 S.W.2d 784"]
+---
+
+# Tharp v. State
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+The appellant, Jerry Tharp, was charged with sexual abuse in the first degree. At trial, there was substantial evidence that on August 6, 1985, appellant sexually abused his ten-year-old stepnephew. He was found guilty by a jury and sentenced to five years in prison.
+On appeal he argues three points. Because we agree with his first argument, that the trial court erred in admitting evidence of other crimes, we do not reach the other issues appellant raises. We must reverse and remand for a new trial.
+After the victim in this case had testified about the abuse for which the appellant was charged, the state was permitted to introduce evidence of another incident of sexual misconduct involving the appellant, the victim, and another child which occurred a week later. At trial, the state argued that the second incident was admissible as part of the res gestae. On appeal, the state candidly concedes that the evidence was not admissible on that basis.
+The state also introduced into evidence, over objection, the appellant’s confession in which he admitted to sexual misconduct with the victim and also admitted to various acts of sexual misconduct with three other boys. The record does not reflect whether the latter acts occurred before or after the offense charged. At trial, the prosecutor argued that if part of a confession is admissible, all of it is admissible. Again, on appeal, the state concedes that this is not the law.
+The appellant’s argument is that under A.R.E. Rule 404(b), this evidence was inadmissible. That rule provides:
+Evidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show that he acted in conformity therewith. It may, however, be admissible for other purposes, such as proof of motive, opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake or accident.
+The state counters with the argument that, although the evidence was inadmissible for the purposes offered, it may have been admissible to prove intent, motive, or plan.
+In 1954, the supreme court put an end to its prior practice of saying loosely that proof of recent, similar crimes is admissible to show intent. Alford v. State, 223 Ark. 330, 266 S.W.2d 804 (1954); Johnson v. State, 288 Ark. 101, 702 S.W.2d 2 (1986). Alford was a rape case in which the state had introduced evidence of a recent prior rape attempt to prove intent. Justice George Rose Smith, speaking for the court, pointed out that the issue of intent is theoretically present in every case. The holding in Alford is that unless there is independent relevance, proof of other offenses is inadmissible. The court characterized the issue as one going “to the very heart of fairness and justice in criminal trials.” Alford at 339, 266 S.W.2d at 809.
+We have recognized that Rule 404(b) was virtually a codification of Alford and the cases following it. Price v. State, 267 Ark. 1172, 599 S.W.2d 394 (Ark. App. 1980).
+Turning first to the evidence of sexual abuse by the appellant of this victim and another child which occurred one week after the offense for which the appellant was charged, we recognize the rule that proof of prior incestuous acts with the same person is admissible. Johnson, supra; Free v. State, 19 Ark. App. 84, 717 S.W.2d 215 (1986); Collins v. State, 11 Ark. App. 282, 669 S.W.2d 505 (1984). The reason it is admissible is that the prior acts show “the relation and intimacy of the parties, their disposition and antecedent conduct toward each other,” Williams v. State, 156 Ark. 205, 246 S.W. 503 (1922) (emphasis added). The problem in the case at bar is that the evidence concerned an offense committed after the one for which the appellant was charged. This evidence is not logically relevant to some independent issue in the case and does not fall within the rule established in Williams. See also Rios v. State, 262 Ark. 407, 557 S.W.2d 198 (1977).
+Regarding that portion of appellant’s confession in which he admitted to sexual misconduct with other persons, we note first that the rule in Williams applies only to prior acts between the same parties. Johnson, supra. The state concedes that evidence of other offenses is not automatically admissible simply because it is contained in a confession. See 29 Am. Jur. 2d Evidence §§ 536 and 538 (1967); Alvarez v. State, 511 S.W.2d 493 (Tex. Crim. App. 1973). The state argues that the evidence may be admissible under the holding of White v. State, 290 Ark. 130, 717 S.W.2d 784 (1986). In White, the defendant was charged with the beating death of his wife. The court held that it was not improper to introduce evidence concerning a prior beating several weeks before. The court said the situation was analogous to child abuse and incest cases and cited the rule in Williams. The court also cited Limber v. State, 264 Ark. 479, 572 S.W.2d 402 (1978) and Van Sickle v. State, 16 Ark. App. 143, 698 S.W.2d 308 (1985). Limber and Van Sickle were physical child abuse cases in which evidence of physical abuse of other children in the same household was allowed. In Limber, Van Sickle, and White the evidence appears to have been independently relevant to show absence of mistake or accident.
+Because the case must be remanded for retrial we need not decide whether the evidence of other offenses contained in the appellant’s confession should have been excluded. This is particularly true as the evidence was not offered under Rule 404(b). If, on retrial, those portions of the confession relating to the commission of extraneous offenses are offered under Rule 404(b), it is for the trial court to determine first whether the evidence is genuinely relevant to some independent issue in the case, as opposed to proving only that the appellant is a bad man. Sweatt v. State, 251 Ark. 650, 473 S.W.2d 913 (1971). If the independent relevancy of this evidence is established, the trial court is then obliged to scrutinize the evidence under A.R.E. Rule 403. Price v. State, 268 Ark. 535, 597 S.W.2d 598 (1980); Jones v. State, 274 Ark. 379, 625 S.W.2d 471 (1981). Rule 403 provides:
+Although relevant, evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence.
+Here, the trial court has not yet had an opportunity to apply the balancing test of Rule 403.
+Reversed and remanded.
+Mayfield and Cracraft, JJ., agree.
