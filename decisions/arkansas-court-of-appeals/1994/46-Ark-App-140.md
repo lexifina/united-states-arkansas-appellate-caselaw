@@ -1,0 +1,45 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 93-466"
+decided: "1994-06-15"
+citations: ["46 Ark. App. 140", "878 S.W.2d 1"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper, J., dissents."]
+parties: ["Diane HARRIS v. HANSON INDUSTRIES and Travelers Insurance Company"]
+source_url: "https://static.case.law/ark-app/46/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138411
+cites_cases: ["20 Ark. App. 136", "33 Ark. App. 116"]
+---
+
+# Harris v. Hanson Industries & Travelers Insurance
+
+## Majority (Melvin Mayfield, Judge.)
+
+Melvin Mayfield, Judge.
+This is an appeal from the Arkansas Workers’ Compensation Commission.
+At a hearing before an administrative law judge on January 22, 1992, it was stipulated that appellant suffered a compensable injury on February 6, 1989, that appellee paid temporary disability through August 1, 1990, and that appellee paid a 12 percent rating to the body subsequent to that date. The appellant contended that she was entitled to continued total disability benefits for an indefinite period of time and to treatment by Dr. John Yocum. The appellees contended appellant was not entitled to additional permanent disability benefits and that the treatment which had been rendered by Dr. Yocum was an unauthorized change of physician. This appeal involves only the treatment rendered by Dr. Yocum up to the date of the law judge’s opinion.
+The appellant testified that she fell on ice while at work, hitting her shoulder and hip. She was treated first in the emergency room at Warner Brown Hospital in El Dorado and subsequently by El Dorado doctors Gary Bevill (her family physician), J.C. Callaway and Robert S. Bell (orthopedic surgeons), and Dr. David L. Reding (a Little Rock neurosurgeon). Appellant testified that she got no better under the treatment of any of these physicians and that there was nothing comfortable that she could do. On March 17, 1989, appellant signed an A-29 form.
+On July 5, 1989, Dr. Bevill released appellant to return to work. She went back and tried to work, but had to go home after approximately two hours. Appellant testified that she returned to Dr. Bevill who really did not know what her problem was, and he said he could refer her to another physician if she liked. Appellant said she first asked about Dr. Grimes (a Little Rock orthopedic surgeon); that Dr. Bevill said it would take a long time to get an appointment with him but maybe he could get her an appointment with another physician in the same suite of offices; that Dr. John Yocum’s name then came up and she said “fine.” Appellant testified that Dr. Bevill made the call to Dr. Yocum and made her first appointment.
+Appellant was first seen by Dr. Yocum on July 12, 1989, and on that same day, Dr. Yocum wrote Dr. Bevill it was his impression that appellant was developing a frozen shoulder.
+On July 13, 1989, Dr. Bevill wrote to appellee Travelers Insurance Company (appellee’s insurance carrier) that appellant continues to have pain and has requested a second opinion by an out-of-town orthopedic doctor, and “this is being arranged at the present time.”
+The medical records show that on January 15, 1990, Dr. Yocum reported in a letter to Travelers that he had performed arthroscopy on appellant’s left shoulder, and she was admitted post-operatively to the Baptist Medical Center and discharged on January 16, 1990. The record also shows that after Dr. Bevill wrote Travelers on July 13, 1989, that appellant “has requested a second opinion by another out-of-town orthopedic doctor” and that “this is being arranged at the present time,” Dr, Yocum wrote to Travelers during the period of August 9, 1989, through November 29, 1991, some 21 letters informing them of appellant’s progress. These letters show that after Dr. Yocum had treated appellant for a long period of time, keeping Travelers informed of these treatments, he wrote them on January 11, 1990, that he thought “arthroscopic acromioplasty is now warranted” and that “I will schedule her for this at Baptist Medical Center.” The appellees even admitted paying part of Dr. Yocum’s bill, but said this was done by mistake.
+The law judge issued an opinion which held that appellant was not entitled to total disability for an indefinite period, and the treatment of Dr. Yocum was unauthorized; however, he appointed Dr. Yocum “as claimant’s authorized treating physician.” The full Commission also found Dr. Yocum’s past treatment to be unauthorized. The Commission stated:
+In summary, claimant knew the procedure to be followed in order to change physicians and was represented by an attorney. If she had wanted to change physicians to Dr. Yocum, her attorney could have filed a petition for a change and this current problem admittedly would not have arisen. However, claimant did not follow that procedure; therefore, respondent is not liable for Dr. Yocum’s treatment.
+On appeal, appellant contends Dr. Yocum’s treatment was a referral and a written request for change of physician was not required; that Travelers Insurance Company waived its right to object to Dr. Yocum’s treatment by paying his bills; and that Travelers Insurance Company is estopped to deny benefits because appellant relied upon Travelers’ position that it would accept Dr. Yocum and did not file a change of physician form. Appellant argues that the carrier knew that a formal request for a change of physician had not been filed, but did not demand it or object, and that she relied in good faith on the carrier’s conduct and changed her position to her detriment. Appellant asserts that the issue of waiver was raised before the law judge and that the issue of estoppel was raised in her brief before the Commission. She states that in a brief to the Commission she argued as follows:
+The crux of this case is this: If the carrier wanted to dispute the treatment and care by Dr. John H. Yocum, they should have done so early on and not paid the bill. I could have then come into court, got a change of physician to Dr. Yocum, and this problem would never have arisen. Therefore, they should have waived the right to contest the change of physician and should be estopped to deny it. It is even more interesting that the ALJ has now appointed Dr. Yocum as the treating physician.
+The remainder of Dr. Yocum’s bill should be ordered paid.
+This brief is not in the record before this court, but the Commission’s opinion refers to appellant’s brief to the Commission in the discussion of its holding that Dr. Yocum’s treatment was unauthorized. The law judge’s opinion refers to appellant’s contention of waiver, but the Commission’s opinion makes no finding as to whether the carrier had waived the right to contest the change of physician or was estopped from denying it. Because these issues appear to have been before the Commission, and have been argued by both parties in this court, we find that this matter should be remanded to the Commission for a finding on the issues of waiver and estoppel.
+We, therefore, defer final ruling in this appeal until the Commission files with this court a copy of its opinion ruling on the issues of waiver and estoppel. No additional evidence should be taken by the Commission, and we leave to it the question of whether it should have additional briefs from the parties.
+Remanded.
+Cooper, J., dissents.
+
+## Dissent (James R. Cooper,)
+
+James R. Cooper,
+dissenting. I dissent because I believe, that there is no substantial evidence to support the Commission’s finding that Dr. Yocum’s treatment resulted from an unauthorized change of physician. In my view, reasonable minds could, on this record, conclude only that Dr. Yocum’s treatment followed a valid referral.
+We have held that a request for a referral from a treating physician does not constitute a change of physician so long as the request does not result from “doctor shopping.” TEC v. Underwood, 33 Ark. App. 116, 802 S.W.2d 481 (1991). Furthermore, in White v. Lair Oil Co., 20 Ark. App. 136, 725 S.W.2d 10 (1987), we reversed the Commission’s finding of a change-of-physician where the treating physician sent the claimant to a specialist, holding that this constituted a referral which the Commission erroneously characterized as a change of physician.
+In the case at bar, the appellant continued to suffer from a condition which Dr. Bevill was unable to cure or diagnose. Given this background, no legitimate inference of “doctor shopping” can be drawn on the basis of the appellant’s request for a referral, especially in light of her willingness to accept a referral to a physician other than the one she suggested. Furthermore, the referral was from the appellant’s family physician to an orthopedic specialist. I submit that, under these circumstances and the authorities cited supra, reasonable minds could only conclude that Dr. Yocum’s treatment resulted from a valid referral. I would reverse and remand with directions to award benefits.
+I respectfully dissent.
