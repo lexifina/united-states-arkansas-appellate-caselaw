@@ -1,0 +1,28 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 82-99"
+decided: "1982-11-24"
+citations: ["6 Ark. App. 376", "642 S.W.2d 342"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lisa GRAHAM v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/6/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6143051
+cites_cases: ["1 Ark. App. 155", "264 Ark. 874"]
+---
+
+# Graham v. State
+
+## Majority (Tom Glaze, Judge.)
+
+Tom Glaze, Judge.
+Appellant was convicted of second degree murder and sentenced to three years imprisonment. She raises two issues on appeal: (1) that the trial court erred in admitting into evidence the testimony of two doctors who performed physical examinations on her, and (2) that the court erred in denying her motion for a directed verdict of acquittal because there was insufficient evidence to sustain a conviction. We need not decide appellant’s first argument because even when we consider the doctors’ testimonies, the State’s evidence fails to show appellant committed murder.
+On appeal we review the evidence in the light most favorable to the appellee and affirm if there is substantial evidence. Substantial evidence means that the jury could have reached its conclusion without having to resort to speculation and conjecture. The fact that evidence is circumstantial does not render it insubstantial. Wrather v. State, 1 Ark. App. 155, 613 S.W.2d 601 (1981).Butin orderfor circumstantial evidence to be sufficient to support a finding of guilt in a criminal case, it must exclude every other reasonable hypothesis consistent with innocence. Smith v. State, 264 Ark. 874, 575 S.W.2d 677 (1979).
+Viewed in the light most favorable to the State, the evidence proved that the body of a black female infant was retrieved from the Bayou Mason in Desha County on May 17, 1981. On May 19, 1981, the State Medical Examiner, Dr. Fahmy Malak, performed an autopsy on the body and concluded it was a black, female infant resulting from a nine-month pregnancy. Malak stated that the baby had been born alive and died from being struck on the head. The baby had been dead at least four days before the autopsy was performed.
+On June 11, 1981, appellant consented to separate physical examinations conducted by Dr. Virgil Hayden and Dr. Rodger D. House. Both doctors testified that their examinations revealed a substantial likelihood that appellant had recently been pregnant and delivered a child. Dr. House testified that appellant told him that she had never been pregnant and never had an abortion or a spontaneous loss. House estimated that appellant had been pregnant and delivered a baby more than six weeks prior to his examination on June 11. Other witnesses included a school teacher who saw appellant in April and May of 1981, and who believed appellant was pregnant at the time. Another woman, Hattie Johnson, testified that she saw appellant in May or June or 1981 and that she looked pregnant.
+The State concedes that the evidence is far from overwhelming but argues there was sufficient evidence for the jury to conclude that appellant gave birth to the deceased infant and that she was responsible for the baby’s death. In sum, the State contends the evidence shows that (1) appellant was pregnant but denied it, and (2) she had a baby but concealed that fact from others. These two conclusions, the State argues, lead logically to a third: appellant disposed of — murdered — the baby under circumstances designed to conceal its birth. Such a conclusion is clearly speculative and one in which we cannot indulge.
+It is the duty of this Court to set aside a judgment based upon evidence that did not meet the required standards, left the fact finder only to speculation and conjecture in choosing between two equally reasonable conclusions and merely gave rise to a suspicion of guilt. Smith v. State, supra. Here, there is no evidence that even tends to prove the deceased baby was appellant’s. Nor did the evidence establish that she had anything to do with the baby’s death. The most the evidence shows is that appellant was pregnant, she delivered a baby, and she did not reveal the baby’s whereabouts. Even these conclusions are left open to doubt by the medical evidence. Dr. House said that although his medical opinion was that she had been pregnant, he still had some doubt. House stated his uncertainty was due to appellant’s faiure to emit a discharge, called lochia, a normal occurrence for about six weeks after a pregnancy. Neither Dr. House nor Dr. Hayden could testify that appellant had a full-term pregnancy, assuming she had been pregnant. The only evidence which may have possibly connected appellant as the deceased infant’s mother became unavailable when the baby’s body was lost. Apparently, the State Medical Examiner’s office had planned to have a test performed in Washington, D.C., which, at least, could have excluded appellant as being the baby’s mother. Before those plans could be acted upon, whoever had possession of the body lost it and it was never found.
+Because the medical evidence tended to show that appellant was pregnant and that she denied it, perhaps it could be concluded that a logical suspicion arose that appellant was the newly found baby’s mother. However, a suspicion is all it remained. There are young women who often times have their own reasons for never disclosing or admitting a pregnancy to others. We certainly cannot conclude from that fact alone that appellant or any other woman was responsible for the sad, unfortunate loss of life found in the Bayou Mason. We must reverse and dismiss.
+Reversed and dismissed.
