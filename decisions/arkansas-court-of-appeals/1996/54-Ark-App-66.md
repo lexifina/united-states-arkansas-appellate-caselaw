@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 95-398"
+decided: "1996-06-12"
+citations: ["54 Ark. App. 66", "923 S.W.2d 876"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Robbins and Stroud, JJ., agree."]
+parties: ["Raphael FARMER v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/54/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137087
+cites_cases: ["303 Ark. 79", "306 Ark. 329", "314 Ark. 628", "322 Ark. 178", "323 Ark. 244", "373 U.S. 83", "473 U.S. 667"]
+---
+
+# Farmer v. State
+
+## Majority (JAMES R. Cooper, Judge.)
+
+JAMES R. Cooper, Judge.
+The appellant was convicted in a jury trial of delivery of a controlled substance and sentenced to eleven years in the Arkansas Department of Correction. On appeal, he argues that the trial court erred in denying his motion for a new trial because the State failed to disclose that its sole material witness had filed a false police report and had resigned from the police department prior to trial. We agree and reverse and remand.
+At the appellant’s trial on October 27, 1994, the State’s witness, Officer Elliott Johnson, testified that the appellant sold him crack cocaine. Johnson testified that he was investigating narcotics activity in a housing project area on March 9, 1994. He testified that at approximately 5:15 p.m., he and a confidential informant were flagged down by the appellant who was driving a Chevrolet truck with license plate number TWY 553. He testified that he purchased $20.00 worth of crack cocaine from the appellant.
+Johnson testified that he saw the appellant driving the same truck again on April 12, 1994. He radioed other officers to stop the appellant’s vehicle in order to identify and photograph him. Johnson testified that there was no doubt that the appellant was the person who sold him the cocaine. Three alibi witnesses testified on the appellant’s behalf. During closing arguments, the prosecutor stated:
+Can he [Johnson] make an identification after just looking at somebody for five minutes? Well, yes, I think he can. He’s a detective, a professional at that. . . . This is a police officer who is making a buy of cocaine. . . . He would pay attention to that kind of thing. That’s what he’s trained to do.
+The appellant filed a motion for a new trial on December 1, 1994, after discovering that Johnson was not, in fact, a police officer at the time of the trial. Captain Sam Williams of the Little Rock Police Department testified during the hearing on the appellant’s motion for a new trial. He testified that on September 11, 1994, Officer Johnson informed a supervisor that his city-supplied car had been stolen out of the driveway of his home in Little Rock. Captain Williams testified that approximately three to four weeks later it was determined that the car had not been stolen but that Johnson had wrecked it in Tunica, Mississippi, and had been unable to return the vehicle to Little Rock. Captain Williams explained that taking the car to Tunica was a violation of police department rules. Captain Williams further testified that Johnson had filed a false police report. Johnson resigned from the Police Department on October 4, 1994, and thus was not employed as a police officer at the time of the trial. The prosecuting attorney admitted at the hearing that it had been discussed prior to trial that Johnson should not be asked at trial where he was employed.
+The appellant argues that he was prejudiced by the State’s failure to disclose that Johnson had filed a false police report and had resigned from the police department because he was prevented from using that information to attack Johnson’s credibility. He also argues that the State’s failure to disclose this information amounted to prosecutorial misconduct. This second argument, however, was not made to the trial court and hence, it is not preserved for appeal. We do not consider arguments raised for the first time on appeal. Walker v. State, 314 Ark. 628, 864 S.W.2d 230 (1993).
+Here, the appellant filed a discovery motion on September 7, 1994. The State did not disclose any information regarding Johnson’s resignation although it had knowledge of it prior to trial. Rule 17.1(d) of the Arkansas Rules of Criminal Procedure incorporates the due process requirement that evidence favorable to a defendant on issues of guilt or punishment be disclosed by the prosecutor. Brady v. Maryland, 373 U.S. 83 (1963); Yates v. State, 303 Ark. 79, 794 S.W.2d 133 (1990). Insofar as the rule requires pretrial disclosure, it represents an extension of the Brady mandate. Yates, supra. The Brady rule has been interpreted to include impeachment, as well as exculpatory evidence. United States v. Bagley, 473 U.S. 667 (1985). Rule 19.2 further imposes a continuing duty on the prosecutor to disclose this information.
+If the State fails to provide information pursuant to pretrial discovery procedures, the burden is on the appellant to establish that the omission was sufficient to undermine confidence in the outcome of the trial. Bray v. State, 322 Ark. 178, 908 S.W.2d 88 (1995). The key in determining whether a reversible discovery violation exists is whether the appellant was prejudiced by the prosecutor’s failure to disclose. Mosley v. State, 323 Ark. 244, 914 S.W.2d 731 (1996).
+In the case at bar, the State’s case was based upon Johnson’s testimony and his identification of the appellant as the person who sold him the crack cocaine. Consequently, the importance of the evidence that would have been used to attack Johnson’s credibility cannot be minimized. The appellant’s defense depended on bringing into question Johnson’s credibility. Furthermore, the evidence of the appellant’s guilt is not overwhelming absent Officer Johnson’s testimony, see Hall v. State, 306 Ark. 329, 812 S.W.2d 688 (1991), and given the close proximity ofjohnson’s resignation to the time of trial, we cannot say that the appellant was not diligent in attempting to discover this information during his own investigation prior to trial. We conclude that the appellant was prejudiced by the State’s failure to disclose the information regarding Johnson’s resignation, and thus find that the trial court abused its discretion in denying the appellant a new trial.
+Reversed and remanded.
+Robbins and Stroud, JJ., agree.
