@@ -1,0 +1,40 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 01-477"
+decided: "2001-11-28"
+citations: ["76 Ark. App. 18", "61 S.W.3d 190"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BIRD and Roaf, JJ., agree."]
+parties: ["John Loyd HARTSFIELD v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/76/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6136626
+cites_cases: ["280 Ark. 453", "287 Ark. 228", "314 Ark. 165", "345 Ark. 103", "438 U.S. 154"]
+---
+
+# Hartsfield v. State
+
+## Majority (JOHN E. JENNINGS, Judge.)
+
+JOHN E. JENNINGS, Judge.
+John Hartsfield entered a condi-J tional plea of guilty to a charge of manufacturing methamphetamine, reserving the right to contest on appeal the issue of the validity of the search of his home. Hartsfield was sentenced to ten years’ imprisonment with five years suspended. On appeal he contends that the trial court should have granted his motion to suppress the evidence for the invalidity of the search warrant. We agree and reverse and remand.
+On December 7, 1999, Narcotics Investigator Terry Clark, an employee of the Thirteenth Judicial District Drug Task Force, presented an affidavit for a search warrant to a judge. A warrant was issued and immediately executed, and incriminating evidence was found. Mr. Clark’s affidavit stated:
+A. On 07/27/98, I arrested John Hartsfield who was involved in a shooting. At that time, I learned from his wife that he and her had just been to Mexico and picked up a large quantity of prescription drugs. Some of these were found in the vehicle at the time of his arrest.
+B. Over the last two months, Chief Deputy Johnny Green had advised me that he had received information from four separate individuals who are known to him as being of good standing in the community that crystal methamphetamine was being manufactured and sold from the residence of John Hartsfield.
+C. Over the last 30 days, I received information from an individual which has provided me with information in the past that proved to be true that led to the arrest of persons. That he had been to the residence of John Hartsfield and gotten red phosphorous and a bottle of sulfuric acid from Hartsfield, which are used in the manufacture process of crystal methamphetamine. While at the residence he noticed that Hartsfield was in the process of drying some crystal methamphetamine that had already been cooked. He went on to state that he saw items of glassware along with other red phosphorous inside the residence.
+D. I then spoke with Chief Deputy Raymond Naylor of the Dallas County Sheriffs Depart., who told me that he had spoken with a person known to him as being reliable and who had also been to the residence of Hartsfield and saw red phosphorous and chemicals inside the residence.
+E. On 12/07/99, I went to the residence of Hartsfield to investigate the information I had received in hopes of being able to speak with him. I then went to the door, rang the doorbell and knocked on the door to no avail. As I went to leave the residence, I noticed trwo pieces of plastic tubing beside the door that appeared in my experience to have [been] used as a piece of a HCL generator, which is used in the manufacture of crystal methamphetamine along with a funnel with a reddish tint to it that to me in my experience indicates the presence of iodine which is indicative to a crystal methamphetamine lab.
+The controlling case is Franks v. Delaware, 438 U.S. 154 (1978). In Franks the United States Supreme Court held that:
+[W]here the defendant makes a substantial preliminary showing that a false statement knowingly and intentionally, or with reckless disregard for the truth, was included by the affiant in the warrant affidavit, and if the allegedly false statement is necessary to finding of probable cause, the Fourth Amendment requires that a hearing be held at the defendant’s request. In the event that at that hearing the allegation of pegury or reckless disregard is established by the defendant by a preponderance of the evidence, and, with the affidavit’s false material set to one side, the affidavit’s remaining content is insufficient to establish probable cause, the search warrant must be voided and the fruits of the search excluded to the same extent as if probable cause was lacking on the face of the affidavit.
+Under Franks, if false or erroneous statements meet the standard of knowing deception or reckless disregard, the next step is to extract such statements, examine the remainder, and determine if probable cause exists. Pyle v. State, 314 Ark. 165, 862 S.W.2d 823 (1993).
+The trial court properly applied the first part of the Franks test at the suppression hearing. The court stated that it gave “absolutely no credence” to the information contained in section B of the affidavit, on the basis that the testimony of Chief Deputy Johnny Green totally contradicted the testimony of Investigator Clark. The trial court also rejected paragraph E of the affidavit. It is clear that the basis for this rejection was the court’s perception that Clark’s testimony at the suppression hearing was not truthful. Nevertheless, the trial court held that the remaining paragraphs of the affidavit were sufficient to establish probable cause for the issuance of the search warrant. We cannot agree.
+Paragraph A of the affidavit does not establish that the appellant had committed a crime in 1998. Even if it had, the statement would have been entitled to no weight under Yancey v. State, 345 Ark. 103, 44 S.W.3d 315 (2001) (holding that the known criminal averment is not only insufficient to support a finding of reasonable cause for issuance of a warrant, but is entitled to no weight whatsoever).
+The trial court upheld the affidavit on the basis of paragraphs C and D of the affidavit. Paragraph C recites that within thirty days preceding the execution of the affidavit, Clark received certain information from a confidential informant that the informant had been to Hartsfield’s residence and, in effect, observed the manufacture of methamphetamine. In Collins v. State, 280 Ark. 453, 658 S.W.2d 877 (1983), the court said:
+It is the uniform rule that some mention of time must be included in the affidavit for a search warrant. . . . The only softening of this position occurs when time can be inferred from the information in the affidavit. For example, where an affidavit recited that the contraband was “now” in the suspect’s possession and that the search was urgent, that was found to be adequate to satisfy the time requirement. ... In another case where the affidavit said that contraband was “recendy” seen, coupled with the use of present tense as to the location of the contraband, that was held to be sufficient. . . . Time is crucial because a magistrate must know that criminal activity or contraband exists where the search is to be conducted at the time of the issuance of the warrant. . . . That is not an unreasonable nor technical demand of the law. (Citations omitted.)
+It is clear that the “time” that is critical is the “time during which the criminal activity was observed.” See Herrington v. State, 287 Ark. 228, 697 S.W.2d 899 (1985).
+We can tell from the affidavit that Investigator Clark received the information from the confidential informant within thirty days immediately preceding the execution of the affidavit, but the affidavit provides no clue at all as to when the informant’s observation was made. Under these circumstances this paragraph cannot be deemed to supply the requisite probable cause. See Herrington v. State, supra. Paragraph D of the affidavit is likewise deficient.
+The trial court struck out the second and fifth paragraphs of the affidavit for a search warrant pursuant to the Supreme Court’s decision in Franks. What is left cannot fairly be characterized as establishing probable cause for the issuance of the warrant.
+Reversed and remanded.
+BIRD and Roaf, JJ., agree.
