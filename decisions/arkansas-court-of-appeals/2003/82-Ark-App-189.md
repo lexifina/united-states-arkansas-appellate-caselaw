@@ -2,7 +2,7 @@
 court: "Arkansas Court of Appeals"
 docket: "CA CR 02-921"
 decided: "2003-05-14"
-citations: ["82 Ark. App. 189", "119 S.W.3d 513", "82 Ark. App. 201", "119 S.W.3d 526"]
+citations: ["82 Ark. App. 189", "119 S.W.3d 513"]
 reporter: "ark-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["David M. DYE v. STATE of Arkansas"]
 source_url: "https://static.case.law/ark-app/82/cases/0189-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6139497
-cites_cases: ["215 Ark. 879", "226 Ark. 27", "263 Ark. 69", "310 Ark. 212", "343 Ark. 652", "42 S.W. 408", "5 Ark. 510", "64 Ark. 317", "833 S.W.2d 766", "Ark. Code Ann. § 5", "Ark. Code Ann. § 5-1-109"]
+cites_cases: ["215 Ark. 879", "226 Ark. 27", "263 Ark. 69", "343 Ark. 652", "42 S.W. 408", "5 Ark. 510", "64 Ark. 317", "Ark. Code Ann. § 5", "Ark. Code Ann. § 5-1-109"]
 ---
 
 # Dye v. State
