@@ -1,0 +1,37 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 93-1350"
+decided: "1994-12-14"
+citations: ["48 Ark. App. 54", "889 S.W.2d 772"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jennings, C.J., and Robbins, J., agree."]
+parties: ["Margaret MORRELL v. L.C. MORRELL"]
+source_url: "https://static.case.law/ark-app/48/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137085
+cites_cases: ["298 Ark. 494", "41 Ark. App. 29"]
+---
+
+# Morrell v. Morrell
+
+## Majority (Judith Rogers, Judge.)
+
+Judith Rogers, Judge.
+Margaret Morrell has appealed from an order of the Franklin County Probate Court dismissing her petition to appoint a guardian of the person and the estate of her mother, Bethel Mae Morrell. On appeal, appellant does not question the sufficiency of the evidence supporting the probate judge’s finding that Mrs. Morrell is competent. Instead, appellant simply argues that the probate judge erred in entering an order denying the guardianship petition after announcing from the bench at the conclusion of the hearing that he would appoint a guardian for Mrs. Morrell. We affirm.
+Appellant petitioned the probate court for the appointment of a guardian of her mother’s person and estate in April 1993. Mrs. Morrell, who was born in 1909, resides in a nursing home in Mulberry, Arkansas. Appellant lives in Ozark, and her sister, Kathryn Kelleher, lives in Kansas City, Missouri. Their brother, L.C. Morrell, who is the appellee, lives in Mulberry and regularly assists Mrs. Morrell in her business affairs. In response to the petition, L.C. Morrell denied that his mother needed a guardian.
+In May 1993, Mrs. Morrell’s physician, Dr. Robert R. Baker, wrote a letter “to whom it may concern,” stating that Mrs. Mor-rell, although under treatment for hypertension, congestive heart failure, and a mild stroke sustained in December 1992, is well-oriented to time, place, and person and is not incompetent. This letter was introduced into evidence at the hearing in June 1993.
+. At the hearing, appellant testified that she had filed the petition seeking a guardianship because she was concerned about her mother’s financial assets. She stated that her mother had given her brother a durable power of attorney. She said that she wanted a guardian appointed, and the power of attorney dissolved, because she wanted everything to be on the “up and up.” She admitted on cross-examination that she had filed a separate lawsuit against her brother over a piece of property and that her mother does not like her. Other than stating that Mrs. Morrell had reported seeing rats and black cats in the ceiling over her bed, appellant offered no evidence of Mrs. Morrell’s incapacity.
+L.C. Morrell testified that his mother was fully aware of his actions in regard to her money. He testified that, although his mother has trouble walking, she can write her own checks. He stated that, as far as he is concerned, the money is hers and he only does as she directs.
+Kathryn Kelleher testified that, at the time of trial, her mother was doing very well. She said she had no problems with her brother having her mother’s power of attorney because her mother wanted him to have it. She testified that she did not think it was necessary to have a guardian appointed.
+The probate judge also met with Mrs. Morrell in the presence of the court reporter. Mrs. Morrell stated that she had suffered a stroke the previous December but that she was better and hoped to be back in her own home someday. She stated that she trusts her son; that he does what she tells him to do; and that she would “throw him out” if he didn’t. She stated that she does not get along with appellant. She testified that, sometimes, she writes her own checks and does not feel like she needs a guardian. Mrs. Morrell also discussed her bank accounts in detail.
+At the conclusion of the hearing, the probate judge stated that he did not believe that Mrs. Morrell was incompetent, although she had some physical problems that prevented her from taking care of all of her business. He went on to add that he did have some concern about the future, and he stated that he would order a conservatorship if Mrs. Morrell would approve of it. Otherwise, he said that it would save a lot of “squabb[ling] down the road” to go ahead and appoint L.C. Morrell as guardian.
+A few months after the trial, however, the probate judge sent a letter to the attorneys, stating that he had, on reflection and consideration of the expenses inherent in guardianships, decided not to appoint a guardian. He also stated that he found Mrs. Morrell to be mentally alert and competent. A few days later, appellant filed a request for findings of fact. The order dismissing the petition for appointment of a guardian was filed on September 14, 1993. On September 24, 1993, the probate judge filed his findings of fact in response to appellant’s request:
+First, based on the testimony at trial and the report of the physician of Ms. Morrell, I specifically find that she is mentally alert and competent. I further find that her son, L.C. Morrell, is fully able to care of the needs of Ms. Mor-rell and that he is doing so. I further find that the expense and problems that arise in a guardianship are unnecessary in this case and that any incapacity that this lady may have does not necessitate the appointment of a guardian.
+The law of the State of Arkansas requires that the appointment of a guardian for an incapacitated person be such that it would constitute the minimum restraint on that person and that there must be substantial proof that the guardianship is necessary. Under the law there simply is no substantial proof of incapacity in such amount as would necessitate a guardianship.
+Again, appellant does not argue in this appeal that the probate judge’s findings of fact are clearly erroneous. She simply argues that the probate judge could not enter an order denying the guardianship after announcing from the bench at the conclusion of the trial that he would appoint a guardian. We disagree.
+Rule 58 of the Arkansas Rules of Civil Procedure provides that a judgment or decree is effective only when set forth on a separate document and entered in the docket as provided in Arkansas Supreme Court Administrative Order 2. Administrative Order 2 sets forth the procedure to be followed by the clerk in entering orders and judgments. The supreme court has made it clear that a judgment or decree is not effective until it has been “entered” as provided in Rule 58 and Administrative Order 2. In Standridge v. Standridge, 298 Ark. 494, 497, 769 S.W.2d 12 (1989), the supreme court relied on Rule 58 to hold that a decree that had been announced from the bench did not become effective until the date of filing.
+Since the probate judge’s ruling from the bench was not reduced to writing and filed of record, it would appear that he was free to alter his decision upon further consideration of the matter. Appellant has cited no authority to indicate otherwise, and we know of none. An assignment of error unsupported by convincing argument or authority will not be considered on appeal unless it is apparent, without further research, that the assignment of error is well taken. Smith v. Smith, 41 Ark. App. 29, 848 S.W.2d 428 (1993).
+Affirmed.
+Jennings, C.J., and Robbins, J., agree.
