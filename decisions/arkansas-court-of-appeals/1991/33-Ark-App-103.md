@@ -1,0 +1,42 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 90-206"
+decided: "1991-01-30"
+citations: ["33 Ark. App. 103", "802 S.W.2d 476"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Danielson, J., not participating."]
+parties: ["HOPE BRICK WORKS v. Freddie WELCH, Deceased"]
+source_url: "https://static.case.law/ark-app/33/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6652169
+cites_cases: ["12 Ark. App. 274", "19 Ark. App. 317", "20 Ark. App. 166", "228 Ark. 815", "245 Ark. 749", "27 Ark. App. 90", "720 S.W.2d 337", "Ark. Code Ann. § 1"]
+---
+
+# Hope Brick Works v. Welch
+
+## Majority (James R. Cooper, Judge.)
+
+James R. Cooper, Judge.
+The appellee in this workers’ compensation case, now deceased, filed a claim for workers’ compensation benefits alleging that he had contracted silicosis during twenty-two years of employment with the appellant. The appellee died after the initial hearing, and an appeal to the full Commission was brought by his dependents. The Commission found that the appellee’s claim had been established by clear and convincing evidence and it remanded to the Administrative Law Judge to determine the benefits to which the appellee’s dependents were entitled. The appellant then brought an appeal of the Commission’s order to this Court, which was dismissed as premature. Hope Brick Works v. Welch, 27 Ark. App. 90, 768 S.W.2d 37 (1989). The amount of benefits have since been determined, and the Commission entered a final order on March 13, 1990, finding that the appellee established his claim by clear and convincing evidence. From that decision, comes this appeal.
+For reversal, the appellant contends that the Commission erred in finding that the appellee established entitlement to occupational disease benefits by clear and convincing evidence. We affirm.
+Arkansas Code Annotated § 11-9-601 (1987) requires that a causal connection between the claimant’s occupation or employment and the occupational disease from which he suffers must be established by clear and convincing evidence. Subsection 11-9-601(g)(1)(A) provides that an employer shall not be liable for any compensation for an occupational disease unless:
+The disease is due to the nature of an employment in which the hazards of the disease actually exist and are characteristic thereof and peculiar to the trade, occupation, process, or employment and is actually incurred in his employment.
+The appellant first contends that the Commission erred in finding that the appellee proved by clear and convincing evidence that there was a causal connection between his silicosis and his employment duties at Hope Brick Works. We do not agree.
+When the findings of the Workers’ Compensation Commission are challenged on appeal, we review the evidence in the light most favorable to those findings and affirm if they are supported by substantial evidence. Deboard v. Colson Co., 20 Ark. App. 166, 725 S.W.2d 857 (1987). We will not reverse the Commission’s findings unless we are convinced that reasonable minds could not have reached the conclusion arrived at by the Commission. Sanyo Mfg. Corp. v. Leisure, 12 Ark. App. 274, 675 S.W.2d 841 (1984).
+The appellant does not contend that the appellee did not suffer from silicosis. Prior to his death, the appellee testified that he had smoked in 1950 but that he had not smoked in 25 years and had no breathing problems until 1983. He also stated that he was sometimes assigned to cutting brick with a saw, which produced dust. Finally, he testified that he was often exposed to dust in various locations of the brick works, and that the dust originated in the clay from which the bricks were made. John Gardner, Production Manager of Hope Brick Works, testified that clay was a mineral, and that the clay used for making bricks was composed for the most part of alumino-silicates.
+The medical evidence shows that the physicians who treated the appellee at first suspected that he suffered from lung cancer. After a biopsy was performed, however, anthrasilicosis was suspected, and the appellee underwent further surgical procedures in order for his physicians to obtain a large piece of tissue for pathological examination. A report from Doctors Donald Paynter and F. Charles Hiller stated that:
+With the available pathologic information it is our impression that Mr. Welch has progressive massive fibrosis secondary to chronic mineral dust inhalation. This appears to be related to his employment in a brick manufacturing plant. A portion of the pathological specimen has been sent for x-ray defraction studies to better identify the mineral crystals involved.
+The appellee subsequently received the following letter from Dr. Hiller:
+The findings at [your] operation indicate that you have disease called silicosis. Silicosis is caused by the inhalation of certain types of dust. The disease sometimes occurs in people who work in sand blasting, in mines, and in rock quarries. It is definitely possible that you inhaled this silica dust during your work at the brick plant. The reason I am writing you is to suggest that you contact the Occupational Safety and Health Administration which . . . can only check the work place if an employee makes a complaint. They cannot act on the report of a doctor unless the patient has made a request.
+I feel it is very important that this situation be checked so that other workers are not exposed to this problem also.
+hi
+F. Charles Hiller, M.D.
+Professor of Medicine
+Pulmonary Division
+The appellant asserts that this evidence is too speculative to support a finding of a causal connection between the appellant’s silicosis and his employment. However, causal connection is generally a matter of inference, and possibilities may play a proper and important role in establishing that relationship. Carter v. Flintrol, Inc., 19 Ark. App. 317, 720 S.W.2d 337 (1986). Moreover, in workers’ compensation cases medical opinions need not be expressed in terms of reasonable medical certainty in speaking of a causal connection when there is supplemental evidence supporting the causal connection when there is supplemental evidence supporting the causal relationship. Id. In the case at bar, supplemental evidence is provided by the appellee’s testimony that he was often exposed to dust from the clay used in making brick, and John Gardner’s testimony that this clay was composed of alumino-silicates. Although the appellant argues that Mr. Gardner’s expressed opinion that there was no free silica dust in the plant should have led the Commission to an opposite conclusion, the question for the reviewing court is not whether the testimony would have supported a finding contrary to the one made, but is instead whether the testimony supports the finding actually made by the Commission. Reynolds Mining Co. v. Draper, 245 Ark. 749, 434 S.W.2d 304 (1968). We hold that the Commission’s finding of a causal connection between the appellee’s silicosis and his employment is supported by substantial evidence.
+Nor do we find merit in the appellant’s argument that the evidence was insufficient to support a finding that the hazard of contracting silicosis is characteristic of the employment in which the appellee was engaged. There was evidence that the appellee was employed in a process which exposed him to alumino-silicate dust because that is the material from which bricks are made. “Silicosis” is statutorily defined as “the characteristic fibrotic condition of the lungs caused by the inhalation of silica dust.” Ark. Code Ann. § 1 l-9-602(a)(l) (1987). We think the hazard of silicosis was clearly shown to be characteristic of the process in which the appellee was engaged by the evidence considered by the Commission, and we find no error on this point. See Brown Shoe Co. v. Fooks, 228 Ark. 815, 310 S.W.2d 816 (1958).
+We note that both parties have advanced arguments concerning an OSHA report which the Commission allowed into evidence but declined to give any weight because the appellant was unable to cross examine the author. Because we affirm on the ground that the other evidence before the Commission constituted substantial evidence to support its findings, the issues relating to the OSHA report are moot and we will not address them.
+Affirmed.
+Danielson, J., not participating.
