@@ -1,0 +1,43 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 89-2"
+decided: "1990-01-31"
+citations: ["30 Ark. App. 107", "783 S.W.2d 70"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rogers, J., agrees.", "Cooper, J., concurs."]
+parties: ["Terry PIKE v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/30/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6138583
+cites_cases: ["249 Ark. 1111", "291 Ark. 358", "444 U.S. 871", "601 F.2d 369", "623 F.2d 540", "783 F.2d 737"]
+---
+
+# Pike v. State
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+Terry Pike was convicted of possession of a controlled substance (cocaine) and was sentenced to ten years imprisonment. Prior to trial, Pike filed a motion to suppress, contending that the search warrant issued in the case was invalid. After a hearing, the trial court denied the motion. The sole issue on appeal is whether this was error. We hold that it was not and affirm.
+Jeff Baker, a North Little Rock Police Officer, was both the investigating and arresting officer. He also signed the affidavit for the search warrant and executed the warrant. In the affidavit Baker stated that he had reason to believe that “on the premises described as being located at 28 Granite Mountain, Little Rock, Pulaski County, Arkansas further being described as being a one story building gray in color, with the numerals 28 located on the building, there is now being concealed a certain controlled substance, to-wit cocaine. . . .” The affidavit further stated that Baker had received information from a confidential informant that a man was selling cocaine from the residence at 28 Granite Mountain in Little Rock; that the confidential informant was furnished money with which to buy drugs; that Baker saw the informant enter the residence at 28 Granite Mountain; that Baker saw the informant leave thereafter; and that subsequently the informant handed him cocaine, which the informant said he bought from a man in the residence.
+The search warrant which was subsequently issued authorized a search “at 28 Granite Mountain Circle, Little Rock, Pulaski County, Arkansas, further described as being a one-story gray building with the numerals 28 located on the building.”
+At the hearing on the motion to suppress, Officer Baker testified that “Granite Mountain” was a housing project. He testified that when he executed the warrant he found the appellant and cocaine in the residence. He said that on the day the informant made the controlled buy, he saw the informant go into “a gray building marked #28.” He testified that the street that leads into Granite Mountain is Granite Mountain Circle and that that was the only street sign he observed while going into the complex. He testified that the building he searched was the one that he saw the informant enter. He admitted that the address of the building he searched was 28 Pasadena, rather than 28 Granite Mountain Circle. He said that Pasadena “forks off of’ Granite Mountain Circle. He testified that there was only one building in the housing project that had the number 28 on it. The appellant testified that there was also a 28 Granite Mountain Circle, a 28 California and a 28 Richmond in the “Granite Mountain area.”
+The Fourth Amendment to the United States Constitution provides that “no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched. . . .” Appellant argues that the warrant must be held invalid here because of the incorrect address, relying on Perez v. State, 249 Ark. 1111, 463 S.W.2d 394 (1971). In Perez, a police officer’s affidavit seeking a search warrant recited that he had been told by a confidential informant “that Jack Eaton has in his possession [illegal drugs] concealed in his apartment located at the corner of Curl Street and Washington Street in Hot Springs, Arkansas. . . .” The search warrant authorized the search of “Curl Street Apartments at Curl and Washington Streets.” The supreme court noted these facts:
+There was no evidence that appellant had ever been known as Jack Eaton. The Curl Street Apartments consisted of seven apartments in the same one-floor structure and an additional apartment in an adjoining structure. The apartments in the same unit were numbered one through seven. Apartment 6 was rented to appellant under the name Jack Perez. No unit in these apartments had ever been rented to a person named Jack Eaton, and the manager of the apartments had never heard of anyone by that name.
+The court in Perez held the warrant invalid under the general rule that “a warrant for search of a subunit is not valid if it does not describe the subunit to be searched but merely refers to the larger multiple occupancy structure.” The court also said that search warrants and supporting affidavits should not be subjected to a “hypercritical view” in determining whether or not they meet constitutional requirements and that the sufficiency of the description to permit identification of the premises with certainty by appropriate effort and inquiry must be decided upon the facts and circumstances prevailing in the particular case. See also Watson v. State, 291 Ark. 358, 724 S.W.2d 478 (1987).
+The rule applied in Perez is not applicable here. The facts in the case at bar are much more similar to those in Lyons v. Robinson, 783 F.2d 737 (8th Cir. 1985). In Lyons a police officer had obtained information from a confidential informant that Lyons was selling drugs from his home. The affidavit, and the search warrant, incorrectly listed the place to be searched as “325 Atkinson Street.” Lyons’ house was actually at 325 Short Street, on a corner lot where Short and Atkinson intersect. The warrant also described the place to be searched as “a single residence with silver siding with red trim located on the south side of Atkinson Street.” The court held the warrant valid and said that it was not significant that the warrant incorrectly listed Lyons’ address. Citing United States v. Gitcho, 601 F.2d 369 (8th Cir. 1979), cert. denied, 444 U.S. 871 (1979), the court said:
+The test for determining the sufficiency of the description of the place to be searched is whether the place to be searched is described with sufficient particularity as to enable the executing officer to locate and identify the premises with reasonable effort, and whether there is any reasonable probability that another premise might be mistakenly searched.
+Lyons at 738.
+The court continued:
+Thus, where a search warrant contained information that particularly identified the place to be searched, the court has found the description to be sufficient even though it listed the wrong address. In this case, the warrant listed the residence to be searched as “325 Atkinson Street” whereas the residence was actually located at 325 Short Street. But it is clear that in the circumstances the error in the warrant was not misleading or confusing. Atkinson and Short Streets intersect in front of Lyons’ house. Sgt. Gibson obviously mistakenly read the street sign. In addition, the warrant provides an accurate physical description of the premises. Moreover, where the same officer both applied for and executed the warrant a mistaken search is unlikely. Therefore, we find the warrant description sufficient and the warrant valid. [Citations omitted.]
+Similarly, in the case at bar Pasadena and Granite Mountain Circle were intersecting streets. Officer Baker testified that the only street sign he saw was for Granite Mountain Circle and that the building searched was the only one in the housing project with the number 28. He was the officer who both applied for and executed the warrant. The warrant here contained additional language describing the building to be searched. And the officer also had had the premises under surveillance. See United States v. Gill, 623 F.2d 540 (8th Cir. 1980).
+Under these circumstances we hold that the incorrect address was not a fatal defect in the warrant.
+Affirmed.
+Rogers, J., agrees.
+Cooper, J., concurs.
+
+## Concurrence (James R. Cooper, Judge,)
+
+James R. Cooper, Judge,
+concurring. I concur in the majority opinion, except I do not agree that the fact that the same officer executed the affidavit and served the search warrant has any relevance. I do not agree that the “particularity” requirement of the Fourth Amendment to the United States Constitution can be satisfied, even in part, by reference to the identity of the executing officer.
