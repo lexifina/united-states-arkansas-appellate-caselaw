@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 89-164"
+decided: "1990-03-21"
+citations: ["30 Ark. App. 281", "785 S.W.2d 472"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cooper and Jennings, JJ., agree."]
+parties: ["Lenora DUCKWORTH v. K.E. “Gene” POLAND"]
+source_url: "https://static.case.law/ark-app/30/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6141905
+cites_cases: ["213 F. Supp. 936", "266 Ark. 296", "288 Ark. 532", "289 Ark. 550", "29 Ark. App. 160"]
+---
+
+# Duckworth v. Poland
+
+## Majority (George K. Cracraft, Judge.)
+
+George K. Cracraft, Judge.
+Lenora Duckworth appeals from a judgment entered against her in the amount of $ 16,065.00. She contends that the chancellor erred in finding that she had been unjustly enriched to that extent as a result of services rendered by appellee, K.E. Poland. We agree and reverse.
+It is undisputed that during 1978 appellant, one of the heirs to a piece of ancestral property, acquired all but three-eighteenths of the undivided fractional interests of her co-tenants. Although Michael Hamelin, appellant’s nephew and one of the other heirs, conveyed his interest to appellant, he was permitted to reside on the premises with his wife, Janice. At the time appellant acquired the interests of the other heirs, her stated purpose was to acquire title so that she could leave it to the Hamelin children at her death. There was evidence that she had written a will so providing. In 1983, Michael and Janice were divorced and Janice was awarded custody of the children and placed in possession of the dwelling.
+In 1985, Michael and Janice Hamelin entered into a contract with appellee to remodel the dwelling at a cost of $18,000.00, and made an application for a loan at a Forrest City bank to obtain financing for the improvements. Appellee apparently completed the improvements before the bank acted on the loan. When it was determined that Michael and Janice did not have merchantable title to the property, the bank refused the loan. Appellee subsequently brought this action against Michael Hamelin on the contract, and against appellant on allegations that, as appellant was the recipient of a major portion of the benefits of his labor and material, appellee should recover from her on the theory of unjust enrichment.
+The trial court found that, although appellant did not contract with appellee for the work, she was “well aware” of the improvements; that to allow her to retain the improvements by which she was unjustly enriched would be inequitable; and that she was responsible for payment of the improvements to the extent of her interest. Judgment was entered against her accordingly. On appeal, appellant argues several points for reversal. As we agree that the trial court erred in holding her liable to appellee on the theory of unjust enrichment, we do not address the other arguments.
+On appeal, chancery cases are tried de novo on the record. However, we will not reverse the findings of the chancellor unless they are clearly erroneous. A finding is clearly erroneous when the reviewing court is left with a definite and firm conviction that a mistake has been committed. RAD-Razorback Limited Partnership v. B.G. Coney Co., 289 Ark. 550, 713 S.W.2d 462 (1986); Johnson v. Southern Electric, Inc., 29 Ark. App. 160, 779 S.W.2d 190 (1989).
+Contracts implied in law are legal fictions, created by the law to do justice, and do not rest in implied or express assent of the parties. Rather, the underlying principle is that one should not unjustly enrich himself at the expense of another. To find unjust enrichment, a party must have received something of value to which he was not entitled and which he should restore. Dews v. Halliburton Industries, Inc., 288 Ark. 532, 708 S.W.2d 67 (1986). However, there must be some operative act, intent, or situation to make the enrichment unjust and compensable. Id.; Frigillana v. Frigillana, 266 Ark. 296, 584 S.W.2d 30 (1979). The courts will imply a promise to pay for services only where they were rendered in such circumstances as authorized the party performing them to entertain a reasonable expectation of their payment by the party beneficiary. Dews v. Halliburton Industries, Inc., supra; Dunn v. Phoenix Village, Inc., 213 F. Supp. 936 (W.D. 1963).
+Here, the trial court’s finding that appellant knew that the improvements were being made is not supported by any evidence of record. Appellant testified that she was aware that Michael Hamelin had made some minor improvements to the house in 1979,1980, and 1981, but she knew that the improvements were being paid for by Michael. Those improvements are not at issue here. Appellant testified that she did not know appellee, and that she had never seen him before the day of trial. She testified that she had only one conversation with appellee, by telephone in September of 1985, which was after the work had been completed and after appellee had learned that the bank would not make the loan to Michael. She stated: “I was not in Arkansas last year. I saw all of the improvements after they were done.”
+Appellee testified that his dealings were had entirely with the Hamelins and that he had no contact whatsoever with appellant until the work had been completed. He stated that he assumed that Michael Hamelin owned the property, and that he had begun work before the bank acted on the Hamelins’ application for a loan on the belief that it would be accepted. “I had one telephone conversation with [appellant]. She did not ask me to do any work. I did not intend to look to [appellant] to pay me. I had no reason whatever to think she would be involved, but I feel she should pay me because she owns the house and took the house away from them.”
+Under the circumstances of this case, we cannot agree that any detriment sustained by appellee was sufficient, in and of itself, to justify a determination of unjust enrichment. That detriment was not brought on under any circumstances that would authorize him to entertain a reasonable expectation that the work for which he contracted with Hamelin would be paid for by appellant. To the contrary, there was direct testimony from appellee himself that he at no time entertained such an expectation but looked only to Hamelin.
+Reversed and dismissed.
+Cooper and Jennings, JJ., agree.
