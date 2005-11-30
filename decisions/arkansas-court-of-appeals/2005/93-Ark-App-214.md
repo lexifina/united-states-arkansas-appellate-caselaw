@@ -1,0 +1,30 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 05-354"
+decided: "2005-11-30"
+citations: ["93 Ark. App. 214", "218 S.W.3d 363"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bird and Griffen, JJ., agree."]
+parties: ["Dunn L. JOHNSON, et al. v. J.C. LANGLEY, et al."]
+source_url: "https://static.case.law/ark-app/93/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139318
+cites_cases: ["362 Ark. 65"]
+---
+
+# Johnson v. Langley
+
+## Majority (John B. Robbins, Judge.)
+
+John B. Robbins, Judge.
+This is an appeal from an order of udge. Circuit Court denying appellants’ motion for a temporary restraining order. Appellants unsuccessfully sought an order prohibiting appellees J.C. Langley, individually and d/b/aJ.C. Langley Oil Company, by and through his guardians Jerry Langley and Janice Warwick, and Klote Powell, from cleaning up or remediating damage to appellants’ real property allegedly caused by appellees’ oil-and-gas-production activities. We dismiss this appeal.
+Appellants own real property in Union County on which appellees operate mineral leases. On November 22, 1999, appellants sued appellees, alleging that they had contaminated their real property with hazardous substances. They sought damages and a judgment declaring that the leases had been abandoned or had expired and an injunction prohibiting appellees from cleaning up the property without their consent. Appellees notified appellants on October 1, 2004, that they intended to begin cleaning up the property. On October 12, 2004, appellants moved for a temporary restraining order preventing appellees from conducting any cleanup until they responded to appellants’ discovery requests, including the submission of a cleanup plan, and until the court determined whether adequate safeguards could be imposed to protect appellants’ property rights. In response, appellees argued that appellants had an adequate remedy at law by way of money damages and denied that appellants would be irreparably injured by their cleanup activities. Appellees asserted that they were entitled to continue operating under the leases in a reasonable manner, including the right to maintain the property.
+On December 3, 2004, the circuit court entered an order (signed on December 2, 2004) denying appellants’ request for a temporary restraining order but imposing certain guidelines for the parties to follow relating to remediation of the site. The court stated that it would not establish the standards by which appellees must remediate and that it would not reach the issue of whether the leases were active until the trial; until then, the leases would be considered active, entitling appellees access to the property.
+On December 13, 2004, appellees moved to amend the order for clarification of matters relating to operation and maintenance of the wells. On December 20, 2004, appellants objected to appellees’ motion to amend and moved for reconsideration. On January 19, 2005, a hearing was held on the motions. At the hearing, the circuit judge said that he had mistakenly included language regarding site closure in the order, giving a detailed explanation of how he would amend it. The record, however, does not include an order implementing those changes.
+Appellants filed their notice of appeal on February 2, 2005, stating that they appealed from the December 2, 2004 order and the order “resulting from the January 19, 2005 hearing (order not yet signed) . . . .” On February 8, 2005, appellants filed a motion for extension of time for filing the record on appeal, stating that the court reporter was unable to complete the transcript within the thirty days required by Ark. R. App. P. - Civil 5(a), and that the “time to file the record on appeal has not yet expired, as the order being appealed was entered in this court on January 19, 2004 [sic].” They asked for an extension of sixty days or until March 21, 2005, to file the record. On March 21, 2005, the circuit court entered an order granting a two-weeks’ extension or until April 5, 2005, to file the record. The record was filed with the supreme court clerk on March 30, 2005.
+Arkansas Rule of Appellate Procedure — Civil 5(a) states that, when an appeal is taken from an interlocutory order under Ark. R. App. P. - Civ. 2(a)(6), the record must be filed with the supreme court clerk within thirty days from the entry of the order. If any extension of this thirty-day period is sought, Ark. R. App. P. - Civ. 5(b)(1) provides that the circuit court must enter the order of extension within thirty days after the order appealed from is entered. The record contains no order filed on January 19, 2005, nor does it include any order resulting from the hearing held on that date. Thus, the thirty days for filing the record or entering an order granting an extension ran on January 3, 2005, thirty days after the December 3, 2004, order. Therefore, the March 21, 2005 order was untimely, and this appeal must be dismissed. See Larry v. Grady Sch. Dist., 362 Ark. 65, 207 S.W.3d 451 (2005).
+Dismissed.
+Bird and Griffen, JJ., agree.
+Dunn L. Johnson, Eddie Johnson, Annie Powell, Janis Austin, Barbara Ann Carroll, John Carroll, Lavern Carroll, Jesse Dunn, Byron Goodwin, Derrick Goodwin, Jo Nell Goodwin, Willie Ruth Graham, Bobby R. Johnson, Danny Adam Johnson, Drusella Lannette Johnson, Earl Johnson,Jr., Earnestjohnson, Harvey Lee Johnson, Herbertjohnson,Jr., Horace Johnson, James Johnson, Jerry Wayne Johnson, Jesse Norris Johnson, Jimmie L. Johnson, Johnnie B. Johnson, Karen Johnson, Linda Anne Johnson, Reggie Johnson, Ricky Johnson, Ronnie Johnson, Sammy Johnson,Thomas Johnson,Virdie Johnson, Jr.,Wade Johnson,Willie Aaron Johnson,Willie L. Johnson,Wordie B. Johnson, Lilly Mae Lias, Pearlie Ann Livingston, Jeanette Massey, Sharon Ann Moore, Essie Mae Rankin, Renese Goodwin Smith, Francine Johnson Wood, Lethell Johnson Woods, Mac CEnton Dunn, and Gloria Livous.
