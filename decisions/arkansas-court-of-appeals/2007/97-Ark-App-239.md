@@ -1,0 +1,43 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 06-370"
+decided: "2007-01-17"
+citations: ["97 Ark. App. 239", "246 S.W.3d 891"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pittman, C.J., and Robbins, J., agree."]
+parties: ["Christopher Joe POWELL v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/97/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6139857
+cites_cases: ["17 Ark. 561", "202 Ark. 500", "315 Ark. 580", "351 Ark. 603", "352 Ark. 92", "360 Ark. 424", "Ark. Code Ann. § 5", "Ark. Code Ann. § 5-36-103", "Ark. Code Ann. § 5-41-103"]
+---
+
+# Powell v. State
+
+## Majority (Robert J. Gladwin, Judge.)
+
+Robert J. Gladwin, Judge.
+Appellant Christopher Joe Powell appeals his conviction in the Drew County Circuit Court for theft of property and computer fraud. Appellant claims that the trial court erred in asserting jurisdiction over this matter, contending that all elements of the offenses charged occurred outside the territorial jurisdiction of Arkansas. We affirm.
+Appellant, a resident of Georgia, met Vanneise Collins, a resident of Drew County, Arkansas, on an internet website for singles. Over the course of several months, the two engaged in lengthy e-mail and telephone communications, striking up a romance. The romance culminated in three face-to-face meetings in Georgia, and ultimately, a marriage proposal. Throughout the course of their romance, appellant made certain representations about himself that proved to be wholly fabricated, such as his being unmarried, being in the army, and being deployed in Iraq during portions of the time he and Collins were in contact. Collins made concrete marriage plans, such as putting a deposit down on a wedding dress and mailing out wedding invitations. All the while, Collins sent appellant money when he asked, via Western Union, for a variety of reasons, including new golf clubs, property taxes on inherited property, medical bills, a new military dress uniform, and to “grease palms” while being separated from his unit in Iraq. Appellant obtained about $15,000 from Collins. When she began to doubt him, she verified that there was no record of him being in the military and eventually went to the police.
+It is undisputed that appellant never entered the State of Arkansas until such time as he was arrested and transported to Arkansas to answer the criminal charges of theft and computer fraud in Drew County. He challenged Arkansas’ exercise of jurisdiction over him by written motion, at the omnibus hearing, and at the close of all evidence. The trial court found appellant guilty of the offenses charged and sentenced him to eight years’ imprisonment for theft of property, five years’ imprisonment suspended for theft of property, six years’ imprisonment for computer fraud, and three years’ imprisonment for failure to appear for trial on August 24, 2005. All sentences are to run concurrently. From the denial of appellant’s motion challenging jurisdiction and the ultimate conviction comes this appeal.
+Territorial jurisdiction over a criminal defendant is controlled by statute. Ridling v. State, 360 Ark. 424, 203 S.W.3d 63 (2005) (citing Kirwan v. State, 351 Ark. 603, 96 S.W.3d 724 (2003)). The Arkansas Supreme Court has stated that “when reviewing the evidence on a jurisdictional question, [we] need only determine whether there is substantial evidence to support the finding of jurisdiction.” Dunham v. State, 315 Ark. 580, 581, 868 S.W.2d 496, 497 (1994). A person may be convicted under a law of this state for an offense committed by his own conduct for which he is legally accountable if either the conduct or a result that is an element of the offense occurs within this state. Ark. Code Ann. § 5-l-104(a)(l) (Repl. 2006).
+Appellant argues that criminal statutes must be strictly construed in favor of the defendant. Smith v. State, 352 Ark. 92, 98 S.W.3d 433 (2003). The theft of property statute provides in pertinent part as follows:
+Ark. Code Ann. § 5-36-103 (Repl. 2005). Theft of property
+(a) A person commits theft of property if he or she knowingly:
+(2) Obtains the property of another person, by deception or by threat, with the purpose of depriving the owner of the property.
+The computer fraud statute provides in pertinent part as follows:
+Ark. Code Ann. § 5-41-103 (Repl. 2005). Computer fraud
+(a) A person commits computer fraud if the person intentionally accesses or causes to be accessed any computer, computer system, computer network, or any part of a computer, computer system, or computer network for the purpose of:
+(1) Devising or executing any scheme or artifice to defraud or extort; or
+(2) Obtaining money, property, or a service with a false or fraudulent intent, representation, or promise.
+Appellant claims that a strict construction of these statutes shows that these crimes are defined by the conscious act of the wrongdoer. Cousins v. State, 202 Ark. 500, 151 S.W.2d 658 (1941), provides that if a crime covers only the conscious act of the wrongdoer, regardless of its consequences, the crime takes place and is punishable only where he acts. Therefore, appellant argues that the conduct of obtaining the property of another by deception and accessing a computer system or network, occurred in Georgia.
+He argues that he only sent an e-mail from Georgia through the network to Arkansas, which the complainant then accessed in Arkansas. The scheme was devised in Georgia, and the money was obtained in Georgia. Appellant claims that the “devising” and “obtaining money with false promises” clauses refer to the mental state, not the end result or consequence. He argues that if the legislature had intended these acts to include a result, the act would be drafted in a manner such as: “knowingly obtaining the property of another thereby depriving the owner thereof.” He claims that because the legislature defines these offenses as the purpose of the wrongdoer, all elements of the crimes occurred in Georgia, outside the territorial jurisdiction of Arkansas.
+However, Cousins, supra, also contains the following language:
+[I]f a man standing beyond our boundary line, in Texas, were, by firing a gun, or propelling any other implement of death, to kill a person in Arkansas, he would be guilty of murder here, and answerable to our laws, because the crime is regarded as being committed where the shot, or other implement propelled, takes effect.
+Cousins, 202 Ark. at 503, 151 S.W.2d at 660 (citing State v. Chapin, 17 Ark. 561 (1856)). The Cousins court continues where appellant left off by finishing the statement, “If a crime covers only the conscious act of the wrongdoer, regardless of its consequences, the crime takes place and is punishable only where he acts,” with the following: “[B]ut, if a crime is defined so as to include some of the consequences of an act, as well as the act itself, the crime is generally regarded as having been committed where the consequences occur, regardless of where the act took place . . . Id. at 503, 151 S.W.2d at 660.
+Further, under Kirwan v. State, 351 Ark. 603, 96 S.W.3d 724 (2003), the defendant was convicted of distributing, shipping or exchanging pictures over the internet of children participating in sex acts. He did so by sending the pictures from a computer in Texas to an undercover officer in Arkansas. The Arkansas Supreme Court held that the defendant’s actions, as well as the result of his conduct, occurred in Arkansas, as he sent the pictures from outside of Arkansas to a destination within Arkansas. Essentially, once the offending e-mail arrives at the computer in Arkansas, a crime has been committed.
+The State alleges that Ark. Code Ann. § 5-l-104(a)(l) controls because the State can show that the conduct or result that is an element of the offense occurred within Arkansas. We agree. Appellant sent e-mail correspondence to Collins and contacted her by telephone while she was in Arkansas. During the course of those communications, appellant actively deceived Collins into sending him money. Moreover, appellant caused Collins to access her computer by virtue of his e-mail correspondence, for the purpose of obtaining money with a false or fraudulent intent, representation, or promise. The deception and promises were his extensive fabrications. We hold, therefore, that substantial evidence existed to support the trial court’s finding that it had jurisdiction in the instant case.
+Affirmed.
+Pittman, C.J., and Robbins, J., agree.
