@@ -1,0 +1,31 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 06-1313"
+decided: "2007-06-13"
+citations: ["99 Ark. App. 220", "258 S.W.3d 785"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pittman, C.J., and Griffen, J., agree."]
+parties: ["Chad WILCOX v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/99/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6140403
+cites_cases: ["355 Ark. 630", "366 Ark. 415", "98 Ark. App. 264", "Ark. Code Ann. § 5-4-309"]
+---
+
+# Wilcox v. State
+
+## Majority (Sam Bird, Judge.)
+
+Sam Bird, Judge.
+Chad Wilcox appeals the revocation of his suspended sentence for possession of drug paraphernalia with intent to manufacture methamphetamine. Evidence at the revocation hearing concerned the State’s allegation that Wilcox had violated a condition of his probation as shown by a positive drug test of a urine sample. He asserts that speculation and conjecture were required to support the trial court’s finding that he had willfully and inexcusably violated a condition of his probation. He argues that his revocation should be overturned because proper guidelines and instructions were not followed so as to ensure accurate testing, and because he was taking a medication documented to show a false-positive. We agree with his first argument; therefore, the revocation is reversed and the State’s petition is dismissed.
+Evidence at the revocation hearing focused on the positive test results of a urine sample taken from Wilcox on March 29, 2006. The printed directions for the chemical used in the testing process were introduced through the testimony of Wilcox’s probation officer, Patrick Langley. Those instructions state that samples should be at room temperature of 64-77 °F for testing, that urine samples with the normal pH range of 4.5 — 8 do not require prior adjustment of pH, and that samples outside the normal pH range should be suspected of adulteration.
+Langley testified that Wilcox’s sample was stored overnight in a refrigerator. Langley said that he tested the sample the next day at the Hot Springs Drug Court on a machine on which he had been trained, following operational instructions to first return the sample to room temperature by setting it out for approximately an hour to an hour-and-a-half. The test produced positive results for methamphetamine. Langley took the sample to the Benton Department of Community Correction, where he observed its retesting on a different machine. Again, the results were positive. Langley admitted that no thermometer was used to determine the temperature at the time of the initial test, that the sample was again refrigerated overnight before being taken to Benton, and that again there was no determination of the temperature before retesting. Langley said that the printed instructions included directions for pH levels outside normal parameters but that no determination was made for the pH level of Wilcox’s sample.
+Langley also testified that instructions for the testing chemical stated that Zantac, an over-the-counter medication, could cause a false-positive reading. He testified that he did not remember specifically telling Wilcox not to take Zantac but was “positive” that Wilcox had been told by drug-court counselors or the judge not to take it. Langley said that Wilcox had attempted to inform the drug court that he was taking certain medications but had never mentioned Zantac. Langley said that in the previous month an initial test of a sample from Wilcox was positive but was negative upon retesting at St. Joseph’s Hospital.
+Wilcox testified that he had taken numerous prescriptive medications throughout his life for stomach conditions that began when he was twelve years old. He said that he continued to have gastrointestinal problems such as peptic ulcers and colitis, and in March 2006 had taken Zantac each day for acid reflux. He denied using amphetamines or ever being told not to take Zantac. He stated his belief that Zantac could cause a false-positive test result, and he said that he was never asked to provide a list of substances that he was taking. He testified that he had passed numerous drug tests from his employer from March 30, 2006, until the date of the hearing on July 24, 2006.
+In order to revoke probation or a suspension, the trial court must find by a preponderance of the evidence that the defendant inexcusably violated a condition of that probation or suspension. Ark. Code Ann. § 5-4-309(d) (Repl. 2006); Harris v. State, 98 Ark. App. 264, 254 S.W.3d 789 (2007). The trial court’s findings will be upheld on appeal unless they are clearly against the preponderance of the evidence; because a determination of a preponderance of the evidence turns on questions of credibility and weight to be given to the testimony, we defer to the trial judge’s superior position. Jones v. State, 355 Ark. 630, 144 S.W.3d 254 (2004).
+It was the duty of the trial court, rather than this court, to resolve conflicting evidence regarding whether Wilcox was told not to take Zantac and on the possibility of false-positive readings. However, we agree with Wilcox’s argument that the State did not establish that proper procedures were followed to ensure accurate test results. Even if the temperature of the urine sample was somehow within protocol, there was a lack of proof regarding the pH level, and the testing instructions directed that a sample not within a prescribed pH range should be suspected of adulteration. A drug sample that has been handled and tested in an unreliable manner cannot yield a reliable result that will enable a trier-of-fact to determine that it is more likely than not that a person used a controlled substance. See, e.g., City of Little Rock v. Hudson, 366 Ark. 415, 236 S.W.3d 509 (2006) (holding that evidence supported the trial court’s finding that breathalyzer results were not reliable where the hospital attendant failed to ask whether the firefighter had been eating mints containing sorbitol, a form of alcohol).
+We hold that the trial court’s finding that Wilcox violated a condition of his probation was clearly against the preponderance of the evidence.
+Reversed and dismissed.
+Pittman, C.J., and Griffen, J., agree.
