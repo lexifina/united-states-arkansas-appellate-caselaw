@@ -1,0 +1,32 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA CR 06-943"
+decided: "2007-06-20"
+citations: ["99 Ark. App. 283", "259 S.W.3d 478"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bird and Baker, JJ., agree."]
+parties: ["Barbara FOWLER v. STATE of Arkansas"]
+source_url: "https://static.case.law/ark-app/99/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6141612
+cites_cases: ["198 Ark. 871", "295 Ark. 29", "349 Ark. 331"]
+---
+
+# Fowler v. State
+
+## Majority (Larry D. Vaught, Judge.)
+
+Larry D. Vaught, Judge.
+After her home was destroyed by fire, appellant Barbara Fowler was convicted of arson, a class Y felony, and sentenced to 120 months’ imprisonment in the Arkansas Department of Correction. On appeal she argues that the trial court erred in its denial of her directed-verdict motion because the State failed to provide sufficient evidence to rebut the common-law presumption against arson. Specifically, she argues that there was no evidence, other than her confession, that the fire was intentionally set. We agree and reverse and dismiss her conviction.
+The evidence supporting Fowler’s confession, especially when considered in the light most favorable to the State, is compelling. See Jones v. State, 349 Ark. 331, 335, 78 S.W.3d 104, 107 (2002) (requiring that appellate court view evidence in light most favorable to State and only consider evidence that tends to support the verdict). In a statement to police officers, which Fowler recanted at trial, she confessed to setting the fire. She gave officers a detailed description of how she carried out the act, complete with a diagram of the room where she set the fire. Several witnesses at trial testified that Fowler had stated her intentions to burn down the property or confessed her culpability after the fire.
+The State also introduced evidence showing that Fowler was in bankruptcy and that her pending divorce would substantially reduce her annual income. The State also established that Fowler had discussed burning the house down for the “insurance money” and that just prior to the fire Fowler had stored many of her personal possessions — especially items of sentimental value — in an off-site storage facility. Further, there was testimony that the night before her home burned she cleaned out her refrigerator and pantry and gave the food to a friend. Finally, there was evidence that, before the fire, Fowler asked her son to remove items that his ex-wife was storing in the Fowler home, so they would no longer be bn the property.
+In her most compelling argument, Fowler maintains that the State failed to offer corpus delecti proof of arson — proof that she actually set the fire. In arson, there are two components to corpus delicti — the fact of the loss (proof that a fire occurred) and the criminal agency of some person (proof that the fire did not ignite by accident). Further, there is a common-law presumption that an unexplained fire was caused by accident. See Johnson v. State, 198 Ark. 871, 131 S.W.2d 934 (1939). Therefore, the State had the added burden of proving that the Fowler home “was burned by the willful act of some person criminally responsible for his acts, and not by natural or accidental causes.” Id. at 873, 131 S.W.2d at 935.
+At first blush, the remaining analysis in this case would appear remedial — it is clear that the home was burned by Fowler’s willful act because she admitted as much. However, Arkansas law requires more than Fowler’s out-of-court confession. See Thomas v. State, 295 Ark. 29, 31, 746 S.W.2d 49, 50 (1988) (“A confession of a defendant, unless made in open court, will not warrant a conviction, unless accompanied with other proof that the offense was committed.”). The State was required to provide “other proof’ that the offense was committed. Id. Thus, we are left to consider whether the State produced sufficient evidence — without Fowler’s confession — to overcome the common-law presumption against arson and prove that the fire did not accidentally ignite.
+In an attempt to show that the requisite “other proof’ was established at trial, the State points us to evidence showing many suspicious acts and circumstances preceding the fire, including Fowler’s financial distress, her off-site storage of sentimental items, and her distribution of personal and food items the evening before the fire. However, the State offers no “other proof’ showing that Fowler actually undertook the act of igniting a fire. The fire investigator was unable to independently identify the fire’s point-of-origin or establish that the fire was intentionally set. The investigator and the electrician who serviced the home were unable to definitively rule out the possibility of electrical malfunction. Further, there was no proof that the fire was fueled by an accelerant or other flammable substance.
+Therefore, although we are satisfied that the State presented ample evidence to support a conclusion that Fowler intended to burn her house down, without Fowler’s supporting confession, the State failed to carry its burden of proving that Fowler actually carried out the act. Writing for the Johnson court, Chiefjustice Griffin Smith questioned the seemingly absurd effect of requiring “other proof’ that a fire was intentionally ignited after a defendant had confessed his culpability in the arson. Smith noted that although it was “possible — perhaps probable — that the defendant’s confession was true ... it is more important that the law’s symmetry be preserved than that a criminal be punished in a particular case.” Johnson, 198 Ark. at 871, 131 S.W.2d at 935. Like the Johnson court, we too must preserve the law’s symmetry. As such, Fowler’s arson conviction is reversed and dismissed.
+Reversed and dismissed.
+Bird and Baker, JJ., agree.
+Fowler also argues that the State failed to prove that the property’s value exceeded $100,000; that the jury was improperly instructed; and that her suppression motion should have been granted. However, because we reverse and dismiss on her first point of appeal, we do not address these additional allegations of error.
+Corpus delecti is a Latin term, meaning “body of the crime,” and in a legal vernacular it refers to the “act of the transgression.” See Black’s Law Dictionary 369 (8th ed.).
