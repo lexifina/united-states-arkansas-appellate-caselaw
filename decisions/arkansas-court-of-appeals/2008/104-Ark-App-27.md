@@ -1,0 +1,34 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 08-452"
+decided: "2008-11-05"
+citations: ["104 Ark. App. 27", "289 S.W.3d 115"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Robbins and Vaught, JJ., agree."]
+parties: ["Lavearn MOODY v. ADDISON SHOE COMPANY, Crockett Adjustment Co., TPA Munro & Company"]
+source_url: "https://static.case.law/ark-app/104/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6065673
+cites_cases: ["333 Ark. 343", "342 Ark. 11", "61 Ark. App. 1", "67 Ark. App. 8"]
+---
+
+# Moody v. Addison Shoe Co.
+
+## Majority (D.P. Marshall Jr., Judge.)
+
+D.P. Marshall Jr., Judge.
+This workers’ compensation case asks whether substantial evidence supports the Commission’s denial of benefits to Laveam Moody for her gradual-onset shoulder injury. It does not. We therefore reverse and remand for the Commission to consider Moody’s claim further.
+I.
+Lavearn Moody worked at Addison Shoe Company for thirty years. She spent her entire career working as a heel padder. The Commission found her to be a credible witness. Moody explained that she started each morning at work by bringing a bucket of glue and a bucket of cleaning fluid to her workstation. She then brought a rack of shoes to her station. Each rack had four shelves, and each shelf held three pair of shoes. Once back at her station, Moody would reach up with her right hand and grab a bundle of heel pads from the shoe rack. She then picked up all three pair of shoes on the bottom shelf— holding three shoes in each hand — and placed them on her work table. With a heel pad in her left hand, she used her right hand to dip her brush in the glue, and brushed the bottom of the heel pad. She then switched the heel pad into her right hand, placed it inside a shoe, and pressed down for about two seconds. Moody repeated these steps with all six shoes. She then returned them to the bottom shelf and did the same thing with the shoes on the other three shelves. Once she finished the entire rack, Moody pushed it back in line and brought a new rack to her station.
+Moody testified that it took her about five minutes to complete a rack of shoes and that she finished an average of eighty to ninety racks of shoes — between 1920 and 2160 individual shoes — each day. She worked about seven-and-one-half hours a day excluding lunch and breaks. Moody completed around four shoes a minute, inserting a heel pad into an individual shoe in about twelve-and-a-half to fourteen seconds. Her testimony shows that padding a single shoe required multiple right-hand movements.
+In 2002, Moody began having pain in her right hand and arm. During the next few years, the pain moved to her right shoulder. She eventually underwent right-shoulder surgery. Moody’s employer initially paid benefits for her hand and arm, but refused to pay any benefits related to her shoulder problems. After a hearing, the Administrative Law Judge found that Moody failed to prove that she suffered a compensable gradual-onset shoulder injury. The Commission adopted the ALJ’s opinion, one Commissioner dissenting. Moody appeals.
+II.
+To receive benefits, Moody had to prove five things: (1) that her shoulder injury arose out of and in the course of her employment with Addison Shoe Company; (2) that the injury caused internal or external physical harm to her body which required medical services or resulted in death or disability; (3) that the injury was caused by rapid repetitive motion; (4) that the injury was the major cause of the disability or need for treatment; and (5) that the injury was established by medical evidence supported by objective findings. Malone v. Texarkana Public Schools, 333 Ark. 343, 349-50, 969 S.W.2d 644, 647 (1998). The Commission found that Moody did not prove a compensable shoulder injury because, though her work tasks were repetitive, they did not involve rapid motion. Under our substantial-evidence standard of review, we will not reverse the Commission’s decision unless we are convinced that fair-minded persons with the same set of facts before them could not have reached the conclusion arrived at by the Commission. Hapney v. Rheem Manufacturing Co., 342 Ark. 11, 17, 26 S.W.3d 777, 781 (2000).
+The General Assembly has not established guidelines for what constitutes the “rapid” element of rapid repetitive motion. Malone, 333 Ark. at 349, 969 S.W.2d at 647. But our cases give guidance. In Hapney v. Rheem Manufacturing Co., our supreme court reversed this court, finding that one bend of the neck every twenty seconds was sufficiently rapid to satisfy the statutory requirement. 342 Ark. at 18, 26 S.W.3d at 781. Hapney’s job was to attach metal parts to an air-conditioning unit using six screws per unit. Hapney v. Rheem Manufacturing Co., 67 Ark. App. 8, 10, 992 S.W.2d 151, 152 (1999). She had to bend her neck for each screw and, by completing 316 units during her nine- to ten-hour shift, Hapney bent her neck once every twenty seconds. Hapney, 342 Ark. at 17, 26 S.W.3d at 780. Similarly, assembly-line duties requiring a worker “to ensure one nut to be in place on an average of every fifteen seconds during the majority of her shift” satisfied the rapid-repetitive-motion requirement. High Capacity Products v. Moore, 61 Ark. App. 1, 7, 962 S.W.2d 831, 835 (1998).
+Moody’s movements — completing a shoe every twelve to fourteen seconds — were faster than the movements found to be sufficiently rapid in Hapney and Moore. The ALJ made clear in his opinion, which the Commission adopted, that “the credibility of [Moody] is not disputed regarding her work history.” We are therefore convinced that fair-minded persons confronted with the facts described by Moody could not have arrived at the Commission’s conclusion that her work tasks were not rapid. Hapney, 342 Ark. at 17, 26 S.W.3d at 781.
+Because the Commission’s denial of benefits was based solely on its finding that Moody did not perform her repetitive work rapidly, we reach no conclusion about the compensability of her injury. We reverse and remand for consideration of the other elements of compensability in light of our decision about rapidity.
+Addison Shoe Company argues, as an alternative basis for affirmance, that substantial evidence supports the Commission’s conclusion that Moody failed to prove that her shoulder injury arose out of and in the course of her employment. We reject this argument. The Commission, in adopting the ALJ’s opinion, denied benefits based solely on Moody’s failure to establish rapid repetitive movement. Because the Commission did not base its denial of benefits on Moody’s failure to prove that her injury was work related, we cannot affirm on that basis.
+Reversed and remanded.
+Robbins and Vaught, JJ., agree.
