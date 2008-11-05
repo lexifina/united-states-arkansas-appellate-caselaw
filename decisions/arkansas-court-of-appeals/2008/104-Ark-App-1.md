@@ -1,0 +1,36 @@
+---
+court: "Arkansas Court of Appeals"
+docket: "CA 07-1125"
+decided: "2008-11-05"
+citations: ["104 Ark. App. 1", "289 S.W.3d 123"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gladwin and Heffley, JJ., agree."]
+parties: ["Larry J. HARTSFIELD v. Benjamin W. LESCHER, Ann Madison Lescher, Susan Corcoran Lescher, and Mary Thomas Sneed"]
+source_url: "https://static.case.law/ark-app/104/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6065616
+cites_cases: ["359 S.W.3d 456", "97 Ark. App. 181", "99 Ark. App. 286", "Ark. Code Ann. § 28-52-103"]
+---
+
+# Hartsfield v. Lescher
+
+## Majority (Josephine Linker Hart, Judge.)
+
+Josephine Linker Hart, Judge.
+Larry J. Hartsfield, a licensed attorney, appeals from an order of the Cross County Probate Court sanctioning him for his failure to timely file an accounting. Hartsfield had been ordered to file an accounting on February 14, 2007, and had been given additional time to prepare it on May 1, 2007. On appeal, he argues that the probate court erred in awarding an attorney’s fee and compensation for missed work and travel expenses incurred by the personabrepresentative and a witness. We affirm.
+Hartsfield served as Trustee of the George Wright Lescher Trust during the lives of the four beneficiaries. The last beneficiary, George Hamilton Lescher, died on April 17, 2003. On June 17, 2003, Hartsfield petitioned to have Lescher’s holographic will, which purported to devise all of Lescher’s “things” to Hartsfield, admitted to probate and to have himself named as personal representative.
+On May 27, 2004, the appellees, Benjamin W. Lescher, Ann Madison Lescher, Susan Corcoran Lescher, and Mary Thomas Sneed, the children of the decedent, petitioned to have the will set aside and Hartsfield removed as personal representative. In their petition, they also asked the probate court to order Hartsfield “to provide a detailed accounting of all property and funds he has received and distributed since the decedent’s death” as well as an accounting for the time he served as Trustee of the George Wright Lescher Trust. After a hearing, on February 7, 2006, the probate court entered an order setting aside the holographic will, finding that the decedent lacked testamentary capacity and that the will was a product of Hartsfield’s “undue influence.” The order also removed Hartsfield as personal representative of the estate. The order specifically reserved ruling on the request for an accounting of the George Wright Lescher Trust.
+Hartsfield filed a notice of appeal of this order, but failed to perfect his appeal when he did not timely file the transcript. After a hearing, the probate court entered its February 14, 2007, order requiring that Hartsfield file an accounting within forty-five days of all assets and funds that he had administered since he was appointed Trustee of the George Wright Lescher Trust. On March 21, 2007, Hartsfield was granted additional time to file the accounting, and the probate court set a review hearing for June 27, 2007.
+At the June 27, 2007, review hearing, Hartsfield asserted for the first time that the probate court did not have jurisdiction to order an accounting for the time he served as Trustee of the George Wright Lescher Trust. The trial court found merit in his assertion. However, Hartsfield also conceded that he failed to file an accounting of the estate as was required of a personal representative, asserting that he was “not familiar with the Probate Code with respect to the filing of an accounting.”
+The probate court gave Hartsfield an additional thirty days to submit an accounting. The probate court awarded attorney fees to the estate; compensation to a witness, Benjamin Lescher, for lost earnings engendered by his having to attend the hearing; and travel expenses and lost earnings to the personal representative, Todd Sneed.
+On appeal, Hartsfield argues that the probate court erred in awarding attorney’s fees and expenses because he prevailed on the jurisdiction issue, which he argues can be raised at any time. He contends that the sanctions failed to comport with the requirements of Rule 54(d) and (e) of the Arkansas Rules of Civil Procedure. Hartsfield asserts that “there is no statute or rule that even allows attorney fees to be awarded under these circumstances,” the reimbursement provided to Lescher and Sneed did not qualify as “costs” under the rule, the award of fees was made without the filing of a proper motion, and he was not given a hearing to contest the amount of the award. We find these arguments unpersuasive.
+The decision to award attorney’s fees and the amount awarded are reviewed under an abuse-of-discretion standard. Calvert v. Estate of Calvert, 99 Ark. App. 286, 359 S.W.3d 456 (2007). Under Arkansas law, attorney’s fees are not allowed except where expressly provided for by statute. Id.
+Contrary to Hartsfield’s characterization of the fees and costs awarded, it was not an award made to the prevailing party, but rather a sanction levied against him for his failure to produce the accounting as representative as ordered by the probate court. Such a sanction is expressly provided for by statute. Arkansas Code Annotated section 28-52-103(c)(2) (Repl. 2004) states:
+The court shall have power to issue attachments and all other process necessary to compel the settlement of accounts by personal representatives, to enforce the judgments and orders of the court, and may assess against the personal representative any costs incurred by reason of his or her neglect of duty.
+Accordingly, we hold that the award of attorney fees and expenses in this case was not an award of fees and costs pursuant to Arkansas Rule of Civil Procedure 54, but rather a tool of enforcement made available to the probate court through the probate code. Ark. Code Ann. § 28-52-103(c)(2). Likewise, the reimbursement for lost earnings and travel expenses was not related to the type of “costs” contemplated by Rule 54. Consequently, a fee petition, as contemplated by Rule 54(e), was not necessary, nor was another hearing. Hartsfield was made aware that the trial court intended to make an award of attorney fees and expenses to punish him for his neglect of his duty as personal representative.
+Whether Hartsfield was a “prevailing party” due to his assertion that the trial court did not have jurisdiction to order him to render an accounting for his time as Trustee of the George Wright Lescher Trust does not factor into our analysis. As discussed previously, the probate court did not award fees and costs to the “prevailing party”; therefore that argument is simply a red herring.
+Finally, we note that when the probate court announced its intention to sanction Hartsfield, Hartsfield was made aware of the manner in which the request for fees and expenses were to be submitted to the probate court, and he voiced no objection. We will not consider arguments raised for the first time on appeal. Dunaway v. Garland County Fair & Livestock Show Ass’n, Inc., 97 Ark. App. 181, 245 S.W.3d 678 (2006).
+Affirmed.
+Gladwin and Heffley, JJ., agree.
